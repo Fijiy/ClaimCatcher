@@ -1,0 +1,312 @@
+{
+  "frozenAt": "2026-10-27T03:11:27.965Z",
+  "refilteredAt": "2026-10-27T03:34:37.335Z",
+  "id": "pf/chris-murphy/airstrikes-regime-change-ground-troops-iran",
+  "said": "2026-03-01",
+  "queries": {
+    "fact": "There is no history … that shows an air campaign alone will result in positive regime change. In fact, there’s not a single example of it in the entirety of American history.",
+    "claim": "There is no history … that shows an air campaign alone will result in positive regime change. In fact, there’s not a single example of it in the entirety of American history. Chris Murphy"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1642.205042000045,
+      "results": 9
+    },
+    {
+      "query": "claim",
+      "ms": 2389.4799160000402,
+      "results": 9
+    },
+    {
+      "query": "balance",
+      "ms": 176.3811660000065,
+      "results": 3
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Do airstrikes alone produce regime change? Experts say ...",
+      "url": "https://www.poynter.org/fact-checking/2026/chris-murphy-face-the-nation-airstrikes-regime-change/",
+      "domain": "poynter.org",
+      "published": "2026-03-05",
+      "publishedAsGiven": "Mar 5, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Have missile strikes alone brought about regime change?",
+      "url": "https://politifact.com/factchecks/2026/mar/02/chris-murphy/airstrikes-regime-change-ground-troops-iran/",
+      "domain": "politifact.com",
+      "published": "2026-03-02",
+      "publishedAsGiven": "Mar 2, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "There's not a single example in the entirety of America…",
+      "url": "https://thebaseline.report/check/air-campaign-alone-regime-change",
+      "domain": "thebaseline.report",
+      "published": "2026-09-08",
+      "publishedAsGiven": "Sep 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Murphy On Face the Nation: It Won't Be Trump's Kids That ...",
+      "url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-on-face-the-nation-it-wont-be-trumps-kids-that-die-for-this-war-of-choice-with-iran",
+      "domain": "murphy.senate.gov",
+      "published": "2026-03-01",
+      "publishedAsGiven": "Mar 1, 2026",
+      "snippet": "Mar 1, 2026 — ... American lives at risk: “ There is no history . There is no experience that shows an air campaign alone will result in positive regime change . In ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "militarily, the americans can act with impunity. globally, there's ...",
+      "url": "https://www.facebook.com/ianbremmer/posts/militarily-the-americans-can-act-with-impunityglobally-theres-no-one-remotely-cl/1470111784479954/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Airpower's track record in attempting regime change | 2026",
+      "url": "https://ssp.mit.edu/publications/2026/airpowers-track-record-in-attempting-regime-change",
+      "domain": "ssp.mit.edu",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "While the U.S. can easily strike Iran, it's far from clear what ...",
+      "url": "https://www.facebook.com/MaxBootAuthorPage/posts/while-the-us-can-easily-strike-iran-its-far-from-clear-what-us-bombs-can-accompl/1488419759317435/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Airstrikes alone unlikely to result in regime change in Iran, ...",
+      "url": "https://www.cbsnews.com/news/iran-airstrikes-regime-change-robert-pape/",
+      "domain": "cbsnews.com",
+      "published": "2026-03-06",
+      "publishedAsGiven": "Mar 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Why bombing alone has never toppled a regime - The Blogs",
+      "url": "https://blogs.timesofisrael.com/why-bombing-alone-has-never-toppled-a-regime/",
+      "domain": "blogs.timesofisrael.com",
+      "published": "2026-03-04",
+      "publishedAsGiven": "Mar 4, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Do airstrikes alone produce regime change? Experts say ...",
+      "url": "https://www.poynter.org/fact-checking/2026/chris-murphy-face-the-nation-airstrikes-regime-change/",
+      "domain": "poynter.org",
+      "published": "2026-03-05",
+      "publishedAsGiven": "Mar 5, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Murphy On Face the Nation: It Won't Be Trump's Kids That ...",
+      "url": "https://www.murphy.senate.gov/newsroom/press-releases/murphy-on-face-the-nation-it-wont-be-trumps-kids-that-die-for-this-war-of-choice-with-iran",
+      "domain": "murphy.senate.gov",
+      "published": "2026-03-01",
+      "publishedAsGiven": "Mar 1, 2026",
+      "snippet": "Mar 1, 2026 — ... American lives at risk: “ There is no history . There is no experience that shows an air campaign alone will result in positive regime change . In ... Read more"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Have missile strikes alone brought about regime change?",
+      "url": "https://politifact.com/factchecks/2026/mar/02/chris-murphy/airstrikes-regime-change-ground-troops-iran/",
+      "domain": "politifact.com",
+      "published": "2026-03-02",
+      "publishedAsGiven": "Mar 2, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Sen. Chris Murphy (D-CT) said the Trump administration's air ...",
+      "url": "https://www.facebook.com/FaceTheNation/videos/sen-chris-murphy-d-ct-said-the-trump-administrations-air-campaign-on-iran-is-des/2008989846322236/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "militarily, the americans can act with impunity. globally, there's ...",
+      "url": "https://www.facebook.com/ianbremmer/posts/militarily-the-americans-can-act-with-impunityglobally-theres-no-one-remotely-cl/1470111784479954/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" ...",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-03-01-2026/",
+      "domain": "cbsnews.com",
+      "published": "2026-03-01",
+      "publishedAsGiven": "Mar 1, 2026",
+      "snippet": "Mar 1, 2026 — But, second, there is no history , there is no experience that shows an air campaign alone will result in positive regime change . In fact ... Read more"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "U.S. Lawmakers Offer Conflicting Views on Iran Military ...",
+      "url": "https://beyondbordersnews.com/u-s-lawmakers-offer-conflicting-views-on-iran-military-strikes/",
+      "domain": "beyondbordersnews.com",
+      "published": "2026-03-02",
+      "publishedAsGiven": "Mar 2, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "In the weeks leading up to President Donald Trump's ...",
+      "url": "https://www.facebook.com/cnn/posts/in-the-weeks-leading-up-to-president-donald-trumps-decision-to-strike-iran-and-i/1299871385338843/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "CT Lawmakers Warn Iran Strikes Without Congressional ...",
+      "url": "https://ctnewsjunkie.com/2026/03/06/ct-lawmakers-warn-iran-strikes-without-congressional-approval-could-lead-to-ground-war/",
+      "domain": "ctnewsjunkie.com",
+      "published": "2026-03-06",
+      "publishedAsGiven": "Mar 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Text of Obama's Speech on the Middle East",
+      "url": "https://www.wsj.com/articles/BL-WB-29934?eafs_enabled=false",
+      "domain": "wsj.com",
+      "published": "2011-05-19",
+      "publishedAsGiven": "May 19, 2011",
+      "snippet": "Here is the White House transcript of President Barack Obama's remarks on the Middle East and North Africa as delivered at the State ..."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Iraq retreats, but for how long?",
+      "url": "https://www.csmonitor.com/1998/1116/111698.intl.intl.3.html",
+      "domain": "csmonitor.com",
+      "published": "1998-11-16",
+      "publishedAsGiven": "Nov 16, 1998",
+      "snippet": "In the latest example of high-stakes Gulf brinkmanship, Iraq may have conceded just enough to forestall a punishing US-led bombing campaign - ..."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "USA TODAY Network Style Guide",
+      "url": "https://content-static.usatoday.com/styleguide/USA_TODAY_NETWORK_Style_Guide_Final.pdf",
+      "domain": "content-static.usatoday.com",
+      "published": "2025-01-20",
+      "publishedAsGiven": "Jan 20, 2025",
+      "snippet": "The purpose of this guide is to provide a service for journalists, teachers, professionals, writers, students, etc., to enable accuracy and ..."
+    }
+  ],
+  "returned": 21,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 2,
+    "after-said": 5,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 6
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:11:22.593Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" ...",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-03-01-2026/",
+      "domain": "cbsnews.com",
+      "snippet": "Mar 1, 2026 — But, second, there is no history , there is no experience that shows an air campaign alone will result in positive regime change . In fact ... Read more",
+      "published": "2026-03-01",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "CBS News",
+        "page": "https://mediabiasfactcheck.com/cbs-news/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Text of Obama's Speech on the Middle East",
+      "url": "https://www.wsj.com/articles/BL-WB-29934?eafs_enabled=false",
+      "domain": "wsj.com",
+      "snippet": "Here is the White House transcript of President Barack Obama's remarks on the Middle East and North Africa as delivered at the State ...",
+      "published": "2011-05-19",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Wall Street Journal",
+        "page": "https://mediabiasfactcheck.com/wall-street-journal/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Iraq retreats, but for how long?",
+      "url": "https://www.csmonitor.com/1998/1116/111698.intl.intl.3.html",
+      "domain": "csmonitor.com",
+      "snippet": "In the latest example of high-stakes Gulf brinkmanship, Iraq may have conceded just enough to forestall a punishing US-led bombing campaign - ...",
+      "published": "1998-11-16",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Christian Science Monitor",
+        "page": "https://mediabiasfactcheck.com/christian-science-monitor/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "USA TODAY Network Style Guide",
+      "url": "https://content-static.usatoday.com/styleguide/USA_TODAY_NETWORK_Style_Guide_Final.pdf",
+      "domain": "content-static.usatoday.com",
+      "snippet": "The purpose of this guide is to provide a service for journalists, teachers, professionals, writers, students, etc., to enable accuracy and ...",
+      "published": "2025-01-20",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "USA Today",
+        "page": "https://mediabiasfactcheck.com/usa-today-2/"
+      },
+      "weight": "full",
+      "n": 4
+    }
+  ]
+}

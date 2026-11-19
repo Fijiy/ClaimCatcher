@@ -1,0 +1,288 @@
+{
+  "frozenAt": "2026-10-27T03:12:34.398Z",
+  "refilteredAt": "2026-10-27T03:34:52.655Z",
+  "id": "pf/tammy-duckworth/save-america-act-voter-id-drivers-licenses-real-id",
+  "said": "2026-03-18",
+  "queries": {
+    "fact": "9% of American citizens don’t have the identification that the SAVE act requires to vote. Almost 1 in 10.",
+    "claim": "9% of American citizens don’t have the identification that the SAVE act requires to vote. Almost 1 in 10. Tammy Duckworth"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2085.1778749999357,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1467.796750000096,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "The SAVE Act: Overview and Facts",
+      "url": "https://www.americanprogress.org/article/the-save-act-overview-and-facts/",
+      "domain": "americanprogress.org",
+      "published": "2025-01-31",
+      "publishedAsGiven": "Jan 31, 2025",
+      "snippet": "The legislation would invert the responsibility to verify a person's eligibility and citizenship status from election officials and the ..."
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "The SAVE Act: What every American Voter Needs to Know",
+      "url": "https://www.vote.org/save-act/",
+      "domain": "vote.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Millions of Americans Don't Have Documents Proving Their ...",
+      "url": "https://www.brennancenter.org/our-work/analysis-opinion/millions-americans-dont-have-documents-proving-their-citizenship-readily",
+      "domain": "brennancenter.org",
+      "published": "2024-06-11",
+      "publishedAsGiven": "Jun 11, 2024",
+      "snippet": "Requiring Americans to prove their citizenship to register to vote would exclude millions of citizens from the political process."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "\"9% of American *citizens* don't have the identification that ...",
+      "url": "https://x.com/SenDuckworth/status/2034272569373684037",
+      "domain": "x.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Six Things to Know About the SAVE America Act",
+      "url": "https://bipartisanpolicy.org/article/five-things-to-know-about-the-save-act/",
+      "domain": "bipartisanpolicy.org",
+      "published": "2026-07-17",
+      "publishedAsGiven": "Jul 17, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "The SAVE Act would require voters to show a passport or ...",
+      "url": "https://www.facebook.com/BrennanCenter/videos/the-save-act-would-require-voters-to-show-a-passport-or-birth-certificate-to-reg/1686614486114408/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "The SAVE Act Threatens All Voters",
+      "url": "https://campaignlegal.org/sites/default/files/2026-01/Updated%20CLC%20Fact%20Sheet%20on%20the%20SAVE%20Act%201-29-26.pdf",
+      "domain": "campaignlegal.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "RESEARCH: Is It Hard to Get an ID? Yes, It Can Be.",
+      "url": "https://voteriders.org/article/voteriders-research/",
+      "domain": "voteriders.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "The SAVE Act: How a Proof of Citizenship Requirement ...",
+      "url": "https://responsivegov.org/research/the-save-act-how-a-proof-of-citizenship-requirement-would-impact-elections/",
+      "domain": "responsivegov.org",
+      "published": "2025-01-30",
+      "publishedAsGiven": "Jan 30, 2025",
+      "snippet": "State election officials must also use federal and state databases to retroactively audit existing voter rolls, removing any registered voters ..."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Safeguard American Voter Eligibility Act (“SAVE Act”) (HR ...",
+      "url": "https://democrats-cha.house.gov/sites/evo-subsites/democrats-cha.house.gov/files/evo-media-document/SAVE%20Act%20One%20Pager.pdf",
+      "domain": "democrats-cha.house.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "\"9% of American *citizens* don't have the identification that ...",
+      "url": "https://x.com/SenDuckworth/status/2034272569373684037",
+      "domain": "x.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Do nearly 1 in 10 Americans lack the ID the SAVE America ...",
+      "url": "https://politifact.com/factchecks/2026/mar/20/tammy-duckworth/save-america-act-voter-id-drivers-licenses-real-id/",
+      "domain": "politifact.com",
+      "published": "2026-03-20",
+      "publishedAsGiven": "Mar 20, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "9% of American citizens don't have the identification that the ...",
+      "url": "https://thebaseline.report/check/duckworth-9-percent-lack-save-act-id",
+      "domain": "thebaseline.report",
+      "published": "2026-09-08",
+      "publishedAsGiven": "Sep 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Only some driver's licenses usable under SAVE America Act",
+      "url": "https://apnews.com/article/fact-check-save-act-identification-register-vote-d11d41b59f943bb72bcdca2d781293b7",
+      "domain": "apnews.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "Mar 27, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Tammy Duckworth - Do nearly 1 in 10 Americans lack the ID ...",
+      "url": "https://wnymedia.net/2026/03/20/tammy-duckworth-do-nearly-1-in-10-americans-lack-the-id-the-save-america-act-would-require-to-vote/",
+      "domain": "wnymedia.net",
+      "published": "2026-03-20",
+      "publishedAsGiven": "Mar 20, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Search",
+      "url": "https://politifact.com/search/?q=save",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "9% of American *citizens* don't have the identification that ...",
+      "url": "https://www.facebook.com/davidrosslawn/posts/9-of-american-citizens-dont-have-the-identification-that-the-save-act-requires-t/1372816327984234/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Democrats opposing the Trump-backed SAVE America Act ...",
+      "url": "https://www.instagram.com/p/DWTz6_kFtQb/",
+      "domain": "instagram.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "H.R.22 - 119th Congress (2025-2026): SAVE Act",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/22",
+      "domain": "congress.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Senate Session",
+      "url": "https://www.c-span.org/congress/?chamber=senate&date=2026-03-18",
+      "domain": "c-span.org",
+      "published": "2026-03-18",
+      "publishedAsGiven": "Mar 18, 2026",
+      "snippet": "THIS ISN'T A VOTER I.D. BILL. THAT'S JUST UNTRUE. IT'S A SPECIFIC KIND OF I.D. THAT'S REQUIRED, WHICH MILLIONS OF AMERICAN CITIZENS DON'T HAVE."
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 0,
+    "after-said": 3,
+    "maybe-after-said": 4,
+    "after-said-link-date": 0,
+    "undated": 6
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:12:30.844Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "The SAVE Act: Overview and Facts",
+      "url": "https://www.americanprogress.org/article/the-save-act-overview-and-facts/",
+      "domain": "americanprogress.org",
+      "snippet": "The legislation would invert the responsibility to verify a person's eligibility and citizenship status from election officials and the ...",
+      "published": "2025-01-31",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "L",
+        "reliability": "high",
+        "name": "Center for American Progress",
+        "page": "https://mediabiasfactcheck.com/center-for-american-progress/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Senate Session",
+      "url": "https://www.c-span.org/congress/?chamber=senate&date=2026-03-18",
+      "domain": "c-span.org",
+      "snippet": "THIS ISN'T A VOTER I.D. BILL. THAT'S JUST UNTRUE. IT'S A SPECIFIC KIND OF I.D. THAT'S REQUIRED, WHICH MILLIONS OF AMERICAN CITIZENS DON'T HAVE.",
+      "published": "2026-03-18",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Washington Journal",
+        "page": "https://mediabiasfactcheck.com/washington-journal/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Millions of Americans Don't Have Documents Proving Their ...",
+      "url": "https://www.brennancenter.org/our-work/analysis-opinion/millions-americans-dont-have-documents-proving-their-citizenship-readily",
+      "domain": "brennancenter.org",
+      "snippet": "Requiring Americans to prove their citizenship to register to vote would exclude millions of citizens from the political process.",
+      "published": "2024-06-11",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    },
+    {
+      "title": "The SAVE Act: How a Proof of Citizenship Requirement ...",
+      "url": "https://responsivegov.org/research/the-save-act-how-a-proof-of-citizenship-requirement-would-impact-elections/",
+      "domain": "responsivegov.org",
+      "snippet": "State election officials must also use federal and state databases to retroactively audit existing voter rolls, removing any registered voters ...",
+      "published": "2025-01-30",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 4
+    }
+  ]
+}

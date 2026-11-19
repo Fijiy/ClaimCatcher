@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Fixture: a debate whose speakers the page can't tell apart</title>
+    <!-- Described the way YouTube's watch page describes a video: Open Graph
+         and meta tags, and schema.org VideoObject microdata with its author
+         (the channel). The title names both debaters, so the page can't say
+         who "I" is; the description names them in full, and the moderator. -->
+    <meta property="og:title" content="Lopez vs. Hart: the second governor debate" />
+    <meta
+      name="description"
+      content="Democratic nominee Maria Lopez and Republican nominee Daniel Hart meet in Columbus. Moderated by Ann Kerr."
+    />
+  </head>
+  <body>
+    <h1>Debate (fixture)</h1>
+    <div itemscope itemtype="http://schema.org/VideoObject">
+      <meta itemprop="name" content="Lopez vs. Hart: the second governor debate" />
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <link itemprop="name" content="Ohio Public Media" />
+      </span>
+    </div>
+    <video id="video" src="/media/tone.wav" controls width="320">
+      <track kind="captions" src="/who-said.vtt" srclang="en" label="English" />
+    </video>
+  </body>
+</html>

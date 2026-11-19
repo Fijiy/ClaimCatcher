@@ -1,0 +1,106 @@
+{
+  "case_id": "abc-2024-harris-afghanistan-camp-david#2",
+  "queries": {
+    "A": "As of today, there is not one member of the United States military who is in active duty in a combat zone in any war zone around the world, the first time this century. Harris",
+    "B": "US troops deployed in designated combat zones 2024 Iraq Syria"
+  },
+  "results": [
+    {
+      "q": "B",
+      "rank": 1,
+      "title": "More than 4,500 US troops are spending Christmas in Iraq and Syria, according to Pentagon figures",
+      "url": "https://taskandpurpose.com/news/pentagon-iraq-syria-troops/",
+      "domain": "taskandpurpose.com",
+      "published": "2024-12-23",
+      "snippet": "But Air Force Maj. Gen. Pat Ryder, a Pentagon spokesman, said last week that the true number of US troops in Syria is close to 2,000. Monday, Ryder confirmed that more than 2,500 U.S. troops are deployed to Iraq, although he did not specify the exact number.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "Pentagon quietly increases number of US troops in Iraq, Syria",
+      "url": "https://hutchpost.com/posts/fac81c5e-0ba1-4739-9822-8752bed90f7f",
+      "domain": "hutchpost.com",
+      "published": "2024-12-26",
+      "snippet": "Pentagon quietly increases number of US troops in Iraq, Syria",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "Pentagon quietly increases number of US troops in Iraq, Syria",
+      "url": "https://salinapost.com/posts/fac81c5e-0ba1-4739-9822-8752bed90f7f",
+      "domain": "salinapost.com",
+      "published": "2024-12-26",
+      "snippet": "Pentagon quietly increases number of US troops in Iraq, Syria",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 5,
+      "title": "DCPD202401055",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202401055/html/DCPD-202401055.htm",
+      "domain": "govinfo.gov",
+      "published": null,
+      "snippet": "Since August 2014, these operations have included targeting the Islamic State of Iraq and Syria (ISIS), also known as the Islamic State of Iraq and the Levant (ISIL), which was formerly known as al-Qa'ida in Iraq. In support of these and other overseas operations, the United States has deployed combat-equipped forces to several locations in the United States Central, European, Africa, Southern, and Indo-Pacific Commands' areas of responsibility.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://www.foxnews.com/politics/military-experts-suggest-harris-claim-no-us-soldiers-combat-zones-misleading.amp",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://nationalreview.com/corner/harris-was-completely-wrong-to-say-that-there-are-no-americans-in-combat-zones-today/amp",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.foxnews.com/politics/video-us-troops-combat-zone.amp",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://scheerpost.com/2024/09/11/harris-lies-in-debate-with-trump-by-claiming-no-us-troops-are-deployed-in-combat-zones/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://kgw.com/article/news/verify/kamala-harris/kamala-harris-claim-no-active-duty-us-troops-in-any-war-zone-needs-context/536-8e00529b-63f8-454f-a3b0-9c0d9e8317d8",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.wlrn.org/government-politics/2024-09-13/politifact-fl-why-harris-debate-remarks-about-u-s-military-in-combat-zones-is-misleading",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://newswest9.com/article/news/verify/kamala-harris/kamala-harris-claim-no-active-duty-us-troops-in-any-war-zone-needs-context/536-8e00529b-63f8-454f-a3b0-9c0d9e8317d8",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://nysun.com/article/harris-insults-the-troops",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "A",
+      "url": "https://www.mediaite.com/media/tv/we-do-every-single-day-democrat-gov-corrects-false-kamala-harris-debate-claim-about-u-s-troops-in-combat-zones/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.politifact.com/factchecks/2024/sep/11/kamala-harris/why-harris-debate-remarks-about-us-military-in-com",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "B",
+      "url": "https://taskandpurpose.com/news/pentagon-iraq-syria-troops.md",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    }
+  ]
+}

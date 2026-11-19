@@ -1,0 +1,254 @@
+{
+  "frozenAt": "2026-10-27T03:05:18.598Z",
+  "refilteredAt": "2026-10-27T03:33:07.542Z",
+  "id": "pf/us-trade-representative/ice-cream-trade-imports-exports-biden-trump",
+  "said": "2025-07-20",
+  "queries": {
+    "fact": "America had a trade surplus in ice cream in 2020 under President Trump’s leadership, but that surplus turned into a trade deficit of $40.6 million under President Biden’s watch.",
+    "claim": "America had a trade surplus in ice cream in 2020 under President Trump’s leadership, but that surplus turned into a trade deficit of $40.6 million under President Biden’s watch. U.S. Trade Representative"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2614.3972080000094,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2937.815042000002,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 1307.7311249999984,
+      "results": 0
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Fact check: Did US go from ice cream trade surplus to ...",
+      "url": "https://www.aljazeera.com/economy/2025/7/25/fact-check-did-us-go-from-ice-cream-trade-surplus-to-deficit-under-biden",
+      "domain": "aljazeera.com",
+      "published": "2025-07-25",
+      "publishedAsGiven": "Jul 25, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "SCOOP: America had a trade surplus in ice cream in 2020 ...",
+      "url": "https://x.com/USTradeRep/status/1946998620034674800",
+      "domain": "x.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Trump administration says Biden oversaw ice cream trade deficit",
+      "url": "https://www.wral.com/archive/22105437/",
+      "domain": "wral.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Did the US go from an ice cream trade surplus to deficit? ...",
+      "url": "https://politifact.com/factchecks/2025/jul/24/us-trade-representative/ice-cream-trade-imports-exports-biden-trump/",
+      "domain": "politifact.com",
+      "published": "2025-07-24",
+      "publishedAsGiven": "Jul 24, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "U.S. Trade Representative",
+      "url": "https://politifact.com/personalities/us-trade-representative/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Trump administration says Biden oversaw ice cream trade deficit",
+      "url": "https://www.youtube.com/watch?v=ABTeVzvPhnI",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Stand up for the facts!",
+      "url": "https://www.politifact.com/search/factcheck/?q=surpluses",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "icecream #trade #biden #trump #factcheck #usa #economy ...",
+      "url": "https://www.linkedin.com/posts/politifact_icecream-trade-biden-activity-7358844403760701441-VqWv",
+      "domain": "linkedin.com",
+      "published": "2025-08-06",
+      "publishedAsGiven": "Aug 6, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "\"Oh no a $40M trade deficit in ice cream, how will the $30T ...",
+      "url": "https://x.com/JosephPolitano/status/1948075370151829970",
+      "domain": "x.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Trump blames Biden for the agricultural trade deficit. It's not ...",
+      "url": "https://apnews.com/article/fact-check-trump-agriculture-surplus-deficit-china-trade-fd8c1c08c213d221855ab32544151ef1",
+      "domain": "apnews.com",
+      "published": "2025-12-10",
+      "publishedAsGiven": "Dec 10, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "SCOOP: America had a trade surplus in ice cream in 2020 ...",
+      "url": "https://x.com/USTradeRep/status/1946998620034674800",
+      "domain": "x.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Ice cream deficit? Trump administration says Biden ...",
+      "url": "https://www.wral.com/archive/22105355/",
+      "domain": "wral.com",
+      "published": "2025-08-01",
+      "publishedAsGiven": "Aug 1, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Trump administration says Biden oversaw ice cream trade deficit",
+      "url": "https://www.wral.com/archive/22105437/",
+      "domain": "wral.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Did the US go from an ice cream trade surplus to deficit? ...",
+      "url": "https://politifact.com/factchecks/2025/jul/24/us-trade-representative/ice-cream-trade-imports-exports-biden-trump/",
+      "domain": "politifact.com",
+      "published": "2025-07-24",
+      "publishedAsGiven": "Jul 24, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Agriculture",
+      "url": "https://politifact.com/agriculture/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Trump administration says Biden oversaw ice cream trade deficit",
+      "url": "https://www.youtube.com/watch?v=ABTeVzvPhnI",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "This week, the Everybody's Business podcast hits the streets to ...",
+      "url": "https://www.facebook.com/bloombergbusiness/videos/the-price-of-everything-is-skyrocketing-including-ice-cream/1041426428448480/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Fact-checks (1204)",
+      "url": "https://politifact.com/search/factcheck/?page=2&q=%27cave%27",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "America's trade gap soared under Trump, final figures show",
+      "url": "https://www.politico.com/news/2021/02/05/2020-trade-figures-trump-failure-deficit-466116",
+      "domain": "politico.com",
+      "published": "2021-02-05",
+      "publishedAsGiven": "Feb 5, 2021",
+      "snippet": "America's trade gap soared under Trump, final figures show. As Trump tamped down on imports from China, U.S. companies turned to other foreign ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Fact check: Has US trade deficit hit a record under Trump, ...",
+      "url": "https://www.houstonchronicle.com/politics/us/article/Fact-check-Has-US-trade-deficit-hit-a-record-15560382.php",
+      "domain": "houstonchronicle.com",
+      "published": "2020-09-14",
+      "publishedAsGiven": "Sep 14, 2020",
+      "dropped": "fact-check-words"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 7,
+    "fact-check-words": 4,
+    "after-said": 2,
+    "maybe-after-said": 5,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:05:13.046Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "America's trade gap soared under Trump, final figures show",
+      "url": "https://www.politico.com/news/2021/02/05/2020-trade-figures-trump-failure-deficit-466116",
+      "domain": "politico.com",
+      "snippet": "America's trade gap soared under Trump, final figures show. As Trump tamped down on imports from China, U.S. companies turned to other foreign ...",
+      "published": "2021-02-05",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Politico",
+        "page": "https://mediabiasfactcheck.com/politico/"
+      },
+      "weight": "full",
+      "n": 1
+    }
+  ]
+}

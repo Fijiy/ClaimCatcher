@@ -1,0 +1,273 @@
+{
+  "frozenAt": "2026-10-27T03:06:23.455Z",
+  "refilteredAt": "2026-10-27T03:33:22.559Z",
+  "id": "pf/kristi-noem/immigrant-population-drop-1-6-million",
+  "said": "2025-08-19",
+  "queries": {
+    "fact": "U.S. Bureau of Labor Statistics statistics show, We have 1.6 million illegal aliens that have gone home voluntarily.",
+    "claim": "U.S. Bureau of Labor Statistics statistics show, We have 1.6 million illegal aliens that have gone home voluntarily. Kristi Noem"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1134.2808330000262,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2003.9352080000099,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "DHS Removes More than Half a Million Illegal Aliens From ...",
+      "url": "https://www.dhs.gov/news/2025/10/27/dhs-removes-more-half-million-illegal-aliens-us",
+      "domain": "dhs.gov",
+      "published": "2025-10-27",
+      "publishedAsGiven": "Oct 27, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Fact-checking Kristi Noem that 1.6 million immigrants 'have ...",
+      "url": "https://politifact.com/factchecks/2025/sep/02/kristi-noem/immigrant-population-drop-1-6-million/",
+      "domain": "politifact.com",
+      "published": "2025-09-02",
+      "publishedAsGiven": "Sep 2, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "The Curious Debate Over 'Self-Deportation'",
+      "url": "https://cis.org/Arthur/Curious-Debate-Over-SelfDeportation",
+      "domain": "cis.org",
+      "published": "2025-08-27",
+      "publishedAsGiven": "Aug 27, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Noem says 1.6 million immigrants 'voluntarily' left the U.S.",
+      "url": "https://www.youtube.com/watch?v=cHrizOXCnLQ",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Measuring the Number of Unauthorized Immigrants in ...",
+      "url": "https://www.ssa.gov/policy/docs/ssb/v85n2/v85n2p1.html",
+      "domain": "ssa.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "The Two Million Deportation Myth Explained",
+      "url": "https://cmsny.org/two-million-deportation-myth-ice-enforcement-distorting-data/",
+      "domain": "cmsny.org",
+      "published": "2026-01-12",
+      "publishedAsGiven": "Jan 12, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Mass Deportation",
+      "url": "https://www.americanimmigrationcouncil.org/report/mass-deportation/",
+      "domain": "americanimmigrationcouncil.org",
+      "published": "2024-10-02",
+      "publishedAsGiven": "Oct 2, 2024",
+      "snippet": "In recent months, leading politicians and policymakers have renewed calls for mass deportations of immigrants from the United States."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "DHS drops bombshell, deports 1.6M migrants",
+      "url": "https://www.youtube.com/watch?v=affUJpyVbZs",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "The Biden Administration Has Brought an Additional 6.7 ...",
+      "url": "https://www.congress.gov/118/meeting/house/116759/witnesses/HMTG-118-IF02-Wstate-RectorR-20240117.pdf",
+      "domain": "congress.gov",
+      "published": "2024-01-17",
+      "publishedAsGiven": "Jan 17, 2024",
+      "snippet": "As a group, illegal aliens impose a net fiscal cost (government benefits received minus taxes paid) of $110 billion per year on U.S. taxpayers."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Illegal immigration to the United States",
+      "url": "https://en.wikipedia.org/wiki/Illegal_immigration_to_the_United_States",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Secretary Noem Announces 1.6 Million Illegal Aliens Have ...",
+      "url": "https://www.dhs.gov/news/2025/08/14/secretary-noem-announces-16-million-illegal-aliens-have-left-us",
+      "domain": "dhs.gov",
+      "published": "2025-08-14",
+      "publishedAsGiven": "Aug 14, 2025",
+      "snippet": "DHS Secretary Kristi Noem announced that in her first 200 days as Secretary, the U.S. has seen a decline of approximately1.6 million illegal ..."
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact-checking Kristi Noem that 1.6 million immigrants 'have ...",
+      "url": "https://politifact.com/factchecks/2025/sep/02/kristi-noem/immigrant-population-drop-1-6-million/",
+      "domain": "politifact.com",
+      "published": "2025-09-02",
+      "publishedAsGiven": "Sep 2, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "'Self-deported': Kristi Noem says over one million migrants ...",
+      "url": "https://www.youtube.com/watch?v=qk-Ar9pqm5Q",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Homeland Security Secretary Kristi Noem said last week ...",
+      "url": "https://www.facebook.com/CBSSacramento/posts/homeland-security-secretary-kristi-noem-said-last-week-that-the-number-of-unauth/1177043834457599/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "The Curious Debate Over 'Self-Deportation'",
+      "url": "https://cis.org/Arthur/Curious-Debate-Over-SelfDeportation",
+      "domain": "cis.org",
+      "published": "2025-08-27",
+      "publishedAsGiven": "Aug 27, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Have 1.6 million undocumented immigrants left the U.S. ...",
+      "url": "https://www.cbsnews.com/news/undocumented-immigrants-left-us-2025-data-estimate/",
+      "domain": "cbsnews.com",
+      "published": "2025-08-21",
+      "publishedAsGiven": "Aug 21, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Noem says 1.6 million immigrants 'voluntarily' left the U.S.",
+      "url": "https://www.youtube.com/watch?v=cHrizOXCnLQ",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Secretary Noem Announces 1.6 Million Illegal Aliens Have ...",
+      "url": "https://www.hstoday.us/subject-matter-areas/border-security/secretary-noem-announces-1-6-million-illegal-aliens-have-left-the-u-s/",
+      "domain": "hstoday.us",
+      "published": "2025-08-20",
+      "publishedAsGiven": "Aug 20, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "DHS Removes More than Half a Million Illegal Aliens From ...",
+      "url": "https://www.dhs.gov/news/2025/10/27/dhs-removes-more-half-million-illegal-aliens-us",
+      "domain": "dhs.gov",
+      "published": "2025-10-27",
+      "publishedAsGiven": "Oct 27, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Fact Check Team: Millions of migrants voluntarily leave US",
+      "url": "https://cbsaustin.com/news/nation-world/fact-check-team-millions-of-migrants-voluntarily-leave-us-department-homeland-security-kristi-noem-immigration-illegal-border-crossings-nationwide-southwest-biden-administration",
+      "domain": "cbsaustin.com",
+      "published": "2025-08-20",
+      "publishedAsGiven": "Aug 20, 2025",
+      "dropped": "fact-check-words"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 1,
+    "after-said": 7,
+    "maybe-after-said": 5,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:06:19.363Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "The Biden Administration Has Brought an Additional 6.7 ...",
+      "url": "https://www.congress.gov/118/meeting/house/116759/witnesses/HMTG-118-IF02-Wstate-RectorR-20240117.pdf",
+      "domain": "congress.gov",
+      "snippet": "As a group, illegal aliens impose a net fiscal cost (government benefits received minus taxes paid) of $110 billion per year on U.S. taxpayers.",
+      "published": "2024-01-17",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Mass Deportation",
+      "url": "https://www.americanimmigrationcouncil.org/report/mass-deportation/",
+      "domain": "americanimmigrationcouncil.org",
+      "snippet": "In recent months, leading politicians and policymakers have renewed calls for mass deportations of immigrants from the United States.",
+      "published": "2024-10-02",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    },
+    {
+      "title": "Secretary Noem Announces 1.6 Million Illegal Aliens Have ...",
+      "url": "https://www.dhs.gov/news/2025/08/14/secretary-noem-announces-16-million-illegal-aliens-have-left-us",
+      "domain": "dhs.gov",
+      "snippet": "DHS Secretary Kristi Noem announced that in her first 200 days as Secretary, the U.S. has seen a decline of approximately1.6 million illegal ...",
+      "published": "2025-08-14",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    }
+  ]
+}

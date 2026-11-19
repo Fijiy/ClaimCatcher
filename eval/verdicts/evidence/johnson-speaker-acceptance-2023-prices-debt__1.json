@@ -1,0 +1,106 @@
+{
+  "case_id": "johnson-speaker-acceptance-2023-prices-debt#1",
+  "queries": {
+    "A": "Prices have increased over 17 percent in the last 2 years Johnson",
+    "B": "consumer price index cumulative increase September 2021 to September 2023"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 4,
+      "title": "Math Journal Price Survey, based on AMS 2008 data",
+      "url": "https://www.math.uni-bielefeld.de/~rehmann/BIB/AMS/Av_Ann_Price_Increase_Factor.html",
+      "domain": "math.uni-bielefeld.de",
+      "published": null,
+      "snippet": "Hence a figure like 1.17(6) says that there was an increase of 17 percent on average each year during the past six years. This is, the overall increase factor in that case is 1.17^6 = 2.57, e.g., prices have more than doubled within the last 6 years.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 5,
+      "title": "Math Journal Price Survey, based on AMS 2008 data",
+      "url": "https://www.math.uni-bielefeld.de/~rehmann/BIB/AMS/Av_Ann_Increase_Factor.html",
+      "domain": "math.uni-bielefeld.de",
+      "published": null,
+      "snippet": "Hence a figure like 1.17(6) says that there was an increase of 17 percent on average each year during the past six years. This is, the overall increase factor in that case is 1.17^6 = 2.57, e.g., prices have more than doubled within the last 6 years.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 6,
+      "title": "Math Journal Price Survey, based on AMS 2008 data",
+      "url": "https://www.math.uni-bielefeld.de/~rehmann/BIB/AMS/Av_Ann_Pages_Increase_Factor.html",
+      "domain": "math.uni-bielefeld.de",
+      "published": null,
+      "snippet": "Hence a figure like 1.17(6) says that there was an increase of 17 percent on average each year during the past six years. This is, the overall increase factor in that case is 1.17^6 = 2.57, e.g., prices have more than doubled within the last 6 years.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 7,
+      "title": "Johnson & Johnson gana un 22,5% más en el primer semestre | Diario Financiero",
+      "url": "https://www.df.cl/empresas/johnson-johnson-gana-un-22-5-mas-en-el-primer-semestre",
+      "domain": "df.cl",
+      "published": "2008-07-15",
+      "snippet": "Johnson & Johnson precisó a través de un comunicado que sus ventas aumentaron un 8,2% al pasar de US$30.168 millones en el primer semestre de 2007 a US$32.644 millones en el mismo período de 2008. En cuanto a los resultados del segundo trimestre, la compañía con sede en New Brunswick (Nueva Jersey) señaló que en ese período tuvo un beneficio neto de US$3.327 millones (US$1,17 por acción), un 8% más que el segundo trimestre de 2007 en que ganó US$3.081 millones (US$1,05 por título).",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 1,
+      "title": "Consumer Price Index - September 2023",
+      "url": "https://www.bls.gov/beta/nextgen/cpi/consumer-price-index-2023-10-12.htm",
+      "domain": "bls.gov",
+      "published": "2023-10-12",
+      "snippet": "Over the last 12 months, the Consumer Price Index for All Urban Consumers (CPI-U) increased 3.7 percent",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "In September 2023, consumer prices increased by 4.9% year on year - Informations rapides - 252 | Insee",
+      "url": "https://insee.fr/en/statistiques/7676465",
+      "domain": "insee.fr",
+      "published": null,
+      "snippet": "Over a year, the Consumer Price Index (CPI) should rise by 4.9% in September 2023, as in the previous month, according to the provisional estimate made at the end of the month. The year-on-year slowdown in the prices of food, services and manufactured products, should indeed be compensated by the acceleration in energy prices, due to the rebound in those of petroleum products.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "Microsoft Word - September 2023 CPI",
+      "url": "https://www.nysut.org/-/media/files/nysut/resources/2023/2023_10_12_factsheet_consumerpriceindex.pdf",
+      "domain": "nysut.org",
+      "published": "2023-10-12",
+      "snippet": "The United States City Average Consumer Price Index (CPI-U) for September 2023 was 307.789— representing a change of 3.7 percent over the index for September 2022.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 4,
+      "title": "Consumer Price Index (CPI) September 2023 -",
+      "url": "https://nbs.gov.so/consumer-price-index-cpi-september-2023/",
+      "domain": "nbs.gov.so",
+      "published": "2023-10-15",
+      "snippet": "The rate of inflation for September 2023 is the percentage change in the Consumer Price Index (CPI) over the twelve-month period, from September 2022 to September 2023.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://politifact.com/factchecks/2023/oct/26/mike-johnson/have-prices-increased-by-over-17-in-two-years/",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "A",
+      "url": "https://www.wral.com/21114454",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://api.politifact.com/factchecks/2023/oct/26/mike-johnson/have-prices-increased-by-over-17-in-two-years",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "frozenAt": "2026-10-27T03:16:38.132Z",
+  "refilteredAt": "2026-10-27T03:35:55.679Z",
+  "id": "pf/josh-hokit/josh-hokit-ufc-white-house-michelle-obama",
+  "said": "2026-06-14",
+  "queries": {
+    "fact": "Michelle Obama is a man.",
+    "claim": "Michelle Obama is a man. Josh Hokit"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1403.8803750000661,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 879.0418330000248,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "UFC Fighter Declares \"Michelle Obama Is a Man\" After Winning ...",
+      "url": "https://www.youtube.com/watch?v=WAzj231xfTI",
+      "domain": "youtube.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Fact check: Altered photograph of Michelle Obama",
+      "url": "https://www.reuters.com/article/world/fact-check-altered-photograph-of-michelle-obama-idUSKBN26X2E9/",
+      "domain": "reuters.com",
+      "published": "2020-10-12",
+      "publishedAsGiven": "Oct 12, 2020",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "UFC fighter calls Michelle Obama 'a man' after White ...",
+      "url": "https://www.nbcwashington.com/news/national-international/josh-hokit-michelle-obama-man-ufc/4117060/",
+      "domain": "nbcwashington.com",
+      "published": "2026-06-15",
+      "publishedAsGiven": "Jun 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Michelle Obama Is A Man: Debunking Myths and ...",
+      "url": "https://staging.elkford.ca/michelle-obama-is-a-man-debunking-myths-and-understanding-the-truth",
+      "domain": "staging.elkford.ca",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Errol Musk Claims Michelle Obama is a Man, Barack is Queer",
+      "url": "https://www.facebook.com/firstpostin/videos/errol-musk-claims-michelle-obama-is-a-man-barack-is-queer/618754370861107/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "snippet": "FirstpostAmerica: Errol Musk, father of billionaire Elon Musk, has reignited a long-debunked conspiracy theory, claiming that former First ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Michelle Obama Is a Man",
+      "url": "https://www.amazon.com/Michelle-Obama-Man-Okay-Boomer/dp/B0C1P94DC6",
+      "domain": "amazon.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Michelle Obama – The White House",
+      "url": "https://trumpwhitehouse.archives.gov/about-the-white-house/first-ladies/michelle-obama/",
+      "domain": "trumpwhitehouse.archives.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "MMA Fighter's Explanation For Calling Michelle Obama A ' ...",
+      "url": "https://sports.yahoo.com/articles/mma-fighters-explanation-calling-michelle-005634636.html",
+      "domain": "sports.yahoo.com",
+      "published": "2026-06-23",
+      "publishedAsGiven": "Jun 23, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "The Claim That Michelle Obama Is A Man Isn't A Conspiracy ...",
+      "url": "https://zora.medium.com/the-claim-that-michelle-obama-is-a-man-isnt-a-conspiracy-theory-it-s-a-racialized-attack-on-669ac6b6fef2",
+      "domain": "zora.medium.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Michelle Obama",
+      "url": "https://en.wikipedia.org/wiki/Michelle_Obama",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "UFC Fighter Declares \"Michelle Obama Is a Man\" After ...",
+      "url": "https://www.youtube.com/watch?v=WAzj231xfTI",
+      "domain": "youtube.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Josh Hokit disparages Michelle Obama at UFC White ...",
+      "url": "https://www.espn.com/mma/story/_/id/49074842/josh-hokit-disparages-michelle-obama-ufc-white-house-event",
+      "domain": "espn.com",
+      "published": "2026-06-15",
+      "publishedAsGiven": "Jun 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Josh Hokit Defends Calling Michelle Obama a 'Man' After ...",
+      "url": "https://sports.yahoo.com/articles/josh-hokit-defends-calling-michelle-001044657.html",
+      "domain": "sports.yahoo.com",
+      "published": "2026-06-28",
+      "publishedAsGiven": "Jun 28, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "The UFC fighter who mocked Michelle Obama claims it ...",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/27/josh-hokit-michelle-obama-remark",
+      "domain": "theguardian.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "Jun 27, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "UFC fighter calls Michelle Obama 'a man' after White ...",
+      "url": "https://www.nbcwashington.com/news/national-international/josh-hokit-michelle-obama-man-ufc/4117060/",
+      "domain": "nbcwashington.com",
+      "published": "2026-06-15",
+      "publishedAsGiven": "Jun 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Josh Hokit Shocks UFC Freedom 250 Crowd With Michelle ...",
+      "url": "https://www.facebook.com/HollywoodReporter/videos/ufc-fighter-declares-michelle-obama-is-a-man-after-winning-match-at-white-house-/4348814038713604/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "UFC fighter says 'Michelle Obama is a man' after winning ...",
+      "url": "https://katu.com/news/nation-world/ufc-fighter-says-michelle-obama-is-a-man-after-winning-white-house-match-joe-rogan-josh-hokit-derrick-lewis-president-trump-dana-white",
+      "domain": "katu.com",
+      "published": "2026-06-15",
+      "publishedAsGiven": "Jun 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Josh Hokit Defends Calling Michelle Obama a 'Man' at ...",
+      "url": "https://variety.com/2026/tv/news/josh-hokit-defends-michelle-obama-man-ufc-fight-1236782062/",
+      "domain": "variety.com",
+      "published": "2026-06-23",
+      "publishedAsGiven": "Jun 23, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Josh Hokit Calls Michelle Obama a 'Man' In His UFC Post- ...",
+      "url": "https://www.youtube.com/watch?v=LLZuIxLVTbw",
+      "domain": "youtube.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Josh Hokit just called Michelle Obama a man in front of ...",
+      "url": "https://www.reddit.com/r/mmaweekly/comments/1u655i7/josh_hokit_just_called_michelle_obama_a_man_in/",
+      "domain": "reddit.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "maybe-after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 0,
+    "fact-check-words": 1,
+    "after-said": 9,
+    "maybe-after-said": 6,
+    "after-said-link-date": 0,
+    "undated": 3
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:16:33.465Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

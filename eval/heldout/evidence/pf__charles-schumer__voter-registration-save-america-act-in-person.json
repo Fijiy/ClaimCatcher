@@ -1,0 +1,291 @@
+{
+  "frozenAt": "2026-10-27T03:12:12.817Z",
+  "refilteredAt": "2026-10-27T03:34:47.481Z",
+  "id": "pf/charles-schumer/voter-registration-save-america-act-in-person",
+  "said": "2026-03-17",
+  "queries": {
+    "fact": "The SAVE America Act would force Americans to register (to vote) only in person, something only 5% of Americans do today.",
+    "claim": "The SAVE America Act would force Americans to register (to vote) only in person, something only 5% of Americans do today. Charles Schumer"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2126.829708000063,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2211.425917000044,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Fact-checking Senate Minority Leader Chuck Schumer on ...",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-senate-minority-leader-chuck-schumer-on-the-effects-of-the-save-america-act",
+      "domain": "pbs.org",
+      "published": "2026-03-21",
+      "publishedAsGiven": "Mar 21, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "The SAVE Act: What every American Voter Needs to Know",
+      "url": "https://www.vote.org/save-act/",
+      "domain": "vote.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "The SAVE Act: Overview and Facts",
+      "url": "https://www.americanprogress.org/article/the-save-act-overview-and-facts/",
+      "domain": "americanprogress.org",
+      "published": "2025-01-31",
+      "publishedAsGiven": "Jan 31, 2025",
+      "snippet": "The legislation would invert the responsibility to verify a person's eligibility and citizenship status from election officials and the ..."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "SAVE America Act Fact Sheet: 2026 | LWV Ohio",
+      "url": "https://www.lwvohio.org/save-america-act-fact-sheet-2026",
+      "domain": "lwvohio.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "H.R.7296 - 119th Congress (2025-2026): SAVE America Act",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/7296",
+      "domain": "congress.gov",
+      "published": "2026-01-30",
+      "publishedAsGiven": "Jan 30, 2026",
+      "snippet": "Shown Here: Introduced in House (01/30/2026). Safeguard American Voter Eligibility Act or the SAVE America Act. This bill requires individuals ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Senate Democratic Leader Chuck Schumer said the SAVE ...",
+      "url": "https://www.facebook.com/newshour/posts/senate-democratic-leader-chuck-schumer-said-the-save-america-act-would-require-i/1401653078496601/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "What You Need to Know About the SAVE Act",
+      "url": "https://www.naacpldf.org/case-issue/save-act-saves-no-one-voter-suppression-bill-explained/",
+      "domain": "naacpldf.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Six Things to Know About the SAVE America Act",
+      "url": "https://bipartisanpolicy.org/article/five-things-to-know-about-the-save-act/",
+      "domain": "bipartisanpolicy.org",
+      "published": "2026-07-17",
+      "publishedAsGiven": "Jul 17, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "The #SAVEAmerica Act aims to ensure only eligible voters ...",
+      "url": "https://www.facebook.com/BipartisanPolicyCenter/videos/the-saveamerica-act-aims-to-ensure-only-eligible-voters-can-register-and-cast-a-/1679386310180989/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "SAVE America Act: What It Would Change About Voting",
+      "url": "https://www.callyoursenate.com/save-america-act-voting-changes/",
+      "domain": "callyoursenate.com",
+      "published": "2026-08-10",
+      "publishedAsGiven": "Aug 10, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact-checking Senate Minority Leader Chuck Schumer on ...",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-senate-minority-leader-chuck-schumer-on-the-effects-of-the-save-america-act",
+      "domain": "pbs.org",
+      "published": "2026-03-21",
+      "publishedAsGiven": "Mar 21, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Senate Democratic Leader Chuck Schumer said the SAVE ...",
+      "url": "https://www.facebook.com/newshour/posts/senate-democratic-leader-chuck-schumer-said-the-save-america-act-would-require-i/1401653078496601/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Leader Schumer Floor Remarks On Democrat...",
+      "url": "https://www.democrats.senate.gov/news/press-releases/leader-schumer-floor-remarks-on-democrats-plan-to-block-republicans-voter-suppression-bill-the-save-act",
+      "domain": "democrats.senate.gov",
+      "published": "2026-03-17",
+      "publishedAsGiven": "Mar 17, 2026",
+      "snippet": "Washington, D.C. – Today, Senate Democratic Leader Chuck Schumer (D-NY) spoke on the Senate floor on Democrats' plan to put a stop to the ..."
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Safeguard American Voter Eligibility Act (SAVE America ...",
+      "url": "https://www.congress.gov/crs-product/IF12902",
+      "domain": "congress.gov",
+      "published": "2026-02-24",
+      "publishedAsGiven": "Feb 24, 2026",
+      "snippet": "This CRS In Focus provides an overview of existing voter registration policy and law in federal elections and discusses how the voter ..."
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Q&A on the SAVE America Act",
+      "url": "https://www.factcheck.org/2026/03/qa-on-the-save-america-act/",
+      "domain": "factcheck.org",
+      "published": "2026-03-18",
+      "publishedAsGiven": "Mar 18, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Chuck Schumer Tears Into SAVE America Act",
+      "url": "https://www.youtube.com/watch?v=JRZyR_4VCow",
+      "domain": "youtube.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "What do voting administration experts think of Chuck ...",
+      "url": "https://www.quora.com/What-do-voting-administration-experts-think-of-Chuck-Schumers-claim-that-the-SAVE-America-Act-would-force-Americans-to-register-only-in-person-something-only-5-of-Americans-do-today",
+      "domain": "quora.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "chuck schumer | PBS News",
+      "url": "https://www.pbs.org/newshour/tag/chuck-schumer",
+      "domain": "pbs.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Senate Session, Part 1",
+      "url": "https://www.c-span.org/congress/?chamber=senate&date=2026-03-17",
+      "domain": "c-span.org",
+      "published": "2026-03-17",
+      "publishedAsGiven": "Mar 17, 2026",
+      "snippet": "The Senate voted to limit debate on Anna St. John's nomination to be a U.S. District judge for the Eastern District of Louisiana."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "The SAVE America Act Is 'A Giant Voter Suppression Bill'",
+      "url": "https://www.youtube.com/watch?v=PGEe2BCL4Ik",
+      "domain": "youtube.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 2,
+    "after-said": 2,
+    "maybe-after-said": 6,
+    "after-said-link-date": 0,
+    "undated": 4
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:12:08.478Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "The SAVE Act: Overview and Facts",
+      "url": "https://www.americanprogress.org/article/the-save-act-overview-and-facts/",
+      "domain": "americanprogress.org",
+      "snippet": "The legislation would invert the responsibility to verify a person's eligibility and citizenship status from election officials and the ...",
+      "published": "2025-01-31",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "L",
+        "reliability": "high",
+        "name": "Center for American Progress",
+        "page": "https://mediabiasfactcheck.com/center-for-american-progress/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Safeguard American Voter Eligibility Act (SAVE America ...",
+      "url": "https://www.congress.gov/crs-product/IF12902",
+      "domain": "congress.gov",
+      "snippet": "This CRS In Focus provides an overview of existing voter registration policy and law in federal elections and discusses how the voter ...",
+      "published": "2026-02-24",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "H.R.7296 - 119th Congress (2025-2026): SAVE America Act",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/7296",
+      "domain": "congress.gov",
+      "snippet": "Shown Here: Introduced in House (01/30/2026). Safeguard American Voter Eligibility Act or the SAVE America Act. This bill requires individuals ...",
+      "published": "2026-01-30",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Senate Session, Part 1",
+      "url": "https://www.c-span.org/congress/?chamber=senate&date=2026-03-17",
+      "domain": "c-span.org",
+      "snippet": "The Senate voted to limit debate on Anna St. John's nomination to be a U.S. District judge for the Eastern District of Louisiana.",
+      "published": "2026-03-17",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Washington Journal",
+        "page": "https://mediabiasfactcheck.com/washington-journal/"
+      },
+      "weight": "full",
+      "n": 4
+    }
+  ]
+}

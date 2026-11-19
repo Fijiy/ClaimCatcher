@@ -1,0 +1,111 @@
+{
+  "case_id": "cnn-2024-trump-greatest-economy#0",
+  "queries": {
+    "A": "We had the greatest economy in the history of our country. Trump",
+    "B": "US GDP growth and unemployment 2017 to 2019 compared with previous decades"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 1,
+      "title": "U.S. Economy Is Good, But Not ‘Greatest’ - Valley News",
+      "url": "https://vnews.com/2018/06/09/trump-says-us-economy-may-be-the-greatest-in-history-let-s-check-the-record-18015152/",
+      "domain": "vnews.com",
+      "published": "2018-06-09",
+      "snippet": "Washington — President Donald Trump has a new talking point: This economy ranks among the greatest in U.S. history. He tweeted late Monday that “In many ways this is the greatest economy in the HISTORY of America and the best time EVER to look for a job!” He followed that up on Tuesday with a tweet saying the current conditions could be “the best economy in the history of our country.”",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 5,
+      "title": "Trump asks when the polls will reflect the 'greatest' economy in history of US",
+      "url": "https://okcfox.com/news/nation-world/trump-asks-when-the-polls-will-reflect-the-greatest-economy-in-history-of-us-tariffs-joe-biden-truth-social-energy-oil",
+      "domain": "okcfox.com",
+      "published": "2025-12-11",
+      "snippet": "“When will I get credit for having created, with No Inflation, perhaps the Greatest Economy in the History of our Country?” he wrote on TRUTH Social. “When will people understand what is happening? When will Polls reflect the Greatness of America at this point in time, and how bad it was just one year ago?”",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 6,
+      "title": "Trump asks when the polls will reflect the 'greatest' economy in history of US",
+      "url": "https://abcnews4.com/news/nation-world/trump-asks-when-the-polls-will-reflect-the-greatest-economy-in-history-of-us-tariffs-joe-biden-truth-social-energy-oil",
+      "domain": "abcnews4.com",
+      "published": "2025-12-11",
+      "snippet": "“When will I get credit for having created, with No Inflation, perhaps the Greatest Economy in the History of our Country?” he wrote on TRUTH Social. “When will people understand what is happening? When will Polls reflect the Greatness of America at this point in time, and how bad it was just one year ago?”",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "ERP 2020 chapter1",
+      "url": "https://www.govinfo.gov/content/pkg/ERP-2020/pdf/ERP-2020-chapter1.pdf",
+      "domain": "govinfo.gov",
+      "published": "2020-02-19",
+      "snippet": "Over the 12 quarters through 2019:Q4, the actual average annual growth rate of real GDP was 2.5 percent, slightly outpacing the May 2017 forecast, and an increase compared with the 2.2 percent average annual growth rate over the 26-quarter expansion period from 2009:Q3 through 2016:Q4 (see figure 1-4). As figure 1-5 shows, the average absolute errors of the ex-ante Administration forecasts under the current Administration were the lowest among those of the last five administrations. The Trump Administration adopted structural reforms and policies that were designed to support continued U.S.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 4,
+      "title": "The Year in Review and the Years Ahead – The White House",
+      "url": "https://trumpwhitehouse.archives.gov/articles/the-year-in-review-and-the-years-ahead",
+      "domain": "trumpwhitehouse.archives.gov",
+      "published": null,
+      "snippet": "On average, through 2028, the Administration expects deregulation and infrastructure investment to each contribute to GDP growth beyond 2020. Consistent with growth slowing slightly in the latter half of the budget window, from 3.2 percent in 2019 to 2.8 percent in 2028, the Administration expects unemployment to gradually return to its natural level, which will also stabilize inflation.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 6,
+      "title": "Economic Report of the President February 2018",
+      "url": "https://www.govinfo.gov/content/pkg/ERP-2018/pdf/ERP-2018-chapter8.pdf",
+      "domain": "govinfo.gov",
+      "published": "2018-02-19",
+      "snippet": "In 2018, consumer spending and exports are expected to continue to sustain solid growth, with a lift from a pickup in business fixed investment and a sharp decline in corporate profit shifting. The unemployment rate is expected to fall slightly from its projected 2017:Q4 rate of 4.1 percent to 3.7 percent in 2019:Q4. Inflation, as measured by the price index for GDP, is expected to rise from its projected rate of 1.6 percent during the four quarters of 2017 to 2.0 percent during the four quarters of 2021, and to continue at that pace thereafter.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 7,
+      "title": "Statement from U.S. Secretary of Commerce Wilbur Ross on Q3 2019 GDP Growth: U.S. Economy Grows 1.9 Percent in Third Quarter",
+      "url": "https://2017-2021.commerce.gov/news/press-releases/2019/10/statement-us-secretary-commerce-wilbur-ross-q3-2019-gdp-growth-us.html",
+      "domain": "2017-2021.commerce.gov",
+      "published": "2019-10-30",
+      "snippet": "In September 2019, unemployment in the U.S. fell to 3.5 percent, hitting the lowest level in 50 years. The unemployment rate for Hispanic Americans and African Americans were also at record lows. The total numbers of employed Americans hit the highest level on record. Between 2017 and 2018, 2.3 million more Americans gained full-time, year-round employment, including 1.6 million women.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://www.dailyherald.com/20180610/business/analysis-trump-says-u-s-economy-may-be-the-greatest-in-history-lets-check-the-record/",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "A",
+      "url": "https://www.dailyherald.com/?p=373682",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "A",
+      "url": "https://www.dailyherald.com/20180907/news/fact-check-president-trumps-repeated-claim-the-greatest-economy-in-the-history-of-our-country/",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "B",
+      "url": "https://www.logicallyfacts.com/en/fact-check/false-trump-we-created-the-greatest-economy-in-the-history-of-the-world",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "B",
+      "url": "https://sonorannews.com/?p=29371",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch -- URL redirects to an unrelated site homepage; no page text matching the query"
+    },
+    {
+      "q": "B",
+      "url": "https://blog.uwsp.edu/cps/2019/12/16/the-economy-5-things-you-should-know-for-2020-and-beyond-part-1/",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "case_id": "biden-sotu-2024-economy#6",
+  "queries": {
+    "A": "The racial wealth gap is the smallest it’s been in 20 years. Biden",
+    "B": "Black white household wealth gap Survey of Consumer Finances 2022 median wealth ratio"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 1,
+      "title": "Fact check: Biden claims the racial wealth gap reached a 20-year low",
+      "url": "https://wral.com/fact-check-biden-claims-the-racial-wealth-gap-reached-a-20-year-low/21247929/",
+      "domain": "wral.com",
+      "published": "2024-01-22",
+      "snippet": "Biden said, \"The racial wealth gap is the smallest it’s been in 20 years.\"",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 2,
+      "title": "Biden said racial wealth gap is smallest it’s been in 20 years | Fact check",
+      "url": "https://www.tampabay.com/news/2024/01/21/biden-said-racial-wealth-gap-is-smallest-its-been-20-years-fact-check",
+      "domain": "tampabay.com",
+      "published": "2024-01-21",
+      "snippet": "Biden said racial wealth gap is smallest it’s been in 20 years | Fact check",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 4,
+      "title": "Biden’s claim about racial wealth gap misses full picture",
+      "url": "https://politifact.com/factchecks/2024/jan/12/joe-biden/what-president-joe-biden-got-right-and-what-he-mis/",
+      "domain": "politifact.com",
+      "published": "2024-01-12",
+      "snippet": "Biden said, “The racial wealth gap is the smallest it’s been in 20 years.”",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 5,
+      "title": "FactChecking Biden's Promises 'Kept' - FactCheck.org",
+      "url": "https://www.factcheck.org/?p=253234",
+      "domain": "factcheck.org",
+      "published": "2024-06-05",
+      "snippet": "Biden said the wealth gap between white and Black Americans is “the lowest it’s been in 20 years,” and he took credit. A 2023 paper from Federal Reserve Board staffers does show that the wealth ratio between white and Black families in 2022 was the smallest in 20 years, but the gap in raw dollars was the widest it had been since 1989.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 1,
+      "title": "White Americans have far more wealth than Black Americans. Here’s how big the gap is",
+      "url": "https://abc17news.com/?p=1237612",
+      "domain": "abc17news.com",
+      "published": "2023-10-31",
+      "snippet": "The net worth of the typical Black and Hispanic household in 2022 was $44,900 and about $61,600, respectively, according to the Federal Reserve’s latest Survey on Consumer Finances , a triennial report released this month that provides a comprehensive look at Americans’ financial circumstances.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "White Americans have far more wealth than Black Americans. Here’s how big the gap is",
+      "url": "https://ktvz.com/?p=1241770",
+      "domain": "ktvz.com",
+      "published": "2023-10-31",
+      "snippet": "The net worth of the typical Black and Hispanic household in 2022 was $44,900 and about $61,600, respectively, according to the Federal Reserve’s latest Survey on Consumer Finances , a triennial report released this month that provides a comprehensive look at Americans’ financial circumstances.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "White Americans have far more wealth than Black Americans. Here’s how big the gap is",
+      "url": "https://ibw21.org/?p=81917",
+      "domain": "ibw21.org",
+      "published": "2023-10-31",
+      "snippet": "The net worth of the typical Black and Hispanic household in 2022 was $44,900 and about $61,600, respectively, according to the Federal Reserve’s latest Survey on Consumer Finances , a triennial report released this month that provides a comprehensive look at Americans’ financial circumstances.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 4,
+      "title": "Black wealth is increasing, but so is the racial wealth gap | Brookings",
+      "url": "https://www.brookings.edu/articles/black-wealth-is-increasing-but-so-is-the-racial-wealth-gap/",
+      "domain": "brookings.edu",
+      "published": "2024-01-09",
+      "snippet": "According to the latest data from the Federal Reserve’s Survey of Consumer Finances, the nation’s racial wealth gap increased during the COVID-19 pandemic. Between 2019 and 2022, median wealth increased by $51,800, but the racial wealth gap increased by $49,950—adding up to a total difference of $240,120 in wealth between the median white household and the median Black household.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://news.yahoo.com/racial-wealth-gap-smallest-20-110134966.html?fr=sycsrp_catchall",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    }
+  ]
+}

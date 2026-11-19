@@ -1,0 +1,217 @@
+{
+  "frozenAt": "2026-10-27T03:27:51.677Z",
+  "refilteredAt": "2026-10-27T03:38:42.465Z",
+  "id": "pf/jd-vance/biden-gasoline-prices-refineries-cbs-town-hall",
+  "said": "2026-10-17",
+  "queries": {
+    "fact": "The biggest reason why gas prices are so high is because when Joe Biden was president, we had about 20% of American refining capacity that went offline.",
+    "claim": "The biggest reason why gas prices are so high is because when Joe Biden was president, we had about 20% of American refining capacity that went offline. JD Vance"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1295.9001670000143,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 3731.8869999998715,
+      "results": 8
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Gas prices fact check: JD Vance blames Biden falsely",
+      "url": "https://www.wlwt.com/article/jd-vance-biden-gas-prices-fact-check/74233061",
+      "domain": "wlwt.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Fact check: Vice President JD Vance blames Joe Biden ...",
+      "url": "https://www.yahoo.com/news/politics/articles/fact-check-vice-president-jd-100000541.html",
+      "domain": "yahoo.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "17 hours ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "“The biggest reason why gas prices are so high is because ...",
+      "url": "https://www.facebook.com/houstonchronicle/posts/the-biggest-reason-why-gas-prices-are-so-high-is-because-when-joe-biden-was-pres/1565199928957473/",
+      "domain": "facebook.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "14 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Facing pushback from voters over ...",
+      "url": "https://www.facebook.com/politifact/videos/fact-check-vance-blames-biden-for-high-gas-prices-today-thats-false/1115595871064918/",
+      "domain": "facebook.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "'That's Actually the Biggest Reason Why Gas Prices Are So ...",
+      "url": "https://www.benzinga.com/news/politics/26/10/62510836/biggest-reason-why-gas-prices-are-high-jd-vance",
+      "domain": "benzinga.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Vance blames Biden for high gas prices today. That's False.",
+      "url": "https://www.youtube.com/shorts/80ByO4SGJbE",
+      "domain": "youtube.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Vance on high gas prices: \"When Joe Biden was president ...",
+      "url": "https://www.reddit.com/r/SECourses/comments/1xadwik/vance_on_high_gas_prices_when_joe_biden_was/",
+      "domain": "reddit.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Did Biden-era policies take 20% of U.S. refining capacity ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-biden-era-policies-take-20-of-u-s-refining-capacity-offline/",
+      "domain": "mediabiasfactcheck.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "In his own words: Trump on gas prices and energy costs ...",
+      "url": "https://www.houstonchronicle.com/news/politics/article/in-his-own-words-trump-on-gas-prices-and-energy-22494198.php",
+      "domain": "houstonchronicle.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "16 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "One of the biggest pressure points on Americans' wallets is the ...",
+      "url": "https://www.instagram.com/reel/DenYzDLRdDo/",
+      "domain": "instagram.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Gas prices fact check: JD Vance blames Biden falsely",
+      "url": "https://www.wgal.com/article/jd-vance-biden-gas-prices-fact-check/74233061",
+      "domain": "wgal.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "“The biggest reason why gas prices are so high is because ...",
+      "url": "https://www.facebook.com/houstonchronicle/posts/the-biggest-reason-why-gas-prices-are-so-high-is-because-when-joe-biden-was-pres/1565199928957473/",
+      "domain": "facebook.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "14 hours ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "JD Vance Says 20% of U.S. Refining Capacity Went Offline ...",
+      "url": "https://www.webull.com/news/15788022233115648",
+      "domain": "webull.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Facing pushback from voters over ...",
+      "url": "https://www.facebook.com/politifact/videos/fact-check-vance-blames-biden-for-high-gas-prices-today-thats-false/1115595871064918/",
+      "domain": "facebook.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Vance blames Biden for high gas prices today. That's False.",
+      "url": "https://www.youtube.com/shorts/80ByO4SGJbE",
+      "domain": "youtube.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Post",
+      "url": "https://x.com/HoustonChron/status/2114658389292679619",
+      "domain": "x.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "17 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Vance on high gas prices: \"When Joe Biden was president ...",
+      "url": "https://www.reddit.com/r/SECourses/comments/1xadwik/vance_on_high_gas_prices_when_joe_biden_was/",
+      "domain": "reddit.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "US vice president JD Vance answers questions on high fuel ...",
+      "url": "https://www.youtube.com/shorts/aVH3pdArAm0",
+      "domain": "youtube.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "maybe-after-said"
+    }
+  ],
+  "returned": 18,
+  "dropped": {
+    "fact-checker": 0,
+    "fact-check-words": 7,
+    "after-said": 9,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:27:46.648Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

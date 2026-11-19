@@ -1,0 +1,240 @@
+{
+  "frozenAt": "2026-10-27T03:17:36.822Z",
+  "refilteredAt": "2026-10-27T03:36:10.934Z",
+  "id": "pf/byron-donalds/florida-data-centers-byron-donalds-governor-race",
+  "said": "2026-07-22",
+  "queries": {
+    "fact": "Senate Bill 484 ensures that utility rates will not go up due to data centers.",
+    "claim": "Senate Bill 484 ensures that utility rates will not go up due to data centers. Byron Donalds"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1492.90699999989,
+      "results": 9
+    },
+    {
+      "query": "claim",
+      "ms": 2068.5390830000397,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Governor Ron DeSantis Signs Law to Protect Floridians ...",
+      "url": "https://www.flgov.com/eog/news/press/2026/governor-ron-desantis-signs-law-protect-floridians-subsidizing-data-centers",
+      "domain": "flgov.com",
+      "published": "2026-05-07",
+      "publishedAsGiven": "May 7, 2026",
+      "snippet": "May 7, 2026 — Prohibits utilities from passing data center costs , including electricity costs, onto residential and small business customers. Requires large- ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "2026 Bill Summaries - The Florida Senate",
+      "url": "https://www.flsenate.gov/Committees/billsummaries/2026/html/484",
+      "domain": "flsenate.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Donalds says FL law will prevent electric bill hikes ...",
+      "url": "https://www.wlrn.org/light/government-politics/2026-08-11/donalds-says-fl-law-will-prevent-electric-bill-hikes-from-data-centers-thats-not-guaranteed",
+      "domain": "wlrn.org",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "A Senate bill aimed at addressing higher electric costs tied ...",
+      "url": "https://www.facebook.com/wesh2news/posts/a-senate-bill-aimed-at-addressing-higher-electric-costs-tied-to-expanding-data-c/1139190015289582/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Hawley, Blumenthal Introduce Bill to Prevent Data Centers ...",
+      "url": "https://www.hawley.senate.gov/hawley-blumenthal-introduce-bill-to-prevent-data-centers-from-increasing-electricity-costs-for-americans/",
+      "domain": "hawley.senate.gov",
+      "published": "2026-02-11",
+      "publishedAsGiven": "Feb 11, 2026",
+      "snippet": "Feb 11, 2026 — The GRID Act would: Guarantee no increase in consumer utility prices due to data centers . Guarantee consumers first priority on the grid."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Legislation to Protect California Ratepayers from Paying for ...",
+      "url": "https://sd18.senate.ca.gov/news/legislation-protect-california-ratepayers-paying-data-centers-energy-costs-signed-law",
+      "domain": "sd18.senate.ca.gov",
+      "published": "2025-10-11",
+      "publishedAsGiven": "Oct 11, 2025",
+      "snippet": "Oct 11, 2025 — The massive energy demands of these data centers means that utility prices increase as the grid struggles to keep pace with need. The Mid- ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Senate blocks bill aimed at keeping data center costs off ...",
+      "url": "https://www.wbaltv.com/article/senate-blocks-bill-ratepayer-protection-data-center-electric-costs/73965520",
+      "domain": "wbaltv.com",
+      "published": "2026-09-30",
+      "publishedAsGiven": "Sep 30, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "AI Data Center Regulations Among 100+ New State Laws",
+      "url": "https://www.facebook.com/WFLABeth/posts/florida-ai-data-center-regulations-among-100-new-state-laws/1399537138652639/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Ratepayer Protection Pledge",
+      "url": "https://www.whitehouse.gov/releases/2026/03/ratepayer-protection-pledge/",
+      "domain": "whitehouse.gov",
+      "published": "2026-03-04",
+      "publishedAsGiven": "Mar 4, 2026",
+      "snippet": "Mar 4, 2026 — WHAT: Companies will pay for all new power delivery infrastructure upgrades required to service their data centers , including adequate network ... Read more"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Donalds says FL law will prevent electric bill hikes from data ...",
+      "url": "https://www.wlrn.org/light/government-politics/2026-08-11/donalds-says-fl-law-will-prevent-electric-bill-hikes-from-data-centers-thats-not-guaranteed",
+      "domain": "wlrn.org",
+      "published": null,
+      "dropped": "after-said-link-date"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Florida's new data center law stops short of shielding ... - Yahoo",
+      "url": "https://www.yahoo.com/news/politics/articles/floridas-data-center-law-stops-083600013.html",
+      "domain": "yahoo.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Byron Donalds on X: \"Governor DeSantis put smart safeguards ...",
+      "url": "https://x.com/ByronDonalds/status/2080039868864897317?lang=en",
+      "domain": "x.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Donalds Introduces the Protecting Ratepayers Act",
+      "url": "https://donalds.house.gov/news/documentsingle.aspx?DocumentID=2635",
+      "domain": "donalds.house.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Does Florida law prevent utility bill hikes from data centers?",
+      "url": "https://suncoastsearchlight.org/fact-brief-florida-utility-hikes-data-centers/",
+      "domain": "suncoastsearchlight.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Donalds says FL law will prevent electric bill hikes from data ...",
+      "url": "https://politifact.com/factchecks/2026/aug/07/byron-donalds/florida-data-centers-byron-donalds-governor-race/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Byron Donalds, a Republican candidate in the Florida ...",
+      "url": "https://www.facebook.com/politifact/posts/byron-donalds-a-republican-candidate-in-the-florida-governors-race-said-a-new-st/1517593750401723/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Donalds says bill would stop AI data centers from hiking utility ...",
+      "url": "https://apnews.com/article/byron-donalds-florida-data-centers-artificial-intelligence-c8b93e8ca7e0b47bad7411b6d05717e0",
+      "domain": "apnews.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "What to know about data centers in Florida: Power, water, local ...",
+      "url": "https://www.news4jax.com/news/local/2026/10/06/what-to-know-about-data-centers-in-florida-power-water-local-control-and-the-new-law/",
+      "domain": "news4jax.com",
+      "published": null,
+      "dropped": "after-said-link-date"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Does Florida law guarantee data centers will not raise utility ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-does-florida-law-guarantee-data-centers-will-not-raise-utility-rates/",
+      "domain": "mediabiasfactcheck.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    }
+  ],
+  "returned": 19,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 2,
+    "after-said": 2,
+    "maybe-after-said": 0,
+    "after-said-link-date": 2,
+    "undated": 8
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:17:33.259Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Governor Ron DeSantis Signs Law to Protect Floridians ...",
+      "url": "https://www.flgov.com/eog/news/press/2026/governor-ron-desantis-signs-law-protect-floridians-subsidizing-data-centers",
+      "domain": "flgov.com",
+      "snippet": "May 7, 2026 — Prohibits utilities from passing data center costs , including electricity costs, onto residential and small business customers. Requires large- ... Read more",
+      "published": "2026-05-07",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "Legislation to Protect California Ratepayers from Paying for ...",
+      "url": "https://sd18.senate.ca.gov/news/legislation-protect-california-ratepayers-paying-data-centers-energy-costs-signed-law",
+      "domain": "sd18.senate.ca.gov",
+      "snippet": "Oct 11, 2025 — The massive energy demands of these data centers means that utility prices increase as the grid struggles to keep pace with need. The Mid- ... Read more",
+      "published": "2025-10-11",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    }
+  ]
+}

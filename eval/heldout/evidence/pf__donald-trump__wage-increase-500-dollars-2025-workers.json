@@ -1,0 +1,411 @@
+{
+  "frozenAt": "2026-10-27T03:06:45.794Z",
+  "refilteredAt": "2026-10-27T03:33:27.733Z",
+  "id": "pf/donald-trump/wage-increase-500-dollars-2025-workers",
+  "said": "2025-08-26",
+  "queries": {
+    "fact": "The average American worker has already seen a $500 wage increase this year.",
+    "claim": "The average American worker has already seen a $500 wage increase this year. Donald Trump"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1864.6618749999907,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1470.193041999999,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 167.59691700000258,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Average Wage Index (AWI)",
+      "url": "https://www.ssa.gov/oact/cola/awidevelop.html",
+      "domain": "ssa.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Fact check: Have US workers gained $500 in wages this ...",
+      "url": "https://www.aljazeera.com/features/2025/9/6/fact-check-have-us-workers-gained-500-in-wages-this-year",
+      "domain": "aljazeera.com",
+      "published": "2025-09-06",
+      "publishedAsGiven": "Sep 6, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Are wages keeping up with inflation?",
+      "url": "https://usafacts.org/answers/are-wages-keeping-up-with-inflation/country/united-states/",
+      "domain": "usafacts.org",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Nominal Wage Tracker",
+      "url": "https://www.epi.org/nominal-wage-tracker/",
+      "domain": "epi.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Workers' Paychecks Are Growing More Quickly Than Prices",
+      "url": "https://www.americanprogress.org/article/workers-paychecks-are-growing-more-quickly-than-prices/",
+      "domain": "americanprogress.org",
+      "published": "2024-01-03",
+      "publishedAsGiven": "Jan 3, 2024",
+      "snippet": "Most workers' wages are growing more quickly than prices, and the economic recovery following the COVID-19 recession has featured ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "President Trump announces a major win for American ...",
+      "url": "https://www.facebook.com/meawwcom/posts/president-trump-announces-a-major-win-for-american-workers-claiming-that-wages-a/1100989152161961/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Median usual weekly real earnings: Wage and salary workers ...",
+      "url": "https://fred.stlouisfed.org/series/les1252881600Q",
+      "domain": "fred.stlouisfed.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Percent change in average weekly wages by state, total ...",
+      "url": "https://www.bls.gov/charts/county-employment-and-wages/percent-change-aww-by-state.htm",
+      "domain": "bls.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Average salary in the US in 2026",
+      "url": "https://www.fidelity.com/learning-center/smart-money/average-salary-in-us",
+      "domain": "fidelity.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Thirteen facts about wage growth",
+      "url": "https://www.brookings.edu/articles/thirteen-facts-about-wage-growth/",
+      "domain": "brookings.edu",
+      "published": "2017-09-25",
+      "publishedAsGiven": "Sep 25, 2017",
+      "snippet": "After adjusting for inflation, wages are only 10 percent higher in 2017 than they were in 1973, with annual real wage growth just below 0.2 ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact check: Have US workers gained $500 in wages this ...",
+      "url": "https://www.aljazeera.com/features/2025/9/6/fact-check-have-us-workers-gained-500-in-wages-this-year",
+      "domain": "aljazeera.com",
+      "published": "2025-09-06",
+      "publishedAsGiven": "Sep 6, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Have US workers gained $500 in wages this year? One ...",
+      "url": "https://politifact.com/factchecks/2025/sep/05/donald-trump/wage-increase-500-dollars-2025-workers/",
+      "domain": "politifact.com",
+      "published": "2025-09-05",
+      "publishedAsGiven": "Sep 5, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Wages Are Rising Under President Trump",
+      "url": "https://www.youtube.com/watch?v=tPaAwghUnF4",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "President Trump announces a major win for American ...",
+      "url": "https://www.facebook.com/meawwcom/posts/president-trump-announces-a-major-win-for-american-workers-claiming-that-wages-a/1100989152161961/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "President Trump say more money in workers' pockets for ...",
+      "url": "https://www.facebook.com/KLFYTV10/posts/president-trump-say-more-money-in-workers-pockets-for-the-rest-of-this-year-will/3336531549719655/",
+      "domain": "facebook.com",
+      "published": "2020-10-27",
+      "publishedAsGiven": "6 years ago",
+      "snippet": "Trump Touts $500 Wage Gain for Average Worker in 2025 President Trump said this week the average American worker has seen a $500 pay increase so ..."
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Trump Touts Record Wage Growth Ahead of Labor Day.",
+      "url": "https://ahblicklive.com/en/video_share.php?id=240704&u_id=gy8ZCsuOeBUXy3IU481&allowed_categories=0",
+      "domain": "ahblicklive.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Wages Are Rising Under President Trump",
+      "url": "https://www.whitehouse.gov/videos/wages-are-rising-under-president-trump/",
+      "domain": "whitehouse.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Trump says U.S. workers gained $500 in wages this year",
+      "url": "https://www.houstonchronicle.com/politics/texas/politifact/article/fact-check-trump-wages-21045339.php",
+      "domain": "houstonchronicle.com",
+      "published": "2025-09-15",
+      "publishedAsGiven": "Sep 15, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "TRUMP EFFECT: Higher Pay for American Workers",
+      "url": "https://www.whitehouse.gov/releases/2025/06/trump-effect-higher-pay-for-american-workers/",
+      "domain": "whitehouse.gov",
+      "published": "2025-06-06",
+      "publishedAsGiven": "Jun 6, 2025",
+      "snippet": "Wages for everyday Americans continue to rise, with real average hourly earnings up by nearly 4% over the past year — far higher than ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Trump Touts Record Wage Growth Ahead of Labor Day.",
+      "url": "https://ahblicklive.com/en/post.php?u_id=gy8ZCsuOeBUXy3IU481",
+      "domain": "ahblicklive.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "U.S. Workers Ask: Where's My Raise?",
+      "url": "https://www.wsj.com/articles/u-s-workers-ask-wheres-my-raise-1433385001",
+      "domain": "wsj.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Employers Choose Bonuses Over Raises",
+      "url": "https://www.wsj.com/articles/benefit-gains-exceed-wage-growth-new-labor-data-shows-1537289455",
+      "domain": "wsj.com",
+      "published": "2018-09-18",
+      "publishedAsGiven": "Sep 18, 2018",
+      "snippet": "The cost of benefits for private-sector employers rose 3% the cost of wages and salaries advanced 2.7%, the Labor Department said Tuesday. The ..."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Wages and Prices Are Up, but It Isn't a Spiral—Yet",
+      "url": "https://www.wsj.com/economy/jobs/wages-and-prices-are-up-but-it-isnt-a-spiralyet-11635688981",
+      "domain": "wsj.com",
+      "published": "2021-10-31",
+      "publishedAsGiven": "Oct 31, 2021",
+      "snippet": "Wages in the third quarter were up 4.2% from a year earlier, the fastest increase since 1990 as labor shortages in a widening range of ..."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Trump's Big Bet on Immigration Isn't Paying Off for Most ...",
+      "url": "https://www.wsj.com/podcasts/whats-news/trumps-big-bet-on-immigration-isnt-paying-off-for-most-workers/ce037684-74fe-407e-91bf-29af5a2f0ab9",
+      "domain": "wsj.com",
+      "published": "2026-04-22",
+      "publishedAsGiven": "Apr 22, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Statistics can mislead as easily as they can enlighten",
+      "url": "https://www.csmonitor.com/2007/0315/p09s02-coop.html",
+      "domain": "csmonitor.com",
+      "published": "2007-03-15",
+      "publishedAsGiven": "Mar 15, 2007",
+      "snippet": "Indeed, the typical worker can even see his real-wage rate rise while the average rate falls! To see how, suppose that you calculate the average ..."
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "Wal-Mart increases minimum wage to $11 an hour in wake ...",
+      "url": "https://www.csmonitor.com/Business/2018/0111/Wal-Mart-increases-minimum-wage-to-11-an-hour-in-wake-of-lower-US-tax-bill",
+      "domain": "csmonitor.com",
+      "published": "2018-01-11",
+      "publishedAsGiven": "Jan 11, 2018",
+      "snippet": "Wal-Mart Stores Inc. will raise entry-level wages for United States hourly employees to $11 an hour in February as it benefits from last ..."
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "American Workers Could Be About to Get a Lot More ...",
+      "url": "https://www.wsj.com/business/american-workers-could-be-about-to-get-a-lot-more-productive-11643905270",
+      "domain": "wsj.com",
+      "published": "2022-02-03",
+      "publishedAsGiven": "Feb 3, 2022",
+      "snippet": "much the average worker produces in a typical hour, grew at a 6.6% annual rate in the fourth quarter from the previous quarter."
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "US job growth snaps back in November; shutdown distorts ...",
+      "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/us-job-growth-beats-expectations-november-unemployment-rate-46-2025-12-16/",
+      "domain": "reuters.com",
+      "published": "2025-12-16",
+      "publishedAsGiven": "Dec 16, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "Wal-Mart Raises Its Minimum Wage, Plans Bonuses After ...",
+      "url": "https://www.wsj.com/articles/wal-mart-to-raise-minimum-u-s-wage-to-11-an-hour-1515676452",
+      "domain": "wsj.com",
+      "published": "2018-01-12",
+      "publishedAsGiven": "Jan 12, 2018",
+      "snippet": "Wal-Mart's average hourly wage for full-time U.S. store employees is expected to rise to around $14.50 an hour after the latest change, up from ..."
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "Slower Hiring This Summer Could Take Heat Off the Fed",
+      "url": "https://www.wsj.com/economy/jobs/jobs-report-july-today-unemployment-economy-d9af32f3",
+      "domain": "wsj.com",
+      "published": "2023-08-05",
+      "publishedAsGiven": "Aug 5, 2023",
+      "snippet": "Wages continued to rise briskly, with average hourly earnings growing 4.4% in July from a year earlier, the same rate as in June—down from ..."
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 3,
+    "after-said": 3,
+    "maybe-after-said": 3,
+    "after-said-link-date": 0,
+    "undated": 9
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:06:41.050Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Workers' Paychecks Are Growing More Quickly Than Prices",
+      "url": "https://www.americanprogress.org/article/workers-paychecks-are-growing-more-quickly-than-prices/",
+      "domain": "americanprogress.org",
+      "snippet": "Most workers' wages are growing more quickly than prices, and the economic recovery following the COVID-19 recession has featured ...",
+      "published": "2024-01-03",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "L",
+        "reliability": "high",
+        "name": "Center for American Progress",
+        "page": "https://mediabiasfactcheck.com/center-for-american-progress/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Employers Choose Bonuses Over Raises",
+      "url": "https://www.wsj.com/articles/benefit-gains-exceed-wage-growth-new-labor-data-shows-1537289455",
+      "domain": "wsj.com",
+      "snippet": "The cost of benefits for private-sector employers rose 3% the cost of wages and salaries advanced 2.7%, the Labor Department said Tuesday. The ...",
+      "published": "2018-09-18",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Wall Street Journal",
+        "page": "https://mediabiasfactcheck.com/wall-street-journal/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Thirteen facts about wage growth",
+      "url": "https://www.brookings.edu/articles/thirteen-facts-about-wage-growth/",
+      "domain": "brookings.edu",
+      "snippet": "After adjusting for inflation, wages are only 10 percent higher in 2017 than they were in 1973, with annual real wage growth just below 0.2 ...",
+      "published": "2017-09-25",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Wages and Prices Are Up, but It Isn't a Spiral—Yet",
+      "url": "https://www.wsj.com/economy/jobs/wages-and-prices-are-up-but-it-isnt-a-spiralyet-11635688981",
+      "domain": "wsj.com",
+      "snippet": "Wages in the third quarter were up 4.2% from a year earlier, the fastest increase since 1990 as labor shortages in a widening range of ...",
+      "published": "2021-10-31",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Wall Street Journal",
+        "page": "https://mediabiasfactcheck.com/wall-street-journal/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Statistics can mislead as easily as they can enlighten",
+      "url": "https://www.csmonitor.com/2007/0315/p09s02-coop.html",
+      "domain": "csmonitor.com",
+      "snippet": "Indeed, the typical worker can even see his real-wage rate rise while the average rate falls! To see how, suppose that you calculate the average ...",
+      "published": "2007-03-15",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Christian Science Monitor",
+        "page": "https://mediabiasfactcheck.com/christian-science-monitor/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

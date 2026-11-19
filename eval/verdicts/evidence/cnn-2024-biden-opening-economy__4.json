@@ -1,0 +1,106 @@
+{
+  "case_id": "cnn-2024-biden-opening-economy#4",
+  "queries": {
+    "A": "We brought down the price of prescription drugs to $15 for an insulin shot, as opposed to $400 Biden",
+    "B": "Medicare insulin out-of-pocket cap per month"
+  },
+  "results": [
+    {
+      "q": "B",
+      "rank": 1,
+      "title": "New act championed by Warnock takes effect, marks $35 cap on insulin copays for Medicare",
+      "url": "https://wabe.org/?p=374034",
+      "domain": "wabe.org",
+      "published": "2023-01-04",
+      "snippet": "For the first time beginning this year, Medicare beneficiaries will see their insulin out-of-pocket prices capped at $35 per month. The change is part of the Inflation Reduction Act , championed by Democratic Sen. Raphael Warnock.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 5,
+      "title": "Does Medicare Cover the Insulin I Need for My Diabetes?",
+      "url": "https://www.aarp.org/health/medicare-insurance/info-2022/how-to-get-medicare-insulin-premium-2023",
+      "domain": "aarp.org",
+      "published": "2022-11-30",
+      "snippet": "Thanks to the Inflation Reduction Act , all Part D and Medicare Advantage plans now must cap users’ out-of-pocket costs for a 30-day supply of insulin at $35. This cap, which took effect in 2023, means the plans can’t charge you a deductible or higher copayments for insulin covered by the plan.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 6,
+      "title": "Medicare will offer a $35/month insulin-cost cap in 2021 | MDedge",
+      "url": "https://mdedge.com/content/medicare-will-offer-35/month-insulin-cost-cap-2021",
+      "domain": "mdedge.com",
+      "published": null,
+      "snippet": "U.S. Medicare beneficiaries with diabetes will be able to cap their out-of-pocket cost for insulin at no more than $35/month starting in January 2021 under a new coverage option in the Senior Savings Model, according to program details released by the Centers for Medicare & Medicaid Services on May 26.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://www.scientificamerican.com/article/fact-checking-the-presidential-candidates-on-abortion-drug-pricing-and/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.nbcdfw.com/decision-2024/fact-check-biden-trump-first-debate/3579295/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.nbcwashington.com/news/local/fact-check-biden-trump-first-debate/3652364/?amp=1",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.nbcnewyork.com/news/local/fact-check-biden-trump-first-debate/5549679/?amp=1",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.nbclosangeles.com/decision-2024/fact-check-biden-trump-first-debate/3447598/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.nbcmiami.com/news/local/fact-check-biden-trump-first-debate/3349189/?amp=1",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.nbcbayarea.com/news/local/fact-check-biden-trump-first-debate/3578981/?amp=1",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.nbclosangeles.com/decision-2024/fact-check-biden-trump-first-debate/3447598/?amp=1",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.nbclosangeles.com/news/local/fact-check-biden-trump-first-debate/3447598/?noamp=mobile",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.nbcdfw.com/decision-2024/fact-check-biden-trump-first-debate/3579295/?amp=1",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "B",
+      "url": "https://www.wabe.org/35-cap-on-insulin-copays-for-medicare-takes-effect/",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://beckershospitalreview.com/pharmacy/cms-caps-out-of-pocket-insulin-costs-for-medicare.html",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "B",
+      "url": "https://beckershospitalreview.com/pharmacy/cms-launches-part-d-plan-to-lower-insulin-costs.html",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    }
+  ]
+}

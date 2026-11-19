@@ -1,0 +1,359 @@
+{
+  "frozenAt": "2026-10-27T03:07:12.687Z",
+  "refilteredAt": "2026-10-27T03:33:33.266Z",
+  "id": "pf/katherine-clark/aca-enhanced-subsidies-renewal-government-shutdown",
+  "said": "2025-09-12",
+  "queries": {
+    "fact": "Republicans are spiking health insurance premiums by 75% for everyday Americans if they don’t extend enhanced Affordable Care Act subsidies.",
+    "claim": "Republicans are spiking health insurance premiums by 75% for everyday Americans if they don’t extend enhanced Affordable Care Act subsidies. Katherine Clark"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 3454.643959000008,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 3001.0852500000037,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 402.00800000000163,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Will health insurance costs rise 75% if Congress ends ACA ...",
+      "url": "https://www.houstonchronicle.com/politics/texas/politifact/article/aca-subisides-health-insurance-costs-21057405.php",
+      "domain": "houstonchronicle.com",
+      "published": "2025-09-22",
+      "publishedAsGiven": "Sep 22, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Fact-checking what politicians are saying about the 2025 ...",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-what-politicians-are-saying-about-the-2025-government-shutdown",
+      "domain": "pbs.org",
+      "published": "2025-10-02",
+      "publishedAsGiven": "Oct 2, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Fact check: Could Affordable Care Act health premiums ...",
+      "url": "https://www.wral.com/news/local/fact-check-affordable-care-act-premiums-rise-oct-2025/",
+      "domain": "wral.com",
+      "published": "2025-10-10",
+      "publishedAsGiven": "Oct 10, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Get the Facts: Checking Katherine Clark's claim on ACA ...",
+      "url": "https://www.wmur.com/article/get-the-facts-aca-premiums-subsidies/68160600",
+      "domain": "wmur.com",
+      "published": "2025-10-02",
+      "publishedAsGiven": "Oct 2, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Yes, ACA subsidies cut and premium rise could mean ...",
+      "url": "https://politifact.com/factchecks/2025/sep/17/katherine-clark/aca-enhanced-subsidies-renewal-government-shutdown/",
+      "domain": "politifact.com",
+      "published": "2025-09-17",
+      "publishedAsGiven": "Sep 17, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Republicans refused to extend ACA tax credits, and now ...",
+      "url": "https://www.facebook.com/RepStenyHoyer/posts/republicans-refused-to-extend-aca-tax-credits-and-now-millions-of-americans-are-/1589288625900153/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "How Congressional Republicans' Health Care Plans Will ...",
+      "url": "https://www.americanprogress.org/article/how-congressional-republicans-health-care-plans-will-spike-health-insurance-premiums-for-older-adults/",
+      "domain": "americanprogress.org",
+      "published": "2025-05-01",
+      "publishedAsGiven": "May 1, 2025",
+      "snippet": "Republican plans to slash Medicaid funding and allow the enhanced Affordable Care Act premium tax credits to expire will significantly raise ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Houston Chronicle",
+      "url": "https://x.com/HoustonChron/status/1970209234269749633",
+      "domain": "x.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Check-Up: Big Ugly Cuts Take Effect, Republicans ...",
+      "url": "http://democrats-budget.house.gov/resources/fact-sheet/check-big-ugly-cuts-take-effect-republicans-prescribe-second-dose",
+      "domain": "democrats-budget.house.gov",
+      "published": "2026-01-23",
+      "publishedAsGiven": "Jan 23, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Democrat Rep. Mark Veasey says Republican lawmakers \"don' ...",
+      "url": "https://www.facebook.com/ABCNewsLive/posts/democrat-rep-mark-veasey-says-republican-lawmakers-dont-care-if-americans-lose-t/1199973511986775/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Get the Facts: Checking Katherine Clark's claim on ACA ...",
+      "url": "https://www.wmur.com/article/get-the-facts-aca-premiums-subsidies/68160600",
+      "domain": "wmur.com",
+      "published": "2025-10-02",
+      "publishedAsGiven": "Oct 2, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Will health insurance costs rise 75% if Congress ends ACA ...",
+      "url": "https://www.houstonchronicle.com/politics/texas/politifact/article/aca-subisides-health-insurance-costs-21057405.php",
+      "domain": "houstonchronicle.com",
+      "published": "2025-09-22",
+      "publishedAsGiven": "Sep 22, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Fact-checking what politicians are saying about the 2025 ...",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-what-politicians-are-saying-about-the-2025-government-shutdown",
+      "domain": "pbs.org",
+      "published": "2025-10-02",
+      "publishedAsGiven": "Oct 2, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Yes, ACA subsidies cut and premium rise could mean ...",
+      "url": "https://politifact.com/factchecks/2025/sep/17/katherine-clark/aca-enhanced-subsidies-renewal-government-shutdown/",
+      "domain": "politifact.com",
+      "published": "2025-09-17",
+      "publishedAsGiven": "Sep 17, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Houston Chronicle",
+      "url": "https://x.com/HoustonChron/status/1970209234269749633",
+      "domain": "x.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Fact check: Could Affordable Care Act health premiums ...",
+      "url": "https://www.wral.com/news/local/fact-check-affordable-care-act-premiums-rise-oct-2025/",
+      "domain": "wral.com",
+      "published": "2025-10-10",
+      "publishedAsGiven": "Oct 10, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Federal Budget",
+      "url": "https://politifact.com/federal-budget/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "THE REPUBLICAN LEGISLATION THAT WILL BE ON THE ...",
+      "url": "http://democraticleader.house.gov/media/press-releases/leader-jeffries-republican-legislation-will-be-floor-week-does-nothing-keep",
+      "domain": "democraticleader.house.gov",
+      "published": "2025-12-15",
+      "publishedAsGiven": "Dec 15, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "These Republicans joined Democratic senators on health ...",
+      "url": "https://www.youtube.com/watch?v=PK-c9N68_B8",
+      "domain": "youtube.com",
+      "published": "2025-12-27",
+      "publishedAsGiven": "10 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Here are the 4 Republicans that broke party lines to force ...",
+      "url": "https://www.livenowfox.com/news/republicans-join-democrats-force-health-care-subsidies-vote",
+      "domain": "livenowfox.com",
+      "published": "2025-12-17",
+      "publishedAsGiven": "Dec 17, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Affordable Care Act enrollees say expiring subsidies will hit ...",
+      "url": "https://apnews.com/article/congress-health-care-subsidies-cost-aca-premiums-6a69b51aee8a6b04353b914e044f4efa",
+      "domain": "apnews.com",
+      "published": "2025-12-13",
+      "publishedAsGiven": "Dec 13, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Millions face skyrocketing health insurance costs unless ...",
+      "url": "https://apnews.com/article/congress-health-care-tax-credits-obamacare-shutdown-f1ee636ddba7f65baa5234c55cb0c96e",
+      "domain": "apnews.com",
+      "published": "2025-09-13",
+      "publishedAsGiven": "Sep 13, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Senate rejects extension of health care subsidies as costs ...",
+      "url": "https://apnews.com/article/health-care-vote-affordable-care-act-obamacare-6ffc1ea9f878c6b3da995589ef8a012c",
+      "domain": "apnews.com",
+      "published": "2025-12-11",
+      "publishedAsGiven": "Dec 11, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "US House passes Republican healthcare bill without ACA ...",
+      "url": "https://www.reuters.com/legal/litigation/republican-infighting-healthcare-erupts-us-house-subsidy-expiration-approaches-2025-12-17/",
+      "domain": "reuters.com",
+      "published": "2025-12-17",
+      "publishedAsGiven": "Dec 17, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Spineless GOP won't end shutdown until Trump ...",
+      "url": "https://www.usatoday.com/story/opinion/columnist/2025/10/13/government-still-shutdown-trump-health-insurance/86673033007/",
+      "domain": "usatoday.com",
+      "published": "2025-10-13",
+      "publishedAsGiven": "Oct 13, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "No Rescue for ACA Subsidies in GOP Senators' ...",
+      "url": "https://www.wsj.com/politics/policy/no-rescue-for-aca-subsidies-in-gop-senators-healthcare-plan-77ff98e2",
+      "domain": "wsj.com",
+      "published": "2025-12-09",
+      "publishedAsGiven": "Dec 9, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Speaker Mike Johnson's Push for a GOP Healthcare Bill",
+      "url": "https://www.wsj.com/podcasts/opinion-potomac-watch/speaker-mike-johnson-push-for-a-gop-healthcare-bill/504e4834-99c1-4223-aef7-3594e6262a4e",
+      "domain": "wsj.com",
+      "published": "2025-12-16",
+      "publishedAsGiven": "Dec 16, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Congress Punts Fight Over ACA Subsidies Into January, ...",
+      "url": "https://www.wsj.com/politics/policy/congress-punts-fight-over-aca-subsidies-into-january-leaving-consumers-in-limbo-0ed9669c",
+      "domain": "wsj.com",
+      "published": "2025-12-19",
+      "publishedAsGiven": "Dec 19, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "ACA insurers propose double-digit premium hikes for 2027",
+      "url": "https://apnews.com/article/affordable-care-act-obamacare-health-insurance-premiums-a2b6e95cea6555f12b992346245e2a2c",
+      "domain": "apnews.com",
+      "published": "2026-07-08",
+      "publishedAsGiven": "Jul 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "GOP confronts voter fear over rising health care premiums",
+      "url": "https://apnews.com/article/health-care-subsidies-obamacare-shutdown-e94d96a8a837a5f7f681dc6893872d3b",
+      "domain": "apnews.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "Oct 27, 2025",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 8,
+    "after-said": 16,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:07:03.166Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "How Congressional Republicans' Health Care Plans Will ...",
+      "url": "https://www.americanprogress.org/article/how-congressional-republicans-health-care-plans-will-spike-health-insurance-premiums-for-older-adults/",
+      "domain": "americanprogress.org",
+      "snippet": "Republican plans to slash Medicaid funding and allow the enhanced Affordable Care Act premium tax credits to expire will significantly raise ...",
+      "published": "2025-05-01",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "L",
+        "reliability": "high",
+        "name": "Center for American Progress",
+        "page": "https://mediabiasfactcheck.com/center-for-american-progress/"
+      },
+      "weight": "full",
+      "n": 1
+    }
+  ]
+}

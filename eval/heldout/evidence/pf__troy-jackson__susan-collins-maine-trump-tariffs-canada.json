@@ -1,0 +1,237 @@
+{
+  "frozenAt": "2026-10-27T03:21:13.572Z",
+  "refilteredAt": "2026-10-27T03:37:05.174Z",
+  "id": "pf/troy-jackson/susan-collins-maine-trump-tariffs-canada",
+  "said": "2026-08-28",
+  "queries": {
+    "fact": "When Sen. Susan Collins had the chance to actually vote to stop Trump’s tariffs from driving up costs for Maine families and businesses, she voted NO.",
+    "claim": "When Sen. Susan Collins had the chance to actually vote to stop Trump’s tariffs from driving up costs for Maine families and businesses, she voted NO. Troy Jackson"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2224.1725419999566,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1515.8343330000062,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "PolitiFact: Jackson is being misleading about Collins ...",
+      "url": "https://www.wmtw.com/article/troy-jackson-susan-collins-tariff-vote-claims-fact-check-maine-senate-race/73599215",
+      "domain": "wmtw.com",
+      "published": "2026-09-04",
+      "publishedAsGiven": "Sep 4, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "PolitiFact says Jackson is being misleading about Collins' ...",
+      "url": "https://www.youtube.com/watch?v=6cBiLwPCEEs",
+      "domain": "youtube.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Sen. Susan Collins continues drumbeat against “harmful” ...",
+      "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/senator-susan-collins-continues-drumbeat-against-harmful-new-trump-tariffs-canada/97-d79fb615-a11d-41eb-a10f-2a003b3dc8fa",
+      "domain": "newscentermaine.com",
+      "published": "2026-08-29",
+      "publishedAsGiven": "Aug 29, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "When Susan Collins had a chance to block Trump's blanket ...",
+      "url": "https://www.facebook.com/TroyJacksonmaine/posts/when-susan-collins-had-a-chance-to-block-trumps-blanket-tariffs-from-driving-up-/1622742489857805/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Did Susan Collins vote against stopping Trump's tariffs ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-susan-collins-vote-against-stopping-trumps-tariffs-from-raising-costs-for-maine-families/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-09-05",
+      "publishedAsGiven": "Sep 5, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Democratic Senate candidate Troy Jackson said when his ...",
+      "url": "https://www.facebook.com/wmtwtv/posts/democratic-senate-candidate-troy-jackson-said-when-his-opponent-republican-sen-s/1593801082795692/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Sen. Susan Collins continues drumbeat against “harmful” ...",
+      "url": "https://www.yahoo.com/news/politics/articles/sen-susan-collins-continues-drumbeat-184436604.html",
+      "domain": "yahoo.com",
+      "published": "2026-08-29",
+      "publishedAsGiven": "Aug 29, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Troy Jackson misleads on Susan Collins' tariff votes",
+      "url": "https://politifact.com/factchecks/2026/sep/02/troy-jackson/susan-collins-maine-trump-tariffs-canada/",
+      "domain": "politifact.com",
+      "published": "2026-09-02",
+      "publishedAsGiven": "Sep 2, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Oh look, another strongly worded letter. Give me a break. ...",
+      "url": "https://www.instagram.com/p/DcmO5favSn1/",
+      "domain": "instagram.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Seeking to help Collins in Maine, Trump exempts some ...",
+      "url": "https://www.pbs.org/newshour/politics/seeking-to-help-collins-in-maine-trump-exempts-some-canadian-imports-from-his-50-tariffs",
+      "domain": "pbs.org",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "PolitiFact: Jackson is being misleading about Collins ...",
+      "url": "https://www.wmtw.com/article/troy-jackson-susan-collins-tariff-vote-claims-fact-check-maine-senate-race/73599215",
+      "domain": "wmtw.com",
+      "published": "2026-09-04",
+      "publishedAsGiven": "Sep 4, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Sahil Kapur on X: \"Troy Jackson responds to Susan Collins ...",
+      "url": "https://x.com/sahilkapur/status/2093451765949534515",
+      "domain": "x.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Sen. Susan Collins continues drumbeat against “harmful” ...",
+      "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/senator-susan-collins-continues-drumbeat-against-harmful-new-trump-tariffs-canada/97-d79fb615-a11d-41eb-a10f-2a003b3dc8fa",
+      "domain": "newscentermaine.com",
+      "published": "2026-08-29",
+      "publishedAsGiven": "Aug 29, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Troy Jackson misleads on Susan Collins' tariff votes",
+      "url": "https://politifact.com/factchecks/2026/sep/02/troy-jackson/susan-collins-maine-trump-tariffs-canada/",
+      "domain": "politifact.com",
+      "published": "2026-09-02",
+      "publishedAsGiven": "Sep 2, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Democratic Senate candidate Troy Jackson said when his ...",
+      "url": "https://www.facebook.com/wmtwtv/posts/democratic-senate-candidate-troy-jackson-said-when-his-opponent-republican-sen-s/1593801082795692/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "When Susan Collins had a chance to block Trump's blanket ...",
+      "url": "https://www.facebook.com/TroyJacksonmaine/videos/when-susan-collins-had-a-chance-to-block-trumps-blanket-tariffs-from-driving-up-/1076641335016492/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Trump's tariffs loom over Maine Senate race between Collins ...",
+      "url": "https://www.youtube.com/shorts/hwb12UwoJmI",
+      "domain": "youtube.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Collins, Jackson duke it out in third Maine Senate debate",
+      "url": "https://www.abc27.com/national/collins-jackson-duke-it-out-in-third-maine-senate-debate-3-takeaways/",
+      "domain": "abc27.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "Oct 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Troy Jackson Steps Up Criticism of Susan Collins Over Trade ...",
+      "url": "https://www.c-span.org/clip/campaign-2026/troy-jackson-steps-up-criticism-of-susan-collins-over-trade-tariffs-impact-on-mainers/5208168",
+      "domain": "c-span.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Jackson Puts Collins on Defensive in US Senate Debates",
+      "url": "https://maineaflcio.org/news/jackson-puts-collins-defensive-us-senate-debates",
+      "domain": "maineaflcio.org",
+      "published": "2026-10-13",
+      "publishedAsGiven": "Oct 13, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 4,
+    "after-said": 7,
+    "maybe-after-said": 6,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:21:09.832Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

@@ -1,0 +1,235 @@
+{
+  "frozenAt": "2026-10-27T03:11:51.768Z",
+  "refilteredAt": "2026-10-27T03:34:42.476Z",
+  "id": "pf/sam-sutton/hate-crimes-new-york-city-houses-worship",
+  "said": "2026-03-11",
+  "queries": {
+    "fact": "From January 2025 to January 2026, hate crimes in New York City increased by 152%",
+    "claim": "From January 2025 to January 2026, hate crimes in New York City increased by 152% Sam Sutton"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2993.8541670000413,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1669.8029579999857,
+      "results": 5
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "NYPD ANNOUNCES FEWEST SHOOTING INCIDENTS ...",
+      "url": "https://www.nyc.gov/site/nypd/news/PR002/nypd-fewest-shooting-incidents-shooting-victims-murders-january",
+      "domain": "nyc.gov",
+      "published": "2026-02-02",
+      "publishedAsGiven": "Feb 2, 2026",
+      "snippet": "New York, New York – Police Commissioner Jessica S. Tisch today announced that the NYPD delivered the safest January ever for gun violence, with ..."
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "The numbers from NYPD reported on Spectrum News NY1 ...",
+      "url": "https://www.facebook.com/RabbiMSchneier/videos/the-numbers-from-nypd-reported-on-spectrum-news-ny1-should-concern-every-new-yor/1207644354349623/",
+      "domain": "facebook.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "snippet": "Overall major crime decreased 6.7%, while hate crimes increased 152% and antisemitic hate crimes increased 182%. “That is why the Jewish ..."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "New NYPD statistics show rise in antisemitic hate crimes",
+      "url": "https://ny1.com/nyc/queens/news/2026/02/03/new-nypd-statistics-show-rise-in-antisemitic-hate-crimes",
+      "domain": "ny1.com",
+      "published": "2026-02-03",
+      "publishedAsGiven": "Feb 3, 2026",
+      "snippet": "On Monday, a 17-year-old student at Renaissance Charter School in Queens sent an email threatening to kill Jewish people to 300 students."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Hate Crimes | New York",
+      "url": "https://www.justice.gov/hatecrimes/state-data/new-york",
+      "domain": "justice.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "New NYPD data shows a sharp increase in antisemitic ...",
+      "url": "https://www.facebook.com/IsraelinNY/posts/new-nypd-data-shows-a-sharp-increase-in-antisemitic-hate-crimesaccording-to-the-/1357354003100389/",
+      "domain": "facebook.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "snippet": "\"Anti- Jewish hate crimes increased by 182% in January 2026 compared to January 2025, statistics released Monday show. Overall, hate crimes ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "What Police Stats Really Say About Antisemitism in New ...",
+      "url": "https://nexusproject.us/nexus-resources/what-police-stats-really-say-about-antisemitism-in-new-york-city/",
+      "domain": "nexusproject.us",
+      "published": "2026-02-06",
+      "publishedAsGiven": "Feb 6, 2026",
+      "snippet": "But was January 2026 a particularly high month for anti-Jewish hate crime in NYC? Not really. Over the past two years, the NYPD reported an ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "MCCA-Violent-Crime-Report-2026-and-2025-First-Quarter. ...",
+      "url": "https://majorcitieschiefs.com/wp-content/uploads/2026/05/MCCA-Violent-Crime-Report-2026-and-2025-First-Quarter.pdf",
+      "domain": "majorcitieschiefs.com",
+      "published": "2026-05-06",
+      "publishedAsGiven": "May 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Fact-checking a 152% increase in hate crimes in New York ...",
+      "url": "https://politifact.com/factchecks/2026/may/05/sam-sutton/hate-crimes-new-york-city-houses-worship/",
+      "domain": "politifact.com",
+      "published": "2026-05-05",
+      "publishedAsGiven": "May 5, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "New York City had safest January on record in 2026, NYPD says",
+      "url": "https://www.youtube.com/watch?v=hfnPb_gNXfs",
+      "domain": "youtube.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "snippet": "The latest NYPD statistics shows murders are down 60% and shootings are down 20% compared to the same time in 2025."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Hate crimes spike in NYC, especially anti-Jewish crimes",
+      "url": "https://www.nbcnewyork.com/new-york-city/shootings-record-lows-hate-crimes-spike-nyc/6543882/",
+      "domain": "nbcnewyork.com",
+      "published": "2026-09-03",
+      "publishedAsGiven": "Sep 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact-checking a 152% increase in hate crimes in New York ...",
+      "url": "https://politifact.com/factchecks/2026/may/05/sam-sutton/hate-crimes-new-york-city-houses-worship/",
+      "domain": "politifact.com",
+      "published": "2026-05-05",
+      "publishedAsGiven": "May 5, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Blocks from Swastika Incident, Senator Sutton and ...",
+      "url": "https://www.nysenate.gov/newsroom/press-releases/2025/sam-sutton/blocks-swastika-incident-senator-sutton-and-governor-hochul",
+      "domain": "nysenate.gov",
+      "published": "2025-11-05",
+      "publishedAsGiven": "Nov 5, 2025",
+      "snippet": "Blocks from Swastika Incident, Senator Sutton and Governor Hochul Announce $20 Million in Additional Nonpublic School Safety Equipment Grant ..."
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Fact-checking a 152% increase in hate crimes in New York City",
+      "url": "https://wnymedia.net/2026/05/05/sam-sutton-fact-checking-a-152-increase-in-hate-crimes-in-new-york-city/",
+      "domain": "wnymedia.net",
+      "published": "2026-05-05",
+      "publishedAsGiven": "May 5, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Fact-checking a 152% jump in hate crimes in New York City",
+      "url": "https://se.headtopics.com/news/fact-checking-a-152-jump-in-hate-crimes-in-new-york-city-83014527",
+      "domain": "se.headtopics.com",
+      "published": "2026-05-05",
+      "publishedAsGiven": "May 5, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Senator Sam Sutton's Newsroom",
+      "url": "https://www.nysenate.gov/senators/sam-sutton/newsroom",
+      "domain": "nysenate.gov",
+      "published": null,
+      "dropped": "undated"
+    }
+  ],
+  "returned": 15,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 2,
+    "after-said": 2,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:11:47.103Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "NYPD ANNOUNCES FEWEST SHOOTING INCIDENTS ...",
+      "url": "https://www.nyc.gov/site/nypd/news/PR002/nypd-fewest-shooting-incidents-shooting-victims-murders-january",
+      "domain": "nyc.gov",
+      "snippet": "New York, New York – Police Commissioner Jessica S. Tisch today announced that the NYPD delivered the safest January ever for gun violence, with ...",
+      "published": "2026-02-02",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "Blocks from Swastika Incident, Senator Sutton and ...",
+      "url": "https://www.nysenate.gov/newsroom/press-releases/2025/sam-sutton/blocks-swastika-incident-senator-sutton-and-governor-hochul",
+      "domain": "nysenate.gov",
+      "snippet": "Blocks from Swastika Incident, Senator Sutton and Governor Hochul Announce $20 Million in Additional Nonpublic School Safety Equipment Grant ...",
+      "published": "2025-11-05",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    },
+    {
+      "title": "New NYPD statistics show rise in antisemitic hate crimes",
+      "url": "https://ny1.com/nyc/queens/news/2026/02/03/new-nypd-statistics-show-rise-in-antisemitic-hate-crimes",
+      "domain": "ny1.com",
+      "snippet": "On Monday, a 17-year-old student at Renaissance Charter School in Queens sent an email threatening to kill Jewish people to 300 students.",
+      "published": "2026-02-03",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    },
+    {
+      "title": "What Police Stats Really Say About Antisemitism in New ...",
+      "url": "https://nexusproject.us/nexus-resources/what-police-stats-really-say-about-antisemitism-in-new-york-city/",
+      "domain": "nexusproject.us",
+      "snippet": "But was January 2026 a particularly high month for anti-Jewish hate crime in NYC? Not really. Over the past two years, the NYPD reported an ...",
+      "published": "2026-02-06",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 4
+    }
+  ]
+}

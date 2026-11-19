@@ -1,0 +1,254 @@
+{
+  "frozenAt": "2026-10-27T03:23:20.239Z",
+  "refilteredAt": "2026-10-27T03:37:35.933Z",
+  "id": "pf/club-growth-action/kathy-castor-insider-trading",
+  "said": "2026-09-14",
+  "queries": {
+    "fact": "U.S. Rep. Kathy Castor repeatedly violated a law aimed at stopping members of Congress from insider trading.",
+    "claim": "U.S. Rep. Kathy Castor repeatedly violated a law aimed at stopping members of Congress from insider trading. Club for Growth Action"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2158.5869160001166,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1947.108167000115,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Ad misleads on claim that Rep. Kathy Castor violated an ...",
+      "url": "https://politifact.com/factchecks/2026/oct/22/club-growth-action/kathy-castor-insider-trading/",
+      "domain": "politifact.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "119th Congress (2025-2026): Stop Insider Trading Act",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/7008",
+      "domain": "congress.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "The STOCK Act: The Failed Effort to Stop Insider Trading in ...",
+      "url": "https://campaignlegal.org/update/stock-act-failed-effort-stop-insider-trading-congress",
+      "domain": "campaignlegal.org",
+      "published": "2022-02-18",
+      "publishedAsGiven": "Feb 18, 2022",
+      "snippet": "Congress passed the Stop Trading on Congressional Knowledge Act (STOCK Act) in 2012, following more than 10 years of allegations of insider ..."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Stop Insider Trading Act Passes House: Banning Congress ...",
+      "url": "https://www.facebook.com/RepMikeLawler/videos/the-stop-insider-trading-act-just-passed-banning-members-of-congress-from-tradin/1351720287110106/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "snippet": "U.S. Representative Jared Huffman discusses the issue of banning members of Congress from trading stocks. He specifically critiques a Republican ..."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Rep. Kathy Castor - Scorecard 119: 14%",
+      "url": "https://heritageaction.com/scorecard/members/c001066",
+      "domain": "heritageaction.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Congress has an insider trading problem & the solution is ...",
+      "url": "https://www.facebook.com/RepYoungKim/posts/congress-has-an-insider-trading-problem-the-solution-is-simple-members-of-congre/1742041474597104/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Stopping members of Congress from trading stocks",
+      "url": "https://issueone.org/solutions/policy-solution-stopping-members-of-congress-from-trading-stocks/",
+      "domain": "issueone.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Prohibit Insider Trading Act - Congressman Zach Nunn",
+      "url": "https://nunn.house.gov/priorities/sl/prohibit-insider-trading-act/",
+      "domain": "nunn.house.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "INSIDER TRADING, CONGRESSIONAL OFFICIALS, AND ...",
+      "url": "https://www.bu.edu/law/journals-archive/bulr/documents/nagy.pdf",
+      "domain": "bu.edu",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "The Stop Insider Trading Act, a bill that would attempt to ban ...",
+      "url": "https://www.instagram.com/reel/DbMJMHKCUvC/?hl=en",
+      "domain": "instagram.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "snippet": "The Stop Insider Trading Act, a bill that would attempt to ban members of Congress from buying new equities, just passed in the House."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Ad misleads on claim that Rep. Kathy Castor violated an ...",
+      "url": "https://politifact.com/factchecks/2026/oct/22/club-growth-action/kathy-castor-insider-trading/",
+      "domain": "politifact.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Rep. Kathy Castor - Scorecard 119: 14%",
+      "url": "https://heritageaction.com/scorecard/members/c001066",
+      "domain": "heritageaction.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "The STOCK Act: The Failed Effort to Stop Insider Trading in ...",
+      "url": "https://campaignlegal.org/update/stock-act-failed-effort-stop-insider-trading-congress",
+      "domain": "campaignlegal.org",
+      "published": "2022-02-18",
+      "publishedAsGiven": "Feb 18, 2022",
+      "snippet": "Congress passed the Stop Trading on Congressional Knowledge Act (STOCK Act) in 2012, following more than 10 years of allegations of insider ..."
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "119th Congress (2025-2026): Stop Insider Trading Act",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/7008",
+      "domain": "congress.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Congressional Stock Trading, Explained",
+      "url": "https://www.brennancenter.org/our-work/research-reports/congressional-stock-trading-explained",
+      "domain": "brennancenter.org",
+      "published": "2025-09-04",
+      "publishedAsGiven": "Sep 4, 2025",
+      "snippet": "The Securities Exchange Act of 1934 aimed to prevent insider trading on the stock market by mandating disclosures, but that requirement did not ..."
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "A conservative super PAC ad says U.S. Rep. Kathy Castor ...",
+      "url": "https://www.facebook.com/politifact/posts/a-conservative-super-pac-ad-says-us-rep-kathy-castor-d-fla-repeatedly-violated-t/1590540786440352/",
+      "domain": "facebook.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "No one in government should be allowed to profit off of the ...",
+      "url": "https://www.facebook.com/SenatorAndyKim/videos/no-one-in-government-should-be-allowed-to-profit-off-of-the-information-or-influ/1147661750859332/",
+      "domain": "facebook.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "snippet": "The bill aims to ban members of Congress from buying and selling individual stocks. The senator argues that this is necessary because members of ..."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Prohibit Insider Trading Act - Congressman Zach Nunn",
+      "url": "https://nunn.house.gov/priorities/sl/prohibit-insider-trading-act/",
+      "domain": "nunn.house.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "House Committee holds hearing on STOCK Act aimed at ...",
+      "url": "https://www.youtube.com/watch?v=OBDirpWIB1w",
+      "domain": "youtube.com",
+      "published": "2025-11-27",
+      "publishedAsGiven": "11 months ago",
+      "snippet": "LIVE | House Committee holds hearing on STOCK Act aimed at combating insider trading in Congress. @TheEconomicTimes 60 likes 1.6K views ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "78 Members of Congress Caught Violating Law on Stock ...",
+      "url": "https://www.businessinsider.com/congress-stock-act-violations-senate-house-trading-2021-9",
+      "domain": "businessinsider.com",
+      "published": null,
+      "dropped": "undated"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 1,
+    "after-said": 0,
+    "maybe-after-said": 1,
+    "after-said-link-date": 0,
+    "undated": 9
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:23:14.881Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "The STOCK Act: The Failed Effort to Stop Insider Trading in ...",
+      "url": "https://campaignlegal.org/update/stock-act-failed-effort-stop-insider-trading-congress",
+      "domain": "campaignlegal.org",
+      "snippet": "Congress passed the Stop Trading on Congressional Knowledge Act (STOCK Act) in 2012, following more than 10 years of allegations of insider ...",
+      "published": "2022-02-18",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "Congressional Stock Trading, Explained",
+      "url": "https://www.brennancenter.org/our-work/research-reports/congressional-stock-trading-explained",
+      "domain": "brennancenter.org",
+      "snippet": "The Securities Exchange Act of 1934 aimed to prevent insider trading on the stock market by mandating disclosures, but that requirement did not ...",
+      "published": "2025-09-04",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    }
+  ]
+}

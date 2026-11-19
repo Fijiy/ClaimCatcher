@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- ClaimCatcher mark (direction A, "bracketed claim"): a speech bubble
+       held in square brackets: the bubble #141414, the left bracket blue
+       (#1d4ed8) and the right bracket red (#b91c1c), the bias-pill colours. The thin white outline for dark
+       toolbars is baked in as geometry (the same shapes stroked white
+       underneath), not a filter, so every rasteriser draws it the same.
+       Sizes below 32 px use icon-16.svg, the same mark snapped to pixels. -->
+  <defs>
+    <path id="left" d="M8 3.6H3.1V28.4H8V25.6H5.9V6.4H8Z"/>
+    <path id="right" d="M24 3.6H28.9V28.4H24V25.6H26.1V6.4H24Z"/>
+    <path id="bubble" d="M12 9H20A3 3 0 0 1 23 12V17A3 3 0 0 1 20 20H15L11 24V19.83A3 3 0 0 1 9 17V12A3 3 0 0 1 12 9Z"/>
+    <g id="mark"><use href="#left"/><use href="#right"/><use href="#bubble"/></g>
+  </defs>
+  <use href="#mark" fill="#fff" stroke="#fff" stroke-width="2.2" stroke-linejoin="round"/>
+  <use href="#left" fill="#1d4ed8"/>
+  <use href="#right" fill="#b91c1c"/>
+  <use href="#bubble" fill="#141414"/>
+</svg>

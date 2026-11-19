@@ -1,0 +1,249 @@
+{
+  "frozenAt": "2026-10-27T03:15:54.481Z",
+  "refilteredAt": "2026-10-27T03:35:45.677Z",
+  "id": "pf/david-jolly/david-jolly-florida-hospital-cost-governor-race",
+  "said": "2026-06-11",
+  "queries": {
+    "fact": "Florida is 49th in avoidable hospital costs.",
+    "claim": "Florida is 49th in avoidable hospital costs. David Jolly"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1569.4271660000086,
+      "results": 9
+    },
+    {
+      "query": "claim",
+      "ms": 1985.7143749999814,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Florida FY 2025–26 Budget Summary: Health",
+      "url": "https://www.floridapolicy.org/posts/health",
+      "domain": "floridapolicy.org",
+      "published": "2025-09-15",
+      "publishedAsGiven": "Sep 15, 2025",
+      "snippet": "Sep 15, 2025 — Florida ranks 49 th in potentially avoidable hospital use and cost , meaning that that the state pays more than others due to a lack of timely ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Florida",
+      "url": "https://www.commonwealthfund.org/datacenter/florida",
+      "domain": "commonwealthfund.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Is FL 49th in avoidable hospital costs, as David Jolly said?",
+      "url": "https://politifact.com/factchecks/2026/jun/24/david-jolly/david-jolly-florida-hospital-cost-governor-race/",
+      "domain": "politifact.com",
+      "published": "2026-06-24",
+      "publishedAsGiven": "Jun 24, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Florida Budget: Healthcare at a Glance",
+      "url": "https://floridahealthjustice.org/wp-content/uploads/2026/08/FHJP_Florida-Budget.pdf",
+      "domain": "floridahealthjustice.org",
+      "published": null,
+      "dropped": "after-said-link-date"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Explore Preventable Hospitalizations in Florida | AHR",
+      "url": "https://www.americashealthrankings.org/explore/measures/prev_hosp_b/FL",
+      "domain": "americashealthrankings.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Florida Democratic gubernatorial candidate David Jolly ...",
+      "url": "https://www.facebook.com/politifact/posts/florida-democratic-gubernatorial-candidate-david-jolly-recently-said-the-state-r/1471587258335706/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Hospital Finance",
+      "url": "https://www.fha.org/FHA/FHA/Health-Care/Hospital_Finance.aspx",
+      "domain": "fha.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Florida Health Price Finder",
+      "url": "https://price.healthfinder.fl.gov/",
+      "domain": "price.healthfinder.fl.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Key Facts About Hospitals",
+      "url": "https://www.kff.org/health-costs/key-facts-about-hospitals/",
+      "domain": "kff.org",
+      "published": "2025-02-19",
+      "publishedAsGiven": "Feb 19, 2025",
+      "snippet": "Feb 19, 2025 — Hospitals account for nearly one third (31%) of total health care spending—$1.5 trillion in 2023—with expenditures projected to rise rapidly ... Read more"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Florida governor candidate David Jolly says the state is 49th in ...",
+      "url": "https://politifact.com/factchecks/2026/jun/24/david-jolly/david-jolly-florida-hospital-cost-governor-race/",
+      "domain": "politifact.com",
+      "published": "2026-06-24",
+      "publishedAsGiven": "Jun 24, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Gubernatorial candidates celebrate victory, switch focus to general ...",
+      "url": "https://www.mysuncoast.com/2026/08/19/gubernatorial-candidates-celebrate-victory-switch-focus-general-election/",
+      "domain": "mysuncoast.com",
+      "published": "2026-08-19",
+      "publishedAsGiven": "Aug 19, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "David Jolly calls for Florida Medicaid expansion",
+      "url": "https://floridaindependentnews.com/health-care/david-jolly-calls-for-florida-medicaid-expansion/",
+      "domain": "floridaindependentnews.com",
+      "published": "2026-09-15",
+      "publishedAsGiven": "Sep 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "The backlog for disability care and Medicaid expansion",
+      "url": "https://www.fox13news.com/news/backlog-disability-care-medicaid-expansion-where-floridas-candidates-governor-stand",
+      "domain": "fox13news.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "1 day ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Housing, health care, and education. That's what it's all about. We ...",
+      "url": "https://www.instagram.com/reel/DY96vijFDiR/?hl=en",
+      "domain": "instagram.com",
+      "published": "2026-05-30",
+      "publishedAsGiven": "May 30, 2026",
+      "snippet": "... 49th state in the country, in avoidable hospital costs.”Listen to David Jolly's unscripted speech at our Town Hall in Celebration, FL."
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Latest Fact-Checks On David Jolly - PolitiFact",
+      "url": "https://politifact.com/factchecks/list/?speaker=david-jolly",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "David Jolly on Instagram: \"An incredible crowd at the Democrats of ...",
+      "url": "https://www.instagram.com/p/Daz6oHEEWSM/?hl=en",
+      "domain": "instagram.com",
+      "published": "2026-07-15",
+      "publishedAsGiven": "Jul 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "David Jolly on Instagram: \"Incredible day in Ft. Myers and Estero ...",
+      "url": "https://www.instagram.com/reel/DWcGyu6EVhj/?hl=en",
+      "domain": "instagram.com",
+      "published": "2026-03-28",
+      "publishedAsGiven": "Mar 28, 2026",
+      "snippet": "I'm voting for David Jolly for Florida Governor. It's ... For example, we are the 49th state in the country, in avoidable hospital costs."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Going for Governor: David Jolly Pursues a Post-DeSantis Florida",
+      "url": "https://www.contrariannews.org/p/going-for-governor-david-jolly-pursues",
+      "domain": "contrariannews.org",
+      "published": "2026-08-19",
+      "publishedAsGiven": "Aug 19, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Health Care - PolitiFact",
+      "url": "https://politifact.com/health-care/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    }
+  ],
+  "returned": 19,
+  "dropped": {
+    "fact-checker": 4,
+    "fact-check-words": 1,
+    "after-said": 5,
+    "maybe-after-said": 0,
+    "after-said-link-date": 1,
+    "undated": 4
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:15:50.924Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Key Facts About Hospitals",
+      "url": "https://www.kff.org/health-costs/key-facts-about-hospitals/",
+      "domain": "kff.org",
+      "snippet": "Feb 19, 2025 — Hospitals account for nearly one third (31%) of total health care spending—$1.5 trillion in 2023—with expenditures projected to rise rapidly ... Read more",
+      "published": "2025-02-19",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Kaiser Family Foundation",
+        "page": "https://mediabiasfactcheck.com/kaiser-family-foundation/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Florida FY 2025–26 Budget Summary: Health",
+      "url": "https://www.floridapolicy.org/posts/health",
+      "domain": "floridapolicy.org",
+      "snippet": "Sep 15, 2025 — Florida ranks 49 th in potentially avoidable hospital use and cost , meaning that that the state pays more than others due to a lack of timely ... Read more",
+      "published": "2025-09-15",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "frozenAt": "2026-10-27T03:20:23.010Z",
+  "refilteredAt": "2026-10-27T03:36:50.085Z",
+  "id": "pf/byron-donalds/fl-governor-tax-tips-social-security-income-tax",
+  "said": "2026-08-24",
+  "queries": {
+    "fact": "Florida Democratic gubernatorial nominee David Jolly wants more taxes on tips, overtime and Social Security.",
+    "claim": "Florida Democratic gubernatorial nominee David Jolly wants more taxes on tips, overtime and Social Security. Byron Donalds"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2796.0077919999603,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1211.4117499999702,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Florida governor's race: Donalds wrong that Jolly wants tax ...",
+      "url": "https://www.wlrn.org/government-politics/2026-09-14/florida-governors-race-donalds-wrong-that-jolly-wants-tax-hikes-ignores-florida-has-no-income-tax",
+      "domain": "wlrn.org",
+      "published": "2026-09-14",
+      "publishedAsGiven": "Sep 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Florida governor's race: Donalds wrong that Jolly wants tax ...",
+      "url": "https://politifact.com/factchecks/2026/sep/11/byron-donalds/fl-governor-tax-tips-social-security-income-tax/",
+      "domain": "politifact.com",
+      "published": "2026-09-11",
+      "publishedAsGiven": "Sep 11, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Florida ad against David Jolly rated mostly false",
+      "url": "https://www.gulfcoastnewsnow.com/article/florida-gov-campaign-ad-fact-check-jolly-donalds/73763480",
+      "domain": "gulfcoastnewsnow.com",
+      "published": "2026-09-16",
+      "publishedAsGiven": "Sep 16, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Fact-checking claims from Florida governor candidates ...",
+      "url": "https://www.wuft.org/politics/2026-10-16/fact-checking-claims-from-florida-governor-candidates-david-jolly-and-byron-donalds",
+      "domain": "wuft.org",
+      "published": "2026-10-16",
+      "publishedAsGiven": "Oct 16, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Byron Donalds ad misses the mark on David Jolly and taxes",
+      "url": "https://www.wesh.com/article/byron-donalds-ad-misses-mark-on-david-jolly-and-taxes/73573644",
+      "domain": "wesh.com",
+      "published": "2026-09-02",
+      "publishedAsGiven": "Sep 2, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Fact or fiction? Florida's political attack ads are everywhere ...",
+      "url": "https://folioweekly.com/2026/10/21/fact-or-fiction-floridas-political-attack-ads-are-everywhere-we-checked-the-claims/",
+      "domain": "folioweekly.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Editorial: Big money can distort campaign reality",
+      "url": "https://www.yahoo.com/news/politics/articles/editorial-big-money-distort-campaign-134000902.html",
+      "domain": "yahoo.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Byron Donalds, David Jolly trade blows on taxation",
+      "url": "https://floridapolitics.com/archives/816377-byron-donalds-david-jolly-trade-blows-on-taxation/",
+      "domain": "floridapolitics.com",
+      "published": "2026-08-24",
+      "publishedAsGiven": "Aug 24, 2026",
+      "snippet": "I voted for no tax on overtime. I voted for no tax on Social Security. We delivered real relief. David Jolly opposed that legislation because ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "A campaign ad for Republican gubernatorial nominee ...",
+      "url": "https://www.facebook.com/GulfCoastNewsNow/posts/a-campaign-ad-for-republican-gubernatorial-nominee-byron-donalds-accuses-democra/1542218931280156/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Political ad targeting Florida gubernatorial candidate David ...",
+      "url": "https://www.youtube.com/watch?v=Pea4-wF8rO0",
+      "domain": "youtube.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Florida governor's race: Donalds wrong that Jolly wants tax ...",
+      "url": "https://www.wlrn.org/light/government-politics/2026-09-14/florida-governors-race-donalds-wrong-that-jolly-wants-tax-hikes-ignores-florida-has-no-income-tax",
+      "domain": "wlrn.org",
+      "published": "2026-09-14",
+      "publishedAsGiven": "Sep 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact-checking David Jolly's claim that Byron Donalds ...",
+      "url": "https://politifact.com/factchecks/2026/oct/26/david-jolly/donalds-fl-governor-midterms-jim-crow-black-family/",
+      "domain": "politifact.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "6 hours ago",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Byron Donalds ad misses the mark on David Jolly and taxes",
+      "url": "https://www.wesh.com/article/byron-donalds-ad-misses-mark-on-david-jolly-and-taxes/73573644",
+      "domain": "wesh.com",
+      "published": "2026-09-02",
+      "publishedAsGiven": "Sep 2, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "A campaign ad for Republican gubernatorial nominee ...",
+      "url": "https://www.facebook.com/GulfCoastNewsNow/posts/a-campaign-ad-for-republican-gubernatorial-nominee-byron-donalds-accuses-democra/1542218931280156/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Fact-checking claims from Florida governor candidates ...",
+      "url": "https://www.wuft.org/politics/2026-10-16/fact-checking-claims-from-florida-governor-candidates-david-jolly-and-byron-donalds",
+      "domain": "wuft.org",
+      "published": "2026-10-16",
+      "publishedAsGiven": "Oct 16, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Political ad targeting Florida gubernatorial candidate David ...",
+      "url": "https://www.youtube.com/watch?v=Pea4-wF8rO0",
+      "domain": "youtube.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "A campaign ad for Republican gubernatorial nominee ...",
+      "url": "https://www.instagram.com/p/DdX1ttZF2ki/",
+      "domain": "instagram.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Florida ad against David Jolly rated mostly false",
+      "url": "https://www.gulfcoastnewsnow.com/article/florida-gov-campaign-ad-fact-check-jolly-donalds/73763480",
+      "domain": "gulfcoastnewsnow.com",
+      "published": "2026-09-16",
+      "publishedAsGiven": "Sep 16, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Editorial: Big money can distort campaign reality",
+      "url": "https://www.orlandosentinel.com/2026/10/23/the-danger-to-democracy-is-right-on-your-tv-editorial/",
+      "domain": "orlandosentinel.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Byron Donalds, David Jolly trade blows on taxation",
+      "url": "https://floridapolitics.com/archives/816377-byron-donalds-david-jolly-trade-blows-on-taxation/",
+      "domain": "floridapolitics.com",
+      "published": "2026-08-24",
+      "publishedAsGiven": "Aug 24, 2026",
+      "snippet": "“I voted for no tax on tips. I voted for no tax on overtime. I voted for no tax on Social Security. We delivered real relief. David Jolly ..."
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 7,
+    "after-said": 9,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:20:19.002Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Byron Donalds, David Jolly trade blows on taxation",
+      "url": "https://floridapolitics.com/archives/816377-byron-donalds-david-jolly-trade-blows-on-taxation/",
+      "domain": "floridapolitics.com",
+      "snippet": "I voted for no tax on overtime. I voted for no tax on Social Security. We delivered real relief. David Jolly opposed that legislation because ...",
+      "published": "2026-08-24",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

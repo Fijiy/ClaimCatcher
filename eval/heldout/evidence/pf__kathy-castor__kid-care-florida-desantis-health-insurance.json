@@ -1,0 +1,227 @@
+{
+  "frozenAt": "2026-10-27T03:14:44.234Z",
+  "refilteredAt": "2026-10-27T03:35:28.171Z",
+  "id": "pf/kathy-castor/kid-care-florida-desantis-health-insurance",
+  "said": "2026-04-29",
+  "queries": {
+    "fact": "Florida is the only state in the nation kicking children off their affordable health coverage.",
+    "claim": "Florida is the only state in the nation kicking children off their affordable health coverage. Kathy Castor"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2041.3843750000233,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2407.7478330000304,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Yes, Florida is the only state in the nation removing ...",
+      "url": "https://www.wlrn.org/health/2026-05-15/florida-is-the-only-state-in-the-nation-removing-children-from-low-cost-health-insurance",
+      "domain": "wlrn.org",
+      "published": "2026-05-15",
+      "publishedAsGiven": "May 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Florida is the only state removing children from low",
+      "url": "https://www.facebook.com/tampabaycom/posts/florida-is-the-only-state-removing-children-from-low-cost-health-insurance-link/1417845327053838/",
+      "domain": "facebook.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "True: Florida is the only state removing children from low- ...",
+      "url": "https://floridahealthjustice.org/publications/true-florida-is-the-only-state-removing-children-from-low-cost-health-insurance/",
+      "domain": "floridahealthjustice.org",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Yes, Florida is the only state in the nation removing ...",
+      "url": "https://politifact.com/factchecks/2026/may/14/kathy-castor/kid-care-florida-desantis-health-insurance/",
+      "domain": "politifact.com",
+      "published": "2026-05-14",
+      "publishedAsGiven": "May 14, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Health Insurance Coverage of Children 0-18",
+      "url": "https://www.kff.org/state-health-policy-data/state-indicator/children-0-18/",
+      "domain": "kff.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Florida Kidcare Expansion Stalled: 42000 Children Still Waiting ...",
+      "url": "https://www.facebook.com/cfpublicmedia/videos/more-than-42000-children-are-waiting-for-florida-to-roll-out-a-health-insurance-/1304193991595334/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "snippet": "More than 42000 children are waiting for Florida to roll out a health insurance program that was supposed to go into effect two years ago."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Florida KidCare - Title XXI – Children's Health Insurance ...",
+      "url": "https://ahca.myflorida.com/medicaid/medicaid-policy-quality-and-operations/medicaid-policy-and-quality/medicaid-policy/program-policy/florida-kidcare-title-xxi-children-s-health-insurance-program-chip.html",
+      "domain": "ahca.myflorida.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Florida Connecting Kids to Coverage | Quality, Affordable ...",
+      "url": "https://floridaconnectingkidstocoverage.com/",
+      "domain": "floridaconnectingkidstocoverage.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Overview | Florida Covering Kids & Families",
+      "url": "https://health.usf.edu/publichealth/research/chiles/fckaf/",
+      "domain": "health.usf.edu",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Children's Health Insurance Program (CHIP)",
+      "url": "https://www.healthcare.gov/medicaid-chip/childrens-health-insurance-program/",
+      "domain": "healthcare.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Rep. Castor, FL Dems Call on DeSantis to Follow the Law ...",
+      "url": "https://castor.house.gov/news/documentsingle.aspx?DocumentID=405115",
+      "domain": "castor.house.gov",
+      "published": "2026-01-08",
+      "publishedAsGiven": "Jan 8, 2026",
+      "snippet": "Florida is the only state in the nation brazenly defying federal protections and disenrolling insured children in families with incomes up to ..."
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Every FL kid deserves to grow up healthy and thrive—not ...",
+      "url": "https://www.facebook.com/USRepKathyCastor/posts/every-fl-kid-deserves-to-grow-up-healthy-and-thrivenot-having-their-health-care-/1549626623207937/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "True: Florida is the only state removing children from low- ...",
+      "url": "https://floridahealthjustice.org/publications/true-florida-is-the-only-state-removing-children-from-low-cost-health-insurance/",
+      "domain": "floridahealthjustice.org",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Kathy Castor",
+      "url": "https://www.congress.gov/member/kathy-castor/C001066",
+      "domain": "congress.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Cutting health care for hundreds of thousands of Floridians to ...",
+      "url": "https://www.facebook.com/KathyCastor/videos/cutting-health-care-for-hundreds-of-thousands-of-floridians-to-hand-tax-breaks-t/1444551310885354/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "About Kathy - Castor for Congress",
+      "url": "https://castorforcongress.com/about/",
+      "domain": "castorforcongress.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Yes, Florida is the only state in the nation removing ...",
+      "url": "https://www.wlrn.org/light/health/2026-05-15/florida-is-the-only-state-in-the-nation-removing-children-from-low-cost-health-insurance",
+      "domain": "wlrn.org",
+      "published": "2026-05-15",
+      "publishedAsGiven": "May 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Health Insurance Reform | U.S. Representative Kathy Castor",
+      "url": "https://castor.house.gov/7523478623459873456694352387/ahca.htm",
+      "domain": "castor.house.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Rep. Kathy Castor slams DeSantis' proposed congressional ...",
+      "url": "https://www.youtube.com/watch?v=JA0-2vFv8uw",
+      "domain": "youtube.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "snippet": "The nationwide redistricting fight is now in Florida, where lawmakers are weighing Gov. Ron DeSantis' proposal to redraw the state's ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Rep. Kathy Castor - Scorecard 115: 6%",
+      "url": "https://heritageaction.com/scorecard/members/C001066/115",
+      "domain": "heritageaction.com",
+      "published": null,
+      "dropped": "undated"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 2,
+    "after-said": 4,
+    "maybe-after-said": 1,
+    "after-said-link-date": 0,
+    "undated": 9
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:14:39.783Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

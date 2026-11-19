@@ -1,0 +1,280 @@
+{
+  "frozenAt": "2026-10-27T03:01:54.075Z",
+  "refilteredAt": "2026-10-27T03:32:19.609Z",
+  "id": "pf/common-cause/yes-wisconsin-makes-it-harder-to-vote-than-most-ot",
+  "said": "2025-01-08",
+  "queries": {
+    "fact": "Wisconsin makes it more difficult for its citizens to vote than almost any state in the nation.",
+    "claim": "Wisconsin makes it more difficult for its citizens to vote than almost any state in the nation. Common Cause"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1745.627667,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1316.03425,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Yes, Wisconsin makes it harder to vote than most other states",
+      "url": "https://www.jsonline.com/story/news/politics/politifactwisconsin/2025/01/28/yes-wisconsin-makes-it-harder-to-vote-than-most-other-states/77970957007/",
+      "domain": "jsonline.com",
+      "published": "2025-01-28",
+      "publishedAsGiven": "Jan 28, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Yes, Wisconsin makes it harder to vote than most other ...",
+      "url": "https://politifact.com/factchecks/2025/jan/28/common-cause/yes-wisconsin-makes-it-harder-to-vote-than-most-ot/",
+      "domain": "politifact.com",
+      "published": "2025-01-28",
+      "publishedAsGiven": "Jan 28, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Policy Watch: High Stakes for Voters in…",
+      "url": "https://www.joycefdn.org/policy-watch/high-stakes-for-voters-in-upcoming-wisconsin-election",
+      "domain": "joycefdn.org",
+      "published": "2025-03-27",
+      "publishedAsGiven": "Mar 27, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Fact check: Yes, Wisconsin makes it harder to vote than ...",
+      "url": "https://www.reddit.com/r/wisconsin/comments/1rbdgd7/fact_check_yes_wisconsin_makes_it_harder_to_vote/",
+      "domain": "reddit.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "As voting has gotten harder in Wisconsin, organizers have ...",
+      "url": "https://pbswisconsin.org/news-item/as-voting-has-gotten-harder-in-wisconsin-organizers-have-found-ways-to-help/",
+      "domain": "pbswisconsin.org",
+      "published": "2023-05-15",
+      "publishedAsGiven": "May 15, 2023",
+      "snippet": "In 2022, Wisconsin was among the most difficult places to register and vote, ranking 47th. Wisconsin makes voting harder than nearly every state."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "A Terrible Idea Whose Time Should Never Come to ...",
+      "url": "https://www.commoncause.org/wisconsin/press/a-terrible-idea-whose-time-should-never-come-to-wisconsin/",
+      "domain": "commoncause.org",
+      "published": "2025-01-08",
+      "publishedAsGiven": "Jan 8, 2025",
+      "snippet": "Wisconsin would be one of the very first states in the nation to enshrine voter suppression in its state constitution. Do Wisconsin voters ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Not an April Fool's joke",
+      "url": "https://duluthreader.com/articles/2025/03/20/130908-not-an-april-fools-joke",
+      "domain": "duluthreader.com",
+      "published": "2025-03-20",
+      "publishedAsGiven": "Mar 20, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Since 2010, Wisconsin Republicans have made voting ...",
+      "url": "https://publicintegrity.org/politics/elections/us-polling-places/wisconsin-republicans-voters-difficult-for-people-of-color/",
+      "domain": "publicintegrity.org",
+      "published": "2020-10-09",
+      "publishedAsGiven": "Oct 9, 2020",
+      "snippet": "Since 2010, Wisconsin Republicans have made voting more difficult for people of color Photo ID and felony convictions are barriers many voters ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Wisconsin has not counted more votes than there are ...",
+      "url": "https://apnews.com/article/fact-check-wisconsin-vote-vs-voters-9672223878",
+      "domain": "apnews.com",
+      "published": "2020-11-06",
+      "publishedAsGiven": "Nov 6, 2020",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Wisconsin Citizenship Voting Requirement Amendment ...",
+      "url": "https://ballotpedia.org/Wisconsin_Citizenship_Voting_Requirement_Amendment_(2024)",
+      "domain": "ballotpedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "A Terrible Idea Whose Time Should Never Come to ...",
+      "url": "https://www.commoncause.org/wisconsin/press/a-terrible-idea-whose-time-should-never-come-to-wisconsin/",
+      "domain": "commoncause.org",
+      "published": "2025-01-08",
+      "publishedAsGiven": "Jan 8, 2025",
+      "snippet": "Wisconsin would be one of the very first states in the nation to enshrine voter suppression in its state constitution. Do Wisconsin voters ..."
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Yes, Wisconsin makes it harder to vote than most other states",
+      "url": "https://www.jsonline.com/story/news/politics/politifactwisconsin/2025/01/28/yes-wisconsin-makes-it-harder-to-vote-than-most-other-states/77970957007/",
+      "domain": "jsonline.com",
+      "published": "2025-01-28",
+      "publishedAsGiven": "Jan 28, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Yes, Wisconsin makes it harder to vote than most other ...",
+      "url": "https://politifact.com/factchecks/2025/jan/28/common-cause/yes-wisconsin-makes-it-harder-to-vote-than-most-ot/",
+      "domain": "politifact.com",
+      "published": "2025-01-28",
+      "publishedAsGiven": "Jan 28, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Policy Watch: High Stakes for Voters in…",
+      "url": "https://www.joycefdn.org/policy-watch/high-stakes-for-voters-in-upcoming-wisconsin-election",
+      "domain": "joycefdn.org",
+      "published": "2025-03-27",
+      "publishedAsGiven": "Mar 27, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "January 2025 - Common Cause Wisconsin",
+      "url": "https://www.commoncausewisconsin.org/2025/01/",
+      "domain": "commoncausewisconsin.org",
+      "published": "2025-01-31",
+      "publishedAsGiven": "Jan 31, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Fact check: Yes, Wisconsin makes it harder to vote than ...",
+      "url": "https://www.reddit.com/r/wisconsin/comments/1rbdgd7/fact_check_yes_wisconsin_makes_it_harder_to_vote/",
+      "domain": "reddit.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Access to Voting - Common Cause Wisconsin",
+      "url": "https://www.commoncause.org/wisconsin/resources/access-to-voting/",
+      "domain": "commoncause.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Common Cause – Yes, Wisconsin makes it harder to vote than ...",
+      "url": "https://wnymedia.net/2025/01/28/common-cause-yes-wisconsin-makes-it-harder-to-vote-than-most-other-u-s-states/",
+      "domain": "wnymedia.net",
+      "published": "2025-01-28",
+      "publishedAsGiven": "Jan 28, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Fact check: Yes, Wisconsin makes it harder to vote than ...",
+      "url": "https://x.com/PolitiFactWisc/status/1884240086495064208",
+      "domain": "x.com",
+      "published": "2025-01-28",
+      "publishedAsGiven": "Jan 28, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Priorities - Common Cause Wisconsin",
+      "url": "https://www.commoncause.org/wisconsin/priorities/",
+      "domain": "commoncause.org",
+      "published": null,
+      "dropped": "undated"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 6,
+    "after-said": 4,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 3
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:01:51.006Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "A Terrible Idea Whose Time Should Never Come to ...",
+      "url": "https://www.commoncause.org/wisconsin/press/a-terrible-idea-whose-time-should-never-come-to-wisconsin/",
+      "domain": "commoncause.org",
+      "snippet": "Wisconsin would be one of the very first states in the nation to enshrine voter suppression in its state constitution. Do Wisconsin voters ...",
+      "published": "2025-01-08",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Common Cause",
+        "page": "https://mediabiasfactcheck.com/common-cause/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Since 2010, Wisconsin Republicans have made voting ...",
+      "url": "https://publicintegrity.org/politics/elections/us-polling-places/wisconsin-republicans-voters-difficult-for-people-of-color/",
+      "domain": "publicintegrity.org",
+      "snippet": "Since 2010, Wisconsin Republicans have made voting more difficult for people of color Photo ID and felony convictions are barriers many voters ...",
+      "published": "2020-10-09",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Center for Public Integrity",
+        "page": "https://mediabiasfactcheck.com/center-for-public-integrity/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "As voting has gotten harder in Wisconsin, organizers have ...",
+      "url": "https://pbswisconsin.org/news-item/as-voting-has-gotten-harder-in-wisconsin-organizers-have-found-ways-to-help/",
+      "domain": "pbswisconsin.org",
+      "snippet": "In 2022, Wisconsin was among the most difficult places to register and vote, ranking 47th. Wisconsin makes voting harder than nearly every state.",
+      "published": "2023-05-15",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    }
+  ]
+}

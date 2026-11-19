@@ -1,0 +1,229 @@
+{
+  "frozenAt": "2026-10-27T03:18:04.595Z",
+  "refilteredAt": "2026-10-27T03:36:15.938Z",
+  "id": "pf/united-democracy-project/el-sayed-uncommitted-michigan-2024-harris",
+  "said": "2026-07-28",
+  "queries": {
+    "fact": "With our democracy on the line against Donald Trump in 2024, El-Sayed told Democrats to vote uncommitted — even after Gov. (Gretchen) Whitmer warned those efforts would help elect Donald Trump.",
+    "claim": "With our democracy on the line against Donald Trump in 2024, El-Sayed told Democrats to vote uncommitted — even after Gov. (Gretchen) Whitmer warned those efforts would help elect Donald Trump. United Democracy Project"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 4828.774957999936,
+      "results": 9
+    },
+    {
+      "query": "claim",
+      "ms": 4054.969334000023,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "El-Sayed advocated voting uncommitted in MI's 2024 Democratic ...",
+      "url": "https://politifact.com/factchecks/2026/jul/31/united-democracy-project/el-sayed-uncommitted-michigan-2024-harris/",
+      "domain": "politifact.com",
+      "published": "2026-07-31",
+      "publishedAsGiven": "Jul 31, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Dem Senate Majority PAC releases ad supporting Abdul El-Sayed ...",
+      "url": "https://www.facebook.com/groups/michigandemocraticprogressives/posts/27883236174675528/",
+      "domain": "facebook.com",
+      "published": "2026-08-06",
+      "publishedAsGiven": "Aug 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "The Forward - Facebook",
+      "url": "https://www.facebook.com/jewishdailyforward/posts/aipacs-super-pac-is-spending-nearly-100000-on-mailers-attacking-abdul-el-sayed-t/1717090170422842/",
+      "domain": "facebook.com",
+      "published": "2026-10-12",
+      "publishedAsGiven": "Oct 12, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Fact-checking Abdul El-Sayed and Haley Stevens' claims ahead of ...",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-abdul-el-sayed-and-haley-stevens-claims-ahead-of-the-michigan-democratic-senate-primary",
+      "domain": "pbs.org",
+      "published": "2026-08-03",
+      "publishedAsGiven": "Aug 3, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Michigan-ElSayed - United Democracy Project",
+      "url": "https://www.uniteddemocracyproject.org/michigan-elsayed",
+      "domain": "uniteddemocracyproject.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Search – PolitiFact",
+      "url": "https://politifact.com/search/factcheck?q=sayed&page=1",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "UDP hits El-Sayed for 'uncommitted' support in new ad - Jewish Insider",
+      "url": "https://jewishinsider.com/2026/07/united-democracy-project-aipac-abdul-el-sayed-uncommitted-support/",
+      "domain": "jewishinsider.com",
+      "published": "2026-07-28",
+      "publishedAsGiven": "Jul 28, 2026",
+      "snippet": "Jul 28, 2026 · UDP hits El-Sayed for 'uncommitted' support in new ad. The AIPAC-affiliated super PAC accused El-Sayed of 'helping Trump win,' in a continuation ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "A new ad from a PAC backing Abdul El-Sayed tells Michigan voters ...",
+      "url": "https://www.facebook.com/SamanthaEttus/posts/a-new-ad-from-a-pac-backing-abdul-el-sayed-tells-michigan-voters-they-cant-affor/1687510879607340/",
+      "domain": "facebook.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "8 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "United Democracy Project is dropping $94620 on mailers attacking ...",
+      "url": "https://www.facebook.com/trackaipac/posts/%EF%B8%8F-aipac-alert-united-democracy-project-is-dropping-94620-on-mailers-attacking-ab/122288895068252847/",
+      "domain": "facebook.com",
+      "published": "2026-10-09",
+      "publishedAsGiven": "Oct 9, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Michigan-ElSayed - United Democracy Project",
+      "url": "https://www.uniteddemocracyproject.org/michigan-elsayed",
+      "domain": "uniteddemocracyproject.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "El-Sayed advocated voting uncommitted in MI's 2024 ...",
+      "url": "https://politifact.com/factchecks/2026/jul/31/united-democracy-project/el-sayed-uncommitted-michigan-2024-harris/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "The Forward - Facebook",
+      "url": "https://www.facebook.com/jewishdailyforward/posts/aipacs-super-pac-is-spending-nearly-100000-on-mailers-attacking-abdul-el-sayed-t/1717090170422842/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Dem Senate Majority PAC releases ad supporting Abdul El ...",
+      "url": "https://www.facebook.com/groups/michigandemocraticprogressives/posts/27883236174675528/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "UDP hits El-Sayed for 'uncommitted' support in new ad",
+      "url": "https://jewishinsider.com/2026/07/united-democracy-project-aipac-abdul-el-sayed-uncommitted-support/",
+      "domain": "jewishinsider.com",
+      "published": null,
+      "snippet": "The AIPAC-affiliated super PAC accused El-Sayed of 'helping Trump win,' in a continuation of its messaging strategy hitting far-left ..."
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Fact-checking Abdul El-Sayed and Haley Stevens' claims ... - PBS",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-abdul-el-sayed-and-haley-stevens-claims-ahead-of-the-michigan-democratic-senate-primary",
+      "domain": "pbs.org",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Search – PolitiFact",
+      "url": "https://politifact.com/search/factcheck?q=sayed&page=1",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "AIPAC ALERT: United Democracy Project is dropping $94,620 ...",
+      "url": "https://www.facebook.com/trackaipac/posts/%EF%B8%8F-aipac-alert-united-democracy-project-is-dropping-94620-on-mailers-attacking-ab/122288895068252847/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "United Democracy Project, the AIPAC-affiliated super PAC, is ...",
+      "url": "https://www.instagram.com/p/DbWmQjVk_GF/",
+      "domain": "instagram.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Fact-checking Abdul El-Sayed, Haley Stevens in Michigan race ...",
+      "url": "https://eg.headtopics.com/news/fact-checking-abdul-el-sayed-haley-stevens-in-michigan-race-86231039",
+      "domain": "eg.headtopics.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    }
+  ],
+  "returned": 19,
+  "dropped": {
+    "fact-checker": 4,
+    "fact-check-words": 3,
+    "after-said": 4,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 6
+  },
+  "linkDatedKept": 1,
+  "searchedAt": "2026-10-27T03:17:55.710Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "UDP hits El-Sayed for 'uncommitted' support in new ad - Jewish Insider",
+      "url": "https://jewishinsider.com/2026/07/united-democracy-project-aipac-abdul-el-sayed-uncommitted-support/",
+      "domain": "jewishinsider.com",
+      "snippet": "Jul 28, 2026 · UDP hits El-Sayed for 'uncommitted' support in new ad. The AIPAC-affiliated super PAC accused El-Sayed of 'helping Trump win,' in a continuation ...",
+      "published": "2026-07-28",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

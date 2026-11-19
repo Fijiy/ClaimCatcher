@@ -1,0 +1,250 @@
+{
+  "frozenAt": "2026-10-27T03:28:12.151Z",
+  "refilteredAt": "2026-10-27T03:38:47.470Z",
+  "id": "pf/winsenate/ashley-hinson-8-million-richer-iowa-senate",
+  "said": "2026-10-19",
+  "queries": {
+    "fact": "After just five years in Washington, Republican U.S. Rep. Ashley Hinson is $8 million richer.",
+    "claim": "After just five years in Washington, Republican U.S. Rep. Ashley Hinson is $8 million richer. WinSenate"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1777.921083000023,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2778.4971249999944,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Is Ashley Hinson $8 million richer after time in Congress?",
+      "url": "https://politifact.com/factchecks/2026/oct/23/winsenate/ashley-hinson-8-million-richer-iowa-senate/",
+      "domain": "politifact.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "A WinSenate ad said Iowa U.S. Rep. Ashley Hinson is “$8 ...",
+      "url": "https://www.facebook.com/politifact/posts/a-winsenate-ad-said-iowa-us-rep-ashley-hinson-is-8-million-richer-after-five-yea/1594377032723394/",
+      "domain": "facebook.com",
+      "published": "2026-10-27",
+      "publishedAsGiven": "37 minutes ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Ashley Hinson's net worth has increased up to $8 million since ...",
+      "url": "https://www.facebook.com/Turek4Iowa/posts/-new-ad-ashley-hinsons-net-worth-has-increased-up-to-8-million-since-she-went-to/1076040821724275/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "snippet": "NEW AD: Ashley Hinson's net worth has increased up to $8 million since she went to Congress. Coincidence? C'mon."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Is Ashley Hinson $8 million richer after time in Congress?",
+      "url": "https://ae.headtopics.com/news/is-ashley-hinson-8-million-richer-after-time-in-congress-89135970",
+      "domain": "ae.headtopics.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "PolitiFact Rates 2 Dem-Backed Ashley Hinson Attack Ads ' ...",
+      "url": "https://www.breitbart.com/politics/2026/10/24/politifact-rates-2-democrat-backed-attack-ads-against-rep-ashley-hinson-mostly-false/",
+      "domain": "breitbart.com",
+      "published": "2026-10-25",
+      "publishedAsGiven": "2 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Ashley Hinson went to D.C. and got up to 15x wealthier.",
+      "url": "https://www.facebook.com/Turek4Iowa/posts/ashley-hinson-went-to-dc-and-got-up-to-15x-wealthier/1095401413121549/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "snippet": "\"...Hinson has a net worth between $1million and $8million, she ... Ashley Hinson, the Republican congresswoman from Iowa running for U.S. ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Ashley Hinson Net Worth Up $8M Since Congress? New Ad ...",
+      "url": "https://www.facebook.com/Turek4Iowa/videos/-new-ad-ashley-hinsons-net-worth-has-increased-up-to-8-million-since-she-went-to/1464291965605784/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "snippet": "Ashley Hinson's net worth has increased up to $8 million since she went to Congress. Hinson's net worth increased to $8 million, citing her ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Where did Ashley Hinson's wealth come from?",
+      "url": "https://iowastartingline.com/news/politics/ashley-hinson-wealth-disclosure/",
+      "domain": "iowastartingline.com",
+      "published": "2026-09-26",
+      "publishedAsGiven": "Sep 26, 2026",
+      "snippet": "Ashley Hinson's House financial disclosures show a 2021 insurance deal, a stake in a private equity-backed brokerage, and as much as $1 million ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Ashley Hinson went to D.C. and got up to 15x wealthier.",
+      "url": "https://www.facebook.com/Turek4Iowa/videos/ashley-hinson-went-to-dc-and-got-up-to-15x-wealthier/1411689251155510/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "snippet": "Six years in Washington. Cuts to health care, food ... NEW AD: Ashley Hinson's net worth has increased up to $8 million since she."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "PolitiFact",
+      "url": "https://x.com/PolitiFact/status/2113738236539420785",
+      "domain": "x.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Is Ashley Hinson $8 million richer after time in Congress?",
+      "url": "https://politifact.com/factchecks/2026/oct/23/winsenate/ashley-hinson-8-million-richer-iowa-senate/",
+      "domain": "politifact.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "A WinSenate ad said Iowa U.S. Rep. Ashley Hinson is “$8 ...",
+      "url": "https://www.facebook.com/politifact/posts/a-winsenate-ad-said-iowa-us-rep-ashley-hinson-is-8-million-richer-after-five-yea/1594377032723394/",
+      "domain": "facebook.com",
+      "published": "2026-10-27",
+      "publishedAsGiven": "37 minutes ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Is Ashley Hinson $8 million richer after time in Congress?",
+      "url": "https://us.headtopics.com/news/is-ashley-hinson-8-million-richer-after-time-in-congress-89135970",
+      "domain": "us.headtopics.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Democratic Super PAC Finds Ashley Hinson Got $8 Million ...",
+      "url": "https://thedemorat.com/democratic-super-pac-finds-ashley-hinson-got-8-million-riche",
+      "domain": "thedemorat.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "1 day ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Ashley Hinson's net worth has increased up to $8 million since ...",
+      "url": "https://www.facebook.com/Turek4Iowa/posts/-new-ad-ashley-hinsons-net-worth-has-increased-up-to-8-million-since-she-went-to/1076040821724275/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "snippet": "Ashley Hinson's increased up to $8 million since she went to Congress. She entered Congress (2021) with a net worth of $700,000. She leaves ..."
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "PolitiFact Rates 2 Dem-Backed Ashley Hinson Attack Ads ' ...",
+      "url": "https://www.breitbart.com/politics/2026/10/24/politifact-rates-2-democrat-backed-attack-ads-against-rep-ashley-hinson-mostly-false/",
+      "domain": "breitbart.com",
+      "published": "2026-10-25",
+      "publishedAsGiven": "2 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Ashley Hinson Net Worth Up $8M Since Congress? New Ad ...",
+      "url": "https://www.facebook.com/Turek4Iowa/videos/-new-ad-ashley-hinsons-net-worth-has-increased-up-to-8-million-since-she-went-to/1464291965605784/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "snippet": "Hinson's net worth increased to $8 million, citing her support for tax breaks that benefited her family and her retention of millions in ..."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "PolitiFact",
+      "url": "https://x.com/PolitiFact/status/2113738236539420785",
+      "domain": "x.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Dem ad says Iowa's Rep. Ashley Hinson is $8 million richer after ...",
+      "url": "https://www.newsbreak.com/news/4963580903256-dem-ad-says-iowa-s-rep-ashley-hinson-is-8-million-richer-after-joining-congress-that-s-misleading",
+      "domain": "newsbreak.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Dem ad says Iowa's Rep. Ashley Hinson is $8 million richer ...",
+      "url": "https://gogospoiler.com/fact-check/dem-ad-says-iowas-rep-ashley-hinson-is-8-million-richer-after-joining-congress-thats-misleading-politifact/",
+      "domain": "gogospoiler.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "fact-check-words"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 8,
+    "after-said": 2,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:28:07.594Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Where did Ashley Hinson's wealth come from?",
+      "url": "https://iowastartingline.com/news/politics/ashley-hinson-wealth-disclosure/",
+      "domain": "iowastartingline.com",
+      "snippet": "Ashley Hinson's House financial disclosures show a 2021 insurance deal, a stake in a private equity-backed brokerage, and as much as $1 million ...",
+      "published": "2026-09-26",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

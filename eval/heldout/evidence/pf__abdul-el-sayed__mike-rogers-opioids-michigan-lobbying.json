@@ -1,0 +1,279 @@
+{
+  "frozenAt": "2026-10-27T03:18:24.851Z",
+  "refilteredAt": "2026-10-27T03:36:20.943Z",
+  "id": "pf/abdul-el-sayed/mike-rogers-opioids-michigan-lobbying",
+  "said": "2026-08-05",
+  "queries": {
+    "fact": "Former U.S. Rep. Mike Rogers helped to architect the legislation that kicked off the opioid epidemic.",
+    "claim": "Former U.S. Rep. Mike Rogers helped to architect the legislation that kicked off the opioid epidemic. Abdul El-Sayed"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2903.5315829999745,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1291.5343750000466,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Mike Rogers helped architect legislation to EXPAND the opioid ...",
+      "url": "https://www.youtube.com/shorts/n2Zyub_TGxk",
+      "domain": "youtube.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Mike Rogers vows to fight drug war, but urged opioid ...",
+      "url": "https://bridgemi.com/michigan-government/mike-rogers-vows-fight-drug-war-urged-opioid-access-congress/",
+      "domain": "bridgemi.com",
+      "published": "2024-08-29",
+      "publishedAsGiven": "Aug 29, 2024",
+      "snippet": "While in Congress, Mike Rogers was an advocate for increased pain treatment; Doctors say overprescription of opioids helped fuel the ongoing ..."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Mike Rogers spent a decade in Congress pushing ...",
+      "url": "https://www.facebook.com/michigandems/posts/mike-rogers-spent-a-decade-in-congress-pushing-dangerous-legislation-that-fueld-/1593337806169056/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Mike Rogers Senate campaign dogged by past ties to ...",
+      "url": "https://michiganindependent.com/politics/mike-rogers-senate-campaign-dogged-by-past-ties-to-opioid-industry/",
+      "domain": "michiganindependent.com",
+      "published": "2026-10-05",
+      "publishedAsGiven": "Oct 5, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Mike Rogers led the charge to flood opioids into our ...",
+      "url": "https://www.facebook.com/DrAbdulElSayed/videos/mike-rogers-led-the-charge-to-flood-opioids-into-our-communities-heres-what-happ/1806078257088538/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "El-Sayed wrong that Rogers' legislation 'kicked off' opioid ...",
+      "url": "https://politifact.com/factchecks/2026/aug/17/abdul-el-sayed/mike-rogers-opioids-michigan-lobbying/",
+      "domain": "politifact.com",
+      "published": "2026-08-17",
+      "publishedAsGiven": "Aug 17, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Mike Rogers Distorts Opioid Record to Boost Senate Bid",
+      "url": "https://michigandems.com/new-mike-rogers-distorts-opioid-record-to-boost-senate-bid/",
+      "domain": "michigandems.com",
+      "published": "2026-03-24",
+      "publishedAsGiven": "Mar 24, 2026",
+      "snippet": "Bridge Michigan first reported that Rogers was a “leading advocate” in Congress to “boost opioid prescriptions”—and that he did so while ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "The Opioid Crisis in the United States: A Brief History",
+      "url": "https://www.congress.gov/crs-product/IF12260",
+      "domain": "congress.gov",
+      "published": "2022-12-01",
+      "publishedAsGiven": "Dec 1, 2022",
+      "snippet": "These laws addressed overprescribing and misuse of opioids, expanded substance use disorder prevention and treatment capacities, bolstered drug ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Mike Rogers led the charge to flood opioids into our ...",
+      "url": "https://www.facebook.com/DrAbdulElSayed/posts/mike-rogers-led-the-charge-to-flood-opioids-into-our-communities-heres-what-happ/1644485567048718/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "WATCH: Featuring Testimonial From Survivor Of Opioid ...",
+      "url": "https://abdulforsenate.com/2026/10/watch-featuring-testimonial-from-survivor-of-opioid-crisis-new-ad-slams-big-pharma-champion-mike-rogers/",
+      "domain": "abdulforsenate.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "Oct 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "El-Sayed wrong that Rogers' legislation 'kicked off' opioid ...",
+      "url": "https://politifact.com/factchecks/2026/aug/17/abdul-el-sayed/mike-rogers-opioids-michigan-lobbying/",
+      "domain": "politifact.com",
+      "published": "2026-08-17",
+      "publishedAsGiven": "Aug 17, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Mike Rogers helped architect the opioid crisis. He takes ...",
+      "url": "https://www.facebook.com/rolandsmartinfanpage/posts/mike-rogers-helped-architect-the-opioid-crisis-he-takes-corporate-cash-he-bootli/1799527044878307/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Mike Rogers helped architect legislation to EXPAND the ...",
+      "url": "https://www.youtube.com/shorts/n2Zyub_TGxk",
+      "domain": "youtube.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "The Opioid Crisis Looms Over Michigan's Senate Race",
+      "url": "https://www.currentaffairs.org/news/the-opioid-crisis-looms-over-michigans-senate-race",
+      "domain": "currentaffairs.org",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Mike Rogers spent a decade in Congress pushing ...",
+      "url": "https://www.facebook.com/michigandems/posts/mike-rogers-spent-a-decade-in-congress-pushing-dangerous-legislation-that-fueld-/1593337806169056/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "WATCH: Featuring Testimonial From Survivor Of Opioid ...",
+      "url": "https://abdulforsenate.com/2026/10/watch-featuring-testimonial-from-survivor-of-opioid-crisis-new-ad-slams-big-pharma-champion-mike-rogers/",
+      "domain": "abdulforsenate.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "Oct 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Mike Rogers helped architect legislation to EXPAND ...",
+      "url": "https://www.tiktok.com/@abdulelsayed/video/7685184312794189087",
+      "domain": "tiktok.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Abdul El-Sayed, the Democratic candidate for Senate ...",
+      "url": "https://www.instagram.com/p/DcL8W7zFh3u/",
+      "domain": "instagram.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Mike Rogers vows to fight drug war, but urged opioid ...",
+      "url": "https://bridgemi.com/michigan-government/mike-rogers-vows-fight-drug-war-urged-opioid-access-congress/",
+      "domain": "bridgemi.com",
+      "published": "2024-08-29",
+      "publishedAsGiven": "Aug 29, 2024",
+      "snippet": "While in Congress, Mike Rogers was an advocate for increased pain treatment; Doctors say overprescription of opioids helped fuel the ongoing ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Mike Rogers knows how to deliver BIG results: bigger ...",
+      "url": "https://www.facebook.com/DrAbdulElSayed/posts/mike-rogers-knows-how-to-deliver-big-results-bigger-hospital-bills-bigger-access/1648965973267344/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 0,
+    "after-said": 12,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:18:20.655Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Mike Rogers vows to fight drug war, but urged opioid ...",
+      "url": "https://bridgemi.com/michigan-government/mike-rogers-vows-fight-drug-war-urged-opioid-access-congress/",
+      "domain": "bridgemi.com",
+      "snippet": "While in Congress, Mike Rogers was an advocate for increased pain treatment; Doctors say overprescription of opioids helped fuel the ongoing ...",
+      "published": "2024-08-29",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Bridge Magazine",
+        "page": "https://mediabiasfactcheck.com/bridge-magazine/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "The Opioid Crisis in the United States: A Brief History",
+      "url": "https://www.congress.gov/crs-product/IF12260",
+      "domain": "congress.gov",
+      "snippet": "These laws addressed overprescribing and misuse of opioids, expanded substance use disorder prevention and treatment capacities, bolstered drug ...",
+      "published": "2022-12-01",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Mike Rogers Distorts Opioid Record to Boost Senate Bid",
+      "url": "https://michigandems.com/new-mike-rogers-distorts-opioid-record-to-boost-senate-bid/",
+      "domain": "michigandems.com",
+      "snippet": "Bridge Michigan first reported that Rogers was a “leading advocate” in Congress to “boost opioid prescriptions”—and that he did so while ...",
+      "published": "2026-03-24",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    }
+  ]
+}

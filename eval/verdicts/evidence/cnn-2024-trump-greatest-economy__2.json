@@ -1,0 +1,101 @@
+{
+  "case_id": "cnn-2024-trump-greatest-economy#2",
+  "queries": {
+    "A": "The only jobs he created are for illegal immigrants and bounceback jobs; they're bounced back from the COVID. Trump",
+    "B": "US job growth since 2021 native-born versus foreign-born workers employment"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 1,
+      "title": "Fact Check: Did All Net Job Growth Under Trump Go to American Citizens?",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-all-net-job-growth-under-trump-go-to-american-citizens/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2025-12-11",
+      "snippet": "Claim: Under Biden, “migrant workers and illegal aliens got 100% of new jobs,” while under Trump “100% of all net job creation has gone to American citizens.”",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 3,
+      "title": "Fact check: Trump falsely claims almost all new jobs under Biden have gone to ‘illegal aliens’",
+      "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2024/06/17/fact-check-trump-falsely-claims-almost-all-new-jobs-under-biden-have-gone-to-illegal-aliens/",
+      "domain": "abc17news.com",
+      "published": "2024-06-17",
+      "snippet": "There is no comprehensive data on how many immigrants without work permits are employed, but economists at Standard Chartered Bank in May looked into what share of the recent job growth went to immigrants such as asylum seekers, humanitarian parolees and refugees who received authorization to work legally in the US. While none of these groups are working illegally in the US, as Trump referenced in his speech, the analysis provides useful insight into how many jobs these immigrants may have landed in recent years.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 4,
+      "title": "Fact check: Trump falsely claims almost all new jobs under Biden have gone to ‘illegal aliens’",
+      "url": "https://kion546.com/?p=1054095",
+      "domain": "kion546.com",
+      "published": "2024-06-17",
+      "snippet": "There is no comprehensive data on how many immigrants without work permits are employed, but economists at Standard Chartered Bank in May looked into what share of the recent job growth went to immigrants such as asylum seekers, humanitarian parolees and refugees who received authorization to work legally in the US. While none of these groups are working illegally in the US, as Trump referenced in his speech, the analysis provides useful insight into how many jobs these immigrants may have landed in recent years.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 5,
+      "title": "Fact check: Trump falsely claims almost all new jobs under Biden have gone to ‘illegal aliens’ | CNN Politics",
+      "url": "https://amp.cnn.com/cnn/2024/06/17/politics/fact-check-donald-trump-jobs-biden-immigration",
+      "domain": "amp.cnn.com",
+      "published": "2024-06-17",
+      "snippet": "There is no comprehensive data on how many immigrants without work permits are employed, but economists at Standard Chartered Bank in May looked into what share of the recent job growth went to immigrants such as asylum seekers, humanitarian parolees and refugees who received authorization to work legally in the US. While none of these groups are working illegally in the US, as Trump referenced in his speech, the analysis provides useful insight into how many jobs these immigrants may have landed in recent years.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "Fact check: Trump falsely claims almost all new jobs under Biden have gone to ‘illegal aliens’",
+      "url": "https://krdo.com/?p=1307548",
+      "domain": "krdo.com",
+      "published": "2024-06-17",
+      "snippet": "It’s true that the number of foreign-born workers has increased at a much faster rate – 20% – than the rate for native-born workers during Biden’s presidency , but that doesn’t mean that the native-born are not getting jobs. Also, many economists credit the influx of immigrant workers as a main reason the US labor market has remained strong, and the unemployment rates for both immigrants and US-born workers remain low by historical standards.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "August jobs report shows job losses for US-born workers, gains for foreign-born",
+      "url": "https://www.fox13news.com/news/august-jobs-report-us-born-job-losses-foreign-born-gains",
+      "domain": "fox13news.com",
+      "published": "2024-09-06",
+      "snippet": "The shift in employment for U.S.-born and foreign-born workers raises questions about the broader economic implications. The significant job gains among foreign-born workers, paired with job losses for U.S.-born individuals, could fuel ongoing debates about immigration policies and their impact on the labor market. Meanwhile, the modest job growth and revision of previous months’ data signal continued challenges in the U.S. labor market.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 4,
+      "title": "August jobs report shows job losses for US-born workers, gains for foreign-born",
+      "url": "https://fox10phoenix.com/news/august-jobs-report-us-born-job-losses-foreign-born-gains",
+      "domain": "fox10phoenix.com",
+      "published": "2024-09-06",
+      "snippet": "The shift in employment for U.S.-born and foreign-born workers raises questions about the broader economic implications. The significant job gains among foreign-born workers, paired with job losses for U.S.-born individuals, could fuel ongoing debates about immigration policies and their impact on the labor market. Meanwhile, the modest job growth and revision of previous months’ data signal continued challenges in the U.S. labor market.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 5,
+      "title": "August jobs report shows job losses for US-born workers, gains for foreign-born",
+      "url": "https://www.fox6now.com/news/august-jobs-report-us-born-job-losses-foreign-born-gains",
+      "domain": "fox6now.com",
+      "published": "2024-09-06",
+      "snippet": "The shift in employment for U.S.-born and foreign-born workers raises questions about the broader economic implications. The significant job gains among foreign-born workers, paired with job losses for U.S.-born individuals, could fuel ongoing debates about immigration policies and their impact on the labor market. Meanwhile, the modest job growth and revision of previous months’ data signal continued challenges in the U.S. labor market.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://www.hks.harvard.edu/centers/mrcbg/publications/immigration-behind-strong-us-economy",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "B",
+      "url": "https://kion546.com/?p=1054095",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    }
+  ]
+}

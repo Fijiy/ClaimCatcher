@@ -1,0 +1,363 @@
+{
+  "frozenAt": "2026-10-27T03:01:37.992Z",
+  "refilteredAt": "2026-10-27T03:35:01.995Z",
+  "id": "pf/nicholas-langworthy/tax-refunds-11-percent-reduction-irs",
+  "said": "2026-03-31",
+  "queries": {
+    "fact": "The average IRS tax refund is up 11% compared to last year.",
+    "claim": "The average IRS tax refund is up 11% compared to last year. Nicholas Langworthy"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2311.377417,
+      "results": 9
+    },
+    {
+      "query": "claim",
+      "ms": 2371.524667,
+      "results": 6
+    },
+    {
+      "query": "balance",
+      "ms": 1583.908792000002,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "The average tax refund is up 10.9% compared with ...",
+      "url": "https://www.facebook.com/WRBL3/posts/the-average-tax-refund-is-up-109-compared-with-the-same-period-a-year-ago-accord/1458881022916199/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "This Year's Higher Tax Refunds: What's Driving Them - AAF",
+      "url": "https://www.americanactionforum.org/insight/this-years-higher-tax-refunds-whats-driving-them/",
+      "domain": "americanactionforum.org",
+      "published": "2026-04-15",
+      "publishedAsGiven": "Apr 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Average tax refund is up $350 compared to last year",
+      "url": "https://www.cnbc.com/2026/04/06/average-tax-refund.html",
+      "domain": "cnbc.com",
+      "published": "2026-04-06",
+      "publishedAsGiven": "Apr 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Average tax refunds are up nearly 11 percent so far this ...",
+      "url": "https://www.facebook.com/taxfoundation/posts/average-tax-refunds-are-up-nearly-11-percent-so-far-this-filing-seasonwere-track/1385154626984333/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Filing season statistics by year | Internal Revenue Service",
+      "url": "https://www.irs.gov/newsroom/filing-season-statistics-by-year",
+      "domain": "irs.gov",
+      "published": "2026-05-18",
+      "publishedAsGiven": "May 18, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "The IRS says more American households have received ...",
+      "url": "https://www.facebook.com/FOX5Vegas/posts/the-irs-says-more-american-households-have-received-refunds-this-year-than-last-/1418816120287449/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "The IRS reported the average tax refund is up nearly 11% ...",
+      "url": "https://www.facebook.com/fox5dc/posts/the-irs-reported-the-average-tax-refund-is-up-nearly-11-so-far-this-tax-filing-s/1413073457523877/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Average IRS tax refund is up 14.2%, according to early ...",
+      "url": "https://www.reddit.com/r/Economics/comments/1raeh2l/average_irs_tax_refund_is_up_142_according_to/",
+      "domain": "reddit.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Why Is My Tax Refund Larger This Year?",
+      "url": "https://taxfoundation.org/blog/why-is-my-tax-refund-larger-this-year/",
+      "domain": "taxfoundation.org",
+      "published": "2026-03-10",
+      "publishedAsGiven": "Mar 10, 2026",
+      "snippet": "Mar 10, 2026 — ... average refunds increasing between $300 to $1,000 compared to a typical year. However, refund size may vary considerably depending on ... Read more"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Have IRS refunds increased by 11% in 2026? Yes - PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/may/11/nicholas-langworthy/tax-refunds-11-percent-reduction-irs/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Nick Langworthy: Tax Cuts, No Tax on Overtime, 11% Refund ...",
+      "url": "https://www.facebook.com/ChairmanNickLangworthy/videos/im-proud-of-my-record-delivering-tax-cuts-for-working-and-middle-class-families-/1395491059366014/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Fact check: Have IRS refunds increased by 11% in 2026?",
+      "url": "https://www.houstonchronicle.com/politics/texas/politifact/article/fact-check-irs-refunds-22261393.php",
+      "domain": "houstonchronicle.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Congressman Nick Langworthy on X: \"The average IRS tax ...",
+      "url": "https://x.com/RepLangworthy/status/2039078295862493219",
+      "domain": "x.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Nicholas Langworthy – Have IRS refunds increased by 11% in ...",
+      "url": "https://wnymedia.net/2026/05/19/nicholas-langworthy-have-irs-refunds-increased-by-11-in-2026-yes/",
+      "domain": "wnymedia.net",
+      "published": null,
+      "dropped": "after-said-link-date"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Fact check: Have IRS refunds increased by 11% in 2026?",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fact-check-irs-refunds-increased-100000533.html",
+      "domain": "finance.yahoo.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "How people are spending this year's tax refunds",
+      "url": "https://www.npr.org/2026/04/04/nx-s1-5759680/tax-refunds-trending-higher",
+      "domain": "npr.org",
+      "published": "2026-04-04",
+      "publishedAsGiven": "Apr 4, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Tax refunds climb ahead of April 15, IRS data show.",
+      "url": "https://www.usatoday.com/story/money/personalfinance/2026/02/20/how-much-tax-refunds-irs-data/88777794007/",
+      "domain": "usatoday.com",
+      "published": "2026-02-20",
+      "publishedAsGiven": "Feb 20, 2026",
+      "snippet": "The average refund through Apr. 3 was $3,462, up 11.1% from $3,116 at the same time in 2025 while total returns received fell 1.6%, the IRS said ..."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Tax season's big refunds are smaller than expected",
+      "url": "https://www.npr.org/2026/04/15/nx-s1-5785059/tax-refunds-less-than-expected",
+      "domain": "npr.org",
+      "published": "2026-04-15",
+      "publishedAsGiven": "Apr 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "More Americans are counting on IRS tax refunds in 2026. ...",
+      "url": "https://www.usatoday.com/story/money/2026/03/22/where-when-irs-tax-refunds-2026/89244462007/",
+      "domain": "usatoday.com",
+      "published": "2026-03-24",
+      "publishedAsGiven": "Mar 24, 2026",
+      "snippet": "That's 11% more than the agency refunded through the same week in 2025. The average refund is $3,676, also up from last year. Refunds are higher ..."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Tax refunds are bigger this year due to Republicans' tax cuts",
+      "url": "https://www.washingtonpost.com/business/2026/04/15/tax-refunds-returns-cuts-irs/",
+      "domain": "washingtonpost.com",
+      "published": "2026-04-15",
+      "publishedAsGiven": "Apr 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "IRS touts a 24% increase in tax refunds compared ...",
+      "url": "https://apnews.com/article/treasury-tax-season-refunds-8834207c0596947f3a4f144a80acf060",
+      "domain": "apnews.com",
+      "published": "2026-04-09",
+      "publishedAsGiven": "Apr 9, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Tax deadline is April 18 and refunds are 10% smaller than ...",
+      "url": "https://www.npr.org/2023/01/22/1150300686/tax-refund-irs",
+      "domain": "npr.org",
+      "published": "2023-01-22",
+      "publishedAsGiven": "Jan 22, 2023",
+      "snippet": "The average refund for U.S. taxpayers is $2,910 — a 9.8% drop from 2022, the IRS says. the average tax refund it has paid out as of yet is $2, ..."
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Will 2026 tax returns be bigger? Not for everyone.",
+      "url": "https://www.usatoday.com/story/money/personalfinance/2026/03/30/average-2026-tax-refund-smaller-expectations/89389738007/",
+      "domain": "usatoday.com",
+      "published": "2026-03-30",
+      "publishedAsGiven": "Mar 30, 2026",
+      "snippet": "As of the week ending March 20, average tax refunds were up 10.9%, or just a few hundred dollars, to $3,571 from $3,221 from the same time last ..."
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "IRS tax refund delay update: How long it's taking to receive ...",
+      "url": "https://www.usatoday.com/story/money/taxes/2023/03/10/tax-refund-2023-irs-send/11444162002/",
+      "domain": "usatoday.com",
+      "published": "2023-03-10",
+      "publishedAsGiven": "Mar 10, 2023",
+      "snippet": "... average tax refund is a good deal smaller than a year ago. The average refund was $2,903 — down 11% from a year ago — for early tax filers ..."
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "Taxes 2020: Will my refund shrink?",
+      "url": "https://www.usatoday.com/story/money/2020/02/28/taxes-2020-my-refund-shrink/4823891002/",
+      "domain": "usatoday.com",
+      "published": "2020-02-28",
+      "publishedAsGiven": "Feb 28, 2020",
+      "snippet": "The average tax refund issued so far fell slightly to $3125, down 0.6% from $3143 at the same time last year, according to the IRS."
+    }
+  ],
+  "returned": 25,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 2,
+    "after-said": 7,
+    "maybe-after-said": 0,
+    "after-said-link-date": 1,
+    "undated": 7
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:01:31.571Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Why Is My Tax Refund Larger This Year?",
+      "url": "https://taxfoundation.org/blog/why-is-my-tax-refund-larger-this-year/",
+      "domain": "taxfoundation.org",
+      "snippet": "Mar 10, 2026 — ... average refunds increasing between $300 to $1,000 compared to a typical year. However, refund size may vary considerably depending on ... Read more",
+      "published": "2026-03-10",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "very high",
+        "name": "Tax Foundation",
+        "page": "https://mediabiasfactcheck.com/tax-foundation/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Tax refunds climb ahead of April 15, IRS data show.",
+      "url": "https://www.usatoday.com/story/money/personalfinance/2026/02/20/how-much-tax-refunds-irs-data/88777794007/",
+      "domain": "usatoday.com",
+      "snippet": "The average refund through Apr. 3 was $3,462, up 11.1% from $3,116 at the same time in 2025 while total returns received fell 1.6%, the IRS said ...",
+      "published": "2026-02-20",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "USA Today",
+        "page": "https://mediabiasfactcheck.com/usa-today-2/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "More Americans are counting on IRS tax refunds in 2026. ...",
+      "url": "https://www.usatoday.com/story/money/2026/03/22/where-when-irs-tax-refunds-2026/89244462007/",
+      "domain": "usatoday.com",
+      "snippet": "That's 11% more than the agency refunded through the same week in 2025. The average refund is $3,676, also up from last year. Refunds are higher ...",
+      "published": "2026-03-24",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "USA Today",
+        "page": "https://mediabiasfactcheck.com/usa-today-2/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Tax deadline is April 18 and refunds are 10% smaller than ...",
+      "url": "https://www.npr.org/2023/01/22/1150300686/tax-refund-irs",
+      "domain": "npr.org",
+      "snippet": "The average refund for U.S. taxpayers is $2,910 — a 9.8% drop from 2022, the IRS says. the average tax refund it has paid out as of yet is $2, ...",
+      "published": "2023-01-22",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "NPR (National Public Radio)",
+        "page": "https://mediabiasfactcheck.com/npr/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Will 2026 tax returns be bigger? Not for everyone.",
+      "url": "https://www.usatoday.com/story/money/personalfinance/2026/03/30/average-2026-tax-refund-smaller-expectations/89389738007/",
+      "domain": "usatoday.com",
+      "snippet": "As of the week ending March 20, average tax refunds were up 10.9%, or just a few hundred dollars, to $3,571 from $3,221 from the same time last ...",
+      "published": "2026-03-30",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "USA Today",
+        "page": "https://mediabiasfactcheck.com/usa-today-2/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

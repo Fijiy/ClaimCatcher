@@ -1,0 +1,307 @@
+{
+  "frozenAt": "2026-10-27T03:24:30.709Z",
+  "refilteredAt": "2026-10-27T03:37:50.948Z",
+  "id": "pf/donald-trump/united-nations-artificial-intelligence-hoax-russia",
+  "said": "2026-09-22",
+  "queries": {
+    "fact": "The people who warned of climate change, the Russia hoax and the Ukraine hoax are the same people now saying that AI is going to kill us all.",
+    "claim": "The people who warned of climate change, the Russia hoax and the Ukraine hoax are the same people now saying that AI is going to kill us all. Donald Trump"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1482.155458000023,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2489.6263329999056,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Fact-checking Trump's speech to the 2026 United Nations ...",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-trumps-speech-to-the-2026-united-nations-general-assembly",
+      "domain": "pbs.org",
+      "published": "2026-09-22",
+      "publishedAsGiven": "Sep 22, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Fact check: Trump says AI fears are coming from the ...",
+      "url": "https://www.yahoo.com/news/politics/articles/fact-check-trump-says-ai-100000480.html",
+      "domain": "yahoo.com",
+      "published": "2026-10-05",
+      "publishedAsGiven": "Oct 5, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "AI safety warnings aren't only coming from the left, despite ...",
+      "url": "https://politifact.com/factchecks/2026/sep/22/donald-trump/united-nations-artificial-intelligence-hoax-russia/",
+      "domain": "politifact.com",
+      "published": "2026-09-22",
+      "publishedAsGiven": "Sep 22, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Trump Says Same People Warned of Climate Change and ...",
+      "url": "https://www.facebook.com/CBSNews/videos/trump-says-climate-change-warnings-came-from-same-people-now-saying-ai-could-kil/3041233089556411/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Trump said that the people who warned of climate change “ ...",
+      "url": "https://www.facebook.com/politifact/posts/trump-said-that-the-people-who-warned-of-climate-change-are-the-same-people-that/1557179263109838/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "'Whoever wins AI, WINS!' Trump calls AI doomsday ...",
+      "url": "https://timesofindia.indiatimes.com/world/us/whoever-wins-ai-wins-trump-calls-ai-doomsday-warnings-bigger-hoax-than-climate-change/articleshow/134395249.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "published": "2026-09-21",
+      "publishedAsGiven": "Sep 21, 2026",
+      "snippet": "US president Donald Trump has dismissed warnings that artificial intelligence could threaten humanity, calling such concerns a “HOAX” and ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Donald Trump used the United Nations General Assembly ...",
+      "url": "https://www.instagram.com/reel/DdoOherpBn7/",
+      "domain": "instagram.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Trump Compares AI Warnings to Past Climate Fears He ...",
+      "url": "https://truthout.org/articles/trump-compares-ai-warnings-to-past-climate-fears-he-wrongly-says-were-a-hoax/",
+      "domain": "truthout.org",
+      "published": "2026-09-22",
+      "publishedAsGiven": "Sep 22, 2026",
+      "snippet": "Trump Compares AI Warnings to Past Climate Fears He Wrongly Says Were a “Hoax”. Millions of people have died as a direct result of the climate ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Trump renames AI in off-the-rails rant against 'hoax' concerns",
+      "url": "https://www.the-independent.com/news/world/americas/us-politics/trump-ai-climate-change-truth-social-b3053839.html",
+      "domain": "the-independent.com",
+      "published": "2026-09-21",
+      "publishedAsGiven": "Sep 21, 2026",
+      "snippet": "Trump renames AI in off-the-rails rant against 'hoax' concerns · Trump Truth Social post likens AI skeptics to global warming and climate change ..."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "United Nations Artificial Intelligence Hoax Russia",
+      "url": "https://claimrepository.com/detail.php?id=107",
+      "domain": "claimrepository.com",
+      "published": "2026-09-22",
+      "publishedAsGiven": "Sep 22, 2026",
+      "snippet": "“The people who warned of climate change, the 'Russia hoax' and the 'Ukraine hoax' are the same people 'now saying that AI is going to kill us ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact-checking Trump's speech to the 2026 United Nations ...",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-trumps-speech-to-the-2026-united-nations-general-assembly",
+      "domain": "pbs.org",
+      "published": "2026-09-22",
+      "publishedAsGiven": "Sep 22, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact check: Trump says AI fears are coming from the ...",
+      "url": "https://www.yahoo.com/news/politics/articles/fact-check-trump-says-ai-100000480.html",
+      "domain": "yahoo.com",
+      "published": "2026-10-05",
+      "publishedAsGiven": "Oct 5, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Trump Says Same People Warned of Climate Change and ...",
+      "url": "https://www.facebook.com/CBSNews/videos/trump-says-climate-change-warnings-came-from-same-people-now-saying-ai-could-kil/3041233089556411/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "United Nations Artificial Intelligence Hoax Russia",
+      "url": "https://claimrepository.com/detail.php?id=107",
+      "domain": "claimrepository.com",
+      "published": "2026-09-22",
+      "publishedAsGiven": "Sep 22, 2026",
+      "snippet": "“The people who warned of climate change, the 'Russia hoax' and the 'Ukraine ... same people 'now saying that AI is going to kill us all."
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "U.S. President Donald Trump downplays warnings about ...",
+      "url": "https://www.instagram.com/reel/Ddn_x45iGn2/",
+      "domain": "instagram.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "AI safety warnings aren't only coming from the left, despite ...",
+      "url": "https://politifact.com/factchecks/2026/sep/22/donald-trump/united-nations-artificial-intelligence-hoax-russia/",
+      "domain": "politifact.com",
+      "published": "2026-09-22",
+      "publishedAsGiven": "Sep 22, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Trump renames AI in off-the-rails rant against 'hoax' concerns",
+      "url": "https://www.the-independent.com/news/world/americas/us-politics/trump-ai-climate-change-truth-social-b3053839.html",
+      "domain": "the-independent.com",
+      "published": "2026-09-21",
+      "publishedAsGiven": "Sep 21, 2026",
+      "snippet": "... AI in ... kill us, that robots are going to attack us, and everything is a DISASTER. This is more of a Hoax than even that of RUSSIA, RUSSIA ..."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Trump Renames AI To \"Super Intelligence\", Says 'Artificial ...",
+      "url": "https://www.ndtv.com/world-news/us-to-call-ai-super-intelligence-donald-trump-says-artificial-makes-it-sound-fake-12083194",
+      "domain": "ndtv.com",
+      "published": "2026-09-22",
+      "publishedAsGiven": "Sep 22, 2026",
+      "snippet": "Trump Renames AI To \"Super Intelligence\", Says 'Artificial' Sounds Fake ... kill us all, that robots are going to attack us, and that ..."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Trump said that the people who warned of climate change “ ...",
+      "url": "https://www.facebook.com/politifact/posts/trump-said-that-the-people-who-warned-of-climate-change-are-the-same-people-that/1557179263109838/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for ...",
+      "url": "https://www.bbc.com/news/articles/cw980n0nd0qjo",
+      "domain": "bbc.com",
+      "published": "2026-09-15",
+      "publishedAsGiven": "Sep 15, 2026",
+      "snippet": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory."
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 6,
+    "after-said": 0,
+    "maybe-after-said": 4,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:24:26.737Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "'Whoever wins AI, WINS!' Trump calls AI doomsday ...",
+      "url": "https://timesofindia.indiatimes.com/world/us/whoever-wins-ai-wins-trump-calls-ai-doomsday-warnings-bigger-hoax-than-climate-change/articleshow/134395249.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "snippet": "US president Donald Trump has dismissed warnings that artificial intelligence could threaten humanity, calling such concerns a “HOAX” and ...",
+      "published": "2026-09-21",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Times of India",
+        "page": "https://mediabiasfactcheck.com/times-of-india/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for ...",
+      "url": "https://www.bbc.com/news/articles/cw980n0nd0qjo",
+      "domain": "bbc.com",
+      "snippet": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+      "published": "2026-09-15",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "very high",
+        "name": "BBC",
+        "page": "https://mediabiasfactcheck.com/bbc/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Trump Compares AI Warnings to Past Climate Fears He ...",
+      "url": "https://truthout.org/articles/trump-compares-ai-warnings-to-past-climate-fears-he-wrongly-says-were-a-hoax/",
+      "domain": "truthout.org",
+      "snippet": "Trump Compares AI Warnings to Past Climate Fears He Wrongly Says Were a “Hoax”. Millions of people have died as a direct result of the climate ...",
+      "published": "2026-09-22",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    },
+    {
+      "title": "United Nations Artificial Intelligence Hoax Russia",
+      "url": "https://claimrepository.com/detail.php?id=107",
+      "domain": "claimrepository.com",
+      "snippet": "“The people who warned of climate change, the 'Russia hoax' and the 'Ukraine ... same people 'now saying that AI is going to kill us all.",
+      "published": "2026-09-22",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 4
+    },
+    {
+      "title": "Trump renames AI in off-the-rails rant against 'hoax' concerns",
+      "url": "https://www.the-independent.com/news/world/americas/us-politics/trump-ai-climate-change-truth-social-b3053839.html",
+      "domain": "the-independent.com",
+      "snippet": "Trump renames AI in off-the-rails rant against 'hoax' concerns · Trump Truth Social post likens AI skeptics to global warming and climate change ...",
+      "published": "2026-09-21",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 5
+    }
+  ]
+}

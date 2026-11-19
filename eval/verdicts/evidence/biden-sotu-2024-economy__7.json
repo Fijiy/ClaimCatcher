@@ -1,0 +1,90 @@
+{
+  "case_id": "biden-sotu-2024-economy#7",
+  "queries": {
+    "A": "Wages keep going up and inflation keeps coming down! Biden",
+    "B": "US real average hourly earnings change 2023 inflation-adjusted wages"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 1,
+      "title": "Biden said wages are up. Inflation went up more.",
+      "url": "https://politifact.com/factchecks/2022/jan/20/joe-biden/bidens-boast-about-rising-wages-ignores-effect-inf/",
+      "domain": "politifact.com",
+      "published": "2022-01-20",
+      "snippet": "The White House press office said Biden was talking about the nominal increase in wages. They noted that most economists expect inflation to ease, which would set the stage for real wage gains.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 2,
+      "title": "Fact-check: Biden claim on take-home pay rising doesn’t account for prior inflation",
+      "url": "https://texasstandard.org/stories/fact-check-biden-claim-on-take-home-pay-rising-doesnt-account-for-prior-inflation/",
+      "domain": "texasstandard.org",
+      "published": "2023-01-25",
+      "snippet": "“You know, and as inflation is coming down, take-home pay for workers is going up,” Biden said . “Workers’ wages are higher now than they were seven months ago, adjusted for inflation.”",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 3,
+      "title": "By The Numbers: The State Of Biden’s America Is Absolutely @#%&* Abysmal",
+      "url": "https://www.dailywire.com/news/by-the-numbers-the-state-of-bidens-america-is-absolutely-abysmal",
+      "domain": "dailywire.com",
+      "published": "2023-02-07",
+      "snippet": "“And even as the job market reaches historic highs, inflation continues to come down. Inflation has now fallen for six straight months. Gas prices are down more than $1.50 a gallon since their peak. Food inflation is falling as well. And as inflation is coming down, take-home pay for workers is going up. Real wages are up. Wages for lower-income and middle-income workers have gone up even more,” Biden gloated.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 4,
+      "title": "Biden can’t stop lying about U.S. economy",
+      "url": "https://www.washingtontimes.com/news/2023/feb/15/biden-cant-stop-lying-about-us-economy/",
+      "domain": "washingtontimes.com",
+      "published": "2023-02-15",
+      "snippet": "In Mr. Biden’s entire presidency, wages have risen by 10% — so they are going up — but #bidenflation has soared 14%. So either way you cut it, you’re down 4 percentage points.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 1,
+      "title": "Real Earnings - August 2023",
+      "url": "https://www.bls.gov/beta/nextgen/realer/real-earnings-2023-09-13.htm",
+      "domain": "bls.gov",
+      "published": "2023-09-13",
+      "snippet": "Real average hourly earnings for all employees increased 0.5 percent, seasonally adjusted, from August 2022 to August 2023.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "Real Earnings - October 2023",
+      "url": "https://www.bls.gov/beta/nextgen/realer/real-earnings-2023-11-14.htm",
+      "domain": "bls.gov",
+      "published": "2023-11-14",
+      "snippet": "Real average hourly earnings for all employees increased 0.8 percent, seasonally adjusted, from October 2022 to October 2023.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "Inflation Continues to Outpace Wages, Data Shows | The Center Square YT",
+      "url": "https://player.thecentersquare.com/videos/444380/inflation-continues-to-outpace-wages-data-shows",
+      "domain": "player.thecentersquare.com",
+      "published": null,
+      "snippet": "The U.S. Bureau of Labor Statistics tracks “real” average hourly earnings, which are wages of Americans with rising inflation taken into account. “From February 2022 to February 2023, real average hourly earnings decreased 0.3 percent, seasonally adjusted,” BLS said. “The change in real average hourly earnings combined with a decrease of 0.9 percent in the average workweek resulted in a 1.2-percent decrease in real average weekly earnings over this period.”",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 4,
+      "title": "Biden touts higher wages: Here’s how paychecks have changed",
+      "url": "https://digital-release.newsnationnow.com/business/your-money/biden-wages-paychecks-changed/",
+      "domain": "digital-release.newsnationnow.com",
+      "published": "2024-02-14",
+      "snippet": "Last month, inflation-adjusted average hourly wages rose 1.4% from a year earlier, according to data from the Bureau of Labor Statistics (BLS) released Tuesday. January’s uptick marked the ninth consecutive month of year-over-year real hourly wage growth after two years when workers saw their gains erased by inflation.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": []
+}

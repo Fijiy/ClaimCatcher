@@ -1,0 +1,247 @@
+{
+  "frozenAt": "2026-10-27T03:15:34.577Z",
+  "refilteredAt": "2026-10-27T03:35:40.677Z",
+  "id": "pf/move-indigo/yes-new-yorkers-with-second-homes-in-the-empire-st",
+  "said": "2026-06-01",
+  "queries": {
+    "fact": "New York state law allows citizens with dual residences to choose where they want to vote.",
+    "claim": "New York state law allows citizens with dual residences to choose where they want to vote. Move Indigo"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2294.29283400008,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2708.234417000087,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "New York State law is clear. Citizens with dual residences ...",
+      "url": "https://votewhereitcounts.org/downloads/VWIC%20HANDOUTJULY2024QR.pdf",
+      "domain": "votewhereitcounts.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Yes, New Yorkers with second homes in the Empire State ...",
+      "url": "https://politifact.com/factchecks/2026/jun/26/move-indigo/yes-new-yorkers-with-second-homes-in-the-empire-st/",
+      "domain": "politifact.com",
+      "published": "2026-06-26",
+      "publishedAsGiven": "Jun 26, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "2026 New York State Election Law Update",
+      "url": "https://elections.ny.gov/2026-new-york-state-election-law-update",
+      "domain": "elections.ny.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "More About Dual Residency | Empower Your Vote Today",
+      "url": "https://www.columbiacountydemocrats.org/more-about-dual-residency",
+      "domain": "columbiacountydemocrats.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Vote Where It Counts",
+      "url": "https://votewhereitcounts.org/",
+      "domain": "votewhereitcounts.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "New York Second Address: Maximize Your Vote",
+      "url": "https://www.moveindigo.org/ny-dual-resident",
+      "domain": "moveindigo.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Voting & Dual Residency",
+      "url": "https://www.keukalakeassociation.org/voting-dual-residency.php",
+      "domain": "keukalakeassociation.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Dual Resident Voting - Scholarship @ Hofstra Law",
+      "url": "https://scholarlycommons.law.hofstra.edu/cgi/viewcontent.cgi?article=1828&context=faculty_scholarship",
+      "domain": "scholarlycommons.law.hofstra.edu",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Where should I vote if I own homes in two different states?",
+      "url": "https://voterhelpdesk.usvotefoundation.org/en/support/solutions/articles/151000195301-where-should-i-vote-if-i-own-homes-in-two-different-states-",
+      "domain": "voterhelpdesk.usvotefoundation.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "FAQs",
+      "url": "https://vote.nyc/page/faqs",
+      "domain": "vote.nyc",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "New York Second Address: Maximize Your Vote",
+      "url": "https://www.moveindigo.org/ny-dual-resident",
+      "domain": "moveindigo.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Yes, New Yorkers with second homes in the Empire State ...",
+      "url": "https://politifact.com/factchecks/2026/jun/26/move-indigo/yes-new-yorkers-with-second-homes-in-the-empire-st/",
+      "domain": "politifact.com",
+      "published": "2026-06-26",
+      "publishedAsGiven": "Jun 26, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "New York State law is clear. Citizens with dual residences ...",
+      "url": "https://votewhereitcounts.org/downloads/VWIC%20HANDOUTJULY2024QR.pdf",
+      "domain": "votewhereitcounts.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "NYC Dems urged to switch voting address to upstate ...",
+      "url": "https://newschannel9.com/news/nation-world/nyc-dems-urged-to-switch-voting-address-to-upstate-vacation-homes-feels-weird-new-york-voters-democrat-moveindigo-hudson-valley-albany-saratoga-long-island-2024-election",
+      "domain": "newschannel9.com",
+      "published": "2024-08-05",
+      "publishedAsGiven": "Aug 5, 2024",
+      "snippet": "The MoveIndigo spokesperson stressed that New York State law allows voters with two homes to choose which one they register as their address."
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "More About Dual Residency | Empower Your Vote Today",
+      "url": "https://www.columbiacountydemocrats.org/more-about-dual-residency",
+      "domain": "columbiacountydemocrats.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Voting & Dual Residency",
+      "url": "https://www.keukalakeassociation.org/voting-dual-residency.php",
+      "domain": "keukalakeassociation.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Op-Ed | New York's second-home owners: An opportunity ...",
+      "url": "https://politicsny.com/2024/02/09/op-ed-new-yorks-second-home-owners-an-opportunity-to-flip-the-house-in-2024/",
+      "domain": "politicsny.com",
+      "published": "2024-02-09",
+      "publishedAsGiven": "Feb 9, 2024",
+      "snippet": "New York State law is clear. Citizens with dual residences have the right to choose where they want to vote. They do not have to vote where they ..."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "2026 New York State Election Law Update",
+      "url": "https://elections.ny.gov/2026-new-york-state-election-law-update",
+      "domain": "elections.ny.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Vote Where It Counts",
+      "url": "https://votewhereitcounts.org/",
+      "domain": "votewhereitcounts.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "New York",
+      "url": "https://politifact.com/new-york/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 0,
+    "after-said": 0,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 15
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:15:29.573Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "NYC Dems urged to switch voting address to upstate ...",
+      "url": "https://newschannel9.com/news/nation-world/nyc-dems-urged-to-switch-voting-address-to-upstate-vacation-homes-feels-weird-new-york-voters-democrat-moveindigo-hudson-valley-albany-saratoga-long-island-2024-election",
+      "domain": "newschannel9.com",
+      "snippet": "The MoveIndigo spokesperson stressed that New York State law allows voters with two homes to choose which one they register as their address.",
+      "published": "2024-08-05",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "Op-Ed | New York's second-home owners: An opportunity ...",
+      "url": "https://politicsny.com/2024/02/09/op-ed-new-yorks-second-home-owners-an-opportunity-to-flip-the-house-in-2024/",
+      "domain": "politicsny.com",
+      "snippet": "New York State law is clear. Citizens with dual residences have the right to choose where they want to vote. They do not have to vote where they ...",
+      "published": "2024-02-09",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    }
+  ]
+}

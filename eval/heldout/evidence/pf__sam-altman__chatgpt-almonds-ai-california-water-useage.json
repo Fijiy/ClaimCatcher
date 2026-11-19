@@ -1,0 +1,218 @@
+{
+  "frozenAt": "2026-10-27T03:21:31.937Z",
+  "refilteredAt": "2026-10-27T03:37:10.177Z",
+  "id": "pf/sam-altman/chatgpt-almonds-ai-california-water-useage",
+  "said": "2026-09-01",
+  "queries": {
+    "fact": "For every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of a single almond in California.",
+    "claim": "For every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of a single almond in California. Sam Altman"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1291.7419590000063,
+      "results": 9
+    },
+    {
+      "query": "claim",
+      "ms": 2006.4468330000527,
+      "results": 9
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Mostly False: Sam Altman says growing a single almond ...",
+      "url": "https://politifact.com/factchecks/2026/sep/04/sam-altman/chatgpt-almonds-ai-california-water-useage/",
+      "domain": "politifact.com",
+      "published": "2026-09-04",
+      "publishedAsGiven": "Sep 4, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Fact-checkers confirm: 38000 ChatGPT queries use as ...",
+      "url": "https://www.reddit.com/r/aiwars/comments/1w798k9/factcheckers_confirm_38000_chatgpt_queries_use_as/",
+      "domain": "reddit.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Post",
+      "url": "https://x.com/VaibhavSisinty/status/2095463134463242315",
+      "domain": "x.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "“For every 38000 ChatGPT queries, that is the same ...",
+      "url": "https://www.facebook.com/houstonchronicle/posts/for-every-38000-chatgpt-queries-that-is-the-same-amount-of-water-that-is-used-in/1529864552491011/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Altman: AI water use vs. almonds claim doesn't hold up",
+      "url": "https://calmatters.org/environment/2026/09/sam-altman-almonds-chatgpt-water-california/",
+      "domain": "calmatters.org",
+      "published": "2026-09-03",
+      "publishedAsGiven": "Sep 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Sam Altman says producing a single almond in California uses ...",
+      "url": "https://www.instagram.com/p/Dc0wYDaAHSw/?hl=en",
+      "domain": "instagram.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "38000 ChatGPT Queries = Water for 1 California Almond",
+      "url": "https://www.tiktok.com/@realmizkif/video/7682531603377163534",
+      "domain": "tiktok.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "OpenAI CEO Sam Altman says 38000 ChatGPT queries ...",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building",
+      "domain": "tomshardware.com",
+      "published": "2026-09-03",
+      "publishedAsGiven": "Sep 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "ChatGPT In a Nutshell: We Fact Check a Water Usage ...",
+      "url": "https://trustdale.com/blog/ai-water-use-fact-check",
+      "domain": "trustdale.com",
+      "published": "2026-09-04",
+      "publishedAsGiven": "Sep 4, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Post",
+      "url": "https://x.com/VaibhavSisinty/status/2095463134463242315",
+      "domain": "x.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Mostly False: Sam Altman says growing a single almond ...",
+      "url": "https://politifact.com/factchecks/2026/sep/04/sam-altman/chatgpt-almonds-ai-california-water-useage/",
+      "domain": "politifact.com",
+      "published": "2026-09-04",
+      "publishedAsGiven": "Sep 4, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Fact-checkers confirm: 38000 ChatGPT queries use as ...",
+      "url": "https://www.reddit.com/r/aiwars/comments/1w798k9/factcheckers_confirm_38000_chatgpt_queries_use_as/",
+      "domain": "reddit.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "“For every 38000 ChatGPT queries, that is the same ...",
+      "url": "https://www.facebook.com/houstonchronicle/posts/for-every-38000-chatgpt-queries-that-is-the-same-amount-of-water-that-is-used-in/1529864552491011/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Do almonds use more water than ChatGPT queries?",
+      "url": "https://www.abridged.org/news/almonds-and-ai/",
+      "domain": "abridged.org",
+      "published": "2026-09-08",
+      "publishedAsGiven": "Sep 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "OpenAI CEO Sam Altman says 38000 ChatGPT queries ...",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building",
+      "domain": "tomshardware.com",
+      "published": "2026-09-03",
+      "publishedAsGiven": "Sep 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Almond water usage vs ChatGPT queries | Vaibhav Sisinty ...",
+      "url": "https://www.linkedin.com/posts/vaibhavsisinty_one-almond-uses-more-water-than-38000-chatgpt-activity-7501228844452958208-nvws",
+      "domain": "linkedin.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Sam Altman DM for credit/removal ( ...",
+      "url": "https://www.instagram.com/reel/DeQE_7ssZJy/",
+      "domain": "instagram.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Feeling guilty about ChatGPT's water use? Sam Altman ...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/feeling-guilty-chatgpts-water-sam-213000513.html",
+      "domain": "finance.yahoo.com",
+      "published": "2026-09-03",
+      "publishedAsGiven": "Sep 3, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 18,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 3,
+    "after-said": 6,
+    "maybe-after-said": 7,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:21:28.639Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

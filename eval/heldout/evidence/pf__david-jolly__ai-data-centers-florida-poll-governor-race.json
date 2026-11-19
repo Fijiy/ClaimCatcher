@@ -1,0 +1,213 @@
+{
+  "frozenAt": "2026-10-27T03:21:03.831Z",
+  "refilteredAt": "2026-10-27T03:37:02.671Z",
+  "id": "pf/david-jolly/ai-data-centers-florida-poll-governor-race",
+  "said": "2026-08-28",
+  "queries": {
+    "fact": "70, 80% of people across Florida are saying, ‘Don’t build data centers.'",
+    "claim": "70, 80% of people across Florida are saying, ‘Don’t build data centers.' David Jolly"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1873.3319170000032,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2057.4512920000125,
+      "results": 6
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Data Center Donalds at UCF openly telling students he ...",
+      "url": "https://www.facebook.com/carlosguillermosmith/posts/data-center-donalds-at-ucf-openly-telling-students-he-wants-more-data-centers-in/1609543447297335/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Americans Oppose AI Data Centers in Their Area",
+      "url": "https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx",
+      "domain": "news.gallup.com",
+      "published": "2026-05-13",
+      "publishedAsGiven": "May 13, 2026",
+      "snippet": "Seven in 10 Americans oppose the construction of an AI data center in their local area, including 48% strongly opposed."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "David Jolly said the vast majority of Floridians oppose new ...",
+      "url": "https://www.wlrn.org/government-politics/2026-09-03/david-jolly-said-the-vast-majority-of-floridians-oppose-new-data-centers-polls-back-that-up",
+      "domain": "wlrn.org",
+      "published": "2026-09-03",
+      "publishedAsGiven": "Sep 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "While Florida's new law regulating large-scale data centers has ...",
+      "url": "https://www.facebook.com/wesh2news/posts/while-floridas-new-law-regulating-large-scale-data-centers-has-consumer-protecti/1060228916519026/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "snippet": "Florida's new law regulating large-scale data centers has consumer protections and empowers local governments to reject such development in ..."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Data Center Donalds at UCF openly telling students he ...",
+      "url": "https://www.instagram.com/p/DdKAJ3jJVm1/",
+      "domain": "instagram.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Could data centers be good for taxpayers? | Battleground Florida",
+      "url": "https://www.youtube.com/watch?v=I1nFkFjHndM",
+      "domain": "youtube.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "snippet": "In this episode of Battleground Florida, a discussion of how data centers could impact Floridians. Karen Baldwin and Michael Hill of No Data ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Florida Democrats want data centers to be halted, while ...",
+      "url": "https://www.nbcmiami.com/news/local/florida-democrats-data-centers-miami-dade/3862786/",
+      "domain": "nbcmiami.com",
+      "published": "2026-09-22",
+      "publishedAsGiven": "Sep 22, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "David Jolly said the vast majority of Floridians oppose new ...",
+      "url": "https://politifact.com/factchecks/2026/sep/02/david-jolly/ai-data-centers-florida-poll-governor-race/",
+      "domain": "politifact.com",
+      "published": "2026-09-02",
+      "publishedAsGiven": "Sep 2, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "As Floridians rightfully worry about the impact of AI and data ...",
+      "url": "https://www.facebook.com/davidjollyflorida/posts/as-floridians-rightfully-worry-about-the-impact-of-ai-and-data-centers-byron-don/122188079780892703/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Across the US, people don't want data centers coming to ...",
+      "url": "https://theconversation.com/across-the-us-people-dont-want-data-centers-coming-to-their-communities-291630",
+      "domain": "theconversation.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "Oct 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "David Jolly said the vast majority of Floridians oppose new ...",
+      "url": "https://www.wlrn.org/government-politics/2026-09-03/david-jolly-said-the-vast-majority-of-floridians-oppose-new-data-centers-polls-back-that-up",
+      "domain": "wlrn.org",
+      "published": "2026-09-03",
+      "publishedAsGiven": "Sep 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "David Jolly said the vast majority of Floridians oppose new ...",
+      "url": "https://politifact.com/factchecks/2026/sep/02/david-jolly/ai-data-centers-florida-poll-governor-race/",
+      "domain": "politifact.com",
+      "published": "2026-09-02",
+      "publishedAsGiven": "Sep 2, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Do 70% to 80% of Floridians oppose new data centers?",
+      "url": "https://mediabiasfactcheck.com/fact-check-do-70-to-80-of-floridians-oppose-new-data-centers/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-09-08",
+      "publishedAsGiven": "Sep 8, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Florida Democratic gubernatorial nominee David Jolly said ...",
+      "url": "https://www.facebook.com/politifact/posts/florida-democratic-gubernatorial-nominee-david-jolly-said-the-vast-majority-of-f/1539547148206383/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Byron Donalds doubles down on AI data centers at UCF ...",
+      "url": "https://www.yahoo.com/news/politics/articles/byron-donalds-doubles-down-ai-001300802.html",
+      "domain": "yahoo.com",
+      "published": "2026-09-10",
+      "publishedAsGiven": "Sep 10, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "David Jolly Proposes 1-Year Data Center Pause in Florida Gov ...",
+      "url": "https://www.facebook.com/davidjollyflorida/videos/as-floridians-rightfully-worry-about-the-impact-of-ai-and-data-centers-byron-don/1865588607771291/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    }
+  ],
+  "returned": 16,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 2,
+    "after-said": 6,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:20:59.900Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Americans Oppose AI Data Centers in Their Area",
+      "url": "https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx",
+      "domain": "news.gallup.com",
+      "snippet": "Seven in 10 Americans oppose the construction of an AI data center in their local area, including 48% strongly opposed.",
+      "published": "2026-05-13",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Gallup",
+        "page": "https://mediabiasfactcheck.com/gallup/"
+      },
+      "weight": "full",
+      "n": 1
+    }
+  ]
+}

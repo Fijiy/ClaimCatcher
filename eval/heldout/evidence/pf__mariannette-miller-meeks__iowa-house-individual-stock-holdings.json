@@ -1,0 +1,270 @@
+{
+  "frozenAt": "2026-10-27T03:26:27.321Z",
+  "refilteredAt": "2026-10-27T03:38:21.713Z",
+  "id": "pf/mariannette-miller-meeks/iowa-house-individual-stock-holdings",
+  "said": "2026-10-02",
+  "queries": {
+    "fact": "I don’t own a single individual stock.",
+    "claim": "I don’t own a single individual stock. Mariannette Miller-Meeks"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1056.1488330001011,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2030.9687919998541,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "If you're going to buy individual stocks instead ...",
+      "url": "https://www.facebook.com/suzeorman/posts/if-youre-going-to-buy-individual-stocks-instead-of-an-exchange-traded-fund-how-m/1642970207184641/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "snippet": "ETFs and index funds are a better option than individual stocks because they offer broader diversification and in turn, help to minimize risk."
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Do people who invest in individual stocks know something we dont?",
+      "url": "https://www.reddit.com/r/investing/comments/1pf72ef/do_people_who_invest_in_individual_stocks_know/",
+      "domain": "reddit.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Am I panic selling individual stocks?",
+      "url": "https://forum.whitecoatinvestor.com/general-investing/488965-am-i-panic-selling-individual-stocks",
+      "domain": "forum.whitecoatinvestor.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Single Stock Keep or Sell",
+      "url": "https://www.bogleheads.org/forum/viewtopic.php?t=443657",
+      "domain": "bogleheads.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Do you own individual stocks for any weird reasons?",
+      "url": "https://www.reddit.com/r/Bogleheads/comments/1q16xfv/do_you_own_individual_stocks_for_any_weird_reasons/",
+      "domain": "reddit.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "snippet": "For example, I have 1 share of AMC because they give a free snack every quarter to their investors."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Worried you may own too much of one stock?",
+      "url": "https://privatebank.jpmorgan.com/nam/en/insights/wealth-planning/worried-you-may-own-too-much-of-one-stock",
+      "domain": "privatebank.jpmorgan.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "I don't buy single stocks. They're higher risk and a lot more ...",
+      "url": "https://www.facebook.com/daveramsey/posts/i-dont-buy-single-stockstheyre-higher-risk-and-a-lot-more-volatile-and-youre-bet/1666770224812585/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "snippet": "I don't buy single stocks. They're higher risk and a lot more volatile, and you're betting the whole farm on one horse race."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "The Hidden Risks of a Single Stock Concentration—and ...",
+      "url": "https://www.plancorp.com/blog/single-stock-dangers",
+      "domain": "plancorp.com",
+      "published": "2026-01-05",
+      "publishedAsGiven": "Jan 5, 2026",
+      "snippet": "Owning individual stocks isn't inherently wrong. But when one stock dominates your financial life, several risks compound: You're not rewarded ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Individual Stocks in Your Portfolio: Pros and Cons",
+      "url": "https://www.softpak.com/blog/single-stocks-in-portfolio-pros-and-cons/",
+      "domain": "softpak.com",
+      "published": "2026-06-11",
+      "publishedAsGiven": "Jun 11, 2026",
+      "snippet": "Research suggests you need to own between 20 and 100 stocks to achieve adequate diversification. Holding fewer leaves exposes you to the risk of ..."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Dave Ramsey Explains the Problem With Buying Single Stocks",
+      "url": "https://www.facebook.com/daveramsey/videos/i-dont-buy-single-stockstheyre-higher-risk-and-a-lot-more-volatile-and-youre-bet/1627800102085927/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "snippet": "I don't buy single stocks. They're higher risk and a lot more volatile, You just have to be scientific and not emotional about it."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Republican congresswoman Miller-Meeks says she doesn' ...",
+      "url": "https://politifact.com/factchecks/2026/oct/14/mariannette-miller-meeks/iowa-house-individual-stock-holdings/",
+      "domain": "politifact.com",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "House Passes Miller-Meeks Backed Bill to Ban Congressional ...",
+      "url": "http://millermeeks.house.gov/media/press-releases/house-passes-miller-meeks-backed-bill-ban-congressional-stock-trading",
+      "domain": "millermeeks.house.gov",
+      "published": "2026-07-22",
+      "publishedAsGiven": "Jul 22, 2026",
+      "snippet": "I don't own a single individual stock, because I came here to represent the people of Iowa, not to pad a portfolio. It's time to put integrity ..."
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "That's right. Neither my husband nor I own a single ...",
+      "url": "https://www.facebook.com/MillerMeeksIA/posts/thats-right-neither-my-husband-nor-i-own-a-single-individual-stockmembers-of-con/1484646890145864/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "PolitiFact Iowa | Republican congresswoman Miller-Meeks ...",
+      "url": "https://dailyiowan.com/2026/10/14/politifact-iowa-republican-congresswoman-miller-meeks-says-she-doesnt-own-individual-stocks-true/",
+      "domain": "dailyiowan.com",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Dr. Miller-Meeks on X: \"Fact Check",
+      "url": "https://x.com/millermeeks/status/2111172415837356285",
+      "domain": "x.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Does Mariannette Miller-Meeks own any individual stocks?",
+      "url": "https://mediabiasfactcheck.com/fact-check-does-mariannette-miller-meeks-own-any-individual-stocks/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-10-19",
+      "publishedAsGiven": "8 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Playbook for America | Representative Mariannette Miller-Meeks",
+      "url": "http://millermeeks.house.gov/Playbook4America",
+      "domain": "millermeeks.house.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Think the system is rigged? You're right. Politicians get rich ...",
+      "url": "https://www.facebook.com/MillerMeeksIA/videos/think-the-system-is-rigged-youre-right-politicians-get-rich-trading-stocks-with-/1823815855278250/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "snippet": "I don't own a single individual stock. I w | Mariannette Miller-Meeks. I wrote legislation to ban congressional stock trading. If you write the ..."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "I don't own any individual stocks. My husband doesn' ...",
+      "url": "https://www.facebook.com/RepMMM/videos/i-dont-own-any-individual-stocks-my-husband-doesnt-own-any-individual-stocksi-ca/875635461476182/",
+      "domain": "facebook.com",
+      "published": "2025-11-27",
+      "publishedAsGiven": "11 months ago",
+      "snippet": "My husband doesn't own any individual stocks. I came to Washington to fight for the people of Iowa, not to pad a stock portfolio. Ban ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "MILLER-MEEKS: If you write the laws, you shouldn't profit ...",
+      "url": "https://theiowastandard.com/miller-meeks-if-you-write-the-laws-you-shouldnt-profit-from-them/",
+      "domain": "theiowastandard.com",
+      "published": "2026-09-01",
+      "publishedAsGiven": "Sep 1, 2026",
+      "snippet": "“I don't own a single individual stock. I wrote legislation to ban congressional stock trading. If you write the laws, you shouldn't profit from ..."
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 3,
+    "after-said": 1,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 5
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:26:24.233Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "The Hidden Risks of a Single Stock Concentration—and ...",
+      "url": "https://www.plancorp.com/blog/single-stock-dangers",
+      "domain": "plancorp.com",
+      "snippet": "Owning individual stocks isn't inherently wrong. But when one stock dominates your financial life, several risks compound: You're not rewarded ...",
+      "published": "2026-01-05",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "MILLER-MEEKS: If you write the laws, you shouldn't profit ...",
+      "url": "https://theiowastandard.com/miller-meeks-if-you-write-the-laws-you-shouldnt-profit-from-them/",
+      "domain": "theiowastandard.com",
+      "snippet": "“I don't own a single individual stock. I wrote legislation to ban congressional stock trading. If you write the laws, you shouldn't profit from ...",
+      "published": "2026-09-01",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    },
+    {
+      "title": "Individual Stocks in Your Portfolio: Pros and Cons",
+      "url": "https://www.softpak.com/blog/single-stocks-in-portfolio-pros-and-cons/",
+      "domain": "softpak.com",
+      "snippet": "Research suggests you need to own between 20 and 100 stocks to achieve adequate diversification. Holding fewer leaves exposes you to the risk of ...",
+      "published": "2026-06-11",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    }
+  ]
+}

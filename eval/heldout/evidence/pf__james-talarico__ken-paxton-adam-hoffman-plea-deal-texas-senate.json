@@ -1,0 +1,257 @@
+{
+  "frozenAt": "2026-10-27T03:15:13.685Z",
+  "refilteredAt": "2026-10-27T03:35:35.679Z",
+  "id": "pf/james-talarico/ken-paxton-adam-hoffman-plea-deal-texas-senate",
+  "said": "2026-05-28",
+  "queries": {
+    "fact": "Adam Hoffman abused a little boy and Ken Paxton let Hoffman off the hook.",
+    "claim": "Adam Hoffman abused a little boy and Ken Paxton let Hoffman off the hook. James Talarico"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1480.2686669999966,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2175.5644160000375,
+      "results": 5
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "The handling of Adam Hoffman's child sex abuse case ...",
+      "url": "https://www.facebook.com/KVUEinsider/posts/the-handling-of-adam-hoffmans-child-sex-abuse-case-becomes-a-pivotal-issue-in-th/1584465940385478/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Inside the Waco child sex abuse case Ken Paxton's office ...",
+      "url": "https://www.houstonpublicmedia.org/articles/news/criminal-justice/2026/05/19/552287/ken-paxton-waco-plea-deal-child-sex-abuse-texas-attorney-general/",
+      "domain": "houstonpublicmedia.org",
+      "published": "2026-05-19",
+      "publishedAsGiven": "May 19, 2026",
+      "snippet": "The judge in the case insisted on a 60-day jail sentence. The controversy has roiled Texas politics and led critics to question the attorney ..."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Ken Paxton just denied our public information request ...",
+      "url": "https://www.facebook.com/JamesTalaricoTX/posts/ken-paxton-just-denied-our-public-information-request-for-the-hoffman-filesadam-/1414945223784740/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Who is Adam Hoffman? The former Waco attorney at ...",
+      "url": "https://www.kcentv.com/article/news/politics/elections/who-is-adam-hoffman-waco-attorney-center-paxton-talarico-race/500-8d61f2df-e765-4e90-aad5-29c03410f143",
+      "domain": "kcentv.com",
+      "published": "2026-09-29",
+      "publishedAsGiven": "Sep 29, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Adam Hoffman",
+      "url": "https://www.themarshallproject.org/records/22783-adam-hoffman",
+      "domain": "themarshallproject.org",
+      "published": "2026-05-25",
+      "publishedAsGiven": "May 25, 2026",
+      "snippet": "The best criminal justice reporting tagged with \"Adam Hoffman,\" curated by The Marshall Project."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "The Adam Hoffman Case out of Waco is one of the most ...",
+      "url": "https://www.facebook.com/leachfortexas/videos/the-adam-hoffman-case-out-of-waco-is-one-of-the-most-troubling-and-shocking-chil/1617836635955561/",
+      "domain": "facebook.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "snippet": "The Adam Hoffman Case out of Waco is one of the most troubling and shocking child abuse cases I've ever seen — and I simply cannot and will ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "NEW VIDEO: Ken Paxton Refuses To Say If Adam Hoffman ...",
+      "url": "https://www.texasdemocrats.org/post/new-video-ken-paxton-refuses-to-say-if-adam-hoffman-should-be-registered-as-a-sex-offender-in-texas",
+      "domain": "texasdemocrats.org",
+      "published": "2026-09-27",
+      "publishedAsGiven": "Sep 27, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Paxton's office responds to controversial Adam Hoffman ...",
+      "url": "https://www.youtube.com/watch?v=X7Hp3uhSjp4",
+      "domain": "youtube.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "snippet": "While former Waco attorney Adam Hoffman approaches the end of his 60-day jail term for sexually abusing his son's best friend, outrage over ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Ex-Waco attorney sexual abuse case continues to spark ...",
+      "url": "https://www.kwtx.com/2026/05/15/texas-ag-ken-paxton-has-ignored-requests-explain-adam-hoffmans-plea-deal-house-judiciary-chair-says/",
+      "domain": "kwtx.com",
+      "published": "2026-05-15",
+      "publishedAsGiven": "May 15, 2026",
+      "snippet": "He was facing life without parole until the Attorney General's Office reduced the charges in exchange for his guilty pleas. Former Waco attorney ..."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Did Ken Paxton let Adam Hoffman “off the hook” in a child ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-ken-paxton-let-adam-hoffman-off-the-hook-in-a-child-abuse-case/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-06-06",
+      "publishedAsGiven": "Jun 6, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact-checking James Talarico’s attack on Texas AG Ken Paxton ...",
+      "url": "https://www.politifact.com/factchecks/2026/jun/03/james-talarico/ken-paxton-adam-hoffman-plea-deal-Texas-Senate/",
+      "domain": "politifact.com",
+      "published": "2026-06-03",
+      "publishedAsGiven": "Jun 3, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Inside Ken Paxton’s plea deal for a child sex abuse case",
+      "url": "https://www.texastribune.org/2026/05/19/ken-paxton-waco-plea-deal-child-sex-abuse-texas-attorney-general/",
+      "domain": "texastribune.org",
+      "published": "2026-05-19",
+      "publishedAsGiven": "May 19, 2026",
+      "snippet": "The defendant, a local attorney named Adam Dean Hoffman, stood accused of repeatedly sexually abusing a young boy for years. The boy had told an investigator that Hoffman raped him..."
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "‘Release The Hoffman Files’: James Talarico calls on Ken ...",
+      "url": "https://www.kwtx.com/2026/06/18/release-hoffman-files-james-talarico-calls-paxton-release-details-adam-hoffman-plea-deal/",
+      "domain": "kwtx.com",
+      "published": "2026-06-18",
+      "publishedAsGiven": "Jun 18, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Adam Dean Hoffman case becomes political flashpoint in Paxton ...",
+      "url": "https://www.kcentv.com/article/news/local/adam-dean-hoffman-case-political-flashpoint-paxton-talarico-senate-race/500-9b9b0a56-a907-448d-a724-339ae5eb54ba",
+      "domain": "kcentv.com",
+      "published": "2026-05-28",
+      "publishedAsGiven": "May 28, 2026",
+      "snippet": "Democratic candidate James Talarico has publicly criticized Paxton and the Texas Attorney General’s Office over the handling of the Adam Dean Hoffman case, a case that has already sparked..."
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Talarico goes all-in with attack on Paxton plea deal in child ...",
+      "url": "https://www.texastribune.org/text/233826/",
+      "domain": "texastribune.org",
+      "published": "2026-06-18",
+      "publishedAsGiven": "Jun 18, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 15,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 1,
+    "after-said": 6,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:15:10.027Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Adam Hoffman",
+      "url": "https://www.themarshallproject.org/records/22783-adam-hoffman",
+      "domain": "themarshallproject.org",
+      "snippet": "The best criminal justice reporting tagged with \"Adam Hoffman,\" curated by The Marshall Project.",
+      "published": "2026-05-25",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "The Marshall Project",
+        "page": "https://mediabiasfactcheck.com/the-marshall-project/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Inside Ken Paxton’s plea deal for a child sex abuse case",
+      "url": "https://www.texastribune.org/2026/05/19/ken-paxton-waco-plea-deal-child-sex-abuse-texas-attorney-general/",
+      "domain": "texastribune.org",
+      "snippet": "The defendant, a local attorney named Adam Dean Hoffman, stood accused of repeatedly sexually abusing a young boy for years. The boy had told an investigator that Hoffman raped him...",
+      "published": "2026-05-19",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Texas Tribune",
+        "page": "https://mediabiasfactcheck.com/texas-tribune/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Inside the Waco child sex abuse case Ken Paxton's office ...",
+      "url": "https://www.houstonpublicmedia.org/articles/news/criminal-justice/2026/05/19/552287/ken-paxton-waco-plea-deal-child-sex-abuse-texas-attorney-general/",
+      "domain": "houstonpublicmedia.org",
+      "snippet": "The judge in the case insisted on a 60-day jail sentence. The controversy has roiled Texas politics and led critics to question the attorney ...",
+      "published": "2026-05-19",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    },
+    {
+      "title": "Adam Dean Hoffman case becomes political flashpoint in Paxton ...",
+      "url": "https://www.kcentv.com/article/news/local/adam-dean-hoffman-case-political-flashpoint-paxton-talarico-senate-race/500-9b9b0a56-a907-448d-a724-339ae5eb54ba",
+      "domain": "kcentv.com",
+      "snippet": "Democratic candidate James Talarico has publicly criticized Paxton and the Texas Attorney General’s Office over the handling of the Adam Dean Hoffman case, a case that has already sparked...",
+      "published": "2026-05-28",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 4
+    },
+    {
+      "title": "Ex-Waco attorney sexual abuse case continues to spark ...",
+      "url": "https://www.kwtx.com/2026/05/15/texas-ag-ken-paxton-has-ignored-requests-explain-adam-hoffmans-plea-deal-house-judiciary-chair-says/",
+      "domain": "kwtx.com",
+      "snippet": "He was facing life without parole until the Attorney General's Office reduced the charges in exchange for his guilty pleas. Former Waco attorney ...",
+      "published": "2026-05-15",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 5
+    }
+  ]
+}

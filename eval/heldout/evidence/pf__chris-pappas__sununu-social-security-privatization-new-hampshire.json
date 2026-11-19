@@ -1,0 +1,227 @@
+{
+  "frozenAt": "2026-10-27T03:23:32.817Z",
+  "refilteredAt": "2026-10-27T03:37:38.435Z",
+  "id": "pf/chris-pappas/sununu-social-security-privatization-new-hampshire",
+  "said": "2026-09-15",
+  "queries": {
+    "fact": "New Hampshire Republican U.S. Senate candidate John Sununu led efforts to privatize Social Security.",
+    "claim": "New Hampshire Republican U.S. Senate candidate John Sununu led efforts to privatize Social Security. Chris Pappas"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 3569.01729099988,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 3006.259459000081,
+      "results": 8
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "FACT CHECK: Former Senator John Sununu Led Efforts to ...",
+      "url": "https://chrispappas.org/2026/09/fact-check-former-senator-john-sununu-led-efforts-to-privatize-social-security/",
+      "domain": "chrispappas.org",
+      "published": "2026-09-15",
+      "publishedAsGiven": "Sep 15, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "In New Hampshire, Chris Pappas largely accurate that ...",
+      "url": "https://politifact.com/factchecks/2026/sep/23/chris-pappas/sununu-social-security-privatization-new-hampshire/",
+      "domain": "politifact.com",
+      "published": "2026-09-23",
+      "publishedAsGiven": "Sep 23, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "John Sununu was “a leading figure in the effort” to privatize ...",
+      "url": "https://www.facebook.com/NHDems/posts/john-sununu-was-a-leading-figure-in-the-effort-to-privatize-social-security-repe/1715687253246451/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Sununu: My Social Security plan was not privatization",
+      "url": "https://www.c-span.org/clip/campaign-2026/sununu-my-social-security-plan-was-not-privatization/5206328",
+      "domain": "c-span.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "WATCH: John Sununu is once again defending his record of ...",
+      "url": "https://www.facebook.com/NHDems/posts/watch-john-sununu-is-once-again-defending-his-record-of-repeatedly-trying-to-pri/1715722983242878/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "John E. Sununu says 2005 Social Security privatization plan ...",
+      "url": "https://www.youtube.com/watch?v=__0Xzyk9bKk",
+      "domain": "youtube.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "New Hampshire Senate candidate John Sununu was a ...",
+      "url": "https://www.facebook.com/NationalCommittee/posts/new-hampshire-senate-candidate-john-sununu-was-a-congressional-leader-of-the-sch/1513076917530264/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Republican Senate candidate John E. Sununu says he ...",
+      "url": "https://www.facebook.com/wmur9/posts/republican-senate-candidate-john-e-sununu-says-he-supports-a-bipartisan-approach/1121505357043844/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Apart on stage, Pappas and Sununu still trade jabs",
+      "url": "https://www.unionleader.com/news/politics/pappas-sununu-separately-snipe-over-social-security-at-aarp-nh-reform-a31d41fc",
+      "domain": "unionleader.com",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Rep. Pappas: Sununu ied Bush-era efforts to privatize Social ...",
+      "url": "https://www.c-span.org/clip/campaign-2026/rep-pappas-sununu-ied-bush-era-efforts-to-privatize-social-security/5203920",
+      "domain": "c-span.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "FACT CHECK: Former Senator John Sununu Led Efforts to ...",
+      "url": "https://chrispappas.org/2026/09/fact-check-former-senator-john-sununu-led-efforts-to-privatize-social-security/",
+      "domain": "chrispappas.org",
+      "published": "2026-09-15",
+      "publishedAsGiven": "Sep 15, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Rep. Pappas: Sununu ied Bush-era efforts to privatize Social ...",
+      "url": "https://www.c-span.org/clip/campaign-2026/rep-pappas-sununu-ied-bush-era-efforts-to-privatize-social-security/5203920",
+      "domain": "c-span.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "New Hampshire Senate candidate John Sununu was a ...",
+      "url": "https://www.facebook.com/NationalCommittee/posts/new-hampshire-senate-candidate-john-sununu-was-a-congressional-leader-of-the-sch/1513076917530264/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "In New Hampshire, Chris Pappas largely accurate that ...",
+      "url": "https://politifact.com/factchecks/2026/sep/23/chris-pappas/sununu-social-security-privatization-new-hampshire/",
+      "domain": "politifact.com",
+      "published": "2026-09-23",
+      "publishedAsGiven": "Sep 23, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Sununu: My Social Security plan was not privatization",
+      "url": "https://www.c-span.org/clip/campaign-2026/sununu-my-social-security-plan-was-not-privatization/5206328",
+      "domain": "c-span.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "ROUNDUP: Pappas Contrasts Record of Fighting for New ...",
+      "url": "http://chrispappas.org/2026/08/roundup-pappas-contrasts-record-of-fighting-for-new-hampshire-seniors-with-john-sununus-record-of-scheming-to-privatize-social-security/",
+      "domain": "chrispappas.org",
+      "published": "2026-08-05",
+      "publishedAsGiven": "Aug 5, 2026",
+      "snippet": "Rep. Pappas criticized his opponent, former U.S. Senator John Sununu (R-NH), for his previous support of privatizing Social Security, and said ..."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "John Sununu was “a leading figure in the effort” to privatize ...",
+      "url": "https://www.facebook.com/NHDems/posts/john-sununu-was-a-leading-figure-in-the-effort-to-privatize-social-security-repe/1715687253246451/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "WMUR: After “Spearheading” Efforts to Privatize Social ...",
+      "url": "https://chrispappas.org/2026/09/wmur-after-spearheading-efforts-to-privatize-social-security-john-sununu-is-willing-to-do-it-again/",
+      "domain": "chrispappas.org",
+      "published": "2026-09-24",
+      "publishedAsGiven": "Sep 24, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 18,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 2,
+    "after-said": 6,
+    "maybe-after-said": 3,
+    "after-said-link-date": 0,
+    "undated": 4
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:23:26.241Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "ROUNDUP: Pappas Contrasts Record of Fighting for New ...",
+      "url": "http://chrispappas.org/2026/08/roundup-pappas-contrasts-record-of-fighting-for-new-hampshire-seniors-with-john-sununus-record-of-scheming-to-privatize-social-security/",
+      "domain": "chrispappas.org",
+      "snippet": "Rep. Pappas criticized his opponent, former U.S. Senator John Sununu (R-NH), for his previous support of privatizing Social Security, and said ...",
+      "published": "2026-08-05",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

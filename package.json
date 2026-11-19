@@ -1,0 +1,48 @@
+{
+  "name": "claimcatcher",
+  "description": "Every claim. Caught and checked.",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@12.15.0",
+  "scripts": {
+    "dev": "wxt",
+    "build": "wxt build",
+    "zip": "wxt zip",
+    "postinstall": "wxt prepare && node scripts/mbfc-snapshot.ts",
+    "typecheck": "wxt prepare && tsc --noEmit && svelte-check --tsconfig ./tsconfig.json --threshold warning",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "wxt build && playwright test",
+    "icons": "node scripts/render-icons.mjs",
+    "ratings": "node scripts/mbfc-snapshot.ts --force",
+    "models": "node scripts/models.ts",
+    "eval:local": "tsx scripts/eval/local.ts",
+    "eval:cloud": "tsx scripts/eval/cloud.ts",
+    "eval:fetch": "tsx scripts/eval/fetch-audio.ts",
+    "eval:on-device": "tsx scripts/eval/on-device.ts",
+    "eval:search": "tsx scripts/eval/search.ts",
+    "eval:review": "tsx scripts/eval/review.ts",
+    "eval:heldout-evidence": "tsx scripts/eval/heldout-evidence.ts",
+    "eval:heldout": "tsx scripts/eval/heldout-run.ts",
+    "eval:heldout-report": "tsx scripts/eval/heldout-report.ts",
+    "notices": "node scripts/notices.ts"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.62.1",
+    "@types/chrome": "^0.3.6",
+    "@types/node": "^22.20.5",
+    "@wxt-dev/module-svelte": "^2.0.5",
+    "svelte": "^5.57.2",
+    "svelte-check": "^4.7.7",
+    "tsx": "^4.23.15",
+    "typescript": "^6.0.3",
+    "vitest": "^5.0.5",
+    "wxt": "0.21.5"
+  },
+  "dependencies": {
+    "@fontsource-variable/atkinson-hyperlegible-next": "^5.3.0",
+    "@huggingface/transformers": "4.3.1",
+    "onnxruntime-web": "1.31.0-dev.20260914-8d85527a0"
+  }
+}

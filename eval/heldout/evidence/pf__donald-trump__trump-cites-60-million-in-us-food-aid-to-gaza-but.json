@@ -1,0 +1,269 @@
+{
+  "frozenAt": "2026-10-27T03:05:27.768Z",
+  "refilteredAt": "2026-10-27T03:33:10.045Z",
+  "id": "pf/donald-trump/trump-cites-60-million-in-us-food-aid-to-gaza-but",
+  "said": "2025-07-27",
+  "queries": {
+    "fact": "We gave $60 million two weeks ago for food aid to Gaza.",
+    "claim": "We gave $60 million two weeks ago for food aid to Gaza. Donald Trump"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1531.999416000006,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1636.1400420000136,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Trump: We gave $60M two weeks ago for food for Gaza #USA ...",
+      "url": "https://www.facebook.com/Qnewsegy/posts/trump-we-gave-60m-two-weeks-ago-for-food-for-gazausa-trump-eu-gaza-q_news/122237852786134472/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Trump claims the U.S. gave $60 million in Gaza aid. It's $3 ...",
+      "url": "https://www.washingtonpost.com/national-security/2025/08/01/ghf-trump-gaza-aid-millions/",
+      "domain": "washingtonpost.com",
+      "published": "2025-08-02",
+      "publishedAsGiven": "Aug 2, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "President Donald Trump said the United States gave $60 ...",
+      "url": "https://www.facebook.com/politifact/posts/president-donald-trump-said-the-united-states-gave-60-million-in-aid-to-gaza-two/1188094743351627/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Trump Describes Gaza 'Starvation' Crisis as 'Real'",
+      "url": "https://time.com/7305783/trump-gaza-famine-food-centers/",
+      "domain": "time.com",
+      "published": "2025-07-29",
+      "publishedAsGiven": "Jul 29, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Trump: We gave $60 million for Gaza, nobody said thank you",
+      "url": "https://www.youtube.com/shorts/Zg08oIAPBiU",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "related (40)",
+      "url": "https://www.quora.com/Why-is-Trump-complaining-about-60-000-000-given-for-food-aid-in-Gaza-and-no-one-saying-thank-you-Its-not-his-money-but-US-government-taxpayer-money-that-is-going-toward-humanitarian-aid-I-doubt-he-has-contributed",
+      "domain": "quora.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Trump cites $60 million in US food aid to Gaza, but $30 ...",
+      "url": "https://politifact.com/factchecks/2025/jul/30/donald-trump/trump-cites-60-million-in-us-food-aid-to-gaza-but/",
+      "domain": "politifact.com",
+      "published": "2025-07-30",
+      "publishedAsGiven": "Jul 30, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Gaza Crisis - Conflict & Hunger",
+      "url": "https://wfpusa.org/place/gaza/",
+      "domain": "wfpusa.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Food supplied to Gaza during seven months of the Hamas ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11818336/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "US gave $3M in Gaza food aid, contradicting Trump's $60 ...",
+      "url": "https://www.aa.com.tr/en/americas/us-gave-3m-in-gaza-food-aid-contradicting-trump-s-60m-claim-report/3649453",
+      "domain": "aa.com.tr",
+      "published": "2025-08-03",
+      "publishedAsGiven": "Aug 3, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Trump says US gave $60 million for food in Gaza",
+      "url": "https://www.the-independent.com/news/world/middle-east/trump-gaza-israel-aid-us-b2796917.html",
+      "domain": "the-independent.com",
+      "published": "2025-07-28",
+      "publishedAsGiven": "Jul 28, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Trump: We gave $60 million for Gaza, nobody said thank you",
+      "url": "https://www.youtube.com/shorts/Zg08oIAPBiU",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Trump Thinks He At Least Deserves A 'Thank You' For ...",
+      "url": "https://sg.news.yahoo.com/trump-thinks-least-deserves-thank-193842803.html",
+      "domain": "sg.news.yahoo.com",
+      "published": "2025-07-27",
+      "publishedAsGiven": "Jul 27, 2025",
+      "snippet": "\"We gave $60 million two weeks ago for food for Gaza, and nobody acknowledged it, nobody talks about it. And it makes you feel a little bad ..."
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Trump claims the U.S. gave $60 million in Gaza aid. It's $3 ...",
+      "url": "https://www.washingtonpost.com/national-security/2025/08/01/ghf-trump-gaza-aid-millions/",
+      "domain": "washingtonpost.com",
+      "published": "2025-08-02",
+      "publishedAsGiven": "Aug 2, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Trump on Israel and Gaza Aid: 'Nobody Gave But Us' During ...",
+      "url": "https://www.facebook.com/cnn/videos/you-know-you-really-at-least-want-to-have-somebody-say-thank-you-on-his-working-/1037265821759626/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Trump said US was only country that gave aid to Gaza for ...",
+      "url": "https://www.snopes.com/fact-check/trumps-us-gaza-aid/",
+      "domain": "snopes.com",
+      "published": "2025-07-29",
+      "publishedAsGiven": "Jul 29, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Trump Describes Gaza 'Starvation' Crisis as 'Real'",
+      "url": "https://time.com/7305783/trump-gaza-famine-food-centers/",
+      "domain": "time.com",
+      "published": "2025-07-29",
+      "publishedAsGiven": "Jul 29, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Trump said US was the only country that gave aid to Gaza ...",
+      "url": "https://www.facebook.com/groups/145933618544170/posts/760203817117144/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "'I know what I'd do in Gaza, Israel has to make a decision'",
+      "url": "https://www.israelnationalnews.com/news/412327",
+      "domain": "israelnationalnews.com",
+      "published": "2025-07-27",
+      "publishedAsGiven": "Jul 27, 2025",
+      "snippet": "US President says America gave $60 million to provide food to Gaza, but no other nation contributed to the effort, Hamas has less reason to ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Trump Says No Improvement in Gaza Despite Contributing $60 ...",
+      "url": "https://www.youtube.com/watch?v=zo7nWFhgrZw",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 1,
+    "after-said": 6,
+    "maybe-after-said": 7,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:05:24.600Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "'I know what I'd do in Gaza, Israel has to make a decision'",
+      "url": "https://www.israelnationalnews.com/news/412327",
+      "domain": "israelnationalnews.com",
+      "snippet": "US President says America gave $60 million to provide food to Gaza, but no other nation contributed to the effort, Hamas has less reason to ...",
+      "published": "2025-07-27",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Arutz Sheva (Israel National News)",
+        "page": "https://mediabiasfactcheck.com/arutz-sheva-israel-national-news/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Trump Thinks He At Least Deserves A 'Thank You' For ...",
+      "url": "https://sg.news.yahoo.com/trump-thinks-least-deserves-thank-193842803.html",
+      "domain": "sg.news.yahoo.com",
+      "snippet": "\"We gave $60 million two weeks ago for food for Gaza, and nobody acknowledged it, nobody talks about it. And it makes you feel a little bad ...",
+      "published": "2025-07-27",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "mixed",
+        "name": "Yahoo News",
+        "page": "https://mediabiasfactcheck.com/yahoo-news/"
+      },
+      "weight": "reduced",
+      "n": 2
+    }
+  ]
+}

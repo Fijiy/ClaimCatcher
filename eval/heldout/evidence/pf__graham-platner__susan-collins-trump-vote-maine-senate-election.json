@@ -1,0 +1,196 @@
+{
+  "frozenAt": "2026-10-27T03:15:44.922Z",
+  "refilteredAt": "2026-10-27T03:35:43.177Z",
+  "id": "pf/graham-platner/susan-collins-trump-vote-maine-senate-election",
+  "said": "2026-06-09",
+  "queries": {
+    "fact": "Sen. Susan Collins votes with Donald Trump 95% of the time.",
+    "claim": "Sen. Susan Collins votes with Donald Trump 95% of the time. Graham Platner"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2333.073834000039,
+      "results": 6
+    },
+    {
+      "query": "claim",
+      "ms": 2008.7957910000114,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Graham Platner's claim that Sen. Susan Collins votes 'with ...",
+      "url": "https://www.wmtw.com/article/graham-platner-susan-collins-trump-votes-fact-check/71562964",
+      "domain": "wmtw.com",
+      "published": "2026-06-11",
+      "publishedAsGiven": "Jun 11, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Maine voters say Susan Collins votes with Trump too often ...",
+      "url": "https://mainedems.org/icymi-maine-voters-say-susan-collins-votes-with-trump-too-often-in-fox-news-poll-press-herald/",
+      "domain": "mainedems.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Susan Collins Repeatedly Distances Herself From Trump ...",
+      "url": "https://nz.news.yahoo.com/susan-collins-repeatedly-distances-herself-234841882.html",
+      "domain": "nz.news.yahoo.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "Oct 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Fact-checking 6 claims that dominated the Susan Collins- ...",
+      "url": "https://www.bangordailynews.com/2026/10/08/politics/elections/maine-election-senate-2026-troy-jackson-susan-collins-debate-fact-check/",
+      "domain": "bangordailynews.com",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Republican U.S. Sen. Susan Collins distanced herself from ...",
+      "url": "https://www.facebook.com/wmtwtv/posts/republican-us-sen-susan-collins-distanced-herself-from-president-donald-trump-du/1628412576001209/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Five Takeaways From Maine's Senate Debates",
+      "url": "https://www.wsj.com/politics/elections/five-takeaways-from-maines-senate-debates-f7671a31",
+      "domain": "wsj.com",
+      "published": "2026-10-16",
+      "publishedAsGiven": "Oct 16, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Graham Platner's claim that Sen. Susan Collins votes 'with ...",
+      "url": "https://www.wmtw.com/article/graham-platner-susan-collins-trump-votes-fact-check/71562964",
+      "domain": "wmtw.com",
+      "published": "2026-06-11",
+      "publishedAsGiven": "Jun 11, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Susan Collins voted with Trump 96% of the time. And if she ...",
+      "url": "https://www.facebook.com/TroyJacksonmaine/posts/susan-collins-voted-with-trump-96-of-the-time-and-if-she-votes-against-republica/1656187463179974/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Susan Collins voted with Trump 96% of the time. We've ...",
+      "url": "https://www.facebook.com/TroyJacksonmaine/posts/susan-collins-voted-with-trump-96-of-the-timeweve-been-waiting-30-years-for-susa/1634526068679447/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Fact-checking Democratic challenger Graham Platner's ...",
+      "url": "https://www.yahoo.com/news/politics/articles/fact-checking-democratic-challenger-graham-223035943.html",
+      "domain": "yahoo.com",
+      "published": "2026-06-10",
+      "publishedAsGiven": "Jun 10, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Yes, Collins usually votes with Trump, as Platner said. But ...",
+      "url": "https://politifact.com/factchecks/2026/jun/10/graham-platner/susan-collins-trump-vote-maine-senate-election/",
+      "domain": "politifact.com",
+      "published": "2026-06-10",
+      "publishedAsGiven": "Jun 10, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "President Trump said Republican Sen. Susan Collins has his ...",
+      "url": "https://www.facebook.com/CBSNews/posts/president-trump-said-republican-sen-susan-collins-has-his-support-as-she-seeks-r/1412154037443103/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Susan Collins's Biggest Problem? Donald Trump",
+      "url": "https://www.vanityfair.com/story/susan-collins-donald-trump-midterms-2026?srsltid=AYCX9vLEwzX5DI7E2m7YmBLvfKOcr3XZFpYRDhAp1YhXxQwHDUypd0ks",
+      "domain": "vanityfair.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "13 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Fox News: “Susan Collins votes with the president 95% of ...",
+      "url": "https://www.facebook.com/grahamformaine/videos/fox-news-susan-collins-votes-with-the-president-95-of-the-time-she-saved-brett-k/1320905366038109/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "From The New York Times Opinion Section Susan Collins ...",
+      "url": "https://www.facebook.com/nytimes/posts/from-the-new-york-times-opinion-section-susan-collins-is-not-delivering-for-main/1493335369315588/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Susan Collins voted with Donald Trump 96% of the time.",
+      "url": "https://www.facebook.com/DSCC/videos/susan-collins-voted-with-donald-trump-96-of-the-time/1126793863084259/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 16,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 4,
+    "after-said": 7,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:15:40.579Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

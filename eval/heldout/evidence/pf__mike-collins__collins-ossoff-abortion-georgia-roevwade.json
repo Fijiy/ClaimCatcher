@@ -1,0 +1,413 @@
+{
+  "frozenAt": "2026-10-27T03:27:28.930Z",
+  "refilteredAt": "2026-10-27T03:38:37.329Z",
+  "id": "pf/mike-collins/collins-ossoff-abortion-georgia-roevwade",
+  "said": "2026-10-13",
+  "queries": {
+    "fact": "U.S. Sen. Jon Ossoff is all for abortion up until and past birth.",
+    "claim": "U.S. Sen. Jon Ossoff is all for abortion up until and past birth. Mike Collins"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2212.7847910001874,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2716.505041999975,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 159.20612500002608,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "GA Senate race: Mike Collins said Jon Ossoff backs ...",
+      "url": "https://politifact.com/factchecks/2026/oct/16/mike-collins/collins-ossoff-abortion-georgia-roevwade/",
+      "domain": "politifact.com",
+      "published": "2026-10-16",
+      "publishedAsGiven": "Oct 16, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "In a contentious debate between Georgia's two U.S. ...",
+      "url": "https://www.instagram.com/p/DerVitWjtvQ/",
+      "domain": "instagram.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Does Jon Ossoff support abortion “up until and past birth”?",
+      "url": "https://mediabiasfactcheck.com/fact-check-does-jon-ossoff-support-abortion-up-until-and-past-birth/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-10-17",
+      "publishedAsGiven": "Oct 17, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Fact-checking Ossoff and Collins in Georgia Senate debate",
+      "url": "https://politifact.com/article/2026/oct/09/collins-ossoff-georgia-senate-debate-data-centers/",
+      "domain": "politifact.com",
+      "published": "2026-10-09",
+      "publishedAsGiven": "Oct 9, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "GOP Senate candidate Mike Collins of Georgia said ...",
+      "url": "https://www.facebook.com/politifact/posts/gop-senate-candidate-mike-collins-of-georgia-said-democratic-sen-jon-ossoff-back/1586860226808408/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Sen. Ossoff Pushing to Protect Women's Access ...",
+      "url": "https://www.ossoff.senate.gov/press-releases/sen-ossoff-pushing-to-protect-womens-access-to-contraception-in-georgia/",
+      "domain": "ossoff.senate.gov",
+      "published": "2024-06-04",
+      "publishedAsGiven": "Jun 4, 2024",
+      "snippet": "U.S. Senator Jon Ossoff is working to protect access to contraception for Georgia women after the overturning of Roe v. Wade."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Sen. Jon Ossoff Seeks Georgia Stories on 6-Week Abortion ...",
+      "url": "https://www.facebook.com/SenOssoff/videos/sen-ossoff-wants-to-hear-from-georgians-about-how-georgias-6-week-abortion-ban-h/514118297790747/",
+      "domain": "facebook.com",
+      "published": "2024-10-27",
+      "publishedAsGiven": "2 years ago",
+      "snippet": "Sen. Ossoff wants to hear from Georgians about how Georgia's 6-week abortion ban has impacted women's pregnancies or access to reproductive ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Jon Ossoff's Congressional Scorecard",
+      "url": "https://reproductivefreedomforall.org/lawmaker/jon-ossoff/",
+      "domain": "reproductivefreedomforall.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "GA Senate race: Mike Collins said Jon Ossoff backs ...",
+      "url": "https://local.newsbreak.com/news/4949730706796-ga-senate-race-mike-collins-said-jon-ossoff-backs-abortion-up-until-and-past-birth-that-s-false",
+      "domain": "local.newsbreak.com",
+      "published": "2026-10-17",
+      "publishedAsGiven": "Oct 17, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Georgia US Senate Debate: Jon Ossoff on Mike Collins ...",
+      "url": "https://www.facebook.com/georgiademocrat/videos/play-the-tape-jonossoff-debate-georgia-breakingnews-gapol/1100039819310757/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "GA Senate race: Mike Collins said Jon Ossoff backs ... - PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/16/mike-collins/collins-ossoff-abortion-georgia-roevwade/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "GOP Senate candidate Mike Collins of Georgia said ...",
+      "url": "https://www.facebook.com/politifact/posts/gop-senate-candidate-mike-collins-of-georgia-said-democratic-sen-jon-ossoff-back/1586860226808408/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Did US Rep. Mike Collins just change his position on abortion ...",
+      "url": "https://www.instagram.com/p/DeiMlfKFziM/",
+      "domain": "instagram.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Does Jon Ossoff support abortion “up until and past birth”?",
+      "url": "https://mediabiasfactcheck.com/fact-check-does-jon-ossoff-support-abortion-up-until-and-past-birth/",
+      "domain": "mediabiasfactcheck.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "DECISION 2026: Georgia candidates for U.S. Senate meet one ...",
+      "url": "https://www.local3news.com/local-news/decision-2026-georgia-candidates-for-u-s-senate-meet-one-last-time-to-debate/article_217cd668-a01c-4dab-87b4-78e6c86720a0.html",
+      "domain": "local3news.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Opinion: Mike Collins' position on abortion hangs on the letter S",
+      "url": "https://www.ajc.com/politics/2026/10/opinion-mike-collins-position-on-abortion-hangs-on-the-letter-s/",
+      "domain": "ajc.com",
+      "published": null,
+      "snippet": "Ossoff said, “This is a congressman who supports a total ban on abortion with no exceptions, even if the mother will die for lack of healthcare."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Georgia US Senate Debate: Jon Ossoff on Mike Collins ...",
+      "url": "https://www.facebook.com/georgiademocrat/videos/play-the-tape-jonossoff-debate-georgia-breakingnews-gapol/1100039819310757/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "GA Senate race: Mike Collins said Jon Ossoff backs ... - LinkedIn",
+      "url": "https://www.linkedin.com/posts/politifact_ga-senate-race-mike-collins-said-jon-ossoff-activity-7518124925354680321-QVCZ",
+      "domain": "linkedin.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "In a contentious debate between Georgia's two U.S. Senate ...",
+      "url": "https://www.instagram.com/p/DerVitWjtvQ/",
+      "domain": "instagram.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Mike Collins said Jon Ossoff backs abortion 'up until and past ...",
+      "url": "https://local.newsbreak.com/news/4949730706796-ga-senate-race-mike-collins-said-jon-ossoff-backs-abortion-up-until-and-past-birth-that-s-false",
+      "domain": "local.newsbreak.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Walker gets boost from GOP leaders after abortion reports",
+      "url": "https://apnews.com/article/2022-midterm-elections-abortion-entertainment-florida-campaigns-94e4496d4f3d40acaca0895018bab909",
+      "domain": "apnews.com",
+      "published": "2022-10-12",
+      "publishedAsGiven": "Oct 12, 2022",
+      "snippet": "Walker encouraged the abortion and then encouraged a second abortion that she refused, giving birth to a child she says Walker has met only a ..."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Obama assails 'cruelty' from Trump and allies in midterm ...",
+      "url": "https://apnews.com/article/michigan-ohio-senate-elsayed-obama-rogers-midterms-bbaa09ad9105c5076e0f67d88cb85291",
+      "domain": "apnews.com",
+      "published": "2026-10-25",
+      "publishedAsGiven": "2 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Herschel Walker and Raphael Warnock trade blows in ...",
+      "url": "https://www.reuters.com/world/us/georgia-us-senate-rivals-herschel-walker-raphael-warnock-set-showdown-2022-10-14/",
+      "domain": "reuters.com",
+      "published": "2022-10-15",
+      "publishedAsGiven": "Oct 15, 2022",
+      "snippet": "During the debate, Walker repeated his statement that the reports are false and reiterated his position on abortion: \"I'm a Christian. I believe ..."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "In Georgia Senate race, Warnock needs his 2020 coalition. ...",
+      "url": "https://www.usatoday.com/story/news/politics/elections/2022/10/21/georgia-warnock-walker-midterms-suburbs/8237461001/",
+      "domain": "usatoday.com",
+      "published": "2022-10-21",
+      "publishedAsGiven": "Oct 21, 2022",
+      "snippet": "And he cited the senator's support for abortion rights, not legislative accomplishments, as the main reason he reluctantly backs Warnock. off ..."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Senate, House candidates use Labor Day as kickoff ...",
+      "url": "https://apnews.com/article/house-senate-elections-labor-day-maine-michigan-texas-bf59e0d457677ae19b84536d96031a47",
+      "domain": "apnews.com",
+      "published": "2026-09-07",
+      "publishedAsGiven": "Sep 7, 2026",
+      "snippet": "Ossoff, the only Democratic senator seeking reelection in a state Trump won in 2024, praised current and former labor leaders and activists,"
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "Trump centers himself in pitch to midterm voters, promising ...",
+      "url": "https://apnews.com/live/trump-white-house-aides-midterms-polls-news-updates-09-09-2026",
+      "domain": "apnews.com",
+      "published": "2026-09-09",
+      "publishedAsGiven": "Sep 9, 2026",
+      "snippet": "President Donald Trump promised to send $5,000 to every adult U.S. citizen if the Republicans win the House and Senate in this fall's midterm ..."
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Federal agents search Rep. Ilhan Omar's home",
+      "url": "https://apnews.com/live/trump-greece-envoy-russia-diesel-midterm-elections-news-updates-10-12-2026",
+      "domain": "apnews.com",
+      "published": "2026-10-12",
+      "publishedAsGiven": "Oct 12, 2026",
+      "snippet": "Federal agents searched the home of Democratic Rep. Ilhan Omar of Minnesota Monday as part of a criminal investigation, two people familiar with ..."
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Jon Ossoff Was the Original Beto O'Rourke",
+      "url": "https://www.nationalreview.com/2021/01/jon-ossoff-was-the-original-beto-orourke/",
+      "domain": "nationalreview.com",
+      "published": "2021-01-05",
+      "publishedAsGiven": "Jan 5, 2021",
+      "snippet": "Democratic consultant Jon Ossoff burst onto the political scene in 2017, running for a House seat. He couldn't vote for himself."
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "Warnock answers Libertarian wildcard in Ga.; Walker skips",
+      "url": "https://apnews.com/article/2022-midterm-elections-herschel-walker-biden-atlanta-election-2020-e552c2100e233deadd873b5eb59c37b8",
+      "domain": "apnews.com",
+      "published": "2022-10-16",
+      "publishedAsGiven": "Oct 16, 2022",
+      "snippet": "But the 37-year-old Atlanta businessman could help determine whether Democrats or Republicans control the Senate over the final two years of ..."
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "Oct. 26 election highlights: Harris rallies with Beyoncé in ...",
+      "url": "https://apnews.com/live/2024-election-trump-harris-news-updates",
+      "domain": "apnews.com",
+      "published": "2024-10-25",
+      "publishedAsGiven": "Oct 25, 2024",
+      "snippet": "Democratic U.S. Sen Jon Ossoff took the stage in Georgia to continue the Harris' campaign's pitch to wavering voters that Trump is unfit for ..."
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 7,
+    "after-said": 2,
+    "maybe-after-said": 1,
+    "after-said-link-date": 0,
+    "undated": 5
+  },
+  "linkDatedKept": 1,
+  "searchedAt": "2026-10-27T03:27:22.436Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Opinion: Mike Collins' position on abortion hangs on the letter S",
+      "url": "https://www.ajc.com/politics/2026/10/opinion-mike-collins-position-on-abortion-hangs-on-the-letter-s/",
+      "domain": "ajc.com",
+      "snippet": "Ossoff said, “This is a congressman who supports a total ban on abortion with no exceptions, even if the mother will die for lack of healthcare.",
+      "published": null,
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Atlanta Journal-Constitution",
+        "page": "https://mediabiasfactcheck.com/atlanta-journal-constitution/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Walker gets boost from GOP leaders after abortion reports",
+      "url": "https://apnews.com/article/2022-midterm-elections-abortion-entertainment-florida-campaigns-94e4496d4f3d40acaca0895018bab909",
+      "domain": "apnews.com",
+      "snippet": "Walker encouraged the abortion and then encouraged a second abortion that she refused, giving birth to a child she says Walker has met only a ...",
+      "published": "2022-10-12",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Associated Press",
+        "page": "https://mediabiasfactcheck.com/associated-press/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Herschel Walker and Raphael Warnock trade blows in ...",
+      "url": "https://www.reuters.com/world/us/georgia-us-senate-rivals-herschel-walker-raphael-warnock-set-showdown-2022-10-14/",
+      "domain": "reuters.com",
+      "snippet": "During the debate, Walker repeated his statement that the reports are false and reiterated his position on abortion: \"I'm a Christian. I believe ...",
+      "published": "2022-10-15",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "In Georgia Senate race, Warnock needs his 2020 coalition. ...",
+      "url": "https://www.usatoday.com/story/news/politics/elections/2022/10/21/georgia-warnock-walker-midterms-suburbs/8237461001/",
+      "domain": "usatoday.com",
+      "snippet": "And he cited the senator's support for abortion rights, not legislative accomplishments, as the main reason he reluctantly backs Warnock. off ...",
+      "published": "2022-10-21",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "USA Today",
+        "page": "https://mediabiasfactcheck.com/usa-today-2/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Senate, House candidates use Labor Day as kickoff ...",
+      "url": "https://apnews.com/article/house-senate-elections-labor-day-maine-michigan-texas-bf59e0d457677ae19b84536d96031a47",
+      "domain": "apnews.com",
+      "snippet": "Ossoff, the only Democratic senator seeking reelection in a state Trump won in 2024, praised current and former labor leaders and activists,",
+      "published": "2026-09-07",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Associated Press",
+        "page": "https://mediabiasfactcheck.com/associated-press/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

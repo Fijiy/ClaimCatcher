@@ -1,0 +1,250 @@
+{
+  "frozenAt": "2026-10-27T03:02:46.673Z",
+  "refilteredAt": "2026-10-27T03:32:32.124Z",
+  "id": "pf/donald-trump/fact-checking-trumps-statement-about-declining-egg",
+  "said": "2025-04-02",
+  "queries": {
+    "fact": "Egg prices came down 50%",
+    "claim": "Egg prices came down 50% Donald Trump"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1136.7486250000002,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2339.5902919999935,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Egg update: They are now at about the lowest prices ...",
+      "url": "https://www.reddit.com/r/EconomyCharts/comments/1qfgtd9/egg_update_they_are_now_at_about_the_lowest/",
+      "domain": "reddit.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Why egg prices have tumbled since Trump returned to office",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5978076/egg-prices-trump-affordability",
+      "domain": "npr.org",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Egg Prices Drop: $2.50 Per Dozen Now vs $6.23 in March 2025",
+      "url": "https://www.facebook.com/WBNS10TV/videos/egg-prices-down-60-from-last-years-record-high/1660712825052375/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Are egg prices down 50%? Wholesales prices have ...",
+      "url": "https://www.poynter.org/fact-checking/2025/are-egg-prices-down-50-percent-trump-president/",
+      "domain": "poynter.org",
+      "published": "2025-04-08",
+      "publishedAsGiven": "Apr 8, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Egg prices dropped nearly 50% under President Trump.",
+      "url": "https://www.youtube.com/shorts/Eg8MDwXnZPI",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Are egg prices down 50% as Trump claimed?",
+      "url": "https://www.facebook.com/groups/1077620615994293/posts/2157047128051631/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Egg Prices Are Way Down, but That's Hurting Farmers",
+      "url": "https://www.nytimes.com/2026/06/20/business/egg-prices-down.html",
+      "domain": "nytimes.com",
+      "published": "2026-06-20",
+      "publishedAsGiven": "Jun 20, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Egg prices are down 34% from a year ago",
+      "url": "https://www.cnbc.com/make-it/2026/02/13/egg-prices-falling-in-us.html",
+      "domain": "cnbc.com",
+      "published": "2026-02-13",
+      "publishedAsGiven": "Feb 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Egg Prices See Biggest Monthly Drop Since 1984, Down 12.7%",
+      "url": "https://www.facebook.com/cnn/videos/egg-prices-fell-127-last-month-the-biggest-monthly-decline-since-1984cnns-vaness/1116395893867134/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Egg prices have tumbled since Trump returned to office. ...",
+      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5978076/egg-prices-have-tumbled-since-trump-returned-to-office-here-s-why",
+      "domain": "northcountrypublicradio.org",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Did Trump save your omelettes? Egg prices dropped over ...",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/did-trump-save-omelettes-egg-100000843.html",
+      "domain": "finance.yahoo.com",
+      "published": "2026-10-03",
+      "publishedAsGiven": "Oct 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact check: Trump says egg prices are down 50%",
+      "url": "https://www.wral.com/archive/21948627/",
+      "domain": "wral.com",
+      "published": "2025-04-07",
+      "publishedAsGiven": "Apr 7, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Trump talks egg prices during tariff speech | KTVU",
+      "url": "https://www.youtube.com/watch?v=1tcf79a5OqA",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Are egg prices down 50%? Wholesales prices have ...",
+      "url": "https://www.poynter.org/fact-checking/2025/are-egg-prices-down-50-percent-trump-president/",
+      "domain": "poynter.org",
+      "published": "2025-04-08",
+      "publishedAsGiven": "Apr 8, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "US President Donald Trump recently boasted that egg prices ...",
+      "url": "https://www.facebook.com/firstpostin/videos/trump-takes-credit-for-59-drop-in-egg-prices-in-tariff-speech-firstpost-america-/1197212098416189/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Fact check: Trump says egg prices fell 50%",
+      "url": "https://www.wral.com/archive/21948807/",
+      "domain": "wral.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Easter is cheaper by the dozen thanks to President Donald ...",
+      "url": "https://www.facebook.com/USDA/posts/easter-is-cheaper-by-the-dozen-thanks-to-president-donald-j-trumps-actions-since/1384992296996099/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Why egg prices have tumbled since Trump returned to office",
+      "url": "https://www.npr.org/2026/10/01/nx-s1-5978076/egg-prices-trump-affordability",
+      "domain": "npr.org",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "What did Donald Trump mean when he said the price of eggs ...",
+      "url": "https://www.facebook.com/BBCRadio4/videos/what-did-donald-trump-mean-when-he-said-the-price-of-eggs-had-fallen-by-400-in-t/1305415207968926/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Trump wildly claims egg prices have dropped 50% as ...",
+      "url": "https://www.irishstar.com/news/us-news/breaking-trump-wildly-claims-egg-34939515",
+      "domain": "irishstar.com",
+      "published": "2025-03-26",
+      "publishedAsGiven": "Mar 26, 2025",
+      "snippet": "“Donald Trump promised to lower food prices on 'Day One', but with egg prices skyrocketing out of control, he fired the workers charged with ..."
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 0,
+    "fact-check-words": 4,
+    "after-said": 9,
+    "maybe-after-said": 6,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:02:43.196Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Trump wildly claims egg prices have dropped 50% as ...",
+      "url": "https://www.irishstar.com/news/us-news/breaking-trump-wildly-claims-egg-34939515",
+      "domain": "irishstar.com",
+      "snippet": "“Donald Trump promised to lower food prices on 'Day One', but with egg prices skyrocketing out of control, he fired the workers charged with ...",
+      "published": "2025-03-26",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

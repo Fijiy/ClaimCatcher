@@ -1,0 +1,250 @@
+{
+  "frozenAt": "2026-10-27T03:01:40.387Z",
+  "refilteredAt": "2026-10-27T03:38:19.210Z",
+  "id": "pf/donald-trump/james-talarico-texas-paxton-vegan-meat-vomit",
+  "said": "2026-10-02",
+  "queries": {
+    "fact": "James Talarico is a vegan and what they don’t show you is that, after every barbecue … he throws up.",
+    "claim": "James Talarico is a vegan and what they don’t show you is that, after every barbecue … he throws up. Donald Trump"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 212.9142499999998,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 178.64887499999895,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "President Donald Trump questioned why Democratic Senate ...",
+      "url": "https://www.facebook.com/FOX7Austin/posts/president-donald-trump-questioned-why-democratic-senate-candidate-james-talarico/1609885924510990/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Trump's latest attack on James Talarico involves veganism ...",
+      "url": "https://www.poynter.org/fact-checking/2026/trump-james-talarico-vegan-vomiting-claim/",
+      "domain": "poynter.org",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "James Talarico Denies He's Vegan, Says He's Been Eating ...",
+      "url": "https://www.c-span.org/clip/campaign-2026/james-talarico-denies-hes-vegan-says-hes-been-eating-barbecue-since-before-ken-paxtons-first-indictment/5200908",
+      "domain": "c-span.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "James Talarico can't have it both ways. Before his barbecue ...",
+      "url": "https://www.facebook.com/dan.patrick.texas/posts/james-talarico-cant-have-it-both-ways-before-his-barbecue-photo-ops-he-said-that/1647534986739229/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "snippet": "Before his barbecue photo ops, he said that Texans must “reduce meat consumption” to combat climate change. James Talarico is too radical for ..."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Texas GOP has beef with James Talarico's diet",
+      "url": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/06/10/texas-james-talarico-vegan-beef",
+      "domain": "spectrumlocalnews.com",
+      "published": "2026-06-10",
+      "publishedAsGiven": "Jun 10, 2026",
+      "snippet": "James Talarico, D-Austin, a vegan — a claim that is not true. Republicans cast him as a vegan, though it is not true, and experts say the idea ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Democrat James Talarico is trying to rebrand himself as a ...",
+      "url": "https://www.facebook.com/FoxNews/posts/democrat-james-talarico-is-trying-to-rebrand-himself-as-a-texas-bbq-lover-after-/1433285881994603/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "snippet": "James Talarico, the Texas Democrat running for Senate, is getting roasted for his staged photo op trying to prove he's not a vegan. Back in 2022 ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "President Trump Says James Talarico \"Throws Up\" BBQ as ...",
+      "url": "https://www.c-span.org/clip/campaign-2026/president-trump-says-james-talarico-throws-up-bbq-as-a-vegan/5207851",
+      "domain": "c-span.org",
+      "published": "2026-10-03",
+      "publishedAsGiven": "Oct 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Trump Mocks Vegan Candidate James Talarico at Oklahoma ...",
+      "url": "https://www.facebook.com/CSPAN/videos/president-trump-mocked-us-senate-candidate-james-talarico-d-tx-for-being-a-vegan/1100430969353492/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Trump can't stop talking about vomit and Texas barbecue",
+      "url": "https://www.washingtonpost.com/style/2026/10/10/trump-cant-stop-talking-about-vomit-texas-barbecue/",
+      "domain": "washingtonpost.com",
+      "published": "2026-10-10",
+      "publishedAsGiven": "Oct 10, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Disappointed in Talarico's Response to Vegan Accusations",
+      "url": "https://www.reddit.com/r/vegan/comments/1tsvmzv/disappointed_in_talaricos_response_to_vegan/",
+      "domain": "reddit.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "snippet": "This is silly, because of course vegans can love BBQ, too, but it's a silly accusation in the first place. Regarding his opponent, Talarico said ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Trump's latest attack on James Talarico involves veganism ...",
+      "url": "https://www.poynter.org/fact-checking/2026/trump-james-talarico-vegan-vomiting-claim/",
+      "domain": "poynter.org",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Trump on Talarico: \"He likes lettuce\"",
+      "url": "https://www.facebook.com/TheBulwark/videos/trump-on-talarico-he-likes-lettuce/1047187671700427/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Trump can't stop talking about vomit and Texas barbecue",
+      "url": "https://www.washingtonpost.com/style/2026/10/10/trump-cant-stop-talking-about-vomit-texas-barbecue/",
+      "domain": "washingtonpost.com",
+      "published": "2026-10-10",
+      "publishedAsGiven": "Oct 10, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "President Trump Says James Talarico \"Throws Up\" BBQ as ...",
+      "url": "https://www.c-span.org/clip/campaign-2026/president-trump-says-james-talarico-throws-up-bbq-as-a-vegan/5207851",
+      "domain": "c-span.org",
+      "published": "2026-10-03",
+      "publishedAsGiven": "Oct 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "James Talarico isn't vegan. So why is the GOP so fixated?",
+      "url": "https://www.salon.com/2026/10/14/james-talarico-isnt-vegan-so-why-is-the-gop-so-fixated/",
+      "domain": "salon.com",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "President Donald Trump questioned why Democratic Senate ...",
+      "url": "https://www.facebook.com/FOX7Austin/posts/president-donald-trump-questioned-why-democratic-senate-candidate-james-talarico/1609885924510990/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Trump mocks James Talarico in fiery Texas Senate race",
+      "url": "https://www.youtube.com/watch?v=G16EGOC6zdk",
+      "domain": "youtube.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "At midterm rallies, President Donald Trump has repeatedly ...",
+      "url": "https://www.facebook.com/Poynter/posts/at-recent-midterm-rallies-president-donald-trump-has-repeatedly-said-texas-democ/1641785137538161/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "In Texas Senate race, Ken Paxton falsely claims James ...",
+      "url": "https://politifact.com/factchecks/2026/may/27/ken-paxton/in-texas-senate-race-ken-paxton-falsely-claims-jam/",
+      "domain": "politifact.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "May 27, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Donald Trump took aim at Texas Democrat James Talarico, ...",
+      "url": "https://www.instagram.com/p/DeCHJwNFgxd/",
+      "domain": "instagram.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "maybe-after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 2,
+    "after-said": 8,
+    "maybe-after-said": 4,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:01:39.994Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Texas GOP has beef with James Talarico's diet",
+      "url": "https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2026/06/10/texas-james-talarico-vegan-beef",
+      "domain": "spectrumlocalnews.com",
+      "snippet": "James Talarico, D-Austin, a vegan — a claim that is not true. Republicans cast him as a vegan, though it is not true, and experts say the idea ...",
+      "published": "2026-06-10",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

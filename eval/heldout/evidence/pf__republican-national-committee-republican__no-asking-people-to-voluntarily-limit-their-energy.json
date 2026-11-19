@@ -1,0 +1,419 @@
+{
+  "frozenAt": "2026-10-27T03:17:27.256Z",
+  "refilteredAt": "2026-10-27T03:36:08.430Z",
+  "id": "pf/republican-national-committee-republican/no-asking-people-to-voluntarily-limit-their-energy",
+  "said": "2026-07-03",
+  "queries": {
+    "fact": "New York Democrats are communists for trying to force New Yorkers to conserve energy.",
+    "claim": "New York Democrats are communists for trying to force New Yorkers to conserve energy. Republican National Committee"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1434.1966249999823,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2081.5762499999255,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 239.65312500001164,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Are New York Democrats communists for asking residents ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-are-new-york-democrats-communists-for-asking-residents-to-conserve-electricity/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-08-01",
+      "publishedAsGiven": "Aug 1, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Asking people to voluntarily limit their energy consumption ...",
+      "url": "https://politifact.com/factchecks/2026/jul/24/republican-national-committee-republican/no-asking-people-to-voluntarily-limit-their-energy/",
+      "domain": "politifact.com",
+      "published": "2026-07-24",
+      "publishedAsGiven": "Jul 24, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "National Republicans claimed NY Democrats were ...",
+      "url": "https://www.facebook.com/politifact/posts/national-republicans-claimed-ny-democrats-were-communists-after-asking-people-to/1503757548452010/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "New York is under attack by radical communist climate ...",
+      "url": "https://www.facebook.com/amnovakhov/videos/new-york-is-under-attack-by-radical-communist-climate-mandates-that-have-nothing/1664478191313686/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Fact-checks (53)",
+      "url": "https://politifact.com/search/factcheck/?q=communism",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "National Republicans claimed NY Democrats were ...",
+      "url": "https://www.threads.com/@politifact/post/DbYHFeiIOhF/national-republicans-claimed-ny-democrats-were-communists-after-asking-people",
+      "domain": "threads.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Senate Democrats Block Relief for Struggling New York ...",
+      "url": "https://www.nysenate.gov/newsroom/press-releases/2026/patricia-canzoneri-fitzpatrick/senate-democrats-block-relief",
+      "domain": "nysenate.gov",
+      "published": "2026-05-06",
+      "publishedAsGiven": "May 6, 2026",
+      "snippet": "Democrats Block Relief for Struggling New York Utility Ratepayers, Rejecting Bills to Lower Utility Costs. New York Utility Ratepayers, ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Senator Tom O'Mara Criticizes NY Democrats' Green ...",
+      "url": "https://www.facebook.com/nysenaterepubs/videos/new-york-state-senator-tom-omara-showcasing-the-democrats-complete-lack-of-forwa/2540727186407155/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Kentucky Rep. Rand Paul weighed in after New York City ...",
+      "url": "https://www.facebook.com/lex18/posts/paul-responds-to-mamdanis-heat-advice-kentucky-rep-rand-paul-weighed-in-after-ne/1542887644549454/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "communism, people!': Internet roasts Mamdani as he urges New ...",
+      "url": "https://www.facebook.com/EconomicTimes/videos/welcome-to-communism-people-internet-roasts-mamdani-as-he-urges-new-yorkers-to-s/1034932562518541/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Asking people to voluntarily limit their energy consumption ...",
+      "url": "https://politifact.com/factchecks/2026/jul/24/republican-national-committee-republican/no-asking-people-to-voluntarily-limit-their-energy/",
+      "domain": "politifact.com",
+      "published": "2026-07-24",
+      "publishedAsGiven": "Jul 24, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Are New York Democrats communists for asking residents ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-are-new-york-democrats-communists-for-asking-residents-to-conserve-electricity/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-08-01",
+      "publishedAsGiven": "Aug 1, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "National Republicans claimed NY Democrats were ...",
+      "url": "https://www.facebook.com/politifact/posts/national-republicans-claimed-ny-democrats-were-communists-after-asking-people-to/1503757548452010/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Fact-checks (53)",
+      "url": "https://politifact.com/search/factcheck/?q=communism",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Fact-checks (4700)",
+      "url": "https://politifact.com/search/factcheck?q=york&page=12",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "New York State Senate Republicans",
+      "url": "https://www.facebook.com/nysenaterepubs/posts/senator-mark-walczyk-calling-to-attention-how-new-yorkers-pay-70-more-than-the-r/1550349937138411/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Mamdani mocked by GOP for telling New Yorkers to set ...",
+      "url": "https://thehill.com/homenews/5952239-nyc-mayor-thermostat-criticism/",
+      "domain": "thehill.com",
+      "published": "2026-07-02",
+      "publishedAsGiven": "Jul 2, 2026",
+      "snippet": "Republicans criticize NYC Mayor Mamdani's suggestion to set thermostats to 78 degrees to conserve energy, calling it socialism or communism."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Democrats slam New York Republican for utility ties amid ...",
+      "url": "https://www.politico.com/news/2026/03/01/democrats-new-york-republicans-utility-energy-affordability-00804175",
+      "domain": "politico.com",
+      "published": "2026-03-01",
+      "publishedAsGiven": "Mar 1, 2026",
+      "snippet": "Republican Rep. Mike Lawler blames rising energy costs on the policies of Democrats, who have controlled the state government for the last ..."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Who's to blame for New York's rising energy costs?",
+      "url": "https://www.youtube.com/watch?v=NFIHrl-q3OE",
+      "domain": "youtube.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Bruce Blakeman for Governor - Make New York Affordable",
+      "url": "https://www.facebook.com/BruceBlakemanNewYorkFirst/posts/republicans-democrats-and-independents-across-new-york-are-coming-together-becau/1757068863092255/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Zohran Mamdani's been called a communist who'll defund ...",
+      "url": "https://apnews.com/article/zohran-mamdani-nyc-mayor-election-cuomo-59f6a66cd40d4c2b750fdfd06a4f5da1",
+      "domain": "apnews.com",
+      "published": "2025-09-20",
+      "publishedAsGiven": "Sep 20, 2025",
+      "snippet": "Zohran Mamdani's been called a communist who'll defund the police. Here's where he actually stands · He's a democratic socialist, not a communist."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Mamdani-backed democratic socialists win big in New York",
+      "url": "https://www.usatoday.com/story/opinion/columnist/2026/06/26/mamdani-democratic-socialists-win-ny-warning/90690699007/",
+      "domain": "usatoday.com",
+      "published": "2026-06-26",
+      "publishedAsGiven": "Jun 26, 2026",
+      "snippet": "Why am I the only Democrat in the U.S. Senate that refuses to excuse this or defend any of those self-identified communists?\" Love crosswords?"
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "The Lure of Comrade Mamdani",
+      "url": "https://www.wsj.com/opinion/the-lure-of-comrade-mamdani-policy-mayoral-candidate-nyc-a61ca481",
+      "domain": "wsj.com",
+      "published": "2025-07-06",
+      "publishedAsGiven": "Jul 6, 2025",
+      "snippet": "They were extremists all along. The lesson is that communists and fascists, whom F.A. Hayek called members of “rival socialist factions,” will ..."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Mamdani favored to win New York mayoral race. The hard ...",
+      "url": "https://www.csmonitor.com/USA/Politics/2025/1103/mamdani-new-york-mayor-election-democrats",
+      "domain": "csmonitor.com",
+      "published": "2025-11-03",
+      "publishedAsGiven": "Nov 3, 2025",
+      "snippet": "... Democrats. They are now communists.'” (Mr. Mamdani has had to clarify in interviews that he is not a communist, despite GOP claims.)."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Trump says communism is the biggest threat facing America",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4627007/trump-communism-biggest-threat-facing-america/?srsltid=AYCX9vLE7Kx9w2EA6SyPOVy9g4L8eNx44SqOKf6p1PKwBtLuBD72whGK",
+      "domain": "washingtonexaminer.com",
+      "published": "2026-06-26",
+      "publishedAsGiven": "Jun 26, 2026",
+      "snippet": "Cognizant of his audience, Trump underscored the risk communism poses to religious freedoms, repeating that “ruthless communists will attack all ..."
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "Trump: \"Communism Is The Past, And Freedom ...",
+      "url": "https://www.realclearpolitics.com/video/2026/06/26/trump_communism_is_the_past_and_freedom_is_the_future.html",
+      "domain": "realclearpolitics.com",
+      "published": "2026-06-26",
+      "publishedAsGiven": "Jun 26, 2026",
+      "snippet": "Because communism really is the past, and freedom is the future. That's what we are. All we want is freedom. Freedom gets you everything."
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Radicals at the Door | National Review",
+      "url": "https://www.nationalreview.com/magazine/2026/04/radicals-are-at-the-door/",
+      "domain": "nationalreview.com",
+      "published": "2026-02-19",
+      "publishedAsGiven": "Feb 19, 2026",
+      "snippet": "Its central goal is to “abolish capitalism and, ultimately, to achieve communism,” the caucus states in its “points of unity” section. “We do ..."
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Socialism | RCP Story Stream",
+      "url": "https://www.realclearpolitics.com/stream/?topic=Socialism&active_section=video",
+      "domain": "realclearpolitics.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "Cuban Communism's Long Goodbye",
+      "url": "https://www.wsj.com/opinion/cuban-communisms-long-goodbye-fda9f512",
+      "domain": "wsj.com",
+      "published": "2026-03-26",
+      "publishedAsGiven": "Mar 26, 2026",
+      "snippet": "We often speak of late-stage capitalism and its contradictions, but what is happening in Cuba is late-stage communism and its exhaustions."
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "Vote for the Czar, It's Important",
+      "url": "https://www.wsj.com/opinion/vote-for-the-czar-its-important-11598895028",
+      "domain": "wsj.com",
+      "published": "2020-08-31",
+      "publishedAsGiven": "Aug 31, 2020",
+      "snippet": "Czarism might have seemed intolerable, but the Communist regime proved crueler than the evils it had come to replace. The Communists had learned ..."
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 5,
+    "fact-check-words": 5,
+    "after-said": 4,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:17:22.595Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Democrats slam New York Republican for utility ties amid ...",
+      "url": "https://www.politico.com/news/2026/03/01/democrats-new-york-republicans-utility-energy-affordability-00804175",
+      "domain": "politico.com",
+      "snippet": "Republican Rep. Mike Lawler blames rising energy costs on the policies of Democrats, who have controlled the state government for the last ...",
+      "published": "2026-03-01",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Politico",
+        "page": "https://mediabiasfactcheck.com/politico/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Zohran Mamdani's been called a communist who'll defund ...",
+      "url": "https://apnews.com/article/zohran-mamdani-nyc-mayor-election-cuomo-59f6a66cd40d4c2b750fdfd06a4f5da1",
+      "domain": "apnews.com",
+      "snippet": "Zohran Mamdani's been called a communist who'll defund the police. Here's where he actually stands · He's a democratic socialist, not a communist.",
+      "published": "2025-09-20",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Associated Press",
+        "page": "https://mediabiasfactcheck.com/associated-press/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Mamdani-backed democratic socialists win big in New York",
+      "url": "https://www.usatoday.com/story/opinion/columnist/2026/06/26/mamdani-democratic-socialists-win-ny-warning/90690699007/",
+      "domain": "usatoday.com",
+      "snippet": "Why am I the only Democrat in the U.S. Senate that refuses to excuse this or defend any of those self-identified communists?\" Love crosswords?",
+      "published": "2026-06-26",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "USA Today",
+        "page": "https://mediabiasfactcheck.com/usa-today-2/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "The Lure of Comrade Mamdani",
+      "url": "https://www.wsj.com/opinion/the-lure-of-comrade-mamdani-policy-mayoral-candidate-nyc-a61ca481",
+      "domain": "wsj.com",
+      "snippet": "They were extremists all along. The lesson is that communists and fascists, whom F.A. Hayek called members of “rival socialist factions,” will ...",
+      "published": "2025-07-06",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Wall Street Journal",
+        "page": "https://mediabiasfactcheck.com/wall-street-journal/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Mamdani favored to win New York mayoral race. The hard ...",
+      "url": "https://www.csmonitor.com/USA/Politics/2025/1103/mamdani-new-york-mayor-election-democrats",
+      "domain": "csmonitor.com",
+      "snippet": "... Democrats. They are now communists.'” (Mr. Mamdani has had to clarify in interviews that he is not a communist, despite GOP claims.).",
+      "published": "2025-11-03",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Christian Science Monitor",
+        "page": "https://mediabiasfactcheck.com/christian-science-monitor/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

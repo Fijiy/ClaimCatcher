@@ -1,0 +1,6729 @@
+{
+  "gate": "on-device",
+  "started": "2026-10-27T00:37:37.350Z",
+  "environment": {
+    "cpu": "Apple M4 (10 cores)",
+    "memory": "16 GB",
+    "os": "macOS 26.5.1, arm64 (Darwin Kernel Version 25.5.0: Mon Apr 27 20:41:26 PDT 2026; root:xnu-12377.121.6~2/RELEASE_ARM64_T8132 25.5.0)",
+    "node": "v22.23.2",
+    "browser": "Chrome for Testing 151.0.7922.34",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/151.0.0.0 Safari/537.36",
+    "modelRuntime": "4 WASM threads, cross-origin isolated: true, WebGPU adapter: true",
+    "audio": "eval/media/ (pnpm eval:fetch)"
+  },
+  "passes": {
+    "speechToText": true,
+    "claimFilter": false,
+    "voiceSeparation": false
+  },
+  "speechToText": {
+    "score": {
+      "wer": 0.09664804469273743,
+      "errors": 346,
+      "words": 3580,
+      "realTime": 0.05047005970162267,
+      "clips": [
+        {
+          "clip": "cnn-2024-biden-opening-economy",
+          "wer": 0.15721649484536082,
+          "errors": 61,
+          "words": 388
+        },
+        {
+          "clip": "cnn-2024-trump-greatest-economy",
+          "wer": 0.02,
+          "errors": 4,
+          "words": 200
+        },
+        {
+          "clip": "abc-2024-trump-springfield-pets",
+          "wer": 0.2297734627831715,
+          "errors": 71,
+          "words": 309
+        },
+        {
+          "clip": "abc-2024-harris-afghanistan-camp-david",
+          "wer": 0.012605042016806723,
+          "errors": 3,
+          "words": 238
+        },
+        {
+          "clip": "cbs-2024-walz-iran-tbi-headaches",
+          "wer": 0.005291005291005291,
+          "errors": 1,
+          "words": 189
+        },
+        {
+          "clip": "cbs-2024-vance-cbp-one-mic-cut",
+          "wer": 0.24686192468619247,
+          "errors": 59,
+          "words": 239
+        },
+        {
+          "clip": "biden-sotu-2024-economy",
+          "wer": 0.13815789473684212,
+          "errors": 21,
+          "words": 152
+        },
+        {
+          "clip": "trump-joint-2025-social-security-ages",
+          "wer": 0.07731958762886598,
+          "errors": 15,
+          "words": 194
+        },
+        {
+          "clip": "trump-joint-2025-inflation-eggs-energy",
+          "wer": 0.024509803921568627,
+          "errors": 5,
+          "words": 204
+        },
+        {
+          "clip": "booker-senate-floor-2025-consumer-confidence",
+          "wer": 0.05787781350482315,
+          "errors": 18,
+          "words": 311
+        },
+        {
+          "clip": "johnson-speaker-acceptance-2023-prices-debt",
+          "wer": 0.049586776859504134,
+          "errors": 12,
+          "words": 242
+        },
+        {
+          "clip": "murray-senate-floor-2025-tax-cuts-debt",
+          "wer": 0.03597122302158273,
+          "errors": 10,
+          "words": 278
+        },
+        {
+          "clip": "uk-pmqs-2025-09-03-badenoch-unemployment",
+          "wer": 0.25263157894736843,
+          "errors": 48,
+          "words": 190
+        },
+        {
+          "clip": "uk-pmqs-2026-03-04-starmer-defence-270bn",
+          "wer": 0.01282051282051282,
+          "errors": 2,
+          "words": 156
+        },
+        {
+          "clip": "us-khanna-tiktok-2025-02-20-telehealth",
+          "wer": 0.0379746835443038,
+          "errors": 3,
+          "words": 79
+        },
+        {
+          "clip": "us-vance-peachtree-city-2025-08-21-biggest-tax-cut",
+          "wer": 0.033707865168539325,
+          "errors": 3,
+          "words": 89
+        },
+        {
+          "clip": "us-warner-x-2025-07-21-russia-interference",
+          "wer": 0.08196721311475409,
+          "errors": 10,
+          "words": 122
+        }
+      ],
+      "pass": true
+    },
+    "heard": [
+      {
+        "clip": "cnn-2024-biden-opening-economy",
+        "heard": "We got taken look at what I was left when I became president. I went Mr. Trump left me. We had an economy of it in freefall. The pandemic was so badly handled. Many people were dying. All he said was, \"It's not that serious. Just inject a little bleach in your arm. To be all right.\" Economy collapsed, but with no jobs, unemployment rate rose to 15% and was terrible. And so what we had to do is try to put these back together again. That's exactly what we began to do. We created 15,000 new jobs. We brought out another position where we have 800,000 new manufacturing jobs, but there's more to be done. And more to be done, working-class people are still in trouble. I come from Scranton, Pennsylvania. I come of household, where to kitchen tables, the things weren't able to be met during the month was a problem. Press the bags, the press the gas, the press of housing, the press of a whole range of things. That's why I'm working so hard to make sure I deal with those problems And we're going to make sure that we have reduced the price of housing. We're going to make sure we build 22 million new units. We're going to make sure we cap rents so corporate greed can't take over the combination but i was left with the corporate greedy the reason why i'm reading this problem In addition to that, we're in a situation where if you have to take a look at all that was done in this administration, He didn't do much at all by the time he left or things around chaos, through literally chaos. And so we put things back together, we created, I said those jobs, we make sure we're out of the situation where We now report down the price of prescription drugs is a major issue for many people. It's the $15 for an insulin shot as opposed to $400. No senior has to pay more than $200 for any job, all the jobs they can include beginning next year. And the situation is making, and we're going to make that available to everybody, to all Americans. So we're working to bring down the price of the ground and kitchen table, and that's where we're going to get done."
+      },
+      {
+        "clip": "cnn-2024-trump-greatest-economy",
+        "heard": "Thank you, President Trump. We're the greatest economy in the history of our country. And we have never done so well. Everybody was amazed by it. Other countries were copying us. We got hit with COVID and when we did we spent the money necessary so we wouldn't end up in a great depression the likes of which we had in 1929. By the time we finished, so we did a great job. We got a lot of credit for the economy, a lot of credit for the military and no wars and so many other things. Everything was rocking good, but the thing we never got the credit for and we should have is getting us out of that covid mess. He created mandates that was a disaster for our country, but other than that, we had given them back a A country where the stock market actually was higher than pre-COVID and nobody thought that was even possible. The only jobs he created are for illegal immigrants and bounce back jobs, a bounce back from the COVID. He has not done a good job. He's done a poor job in inflation, killing our country. It is absolutely killing us."
+      },
+      {
+        "clip": "abc-2024-trump-springfield-pets",
+        "heard": "The country, just to go into another subject, what they have done to our country by allowing these millions and millions of people to come into our country and look at what's happening to the towns all over the country. The United States and a lot of towns don't want to talk. Not going to be a roar or a springfield. A lot of towns don't want to talk about it because they' In Springfield, they're eating the dogs, the people that came in, they're eating the cats, they're eating They're eating the pets of the people that live there. And this is what's happening in our country, and it's a shame, as far as They're going to have to be a big deal. They're going to have to be a big deal. Rally is a concern as far as the reason they go is they like what i say. They want to bring our country back. They want to make America great against. She's destroying this country, and if she becomes president, this country doesn't have a chance of success. Not only success will end up being Venezuela on steroids. I just want to clarify here, you rig up Springfield, Ohio, and ABC News did reach out to the city manager there. He told us there have been no credible reports of specific claims of pets being harmed, injured or abused by individuals. Within the immigrant community. > people on television say, my dog was taken and used for food. Maybe he said that, maybe that's a good thing to say for a city manager. > but the people on television say, my dog was taken. Eaten by the people that went there again the Springfield City manager says there's no evidence of that vice president so let you respond to the rest of what you've heard"
+      },
+      {
+        "clip": "abc-2024-harris-afghanistan-camp-david",
+        "heard": "Well, I will tell you I agreed with President Biden's decision to pull out of Afghanistan. For presidents said they would, and Joe Biden did, and as a result. America's taxpayers are not paying the $300 million a day. We were paying for that endless war. And as of today, there is not one member of the United States military who is in active duty in a combat zone in any war zone around the world the first time this century. But let's understand how we got to where we are. Donald Trump, when he was president, Negotiated one of the weakest deals you can imagine. He calls himself a deal maker. Even his national security adviser said it was a weak, terrible deal. And here's how it went down. He bypassed the Afghan government. He negotiated directly with a terrorist organization called the Taliban. The negotiation involved the Taliban getting 5,000 terrorists, Taliban terrorists released. And get this, no, get this. And the President at the time invited the Taliban to camp David. A place of storied significance for us as Americans, a place where we honor the importance of American diplomacy, where we invite and receive. Respected world leaders and this Former president, as president invited them to camp David because he does not again appreciate the role and responsibility. Of the President of the United States, to be commander-in-chief with a level of respect."
+      },
+      {
+        "clip": "cbs-2024-walz-iran-tbi-headaches",
+        "heard": "Thank you, Senator. Governor Walls, do you care to respond to any of the allegations? Well, look, Donald Trump was in office. We'll sometimes hear a revisionist history, but when Donald Trump was in office, it was Donald Trump. who we had a coalition of nations that had boxed Iran's nuclear program in the inability to advance it. Donald Trump pulled that program and put nothing else in its place. So Iran is closer to a nuclear weapon than they were before because of Donald Trump's fickle leadership. And when Iran shot down an American aircraft in international airspace, Donald Trump tweeted because that's the standard diplomacy of Donald Trump. And when Iranian missiles Did fall near U.S. troops and they received traumatic brain injuries. Donald Trump wrote it off as headaches. Look, our allies understand. that Donald Trump is fickle. He will go to whoever has the most flattery or where it makes sense to him. steady leadership like you witnessed today, like you witnessed in April. Both Iranian attacks were repelled. Our coalition is strong and we need the steady leadership that Kamala Harris is providing."
+      },
+      {
+        "clip": "cbs-2024-vance-cbp-one-mic-cut",
+        "heard": "Thank you, Governor. And just to clarify for our viewers, Springfield, Ohio does have a large number of Haitian migrants who have legal status, temporary protected. Well, Mark, Mark, but but but. Thank you, Senator. We haven't so much to get to. Margaret, I think it's important. We're going to turn out of the economy. Thank you, Margaret. The the rules were that you guys weren't going to fact check. I think it's important to say what's actually going on. So there's an application called the CBP One app, where you can go on as an illegal migrant, apply for asylum or apply for parole, and be granted legal status in at the wave of a Kamala Harris open border wound. That is not a person coming in applying for a green card and waiting for 10 years. Thank you. The sanitation of a legal immigration Margaret. Thank you, Senator, for describing the legal process. She has so much to get to this. Senator, he has so much. The book since 1990. Thank you, gentlemen. We want to have... ...math has not been on the books. It's just like something to tell like there was a great warmer gentleman you the audience can't hear you because your mics are cut we have so much we want to get to thank you for explaining the legal process Nora"
+      },
+      {
+        "clip": "biden-sotu-2024-economy",
+        "heard": "Folks, mind hearing the congress on the brink. Now our economy is literally the envy of the world. 15 million new jobs in just three years, a record. A record unemployment at 50-Year loans - The record's 16 million Americans are starting small businesses, and each one is a literal act of hope. With historic job growth and small business growth for black and Hispanics and Asian Americans. 800,000 new manufacturing jobs in America and counting. Where is the rick? We can't be the manufacturing capital of the world. We are, we will. More people have health insurance today. More people have hell in church today than ever before. The racial wealth gap in the smalls has been in 20 years. Wages keep going up and fleshy keeps coming down. Inflation has dropped from 9% to 3%, the lowest in the world and 10-in lower. The landing is and will be soft."
+      },
+      {
+        "clip": "trump-joint-2025-social-security-ages",
+        "heard": "The government accountability office, federal government office, has estimated annual fraud of over $500 billion in our nation. And we are working very hard to stop it. We're going to. We're also identifying shocking levels of incompetence and probable fraud in the Social Security program. for our seniors and that our seniors and people that we love rely on. Believe it or not, government databases list four point seven million social security members. From people aged 100 to 109 years old. \u266a The world is full of love \u266a - It lists 3.6 million people from ages 110 to 119 I don't know any of them I know some people that are rather elderly but not quite that elderly 3.47 million people from ages 120 to 129. 3.9 million people from ages 130 to 139 3.5 million people. From ages 140 to 149. And money is being paid to many of them. And we're searching right now. Fact, Pam, good luck. Good luck. You're going to find it. But a lot of money is paid out to people because it just keeps getting paid and paid and nobody does and it really hurts Social security and Hertzart country won't put"
+      },
+      {
+        "clip": "trump-joint-2025-inflation-eggs-energy",
+        "heard": "Among my very highest priorities is to rescue our economy and get dramatic and immediate relief. To working families, as you know, we inherited from the last administration. An economic catastrophe and an inflation nightmare. Their policies drove up energy prices, pushed up grocery costs. and drove the necessities of life out of reach for millions and millions of Americans. They've never had anything like it. We suffered the worst inflation in 48 years, but perhaps even In the history of our country, they're not sure. as President, I'm fighting every day to reverse this damage and make America affordable again. Joe Biden especially let the price of eggs get out of control The egg prices out of control and we're working hard to get it back. Down secretary do a good job on that you inherited a total mess from the previous administration do a good job A major focus of our fight to defeat inflation is rapidly reducing the cost of energy. The previous administration cut the number of new oil at gas leases by 95 percent. Slowed pipeline construction to a halt and closed more than one hundred power plants. We are opening up many of those. Power plants right now"
+      },
+      {
+        "clip": "booker-senate-floor-2025-consumer-confidence",
+        "heard": "I think we're going to see about the tariffs tomorrow and see how far the president will go, but we do know whatever it is, it's going to affect prices. That are going to continue to go up for Americans as the afflictions continue to go up for Americans. As the stock markets continue to go down as people for approvals 401ks have lost so much money The uncertainty I'm hearing from businesses in New Jersey, the chaos that they feel about the economy, the consumer confidence in this country has gone way down. If you asked the question, are you better off than you were 71 days ago? Not many Americans would say they're better off. They're costs are higher, their groceries are higher. They're soon to see everything from car prices to food. Go higher. Their retirement security is under attack. Their health care is under attack. They're losing their Department of Education. They're less safe from infectious diseases abroad. There's so many things that we have to talk to and try to stop and you're your our leader on the finance committee. And you know that the tax thing they're trying to run through this now, I'm trying to get my head wrapped around. These wacky parliamentary things, and even the podcasts I listened to in mourning to inform me, say they even spoke about this years and years ago, but they said, \"Oh, this is too crazy. We can't do To try to tell the American people somehow that the trillions of dollars of tax cuts that we're going to give disproportionately to the wealthiest people of all. Oh, there's nothing to see here that has a zero impact on the budget so we can do it through reconciliation. That is the biggest hocus-spocus manufactured, artifice that I've ever seen to obscure the truth. In america there were"
+      },
+      {
+        "clip": "johnson-speaker-acceptance-2023-prices-debt",
+        "heard": "We have a catastrophe at our southern border. The Senate and the White House can no longer ignore the problem. From Texas to New York, wave after wave of illegal migrants are stressing our communities to their breaking point. We know that our streets are being flooded with fentanyl in all of our communities. children, and even adults are dying from it. The status quo is unacceptable. Inaction is unacceptable, and we must come together and address The broken border we have to do it. The skyrocketing cost of living is unsustainable and Americans should not have to worry about how they're going to feed their family every week because they can't afford their groceries anymore. Everybody in this room should think about this. Here's the stats. Prices have increased over 17% in the last two years. Credit card interest rates are at the highest level in nearly three decades and mortgage rates are now at a peak we haven't seen since 2001. We have to bring relief to the American people by raining in federal spending and bringing down inflation. The greatest threat to our national security is our nation's debt. And while we've been sitting in this room that's right The dead is crossed almost $33.6 trillion. And the time that it's going to take me to deliver this speech will go up another 20 million in debt. It's unsustainable. We have to get the country back on track. Now, we need to get"
+      },
+      {
+        "clip": "murray-senate-floor-2025-tax-cuts-debt",
+        "heard": "Let's be very clear. Republicans' budget resolution doesn't just accept It actually doubles down on what Trump and Musk are doing. And it's not about balancing the budget. We all know that. because they don't plan to reverse one of the biggest drivers of the debt, Republican tax cuts. Despite all the boogeymen that Republicans like to point to as driving the national debt, The reality is that the single biggest, single biggest driver of our national debt since 2001 has been Republican tax cuts. The Trump and Bush tax cuts have cost our nation over 10 trillion dollars and counting. And you'll never guess what our colleagues on the other side of the aisle are focused on right now nothing to lower the cost of eggs, it's actually more Republican tax cuts. And no, they will not be paid for. And yes, they will blow up the national debt. Well, Elon Musk hacks and chops away his way through the government in the name of meager savings and Republicans are cheering him on. They're all hoping that we will ignore the elephant. they brought into the room. Even as this budget is a roadmap for painful cuts to programs, families count on each and every day. Also, they can give billionaires more tax cuts. Republicans are going down this partisan path because they know Democrats are not going to join them in throwing Medicaid Nutrition assistance and veterans benefits into the woodchopper so they can throw more tax cuts at billionaires and the biggest corporations. Make no mistake, this budget resolution is the doge resolution. Essida assumes the staggering amount of $1 trillion in unspecified cuts in 2025 alone and $9 trillion over 10 years. Where?"
+      },
+      {
+        "clip": "uk-pmqs-2025-09-03-badenoch-unemployment",
+        "heard": "taught the country down at every opportunity she hasn't she doesn't welcome the highest growth in the G7 she could have got up a welcome at Mr Speaker but no what about the 380 1000 jobs we've created she can welcome that but no what about the three trade deals we've got not only does she not welcome them she opposes them and of course she hasn't welcomed the Norway deal the biggest deal for ship building in a very very long time. She should stop talking down the country and get behind the renewal this government is delivering. This is speaker. He is dragging down the country. He is dragging it down. How can he stand there and say that he is And if he doesn't know why borrowing costs are going up, another reason is that the markets can see that he is too weak to control spending. Now, we are reading that he wants to have another go at Welfare Cut Costing. What makes him think that they will vote for it this time? Prime Minister. Mr spaker we're"
+      },
+      {
+        "clip": "uk-pmqs-2026-03-04-starmer-defence-270bn",
+        "heard": "Not only did they cut the defence budget, they missed Army recruitment targets every year for 14 years. They left morale in our Armed Forces and all time low and our forces hollowed out. That's the words of Ben Wallace, the former Defence Secretary. Labour, by contrast, is delivering the biggest boost to defence spending since the Cold War. \u00a3270 billion over this parliament. And we're doing that because we're focused on what matters. And she's right. The war is, of course, happening now. We have to focus on that. Across the country, people are worried about those that are trapped in the region. And Mr Speaker, that is why we're taking action. And I can update the house, I can update the house that yesterday more than a thousand British nationals arrived back in the UK on commercial flights from the UAE. A further eight flights are due to leave the UAE to the UK today."
+      },
+      {
+        "clip": "us-khanna-tiktok-2025-02-20-telehealth",
+        "heard": "Breaking news: The Trump administration just announced that Medicare will stop covering telehealth starting April 1st. This is going to be devastating for so many seniors who are homebound or don't live close to the border. to a doctor's office. Look, you don't have to be the congressman from Silicon Valley to know that doctors and nurses should be able to use telehealth if they think that will make their patients life. Better we need to stand up to these Medicare cuts"
+      },
+      {
+        "clip": "us-vance-peachtree-city-2025-08-21-biggest-tax-cut",
+        "heard": "That's why we increased the child tax credit in the working family's tax cut. That's why we eliminated taxes on overtime and on tips, and that's why we had the biggest Tax cut for families that this country has ever seen because we believe. that you ought to keep more of your harder money and we believe that if you're busting your rear end every single day the government ought to make it easier for you and not harder for you and that's why we fought for that legislation."
+      },
+      {
+        "clip": "us-warner-x-2025-07-21-russia-interference",
+        "heard": "Over the weekend, D&I Gabbard, who anybody who's followed these know how I feel about, was again trying to, maybe, divert from Epstein, trying to rehash The 2016 Russian investigation where no one ever claimed Russian altered votes. But everyone claims that Russia tried to interfere on Trump's behalf. Well documented, well vetted, Senate intelligence, bipartisan, the animus report, the Mueller report. And now gabard in our next effort of trying to politicize is actually threatening legal action against former employees of the intelligence community and others i mean is there not anyone going to stand up against this Policies, the country needs an independent intelligence community that speaks truth to power, not that makes up fables to try to please Donald Trump."
+      }
+    ]
+  },
+  "claimFilter": {
+    "threshold": 0.5,
+    "score": {
+      "rated": {
+        "n": 29,
+        "hits": 24,
+        "rate": 0.8275862068965517
+      },
+      "all": {
+        "n": 80,
+        "hits": 64,
+        "rate": 0.8
+      },
+      "passed": {
+        "n": 281,
+        "hits": 104,
+        "rate": 0.3701067615658363
+      },
+      "precision": 0.6634615384615384,
+      "pass": false
+    },
+    "sweep": [
+      {
+        "threshold": 0.3,
+        "rated": 0.9310344827586207,
+        "all": 0.85,
+        "passed": 0.4092526690391459
+      },
+      {
+        "threshold": 0.4,
+        "rated": 0.8620689655172413,
+        "all": 0.8125,
+        "passed": 0.38434163701067614
+      },
+      {
+        "threshold": 0.5,
+        "rated": 0.8275862068965517,
+        "all": 0.8,
+        "passed": 0.3701067615658363
+      },
+      {
+        "threshold": 0.6,
+        "rated": 0.8275862068965517,
+        "all": 0.7875,
+        "passed": 0.34519572953736655
+      },
+      {
+        "threshold": 0.7,
+        "rated": 0.7586206896551724,
+        "all": 0.75,
+        "passed": 0.31316725978647686
+      }
+    ],
+    "scores": [
+      0.010836013592779636,
+      0.4593059718608856,
+      0.7492521405220032,
+      0.29305824637413025,
+      0.3663348853588104,
+      0.05285738781094551,
+      0.017437199130654335,
+      0.004506390076130629,
+      0.8208507895469666,
+      0.8739273548126221,
+      0.9831085801124573,
+      0.04163780063390732,
+      0.0056531294248998165,
+      0.07079815864562988,
+      0.9799976348876953,
+      0.9411941766738892,
+      0.0060034324415028095,
+      0.00566914863884449,
+      0.08251205831766129,
+      0.030900906771421432,
+      0.027316227555274963,
+      0.029634902253746986,
+      0.008913143537938595,
+      0.006259924732148647,
+      0.026092613115906715,
+      0.008229568600654602,
+      0.08934494107961655,
+      0.6151984930038452,
+      0.1581534594297409,
+      0.02277849242091179,
+      0.16912776231765747,
+      0.9274951219558716,
+      0.5357575416564941,
+      0.8979440331459045,
+      0.012239600531756878,
+      0.16048122942447662,
+      0.008944074623286724,
+      0.00908915139734745,
+      0.39865896105766296,
+      0.09045902639627457,
+      0.03827884420752525,
+      0.6811091303825378,
+      0.056480929255485535,
+      0.926491379737854,
+      0.04934174194931984,
+      0.8419280648231506,
+      0.02576383762061596,
+      0.042785126715898514,
+      0.6287728548049927,
+      0.9169483780860901,
+      0.6180741190910339,
+      0.048387859016656876,
+      0.5078100562095642,
+      0.09487021714448929,
+      0.003567910986021161,
+      0.2882668673992157,
+      0.014022739604115486,
+      0.04356297478079796,
+      0.1941685527563095,
+      0.16651974618434906,
+      0.10807551443576813,
+      0.03559519723057747,
+      0.008282743394374847,
+      0.008104655891656876,
+      0.04847176745533943,
+      0.007928546518087387,
+      0.0042308177798986435,
+      0.3204589784145355,
+      0.020185010507702827,
+      0.21207551658153534,
+      0.00296264560893178,
+      0.278186172246933,
+      0.953463613986969,
+      0.018666686490178108,
+      0.0032173802610486746,
+      0.08745482563972473,
+      0.023258719593286514,
+      0.013919421471655369,
+      0.047485221177339554,
+      0.8837816715240479,
+      0.005478846840560436,
+      0.49203217029571533,
+      0.5529149174690247,
+      0.9779986143112183,
+      0.9508604407310486,
+      0.003490651724860072,
+      0.8602516651153564,
+      0.8174944519996643,
+      0.8576017022132874,
+      0.9091732501983643,
+      0.97743821144104,
+      0.004805156961083412,
+      0.7237364053726196,
+      0.565986692905426,
+      0.011194193735718727,
+      0.004006459377706051,
+      0.18711331486701965,
+      0.9502636790275574,
+      0.7789225578308105,
+      0.7293299436569214,
+      0.7757130265235901,
+      0.7449272871017456,
+      0.8228326439857483,
+      0.013599179685115814,
+      0.00422362145036459,
+      0.035652220249176025,
+      0.8970726728439331,
+      0.10622736811637878,
+      0.011627740226686,
+      0.9686779975891113,
+      0.00949898548424244,
+      0.0042517585679888725,
+      0.011194193735718727,
+      0.003948446828871965,
+      0.0027714932803064585,
+      0.013005929999053478,
+      0.008944074623286724,
+      0.039494842290878296,
+      0.007567102089524269,
+      0.8156628608703613,
+      0.17150329053401947,
+      0.011194193735718727,
+      0.3393888771533966,
+      0.04728894308209419,
+      0.010778330266475677,
+      0.004059202503412962,
+      0.7704504728317261,
+      0.013597145676612854,
+      0.007144123315811157,
+      0.004907169379293919,
+      0.8603652119636536,
+      0.04840956628322601,
+      0.03539014607667923,
+      0.00456379447132349,
+      0.007992194034159184,
+      0.00949898548424244,
+      0.1063096821308136,
+      0.0401473194360733,
+      0.9644361734390259,
+      0.014742778614163399,
+      0.9492866396903992,
+      0.9771260023117065,
+      0.9702478647232056,
+      0.006165170576423407,
+      0.00540440296754241,
+      0.9223838448524475,
+      0.9760860204696655,
+      0.9770841598510742,
+      0.6546706557273865,
+      0.8240328431129456,
+      0.987126350402832,
+      0.007497889921069145,
+      0.986876904964447,
+      0.006115837022662163,
+      0.5957098007202148,
+      0.9837567806243896,
+      0.9471525549888611,
+      0.0648508369922638,
+      0.006668092217296362,
+      0.9359923601150513,
+      0.9432085752487183,
+      0.9077197909355164,
+      0.8471611142158508,
+      0.2662475109100342,
+      0.007170551456511021,
+      0.005714839790016413,
+      0.0059855179861187935,
+      0.8762437105178833,
+      0.06952697038650513,
+      0.015015989542007446,
+      0.47560861706733704,
+      0.8691081404685974,
+      0.2557368874549866,
+      0.9659437537193298,
+      0.18066519498825073,
+      0.060852933675050735,
+      0.7228353023529053,
+      0.003712039440870285,
+      0.7312586307525635,
+      0.00358409620821476,
+      0.2813657522201538,
+      0.9814326167106628,
+      0.8773567080497742,
+      0.6419280767440796,
+      0.9795877933502197,
+      0.32114434242248535,
+      0.008824270218610764,
+      0.012755104340612888,
+      0.9589728713035583,
+      0.2112475037574768,
+      0.794465184211731,
+      0.8868091106414795,
+      0.9331222176551819,
+      0.6106006503105164,
+      0.004417249001562595,
+      0.14663589000701904,
+      0.012013529427349567,
+      0.11437549442052841,
+      0.1002582535147667,
+      0.11247801035642624,
+      0.03935900703072548,
+      0.21977418661117554,
+      0.761005163192749,
+      0.016751911491155624,
+      0.00706837372854352,
+      0.004096240270882845,
+      0.727766215801239,
+      0.0031719841063022614,
+      0.9826372861862183,
+      0.9843578338623047,
+      0.0065492549911141396,
+      0.019005008041858673,
+      0.9858162999153137,
+      0.6821297407150269,
+      0.021632222458720207,
+      0.0038638527039438486,
+      0.0032719841692596674,
+      0.9300686717033386,
+      0.007758661638945341,
+      0.011255341582000256,
+      0.7462170124053955,
+      0.9702300429344177,
+      0.9790127873420715,
+      0.016986139118671417,
+      0.010991353541612625,
+      0.4423017203807831,
+      0.03783882409334183,
+      0.09274675697088242,
+      0.30481934547424316,
+      0.7793546319007874,
+      0.7619614601135254,
+      0.9730004072189331,
+      0.03526777774095535,
+      0.02287887968122959,
+      0.017201468348503113,
+      0.7706571817398071,
+      0.016563337296247482,
+      0.3547282814979553,
+      0.03911551088094711,
+      0.00670622568577528,
+      0.6005154252052307,
+      0.9438728094100952,
+      0.013201541267335415,
+      0.03526777774095535,
+      0.5154533982276917,
+      0.5773447155952454,
+      0.003829863853752613,
+      0.9824545383453369,
+      0.1333547830581665,
+      0.11147508025169373,
+      0.0033228574320673943,
+      0.9817054271697998,
+      0.7774831652641296,
+      0.09712179750204086,
+      0.9532838463783264,
+      0.9511776566505432,
+      0.09662225097417831,
+      0.09928420186042786,
+      0.2748093008995056,
+      0.0032108998857438564,
+      0.049548350274562836,
+      0.03336634486913681,
+      0.1068948432803154,
+      0.012566762045025826,
+      0.9504104256629944,
+      0.9446020126342773,
+      0.016148513182997704,
+      0.9267758131027222,
+      0.02184261567890644,
+      0.020502757281064987,
+      0.006143500562757254,
+      0.9565282464027405,
+      0.917884111404419,
+      0.9026426076889038,
+      0.004587655421346426,
+      0.7458987236022949,
+      0.044955912977457047,
+      0.873507559299469,
+      0.9446119070053101,
+      0.003160519525408745,
+      0.025162361562252045
+    ]
+  },
+  "voiceSeparation": {
+    "clustering": {
+      "newVoiceBelow": 0.4,
+      "newVoiceMinS": 2,
+      "mergeAbove": 0.5
+    },
+    "gate": {
+      "sessions": [
+        {
+          "id": "cnn",
+          "score": {
+            "speech": 173.2,
+            "right": 0.6397228637413395,
+            "missed": 0.019630484988452657,
+            "voices": 1,
+            "speakers": [
+              {
+                "speaker": "BIDEN",
+                "seconds": 113.2,
+                "voices": 1
+              },
+              {
+                "speaker": "TAPPER",
+                "seconds": 1.2,
+                "voices": 1
+              },
+              {
+                "speaker": "TRUMP",
+                "seconds": 58.8,
+                "voices": 1
+              }
+            ],
+            "mapping": {
+              "voice-1": "BIDEN"
+            }
+          },
+          "minutes": 2.9166666666666665,
+          "ms": 6673.443459000016,
+          "pass": false
+        },
+        {
+          "id": "abc",
+          "score": {
+            "speech": 196.1,
+            "right": 0.928607853136155,
+            "missed": 0.06119326874043855,
+            "voices": 3,
+            "speakers": [
+              {
+                "speaker": "DAVID MUIR",
+                "seconds": 20.2,
+                "voices": 1
+              },
+              {
+                "speaker": "HARRIS",
+                "seconds": 104.2,
+                "voices": 1
+              },
+              {
+                "speaker": "TRUMP",
+                "seconds": 71.7,
+                "voices": 2
+              }
+            ],
+            "mapping": {
+              "voice-3": "HARRIS",
+              "voice-1": "TRUMP",
+              "voice-2": "DAVID MUIR"
+            }
+          },
+          "minutes": 3.316666666666667,
+          "ms": 9112.987125,
+          "pass": true
+        },
+        {
+          "id": "cbs",
+          "score": {
+            "speech": 132.6,
+            "right": 0.8597285067873304,
+            "missed": 0.12594268476621417,
+            "voices": 3,
+            "speakers": [
+              {
+                "speaker": "JDV",
+                "seconds": 34.6,
+                "voices": 2
+              },
+              {
+                "speaker": "MB",
+                "seconds": 31.9,
+                "voices": 1
+              },
+              {
+                "speaker": "NO",
+                "seconds": 2,
+                "voices": 0
+              },
+              {
+                "speaker": "TW",
+                "seconds": 64.1,
+                "voices": 1
+              }
+            ],
+            "mapping": {
+              "voice-2": "TW",
+              "voice-3": "JDV",
+              "voice-1": "MB"
+            }
+          },
+          "minutes": 2.306666666666666,
+          "ms": 5122.460959000018,
+          "pass": false
+        },
+        {
+          "id": "pmqs",
+          "score": {
+            "speech": 61.8,
+            "right": 0.8915857605177994,
+            "missed": 0.07119741100323625,
+            "voices": 2,
+            "speakers": [
+              {
+                "speaker": "MRS BADENOCH",
+                "seconds": 27.7,
+                "voices": 2
+              },
+              {
+                "speaker": "THE PRIME MINISTER",
+                "seconds": 34.1,
+                "voices": 1
+              }
+            ],
+            "mapping": {
+              "voice-1": "THE PRIME MINISTER",
+              "voice-2": "MRS BADENOCH"
+            }
+          },
+          "minutes": 1.0733336805555556,
+          "ms": 2278.2109169999894,
+          "pass": false
+        },
+        {
+          "id": "abc-2024-debate",
+          "score": {
+            "speech": 196.1,
+            "right": 0.9265680775114737,
+            "missed": 0.06272310045894952,
+            "voices": 6,
+            "speakers": [
+              {
+                "speaker": "DAVID MUIR",
+                "seconds": 20.2,
+                "voices": 1
+              },
+              {
+                "speaker": "HARRIS",
+                "seconds": 104.2,
+                "voices": 1
+              },
+              {
+                "speaker": "TRUMP",
+                "seconds": 71.7,
+                "voices": 2
+              }
+            ],
+            "mapping": {
+              "voice-3": "HARRIS",
+              "voice-4": "TRUMP",
+              "voice-1": "DAVID MUIR"
+            }
+          },
+          "full": true,
+          "minutes": 95.25,
+          "speakers": 4,
+          "ms": 209141.40977099986,
+          "pass": true
+        }
+      ],
+      "worst": {
+        "id": "cnn",
+        "score": {
+          "speech": 173.2,
+          "right": 0.6397228637413395,
+          "missed": 0.019630484988452657,
+          "voices": 1,
+          "speakers": [
+            {
+              "speaker": "BIDEN",
+              "seconds": 113.2,
+              "voices": 1
+            },
+            {
+              "speaker": "TAPPER",
+              "seconds": 1.2,
+              "voices": 1
+            },
+            {
+              "speaker": "TRUMP",
+              "seconds": 58.8,
+              "voices": 1
+            }
+          ],
+          "mapping": {
+            "voice-1": "BIDEN"
+          }
+        },
+        "minutes": 2.9166666666666665,
+        "ms": 6673.443459000016,
+        "pass": false
+      },
+      "pass": false
+    },
+    "voiced": {
+      "cnn": [
+        {
+          "start": 200.30000000002036,
+          "end": 205.10000000002037,
+          "voice": "voice-1"
+        },
+        {
+          "start": 205.20000000101862,
+          "end": 207.8155916116241,
+          "voice": "voice-1"
+        },
+        {
+          "start": 208.0891175316874,
+          "end": 210.00000000101863,
+          "voice": "voice-1"
+        },
+        {
+          "start": 210.0000000019965,
+          "end": 215.35304834067782,
+          "voice": "voice-1"
+        },
+        {
+          "start": 216.10000000323924,
+          "end": 222.60000000323924,
+          "voice": "voice-1"
+        },
+        {
+          "start": 222.60000000456347,
+          "end": 227.90000000456348,
+          "voice": "voice-1"
+        },
+        {
+          "start": 228.01898104656263,
+          "end": 236.50000000564322,
+          "voice": "voice-1"
+        },
+        {
+          "start": 236.50000000739527,
+          "end": 239.50611719201632,
+          "voice": "voice-1"
+        },
+        {
+          "start": 239.6769193047789,
+          "end": 241.65000000739528,
+          "voice": "voice-1"
+        },
+        {
+          "start": 241.65000000739528,
+          "end": 246.80000000739528,
+          "voice": "voice-1"
+        },
+        {
+          "start": 246.80000000949366,
+          "end": 254.70000000949366,
+          "voice": "voice-1"
+        },
+        {
+          "start": 254.7000000111031,
+          "end": 261.0000000111031,
+          "voice": "voice-1"
+        },
+        {
+          "start": 261.0000000123866,
+          "end": 268.70000001238657,
+          "voice": "voice-1"
+        },
+        {
+          "start": 268.7000000139553,
+          "end": 275.0000000139553,
+          "voice": "voice-1"
+        },
+        {
+          "start": 275.1000000152591,
+          "end": 281.1000000152591,
+          "voice": "voice-1"
+        },
+        {
+          "start": 281.20000001650186,
+          "end": 286.40000001650185,
+          "voice": "voice-1"
+        },
+        {
+          "start": 286.40000001756124,
+          "end": 291.40000001756124,
+          "voice": "voice-1"
+        },
+        {
+          "start": 291.50000001860025,
+          "end": 297.20000001860024,
+          "voice": "voice-1"
+        },
+        {
+          "start": 297.2000000197615,
+          "end": 304.10000001976147,
+          "voice": "voice-1"
+        },
+        {
+          "start": 304.33783237351145,
+          "end": 312.9677491585733,
+          "voice": "voice-1"
+        },
+        {
+          "start": 313.50000002308224,
+          "end": 314.67926626775346,
+          "voice": "voice-1"
+        },
+        {
+          "start": 315.4654437642009,
+          "end": 318.14870174120654,
+          "voice": "voice-1"
+        },
+        {
+          "start": 318.63816384046214,
+          "end": 326.1000000240805,
+          "voice": "voice-1"
+        },
+        {
+          "start": 326.20000002566957,
+          "end": 335.0000000256696,
+          "voice": "voice-1"
+        },
+        {
+          "start": 335.00000002746236,
+          "end": 342.3000000274624,
+          "voice": "voice-1"
+        },
+        {
+          "start": 342.3000000274624,
+          "end": 349.6000000274624,
+          "voice": "voice-1"
+        },
+        {
+          "start": 349.6000000304368,
+          "end": 356.4000000304368,
+          "voice": "voice-1"
+        },
+        {
+          "start": 356.4000000318221,
+          "end": 362.7000000318221,
+          "voice": "voice-1"
+        },
+        {
+          "start": 362.7000000318221,
+          "end": 368.7330027369619,
+          "voice": "voice-1"
+        },
+        {
+          "start": 369.0000000343891,
+          "end": 374.8000000343891,
+          "voice": "voice-1"
+        }
+      ],
+      "abc": [
+        {
+          "start": 1753.7,
+          "end": 1759.3500000000001,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1759.3500000000001,
+          "end": 1765,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1765.0000000023022,
+          "end": 1772.600000002302,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1772.6000000038505,
+          "end": 1779.8000000038505,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1780.000000005358,
+          "end": 1789.4000000053582,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1789.400000007273,
+          "end": 1795.250000007273,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1795.250000007273,
+          "end": 1801.1000000072731,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1801.1000000096567,
+          "end": 1806.8500000096567,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1806.8500000096567,
+          "end": 1812.462267892307,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1812.6000000119996,
+          "end": 1818.7500000119996,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1818.7500000119996,
+          "end": 1824.9000000119995,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1824.9000000145054,
+          "end": 1826.2612301632323,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1827.8436602111276,
+          "end": 1829.0347365912637,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1829.885505434218,
+          "end": 1832.4000000145054,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1832.4000000145054,
+          "end": 1834.7821527747776,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1835.037383427664,
+          "end": 1836.5517519681227,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1836.5517519681227,
+          "end": 1837.1813209119089,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1839.9000000175613,
+          "end": 1842.3324206620973,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1842.9958081106072,
+          "end": 1845.6663678392235,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1846.397795026042,
+          "end": 1847.7000000175613,
+          "voice": "voice-2"
+        },
+        {
+          "start": 4359.004938572334,
+          "end": 4364.000000000384,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4364.100000020745,
+          "end": 4367.872602760471,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4368.111591169322,
+          "end": 4369.500000020745,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4369.50000004149,
+          "end": 4375.600000041491,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4375.700000065309,
+          "end": 4381.900000065309,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4382.138631569229,
+          "end": 4388.100000065308,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4388.100000112946,
+          "end": 4390.2845765984075,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4390.625916674261,
+          "end": 4393.578508330393,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4393.600000134075,
+          "end": 4399.6500001340755,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4399.6500001340755,
+          "end": 4405.700000134076,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4406.0000001817125,
+          "end": 4413.400000181712,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4413.400000210141,
+          "end": 4421.400000210141,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4422.10686288603,
+          "end": 4427.900000242412,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4428.43898867585,
+          "end": 4433.600000266998,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4433.600000266998,
+          "end": 4439.0000002669985,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4439.100000308873,
+          "end": 4441.578828959447,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4441.869450249514,
+          "end": 4443.271270589838,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4444.938754211127,
+          "end": 4448.076662358007,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4448.912300940599,
+          "end": 4450.600000330386,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4450.600000330386,
+          "end": 4456.500000330387,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4456.800000376871,
+          "end": 4462.9000003768715,
+          "voice": "voice-3"
+        }
+      ],
+      "cbs": [
+        {
+          "start": 459.9000000000204,
+          "end": 464.91569670770247,
+          "voice": "voice-1"
+        },
+        {
+          "start": 464.93275690058573,
+          "end": 465.6000000000204,
+          "voice": "voice-1"
+        },
+        {
+          "start": 465.6000000000204,
+          "end": 471.30000000002036,
+          "voice": "voice-2"
+        },
+        {
+          "start": 471.40000000236324,
+          "end": 477.25000000236327,
+          "voice": "voice-2"
+        },
+        {
+          "start": 477.25000000236327,
+          "end": 483.10000000236323,
+          "voice": "voice-2"
+        },
+        {
+          "start": 483.10000000474685,
+          "end": 492.60000000474685,
+          "voice": "voice-2"
+        },
+        {
+          "start": 492.7000000067026,
+          "end": 498.9000000067026,
+          "voice": "voice-2"
+        },
+        {
+          "start": 499.0000000079861,
+          "end": 504.4000000079861,
+          "voice": "voice-2"
+        },
+        {
+          "start": 504.4000000090862,
+          "end": 507.5232617031444,
+          "voice": "voice-2"
+        },
+        {
+          "start": 507.9158027903757,
+          "end": 509.9000000090862,
+          "voice": "voice-2"
+        },
+        {
+          "start": 509.9000000102067,
+          "end": 515.8000000102068,
+          "voice": "voice-2"
+        },
+        {
+          "start": 515.8000000114087,
+          "end": 521.4000000114087,
+          "voice": "voice-2"
+        },
+        {
+          "start": 521.4000000114087,
+          "end": 527.0000000114087,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1647.4536354057107,
+          "end": 1652.7000000000205,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1652.7000000000205,
+          "end": 1658.1000000000204,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1664.8970922904634,
+          "end": 1665.9552465256088,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1667.0987357797176,
+          "end": 1669.1000000022207,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1669.1000000044617,
+          "end": 1675.6500000044616,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1675.6500000044616,
+          "end": 1682.2000000044616,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1682.2000000071305,
+          "end": 1687.8000000071304,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1687.8000000071304,
+          "end": 1690.3083399236184,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1691.2638979870424,
+          "end": 1693.4000000071305,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1695.1675710968877,
+          "end": 1696.0683525164668,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1700.5722596143612,
+          "end": 1701.8979379299678,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1702.1000000111846,
+          "end": 1703.0744361014101,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1704.5275425517466,
+          "end": 1705.9122675220672,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1706.9000000121625,
+          "end": 1708.8986230117903,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1709.1548567296913,
+          "end": 1712.0000000121624,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1712.0000000121624,
+          "end": 1717.1000000121626,
+          "voice": "voice-1"
+        }
+      ],
+      "pmqs": [
+        {
+          "start": 1955.6,
+          "end": 1962.1,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1962.1,
+          "end": 1968.6,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1968.6000000026484,
+          "end": 1974.8000000026484,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1974.8000000026484,
+          "end": 1981.0000000026484,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1981.0000000051746,
+          "end": 1987.6189816033595,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1987.6359969802186,
+          "end": 1988.5000000051746,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1989.4528611092835,
+          "end": 1992.073229145583,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1995.2210738645142,
+          "end": 1996.0000000051746,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1996.0000000082305,
+          "end": 2001.0500000082304,
+          "voice": "voice-2"
+        },
+        {
+          "start": 2001.0500000082304,
+          "end": 2006.1000000082304,
+          "voice": "voice-2"
+        },
+        {
+          "start": 2006.100000010288,
+          "end": 2012.350000010288,
+          "voice": "voice-2"
+        },
+        {
+          "start": 2012.350000010288,
+          "end": 2016.934764175524,
+          "voice": "voice-2"
+        },
+        {
+          "start": 2016.934764175524,
+          "end": 2018.5539188063692,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2018.9177954355343,
+          "end": 2020.0000000128348,
+          "voice": "voice-1"
+        }
+      ],
+      "abc-2024-debate": [
+        {
+          "start": 61.799999999957436,
+          "end": 69.24999999995744,
+          "voice": "voice-1"
+        },
+        {
+          "start": 69.24999999995744,
+          "end": 76.69999999995744,
+          "voice": "voice-1"
+        },
+        {
+          "start": 76.6999999996051,
+          "end": 83.54999999960509,
+          "voice": "voice-2"
+        },
+        {
+          "start": 83.54999999960509,
+          "end": 90.3999999996051,
+          "voice": "voice-2"
+        },
+        {
+          "start": 90.39999999928114,
+          "end": 97.49999999928113,
+          "voice": "voice-2"
+        },
+        {
+          "start": 97.49999999928113,
+          "end": 104.59999999928114,
+          "voice": "voice-1"
+        },
+        {
+          "start": 104.59999999894535,
+          "end": 111.59999999894535,
+          "voice": "voice-1"
+        },
+        {
+          "start": 111.59999999894535,
+          "end": 118.59999999894535,
+          "voice": "voice-1"
+        },
+        {
+          "start": 118.5999999986143,
+          "end": 126.0999999986143,
+          "voice": "voice-1"
+        },
+        {
+          "start": 126.0999999986143,
+          "end": 133.50168893231734,
+          "voice": "voice-2"
+        },
+        {
+          "start": 133.59999999953288,
+          "end": 138.9999999995329,
+          "voice": "voice-1"
+        },
+        {
+          "start": 146.20000000209984,
+          "end": 149.4139295628438,
+          "voice": "voice-3"
+        },
+        {
+          "start": 151.00000000307773,
+          "end": 154.74257426050346,
+          "voice": "voice-1"
+        },
+        {
+          "start": 154.81062106518394,
+          "end": 158.70000000307772,
+          "voice": "voice-2"
+        },
+        {
+          "start": 158.70000000464643,
+          "end": 167.30000000464642,
+          "voice": "voice-1"
+        },
+        {
+          "start": 167.30000000639848,
+          "end": 172.6000000063985,
+          "voice": "voice-1"
+        },
+        {
+          "start": 172.60000000747823,
+          "end": 181.50000000747823,
+          "voice": "voice-1"
+        },
+        {
+          "start": 182.00000000939326,
+          "end": 187.65000000939327,
+          "voice": "voice-3"
+        },
+        {
+          "start": 187.65000000939327,
+          "end": 193.30000000939327,
+          "voice": "voice-3"
+        },
+        {
+          "start": 193.6000000117565,
+          "end": 199.2000000117565,
+          "voice": "voice-3"
+        },
+        {
+          "start": 199.2000000117565,
+          "end": 204.80000001175648,
+          "voice": "voice-3"
+        },
+        {
+          "start": 204.80000001403823,
+          "end": 210.10000001403824,
+          "voice": "voice-3"
+        },
+        {
+          "start": 210.20000001513836,
+          "end": 216.70000001513836,
+          "voice": "voice-3"
+        },
+        {
+          "start": 216.90000001650333,
+          "end": 224.90000001650333,
+          "voice": "voice-3"
+        },
+        {
+          "start": 225.22091084482773,
+          "end": 231.1005374624644,
+          "voice": "voice-3"
+        },
+        {
+          "start": 231.11753060297778,
+          "end": 233.90000001815352,
+          "voice": "voice-3"
+        },
+        {
+          "start": 234.45555773287123,
+          "end": 240.7000000200278,
+          "voice": "voice-3"
+        },
+        {
+          "start": 240.7000000200278,
+          "end": 247.2000000200278,
+          "voice": "voice-3"
+        },
+        {
+          "start": 247.60000002275774,
+          "end": 253.05533590931194,
+          "voice": "voice-3"
+        },
+        {
+          "start": 253.80000002402085,
+          "end": 257.337708340742,
+          "voice": "voice-3"
+        },
+        {
+          "start": 257.4057411929866,
+          "end": 261.7000000240208,
+          "voice": "voice-3"
+        },
+        {
+          "start": 261.90000002567103,
+          "end": 270.20000002567105,
+          "voice": "voice-3"
+        },
+        {
+          "start": 270.30000002738234,
+          "end": 276.60000002738235,
+          "voice": "voice-3"
+        },
+        {
+          "start": 276.6000000286658,
+          "end": 280.7885400885515,
+          "voice": "voice-3"
+        },
+        {
+          "start": 281.29933765683023,
+          "end": 283.5500000286658,
+          "voice": "voice-3"
+        },
+        {
+          "start": 283.5500000286658,
+          "end": 290.5000000286658,
+          "voice": "voice-3"
+        },
+        {
+          "start": 290.5000000314976,
+          "end": 300.30000003149763,
+          "voice": "voice-3"
+        },
+        {
+          "start": 300.800000033596,
+          "end": 302.35162617821237,
+          "voice": "voice-1"
+        },
+        {
+          "start": 302.86315128083316,
+          "end": 306.800000033596,
+          "voice": "voice-4"
+        },
+        {
+          "start": 307.05500340787887,
+          "end": 310.9310546783983,
+          "voice": "voice-4"
+        },
+        {
+          "start": 311.5260625488728,
+          "end": 314.94310774788335,
+          "voice": "voice-4"
+        },
+        {
+          "start": 315.4902002472778,
+          "end": 316.4461538826835,
+          "voice": "voice-4"
+        },
+        {
+          "start": 316.6339304896382,
+          "end": 320.60000003652965,
+          "voice": "voice-4"
+        },
+        {
+          "start": 320.60000003652965,
+          "end": 325.65289782367404,
+          "voice": "voice-4"
+        },
+        {
+          "start": 326.0000000387299,
+          "end": 331.30000003872993,
+          "voice": "voice-4"
+        },
+        {
+          "start": 331.30000003872993,
+          "end": 336.4564491498145,
+          "voice": "voice-4"
+        },
+        {
+          "start": 336.7872454337119,
+          "end": 338.59161012818333,
+          "voice": "voice-4"
+        },
+        {
+          "start": 338.8639670631979,
+          "end": 343.7500000408894,
+          "voice": "voice-4"
+        },
+        {
+          "start": 343.7500000408894,
+          "end": 350.90000004088944,
+          "voice": "voice-4"
+        },
+        {
+          "start": 350.9000000438027,
+          "end": 358.00000004380274,
+          "voice": "voice-4"
+        },
+        {
+          "start": 358.00000004380274,
+          "end": 364.9285055051294,
+          "voice": "voice-4"
+        },
+        {
+          "start": 365.10000004669564,
+          "end": 374.20000004669566,
+          "voice": "voice-4"
+        },
+        {
+          "start": 374.5000000486107,
+          "end": 381.6000000486107,
+          "voice": "voice-4"
+        },
+        {
+          "start": 381.6000000486107,
+          "end": 388.70000004861066,
+          "voice": "voice-4"
+        },
+        {
+          "start": 388.7000000515036,
+          "end": 394.9000000515036,
+          "voice": "voice-4"
+        },
+        {
+          "start": 394.9000000515036,
+          "end": 401.10000005150357,
+          "voice": "voice-4"
+        },
+        {
+          "start": 401.1000000540298,
+          "end": 406.70000005402983,
+          "voice": "voice-4"
+        },
+        {
+          "start": 406.7000000551707,
+          "end": 413.60000005517065,
+          "voice": "voice-4"
+        },
+        {
+          "start": 413.6000000565764,
+          "end": 415.5452432571181,
+          "voice": "voice-4"
+        },
+        {
+          "start": 415.5964338676587,
+          "end": 419.2000000565764,
+          "voice": "voice-1"
+        },
+        {
+          "start": 419.20000005771726,
+          "end": 422.32860769153956,
+          "voice": "voice-1"
+        },
+        {
+          "start": 422.6516704363364,
+          "end": 427.40000005771725,
+          "voice": "voice-3"
+        },
+        {
+          "start": 427.70000005944894,
+          "end": 433.1000000594489,
+          "voice": "voice-3"
+        },
+        {
+          "start": 433.20000006056944,
+          "end": 437.102705200335,
+          "voice": "voice-3"
+        },
+        {
+          "start": 437.3583409081799,
+          "end": 439.50000006056945,
+          "voice": "voice-3"
+        },
+        {
+          "start": 439.5000000618529,
+          "end": 444.8000000618529,
+          "voice": "voice-3"
+        },
+        {
+          "start": 444.80000006293267,
+          "end": 447.0495942919678,
+          "voice": "voice-3"
+        },
+        {
+          "start": 447.42452666347367,
+          "end": 451.1000000629327,
+          "voice": "voice-3"
+        },
+        {
+          "start": 451.10000006421615,
+          "end": 459.90000006421616,
+          "voice": "voice-3"
+        },
+        {
+          "start": 459.90000006600894,
+          "end": 463.1510638957962,
+          "voice": "voice-3"
+        },
+        {
+          "start": 463.79787240643446,
+          "end": 467.10000006600893,
+          "voice": "voice-3"
+        },
+        {
+          "start": 467.1000000674758,
+          "end": 469.0287728316563,
+          "voice": "voice-3"
+        },
+        {
+          "start": 469.353079756607,
+          "end": 472.55000006747576,
+          "voice": "voice-3"
+        },
+        {
+          "start": 472.55000006747576,
+          "end": 478.00000006747575,
+          "voice": "voice-3"
+        },
+        {
+          "start": 478.4000000697779,
+          "end": 485.1000000697779,
+          "voice": "voice-3"
+        },
+        {
+          "start": 485.10000007114286,
+          "end": 492.7000000711429,
+          "voice": "voice-3"
+        },
+        {
+          "start": 492.7000000726912,
+          "end": 494.4887728306143,
+          "voice": "voice-1"
+        },
+        {
+          "start": 494.67616807192053,
+          "end": 499.2500000726912,
+          "voice": "voice-4"
+        },
+        {
+          "start": 499.2500000726912,
+          "end": 505.8000000726912,
+          "voice": "voice-4"
+        },
+        {
+          "start": 505.80000007536,
+          "end": 510.2585300131847,
+          "voice": "voice-4"
+        },
+        {
+          "start": 510.6499276794823,
+          "end": 513.20000007536,
+          "voice": "voice-4"
+        },
+        {
+          "start": 513.20000007536,
+          "end": 520.3132272280727,
+          "voice": "voice-4"
+        },
+        {
+          "start": 520.6000000783752,
+          "end": 526.5500000783752,
+          "voice": "voice-4"
+        },
+        {
+          "start": 526.5500000783752,
+          "end": 532.5000000783751,
+          "voice": "voice-4"
+        },
+        {
+          "start": 532.5000000807995,
+          "end": 537.6500000807995,
+          "voice": "voice-4"
+        },
+        {
+          "start": 537.6500000807995,
+          "end": 542.8000000807995,
+          "voice": "voice-4"
+        },
+        {
+          "start": 542.8000000828979,
+          "end": 548.2500000828979,
+          "voice": "voice-4"
+        },
+        {
+          "start": 548.2500000828979,
+          "end": 553.7000000828979,
+          "voice": "voice-4"
+        },
+        {
+          "start": 553.7000000851185,
+          "end": 560.3000000851185,
+          "voice": "voice-4"
+        },
+        {
+          "start": 560.3000000864631,
+          "end": 567.4243837743519,
+          "voice": "voice-4"
+        },
+        {
+          "start": 567.4243837743519,
+          "end": 568.5000000864632,
+          "voice": "voice-1"
+        },
+        {
+          "start": 571.2707544826609,
+          "end": 572.9017236366176,
+          "voice": "voice-3"
+        },
+        {
+          "start": 573.8021545236978,
+          "end": 578.5000000882967,
+          "voice": "voice-3"
+        },
+        {
+          "start": 578.9000000902524,
+          "end": 585.0000000902525,
+          "voice": "voice-3"
+        },
+        {
+          "start": 585.0000000902525,
+          "end": 591.1000000902525,
+          "voice": "voice-3"
+        },
+        {
+          "start": 591.2000000927583,
+          "end": 598.8000000927583,
+          "voice": "voice-3"
+        },
+        {
+          "start": 598.8000000943066,
+          "end": 602.34176044528,
+          "voice": "voice-3"
+        },
+        {
+          "start": 602.869618959127,
+          "end": 605.7000000943066,
+          "voice": "voice-3"
+        },
+        {
+          "start": 605.7000000957123,
+          "end": 611.0000000957123,
+          "voice": "voice-3"
+        },
+        {
+          "start": 611.0000000957123,
+          "end": 616.3000000957123,
+          "voice": "voice-3"
+        },
+        {
+          "start": 616.4000000978922,
+          "end": 622.2000000978921,
+          "voice": "voice-3"
+        },
+        {
+          "start": 622.2000000990738,
+          "end": 630.3000000990738,
+          "voice": "voice-3"
+        },
+        {
+          "start": 633.6892776582458,
+          "end": 640.8500001013556,
+          "voice": "voice-4"
+        },
+        {
+          "start": 640.8500001013556,
+          "end": 647.9628247354813,
+          "voice": "voice-4"
+        },
+        {
+          "start": 648.3000001043911,
+          "end": 655.3000001043911,
+          "voice": "voice-4"
+        },
+        {
+          "start": 655.3000001058172,
+          "end": 664.4000001058172,
+          "voice": "voice-4"
+        },
+        {
+          "start": 664.4000001076711,
+          "end": 671.800000107671,
+          "voice": "voice-4"
+        },
+        {
+          "start": 672.1000001092398,
+          "end": 678.9000001092397,
+          "voice": "voice-1"
+        },
+        {
+          "start": 678.9000001092397,
+          "end": 685.7000001092398,
+          "voice": "voice-1"
+        },
+        {
+          "start": 685.7000001120105,
+          "end": 693.4000001120105,
+          "voice": "voice-1"
+        },
+        {
+          "start": 693.4000001135792,
+          "end": 698.6000001135792,
+          "voice": "voice-1"
+        },
+        {
+          "start": 698.6000001146385,
+          "end": 707.6000001146385,
+          "voice": "voice-1"
+        },
+        {
+          "start": 707.9000001165332,
+          "end": 711.3046711049001,
+          "voice": "voice-1"
+        },
+        {
+          "start": 711.5429980740859,
+          "end": 715.0000001165332,
+          "voice": "voice-4"
+        },
+        {
+          "start": 715.0000001165332,
+          "end": 722.1000001165332,
+          "voice": "voice-4"
+        },
+        {
+          "start": 722.1000001194261,
+          "end": 729.0000001194261,
+          "voice": "voice-4"
+        },
+        {
+          "start": 729.0000001194261,
+          "end": 735.9000001194261,
+          "voice": "voice-4"
+        },
+        {
+          "start": 736.0000001222579,
+          "end": 741.3000001222579,
+          "voice": "voice-4"
+        },
+        {
+          "start": 741.3000001233377,
+          "end": 747.8500001233376,
+          "voice": "voice-4"
+        },
+        {
+          "start": 747.8500001233376,
+          "end": 754.4000001233377,
+          "voice": "voice-4"
+        },
+        {
+          "start": 754.5000001260269,
+          "end": 760.9000001260268,
+          "voice": "voice-4"
+        },
+        {
+          "start": 760.9000001260268,
+          "end": 767.3000001260268,
+          "voice": "voice-4"
+        },
+        {
+          "start": 767.3000001286346,
+          "end": 771.1184171289425,
+          "voice": "voice-4"
+        },
+        {
+          "start": 771.1184171289425,
+          "end": 773.4500001286345,
+          "voice": "voice-1"
+        },
+        {
+          "start": 773.4500001286345,
+          "end": 779.6000001286345,
+          "voice": "voice-1"
+        },
+        {
+          "start": 780.0380463641893,
+          "end": 788.0000001311812,
+          "voice": "voice-3"
+        },
+        {
+          "start": 788.0000001328517,
+          "end": 794.3500001328517,
+          "voice": "voice-3"
+        },
+        {
+          "start": 794.3500001328517,
+          "end": 800.7000001328518,
+          "voice": "voice-3"
+        },
+        {
+          "start": 800.700000135439,
+          "end": 807.600000135439,
+          "voice": "voice-3"
+        },
+        {
+          "start": 807.600000135439,
+          "end": 814.500000135439,
+          "voice": "voice-3"
+        },
+        {
+          "start": 814.5000001382505,
+          "end": 821.4000001382504,
+          "voice": "voice-3"
+        },
+        {
+          "start": 821.4000001382504,
+          "end": 828.3000001382504,
+          "voice": "voice-3"
+        },
+        {
+          "start": 828.3000001410619,
+          "end": 836.7000001410619,
+          "voice": "voice-3"
+        },
+        {
+          "start": 836.7000001427732,
+          "end": 845.8000001427732,
+          "voice": "voice-3"
+        },
+        {
+          "start": 845.8000001446271,
+          "end": 852.2000001446271,
+          "voice": "voice-3"
+        },
+        {
+          "start": 852.3191419596862,
+          "end": 859.450000145931,
+          "voice": "voice-3"
+        },
+        {
+          "start": 859.450000145931,
+          "end": 860.0627294738155,
+          "voice": "voice-3"
+        },
+        {
+          "start": 860.318033360434,
+          "end": 861.2371273522608,
+          "voice": "voice-1"
+        },
+        {
+          "start": 861.2371273522608,
+          "end": 866.700000145931,
+          "voice": "voice-4"
+        },
+        {
+          "start": 866.9382154249122,
+          "end": 874.200000148885,
+          "voice": "voice-4"
+        },
+        {
+          "start": 874.200000148885,
+          "end": 881.700000148885,
+          "voice": "voice-4"
+        },
+        {
+          "start": 881.7000001519409,
+          "end": 888.150000151941,
+          "voice": "voice-4"
+        },
+        {
+          "start": 888.150000151941,
+          "end": 894.6000001519409,
+          "voice": "voice-4"
+        },
+        {
+          "start": 894.600000154569,
+          "end": 901.6500001545689,
+          "voice": "voice-4"
+        },
+        {
+          "start": 901.6500001545689,
+          "end": 908.700000154569,
+          "voice": "voice-4"
+        },
+        {
+          "start": 908.7000001574415,
+          "end": 914.0000001574415,
+          "voice": "voice-4"
+        },
+        {
+          "start": 914.0000001574415,
+          "end": 919.3000001574416,
+          "voice": "voice-4"
+        },
+        {
+          "start": 919.300000159601,
+          "end": 927.700000159601,
+          "voice": "voice-4"
+        },
+        {
+          "start": 927.9000001613531,
+          "end": 933.3500001613531,
+          "voice": "voice-4"
+        },
+        {
+          "start": 933.3500001613531,
+          "end": 938.8000001613531,
+          "voice": "voice-4"
+        },
+        {
+          "start": 938.8000001635737,
+          "end": 939.5680955121412,
+          "voice": "voice-1"
+        },
+        {
+          "start": 940.011883935758,
+          "end": 944.2500001635738,
+          "voice": "voice-2"
+        },
+        {
+          "start": 944.2500001635738,
+          "end": 949.7000001635737,
+          "voice": "voice-2"
+        },
+        {
+          "start": 949.7000001657943,
+          "end": 956.3000001657944,
+          "voice": "voice-2"
+        },
+        {
+          "start": 956.3000001657944,
+          "end": 962.9000001657944,
+          "voice": "voice-2"
+        },
+        {
+          "start": 962.9000001684835,
+          "end": 968.1500001684835,
+          "voice": "voice-2"
+        },
+        {
+          "start": 968.1500001684835,
+          "end": 973.4000001684835,
+          "voice": "voice-2"
+        },
+        {
+          "start": 973.4000001706227,
+          "end": 979.4000001706227,
+          "voice": "voice-2"
+        },
+        {
+          "start": 979.4000001706227,
+          "end": 983.0488792359843,
+          "voice": "voice-2"
+        },
+        {
+          "start": 983.2364384402784,
+          "end": 985.4000001706227,
+          "voice": "voice-4"
+        },
+        {
+          "start": 985.4000001730674,
+          "end": 990.9000001730674,
+          "voice": "voice-4"
+        },
+        {
+          "start": 990.9000001741879,
+          "end": 998.4000001741879,
+          "voice": "voice-4"
+        },
+        {
+          "start": 998.4000001757158,
+          "end": 1005.8500001757159,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1005.8500001757159,
+          "end": 1013.3000001757158,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1013.3000001787514,
+          "end": 1019.7000001787513,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1019.7000001800552,
+          "end": 1026.5000001800552,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1026.5000001800552,
+          "end": 1033.3000001800551,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1033.300000182826,
+          "end": 1043.000000182826,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1043.000000184802,
+          "end": 1049.100000184802,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1049.100000184802,
+          "end": 1055.200000184802,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1055.2000001872875,
+          "end": 1061.6500001872876,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1061.6500001872876,
+          "end": 1068.1000001872876,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1068.1000001899156,
+          "end": 1073.7000001899155,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1073.7000001910565,
+          "end": 1079.5500001910564,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1079.5500001910564,
+          "end": 1085.4000001910565,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1085.40000019344,
+          "end": 1088.337453058055,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1088.9351905595756,
+          "end": 1090.4551516348706,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1090.6000001944994,
+          "end": 1096.1000001944994,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1096.1000001944994,
+          "end": 1101.6000001944994,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1101.6000001967404,
+          "end": 1108.3000001967405,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1108.3000001967405,
+          "end": 1110.3438755380455,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1110.4971661886432,
+          "end": 1115.0000001967405,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1115.0000001994704,
+          "end": 1117.6036455448414,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1117.7397838635536,
+          "end": 1122.4000001994705,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1123.2560592105838,
+          "end": 1124.7753426668537,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1125.5947314972013,
+          "end": 1126.4994733307103,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1126.9603795477808,
+          "end": 1128.4000002011003,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1128.4000002011003,
+          "end": 1133.8000002011001,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1134.200000203382,
+          "end": 1141.700000203382,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1141.9000002049506,
+          "end": 1144.245626440219,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1144.619566854537,
+          "end": 1150.5000002049505,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1151.304683792491,
+          "end": 1156.9000002068249,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1156.9000002080065,
+          "end": 1166.9000002080065,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1167.6896757845466,
+          "end": 1170.7568289252624,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1171.353219813735,
+          "end": 1173.8000002101458,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1173.8000002101458,
+          "end": 1180.2000002101456,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1180.2000002127534,
+          "end": 1186.7000002127534,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1186.9000002141183,
+          "end": 1194.1000002141184,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1194.1000002141184,
+          "end": 1201.3000002141184,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1201.4192431192603,
+          "end": 1204.4514197754115,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1204.7921137817207,
+          "end": 1207.900000217052,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1208.1000002184373,
+          "end": 1210.8345306408635,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1211.4839816161896,
+          "end": 1212.8512468274025,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1213.8063831982608,
+          "end": 1215.1510640493248,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1215.7468087301759,
+          "end": 1220.7000002195375,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1220.7000002195375,
+          "end": 1227.9000002195376,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1227.9000002224711,
+          "end": 1234.6000002224712,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1234.6000002224712,
+          "end": 1241.3000002224712,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1241.300000225201,
+          "end": 1243.7992567307772,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1243.9692741801362,
+          "end": 1249.600000225201,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1249.8000002269328,
+          "end": 1251.5891728923505,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1251.9299676857631,
+          "end": 1256.2000002269328,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1256.2000002282366,
+          "end": 1263.7000002282366,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1263.7000002282366,
+          "end": 1271.2000002282366,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1271.2000002312925,
+          "end": 1277.3000002312924,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1277.3000002312924,
+          "end": 1283.4000002312926,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1283.5000002337983,
+          "end": 1288.6500002337984,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1288.6500002337984,
+          "end": 1293.8000002337983,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1293.8000002358967,
+          "end": 1297.241009699619,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1297.241009699619,
+          "end": 1299.5236595418903,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1300.4000002358966,
+          "end": 1307.0000002358968,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1307.000000238586,
+          "end": 1313.1000002385858,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1313.1000002398287,
+          "end": 1318.6000002398287,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1318.6000002398287,
+          "end": 1324.1000002398287,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1324.20000024209,
+          "end": 1332.00000024209,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1332.000000243679,
+          "end": 1340.4000002436792,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1340.4000002453904,
+          "end": 1346.7500002453903,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1346.7500002453903,
+          "end": 1353.1000002453904,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1353.1000002479777,
+          "end": 1357.9982303364734,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1358.6000002479777,
+          "end": 1364.1000002479777,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1364.7148878561638,
+          "end": 1369.2500002502188,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1369.2500002502188,
+          "end": 1374.4000002502187,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1375.0000002524393,
+          "end": 1381.1000002524393,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1381.1000002524393,
+          "end": 1387.2000002524394,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1387.2000002549248,
+          "end": 1393.4000002549249,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1393.400000256188,
+          "end": 1400.900000256188,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1400.900000256188,
+          "end": 1403.8947065833872,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1403.9797834676829,
+          "end": 1408.400000256188,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1408.4680263989178,
+          "end": 1410.8659478224279,
+          "voice": "voice-2"
+        },
+        {
+          "start": 1410.9849935668574,
+          "end": 1416.4000002592438,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1416.500000260894,
+          "end": 1419.7899756227664,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1420.4377427924617,
+          "end": 1422.650000260894,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1422.650000260894,
+          "end": 1428.800000260894,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1428.8000002633999,
+          "end": 1434.2000002634,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1434.500000264561,
+          "end": 1436.4964340756433,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1437.0254037178959,
+          "end": 1440.011522666096,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1440.100000265702,
+          "end": 1442.885090760576,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1443.1755603213912,
+          "end": 1445.100000265702,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1445.1000002667206,
+          "end": 1447.8648548811327,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1447.9501899000961,
+          "end": 1450.6000002667206,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1450.600000267841,
+          "end": 1456.700000267841,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1456.9000002691246,
+          "end": 1462.9000002691246,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1463.6044464407234,
+          "end": 1467.7274442079306,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1468.0681878250552,
+          "end": 1469.771905910678,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1469.900000271773,
+          "end": 1477.200000271773,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1477.2000002732602,
+          "end": 1478.6099059020669,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1479.0345762721893,
+          "end": 1486.6000002732603,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1488.3202626658663,
+          "end": 1492.5500002751955,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1492.5500002751955,
+          "end": 1498.4000002751957,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1498.60000027762,
+          "end": 1505.50000027762,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1505.50000027762,
+          "end": 1512.40000027762,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1512.4000002804314,
+          "end": 1517.3000002804315,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1517.8000002815315,
+          "end": 1519.3511050570125,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1519.8795033871215,
+          "end": 1524.0000002815316,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1524.4434405160307,
+          "end": 1525.8419827900832,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1532.3741985335234,
+          "end": 1535.7000002827947,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1536.484477321898,
+          "end": 1541.6000002851783,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1541.6000002851783,
+          "end": 1546.5456163862382,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1547.94260751607,
+          "end": 1554.6000002875821,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1554.6000002875821,
+          "end": 1561.7000002875823,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1561.7000002904751,
+          "end": 1567.250000290475,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1567.250000290475,
+          "end": 1572.800000290475,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1572.8000002927365,
+          "end": 1578.4000002927364,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1578.4000002938774,
+          "end": 1581.815893291517,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1582.0368216943496,
+          "end": 1587.2000002938773,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1587.2000002956702,
+          "end": 1591.1783203052155,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1591.4344353272893,
+          "end": 1592.5000002956701,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1592.5000002956701,
+          "end": 1597.80000029567,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1597.90000029785,
+          "end": 1602.0199090716628,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1602.8030322270156,
+          "end": 1604.95000029785,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1604.95000029785,
+          "end": 1612.00000029785,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1612.100000300743,
+          "end": 1621.900000300743,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1621.9000003027395,
+          "end": 1628.4500003027395,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1628.4500003027395,
+          "end": 1635.0000003027394,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1635.200000305449,
+          "end": 1640.400000305449,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1640.400000305449,
+          "end": 1645.6000003054492,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1645.6000003075678,
+          "end": 1646.6428178778092,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1646.9334391678765,
+          "end": 1650.301227058656,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1650.4000003085457,
+          "end": 1660.1000003085458,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1660.1000003105219,
+          "end": 1666.000000310522,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1666.0000003117239,
+          "end": 1671.200000311724,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1671.400000312824,
+          "end": 1675.322385496423,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1675.4076547395448,
+          "end": 1677.300000312824,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1677.300000314026,
+          "end": 1679.545311678213,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1679.9875699772197,
+          "end": 1685.100000314026,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1685.5717703971072,
+          "end": 1688.1535861708971,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1688.833011374526,
+          "end": 1694.6081256053717,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1694.9000003176116,
+          "end": 1698.792055885226,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1698.9790105194784,
+          "end": 1703.6000003176116,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1703.600000319384,
+          "end": 1709.850000319384,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1710.2079187114655,
+          "end": 1713.0712658481184,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1714.4688519505323,
+          "end": 1716.100000319384,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1716.1000003219306,
+          "end": 1720.614853248831,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1720.6489276105433,
+          "end": 1721.824493089623,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1722.6000003232548,
+          "end": 1731.2000003232547,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1731.2000003250068,
+          "end": 1737.6500003250069,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1737.6500003250069,
+          "end": 1744.100000325007,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1744.100000327635,
+          "end": 1749.850000327635,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1749.850000327635,
+          "end": 1755.600000327635,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1755.7000003299981,
+          "end": 1762.4000003299982,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1762.4000003299982,
+          "end": 1769.1000003299982,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1769.100000332728,
+          "end": 1774.200000332728,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1774.4047627759294,
+          "end": 1779.800000333767,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1780.0000003349487,
+          "end": 1789.4000003349488,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1789.4000003368637,
+          "end": 1795.2500003368636,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1795.2500003368636,
+          "end": 1801.1000003368638,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1801.1000003392473,
+          "end": 1806.8500003392473,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1806.8500003392473,
+          "end": 1812.4793267868904,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1812.6000003415902,
+          "end": 1818.7500003415903,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1818.7500003415903,
+          "end": 1824.9000003415902,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1824.900000344096,
+          "end": 1826.2782458696822,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1827.826645163859,
+          "end": 1829.170859935727,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1829.8855057638086,
+          "end": 1832.400000344096,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1832.400000344096,
+          "end": 1834.7821531043683,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1835.0543991341137,
+          "end": 1836.5347369208544,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1836.5347369208544,
+          "end": 1837.1813212414995,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1839.900000347152,
+          "end": 1842.332420991688,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1842.9958084401978,
+          "end": 1845.6663681688142,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1846.4148052902099,
+          "end": 1847.700000347152,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1848.5357916568773,
+          "end": 1850.412057858816,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1851.4695897180907,
+          "end": 1853.500000348741,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1853.500000348741,
+          "end": 1859.300000348741,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1859.3000003511042,
+          "end": 1867.2000003511043,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1867.2000003527137,
+          "end": 1874.1000003527138,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1874.2000003541398,
+          "end": 1879.2500003541397,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1879.2500003541397,
+          "end": 1884.3000003541397,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1884.3000003561974,
+          "end": 1890.7000003561975,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1890.900000357542,
+          "end": 1895.6183224786341,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1895.8000003585403,
+          "end": 1903.6000003585402,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1903.6000003601293,
+          "end": 1904.5907707360132,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1905.3765541375762,
+          "end": 1908.7000003601293,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1908.9906216512356,
+          "end": 1913.5000003611683,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1913.6365363924876,
+          "end": 1915.821112877949,
+          "voice": "voice-3"
+        },
+        {
+          "start": 1916.1112519424244,
+          "end": 1917.6984832951425,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1919.0000003632667,
+          "end": 1923.5646552921812,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1923.7009136482682,
+          "end": 1925.506336866421,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1925.9000003646725,
+          "end": 1932.2000003646724,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1932.2000003646724,
+          "end": 1938.5000003646724,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1938.5000003672394,
+          "end": 1943.5000003672394,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1943.500000368258,
+          "end": 1949.600000368258,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1949.600000368258,
+          "end": 1955.700000368258,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1955.7000003707435,
+          "end": 1964.9000003707436,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1964.9000003726178,
+          "end": 1972.3500003726178,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1972.3500003726178,
+          "end": 1979.800000372618,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1979.8000003756533,
+          "end": 1985.2000003756534,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1985.600000376835,
+          "end": 1991.800000376835,
+          "voice": "voice-4"
+        },
+        {
+          "start": 1992.600000378261,
+          "end": 1999.300000378261,
+          "voice": "voice-1"
+        },
+        {
+          "start": 1999.300000378261,
+          "end": 2006.0000003782611,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2006.000000380991,
+          "end": 2010.662737796884,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2012.024120984006,
+          "end": 2013.400000380991,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2013.400000380991,
+          "end": 2020.800000380991,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2020.8000003840061,
+          "end": 2025.1080336250034,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2025.600000384984,
+          "end": 2031.800000384984,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2031.8000003862471,
+          "end": 2041.0000003862472,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2041.0000003881214,
+          "end": 2047.3000003881214,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2047.3000003881214,
+          "end": 2053.6000003881213,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2053.6000003703157,
+          "end": 2060.9500003703156,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2060.9500003703156,
+          "end": 2068.3000003703155,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2068.300000319832,
+          "end": 2075.650000319832,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2075.650000319832,
+          "end": 2083.000000319832,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2083.0000002693487,
+          "end": 2088.050000269349,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2088.050000269349,
+          "end": 2093.1000002693486,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2093.1000002346627,
+          "end": 2098.7032382498014,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2098.856518317085,
+          "end": 2099.8500002346627,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2099.8500002346627,
+          "end": 2103.4095040193556,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2104.823086862081,
+          "end": 2106.6000002346627,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2106.6000001883003,
+          "end": 2113.4000001883005,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2113.4000001883005,
+          "end": 2118.9006773054507,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2118.968797145911,
+          "end": 2120.2000001883002,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2120.704804186076,
+          "end": 2122.855246663952,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2123.2136537435986,
+          "end": 2126.000000140564,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2126.700000119272,
+          "end": 2127.670978037253,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2128.0968455451393,
+          "end": 2133.3000001192718,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2133.300000096606,
+          "end": 2139.0000000966056,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2139.0000000770306,
+          "end": 2142.770302704234,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2143.3844696480314,
+          "end": 2144.7000000770304,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2144.970553992972,
+          "end": 2150.650000057112,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2150.650000057112,
+          "end": 2156.5000000571117,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2156.500000016931,
+          "end": 2165.000000016931,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2165.3999999863663,
+          "end": 2173.3999999863663,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2173.3999999588923,
+          "end": 2180.1499999588923,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2180.1499999588923,
+          "end": 2186.8999999588923,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2186.89999991253,
+          "end": 2191.2209720097394,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2191.3910890214406,
+          "end": 2194.5999999125297,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2194.599999886086,
+          "end": 2196.3891725515036,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2196.6788481259046,
+          "end": 2198.8088155847354,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2198.9962527211123,
+          "end": 2200.8535843452123,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2200.9999998860862,
+          "end": 2207.3999998860863,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2207.3999998421277,
+          "end": 2214.3499998421275,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2214.3499998421275,
+          "end": 2221.299999842128,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2221.2999997943916,
+          "end": 2226.4999997943914,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2226.4999997943914,
+          "end": 2231.6999997943917,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2231.6999997586754,
+          "end": 2238.2999997586753,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2238.2999997586753,
+          "end": 2244.899999758675,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2244.8999997133433,
+          "end": 2251.499999713343,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2251.599999690334,
+          "end": 2258.349999690334,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2259.167493382512,
+          "end": 2265.099999690334,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2265.0999996439714,
+          "end": 2271.1999996439713,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2271.1999996230224,
+          "end": 2277.7999996230224,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2277.899999600013,
+          "end": 2287.899999600013,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2287.8999995656704,
+          "end": 2295.7999995656705,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2295.79999953854,
+          "end": 2299.883689984721,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2300.309074406198,
+          "end": 2303.29999953854,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2303.299999512783,
+          "end": 2313.199999512783,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2313.606382457164,
+          "end": 2314.6957441592913,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2316.2617016061,
+          "end": 2317.248935648653,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2317.2999994784404,
+          "end": 2320.4999994784403,
+          "voice": "voice-2"
+        },
+        {
+          "start": 2321.987116281286,
+          "end": 2328.299999451997,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2328.2999994269267,
+          "end": 2331.2472154947427,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2331.451646667077,
+          "end": 2334.849999426927,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2334.849999426927,
+          "end": 2336.0084427368197,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2336.5365565986826,
+          "end": 2338.546796459968,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2340.1822458386405,
+          "end": 2341.3999994269266,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2341.399999381938,
+          "end": 2347.949999381938,
+          "voice": "voice-2"
+        },
+        {
+          "start": 2347.949999381938,
+          "end": 2354.499999381938,
+          "voice": "voice-2"
+        },
+        {
+          "start": 2354.4999993369493,
+          "end": 2362.099999336949,
+          "voice": "voice-2"
+        },
+        {
+          "start": 2362.3536513610907,
+          "end": 2367.5499993105054,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2367.5499993105054,
+          "end": 2372.8999993105053,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2372.899999273759,
+          "end": 2382.199999273759,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2382.1999992418205,
+          "end": 2385.0595737099056,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2385.689360943948,
+          "end": 2389.3999992418203,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2389.399999217094,
+          "end": 2394.899999217094,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2394.8999991982055,
+          "end": 2401.8999991982055,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2401.8999991741657,
+          "end": 2407.0999991741655,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2407.5727659499485,
+          "end": 2413.3999991556207,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2413.599999133985,
+          "end": 2418.799999133985,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2419.199999114753,
+          "end": 2424.399999114753,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2424.399999096895,
+          "end": 2429.199999096895,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2429.1999990804106,
+          "end": 2436.3999990804105,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2436.653702984303,
+          "end": 2441.6999990553404,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2441.6999990374825,
+          "end": 2447.4999990374827,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2447.699999016877,
+          "end": 2453.149999016877,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2453.149999016877,
+          "end": 2458.599999016877,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2458.5999989794436,
+          "end": 2467.5999989794436,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2467.5999989485354,
+          "end": 2473.4999989485354,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2473.4999989485354,
+          "end": 2479.3999989485355,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2479.9043584283613,
+          "end": 2482.544002246189,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2483.0038111692943,
+          "end": 2486.4098031922977,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2486.82138836478,
+          "end": 2493.3999988832848,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2493.3999988599317,
+          "end": 2495.766542414566,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2496.2092052377357,
+          "end": 2496.9413014452844,
+          "voice": "voice-2"
+        },
+        {
+          "start": 2497.588270186839,
+          "end": 2500.3999988599317,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2500.3999988599317,
+          "end": 2507.3999988599317,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2507.399998811852,
+          "end": 2516.299998811852,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2516.2999987812873,
+          "end": 2525.2999987812873,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2525.299998750379,
+          "end": 2530.699998750379,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2530.699998750379,
+          "end": 2536.099998750379,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2536.099998713289,
+          "end": 2541.699998713289,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2542.1709523930667,
+          "end": 2543.3847236633474,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2544.3249690135654,
+          "end": 2545.333595843799,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2547.2049856501767,
+          "end": 2548.298249513221,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2549.6989938377465,
+          "end": 2550.6043529743297,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2550.7751754529304,
+          "end": 2551.953850555275,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2552.099998658341,
+          "end": 2556.999998658341,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2556.9999986415132,
+          "end": 2563.349998641513,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2563.349998641513,
+          "end": 2569.699998641513,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2569.6999985978982,
+          "end": 2576.4999985978984,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2576.4999985745453,
+          "end": 2584.3999985745454,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2584.599998546728,
+          "end": 2590.899998546728,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2590.9999985247487,
+          "end": 2599.1999985247485,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2599.199998496588,
+          "end": 2600.4415980500526,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2600.713729459031,
+          "end": 2607.099998496588,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2607.099998469457,
+          "end": 2614.1499984694574,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2614.1499984694574,
+          "end": 2621.199998469457,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2621.1999984210343,
+          "end": 2627.9999984210344,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2627.9999984210344,
+          "end": 2634.799998421034,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2634.7999983743284,
+          "end": 2635.717038358925,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2637.09259833582,
+          "end": 2637.9756738765427,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2638.6549627540217,
+          "end": 2640.251291616097,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2644.5999983406728,
+          "end": 2647.6702521256634,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2647.926106607746,
+          "end": 2650.399998340673,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2650.399998340673,
+          "end": 2656.1999983406727,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2656.1999983008354,
+          "end": 2661.4499983008354,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2661.4499983008354,
+          "end": 2666.6999983008354,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2666.699998264776,
+          "end": 2672.099998264776,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2672.099998264776,
+          "end": 2677.499998264776,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2677.499998227686,
+          "end": 2681.064252590174,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2681.524706503031,
+          "end": 2683.399998227686,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2683.399998227686,
+          "end": 2689.299998227686,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2689.3999981868183,
+          "end": 2699.1999981868184,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2699.1999981531626,
+          "end": 2705.8499981531627,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2705.8499981531627,
+          "end": 2712.499998153163,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2712.499998107487,
+          "end": 2719.699998107487,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2719.699998107487,
+          "end": 2726.899998107487,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2726.899998058034,
+          "end": 2733.4999980580337,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2733.4999980580337,
+          "end": 2740.0999980580336,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2740.0999980127017,
+          "end": 2743.009954575175,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2743.741698038253,
+          "end": 2747.499998012702,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2747.499998012702,
+          "end": 2754.899998012702,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2754.8999979618748,
+          "end": 2756.875210465302,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2758.0160659629714,
+          "end": 2759.037727602675,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2759.208004542626,
+          "end": 2761.799997961875,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2761.7999979381784,
+          "end": 2767.6999979381785,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2769.0273465253604,
+          "end": 2775.0999979179164,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2775.0999979179164,
+          "end": 2782.4999979179165,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2782.4999978670894,
+          "end": 2788.6499978670895,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2788.6499978670895,
+          "end": 2794.7999978670896,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2794.799997824848,
+          "end": 2800.049997824848,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2800.049997824848,
+          "end": 2805.299997824848,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2805.4999977881016,
+          "end": 2810.8999977881017,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2810.8999977881017,
+          "end": 2816.299997788102,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2816.2999977510117,
+          "end": 2821.4999977510115,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2823.085030402595,
+          "end": 2825.516964895942,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2825.755056384801,
+          "end": 2830.999997728002,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2831.5560567089815,
+          "end": 2832.8875635582967,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2833.1777637690448,
+          "end": 2836.699997699498,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2837.587794629264,
+          "end": 2838.492634482709,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2839.3462569859594,
+          "end": 2840.729125441225,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2841.855907145515,
+          "end": 2842.749997678549,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2843.0402293296543,
+          "end": 2848.099997678549,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2848.570151409363,
+          "end": 2849.6421201514854,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2850.5949812555946,
+          "end": 2855.899997640772,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2855.8999976150153,
+          "end": 2857.761962631763,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2858.411088050445,
+          "end": 2860.999997615015,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2861.099997597157,
+          "end": 2863.0744656822635,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2864.1468061077953,
+          "end": 2868.299997597157,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2868.4999975717437,
+          "end": 2871.359232525547,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2872.2442338207725,
+          "end": 2875.799997571744,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2876.072243576419,
+          "end": 2877.8928889003414,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2878.573503974705,
+          "end": 2879.526365078814,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2880.3601185449093,
+          "end": 2883.116609596081,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2884.5906188075496,
+          "end": 2888.539649278464,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2889.099997500998,
+          "end": 2893.8999975009983,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2894.5900207621557,
+          "end": 2896.790785644098,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2897.7120360597946,
+          "end": 2899.912800941737,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2899.999997463565,
+          "end": 2902.1647261062694,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2902.6760793289554,
+          "end": 2906.1999974635646,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2906.7218234202514,
+          "end": 2910.117467252776,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2911.0218347056593,
+          "end": 2912.0627104533173,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2912.3735233420734,
+          "end": 2916.6815565830707,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2916.899997405526,
+          "end": 2918.962624445871,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2919.763810155757,
+          "end": 2923.049997405526,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2923.049997405526,
+          "end": 2929.199997405526,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2929.1999973632846,
+          "end": 2932.31925202167,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2932.3703873439385,
+          "end": 2935.2339653909803,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2935.699997340962,
+          "end": 2939.374524793707,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2940.497297070935,
+          "end": 2943.3722745686846,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2943.3999973145183,
+          "end": 2946.9124696858476,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2946.946571359356,
+          "end": 2949.3999973145183,
+          "voice": "voice-3"
+        },
+        {
+          "start": 2949.3999972939127,
+          "end": 2950.659648118355,
+          "voice": "voice-1"
+        },
+        {
+          "start": 2951.851209709044,
+          "end": 2956.549997293913,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2956.549997293913,
+          "end": 2963.699997293913,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2963.699997244803,
+          "end": 2969.749997244803,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2969.749997244803,
+          "end": 2975.799997244803,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2975.7999972032485,
+          "end": 2983.1999972032486,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2983.399997177148,
+          "end": 2992.999997177148,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2992.9999971441794,
+          "end": 2998.4999971441794,
+          "voice": "voice-4"
+        },
+        {
+          "start": 2998.499997125291,
+          "end": 3005.999997125291,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3005.999997125291,
+          "end": 3013.499997125291,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3013.499997073777,
+          "end": 3018.949997073777,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3018.949997073777,
+          "end": 3024.3999970737773,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3024.399997036344,
+          "end": 3030.5999970363437,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3030.5999970363437,
+          "end": 3031.503387729756,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3032.134056704402,
+          "end": 3033.6851614798834,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3034.0260636283406,
+          "end": 3034.759003247524,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3034.759003247524,
+          "end": 3036.799997036344,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3036.799996993759,
+          "end": 3043.299996993759,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3043.2999969714365,
+          "end": 3052.2999969714365,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3052.299996940528,
+          "end": 3060.899996940528,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3061.719847052254,
+          "end": 3063.9061140956146,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3064.743044448151,
+          "end": 3065.409172687925,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3067.450574235647,
+          "end": 3071.199996910994,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3072.2553799988023,
+          "end": 3078.349996875621,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3078.349996875621,
+          "end": 3085.499996875621,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3085.499996826511,
+          "end": 3091.649996826511,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3091.649996826511,
+          "end": 3097.7999968265112,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3097.7999967842698,
+          "end": 3103.4999967842696,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3103.4999967842696,
+          "end": 3109.19999678427,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3109.1999967451193,
+          "end": 3114.6999967451193,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3114.6999967451193,
+          "end": 3120.1999967451193,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3120.1999967073425,
+          "end": 3125.3999967073423,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3125.3999967073423,
+          "end": 3126.117281709167,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3129.276751360061,
+          "end": 3130.5999967073426,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3130.5999966716263,
+          "end": 3136.699996671626,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3136.699996671626,
+          "end": 3142.799996671626,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3142.7999966297284,
+          "end": 3149.2999966297284,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3149.2999966297284,
+          "end": 3155.7999966297284,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3155.799996585083,
+          "end": 3161.8499965850833,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3161.8499965850833,
+          "end": 3167.899996585083,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3167.8999965435287,
+          "end": 3170.594504626175,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3170.594504626175,
+          "end": 3173.799996543529,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3173.799996543529,
+          "end": 3179.699996543529,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3179.6999965030045,
+          "end": 3183.534232662432,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3183.5512737120293,
+          "end": 3186.0499965030044,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3186.0499965030044,
+          "end": 3192.3999965030043,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3192.3999964593895,
+          "end": 3201.5999964593893,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3201.7999964271075,
+          "end": 3208.3999964271075,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3208.6044425747164,
+          "end": 3210.308160660339,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3211.9096556608242,
+          "end": 3214.8999964044415,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3215.3341780110254,
+          "end": 3220.1999963807452,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3221.3269024610418,
+          "end": 3225.4999963639175,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3225.7999963446855,
+          "end": 3233.7999963446855,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3234.099996316181,
+          "end": 3239.4999963161813,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3239.8999962962625,
+          "end": 3242.946091177448,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3243.490644452297,
+          "end": 3247.2999962962626,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3247.4529718948884,
+          "end": 3249.3736658411585,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3250.257525002274,
+          "end": 3255.899996270849,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3256.1850826898226,
+          "end": 3263.4999962406278,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3263.499996215214,
+          "end": 3270.599996215214,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3271.3074766509385,
+          "end": 3276.099996189457,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3276.5554805889187,
+          "end": 3280.319617675822,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3281.137167812344,
+          "end": 3282.4486544896818,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3282.9999961712556,
+          "end": 3289.699996171256,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3289.7999961248934,
+          "end": 3297.999996124893,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3298.099996096389,
+          "end": 3307.699996096389,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3307.6999960634203,
+          "end": 3313.04999606342,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3313.04999606342,
+          "end": 3318.39999606342,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3318.3999960266738,
+          "end": 3325.2499960266737,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3325.2499960266737,
+          "end": 3332.0999960266736,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3332.0999959796245,
+          "end": 3333.2240498063697,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3334.024512379961,
+          "end": 3335.097472850945,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3335.7276242386656,
+          "end": 3338.8499959796245,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3338.8499959796245,
+          "end": 3345.5999959796245,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3345.599995933262,
+          "end": 3351.699995933262,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3351.699995933262,
+          "end": 3357.799995933262,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3357.7999958913642,
+          "end": 3363.2999958913642,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3363.2999958913642,
+          "end": 3365.484572376826,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3365.9624484830206,
+          "end": 3368.7999958913642,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3368.7999958535875,
+          "end": 3375.0499958535875,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3375.1693019842814,
+          "end": 3377.1634187401646,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3380.452859200724,
+          "end": 3381.2999958535875,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3382.4942093124882,
+          "end": 3386.999995810659,
+          "voice": "voice-2"
+        },
+        {
+          "start": 3386.999995810659,
+          "end": 3392.6999958106594,
+          "voice": "voice-2"
+        },
+        {
+          "start": 3392.699995771509,
+          "end": 3398.949995771509,
+          "voice": "voice-2"
+        },
+        {
+          "start": 3398.949995771509,
+          "end": 3405.199995771509,
+          "voice": "voice-2"
+        },
+        {
+          "start": 3405.1999957285807,
+          "end": 3410.7999957285806,
+          "voice": "voice-2"
+        },
+        {
+          "start": 3410.7999957285806,
+          "end": 3416.3999957285805,
+          "voice": "voice-2"
+        },
+        {
+          "start": 3417.5077123474407,
+          "end": 3421.456742818355,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3421.9999956708853,
+          "end": 3425.343793476007,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3426.7768496782014,
+          "end": 3427.612799129482,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3427.69999565131,
+          "end": 3429.355158725455,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3429.5257940939237,
+          "end": 3433.29999565131,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3433.4999956313914,
+          "end": 3441.9999956313914,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3442.5999956001397,
+          "end": 3448.2298592516195,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3448.4999955798776,
+          "end": 3453.0131732609225,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3453.4534530941796,
+          "end": 3457.4433488946215,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3457.81846730321,
+          "end": 3459.299995563393,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3459.299995563393,
+          "end": 3465.299995563393,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3465.4999955214953,
+          "end": 3469.292715731995,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3469.7198238638084,
+          "end": 3470.5499955214955,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3470.5499955214955,
+          "end": 3475.599995521495,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3475.7999954861225,
+          "end": 3479.046754985419,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3479.301736097929,
+          "end": 3484.2999954861225,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3484.399995456588,
+          "end": 3494.299995456588,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3494.299995422589,
+          "end": 3504.299995422589,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3504.2999953882463,
+          "end": 3509.2999953882463,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3509.6999953697014,
+          "end": 3516.0499953697013,
+          "voice": "voice-2"
+        },
+        {
+          "start": 3516.0499953697013,
+          "end": 3519.628615785167,
+          "voice": "voice-2"
+        },
+        {
+          "start": 3519.713821033154,
+          "end": 3522.399995369701,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3522.3999953260864,
+          "end": 3531.1999953260865,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3531.2999952955215,
+          "end": 3538.7999952955215,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3539.0999952687343,
+          "end": 3545.3999952687345,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3545.3999952470986,
+          "end": 3555.1999952470987,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3555.399995212756,
+          "end": 3565.399995212756,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3565.3999951784135,
+          "end": 3571.0999951784133,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3571.0999951784133,
+          "end": 3576.7999951784136,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3576.936190470629,
+          "end": 3583.8499951392632,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3583.8499951392632,
+          "end": 3590.899995139263,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3590.89999509084,
+          "end": 3595.6999950908403,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3595.6999950743557,
+          "end": 3602.599995074356,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3602.599995074356,
+          "end": 3609.499995074356,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3609.499995026963,
+          "end": 3614.999995026963,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3615.2999950070443,
+          "end": 3620.999995007044,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3620.999994987469,
+          "end": 3628.399994987469,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3628.3999949620556,
+          "end": 3633.6395651264047,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3633.8999949620556,
+          "end": 3636.0504374399316,
+          "voice": "voice-2"
+        },
+        {
+          "start": 3636.340576504407,
+          "end": 3639.3999949620556,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3639.399994924279,
+          "end": 3646.299994924279,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3646.299994924279,
+          "end": 3652.361853986522,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3652.4810478444874,
+          "end": 3653.199994924279,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3653.199994876886,
+          "end": 3658.949994876886,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3658.949994876886,
+          "end": 3664.699994876886,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3664.8999948367054,
+          "end": 3673.8999948367054,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3673.899994805797,
+          "end": 3679.999994805797,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3680.3049333564545,
+          "end": 3685.2999947845046,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3685.7045698617057,
+          "end": 3687.8526083670363,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3688.3129023324645,
+          "end": 3691.5999947659598,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3691.599994745011,
+          "end": 3694.9849717258685,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3695.325170417412,
+          "end": 3699.399994745011,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3699.6999947171935,
+          "end": 3701.3828700597605,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3702.4027945098014,
+          "end": 3708.1999947171935,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3708.299994687659,
+          "end": 3715.4999946876587,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3717.1851010706378,
+          "end": 3722.699994687659,
+          "voice": "voice-3"
+        },
+        {
+          "start": 3722.6999946382057,
+          "end": 3724.9084379099736,
+          "voice": "voice-2"
+        },
+        {
+          "start": 3725.163258287485,
+          "end": 3731.999994638206,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3731.999994606267,
+          "end": 3738.999994606267,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3739.1999945815405,
+          "end": 3743.7302676325894,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3743.999994565056,
+          "end": 3749.199994565056,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3749.199994547198,
+          "end": 3755.399994547198,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3755.399994547198,
+          "end": 3761.599994547198,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3761.5999945046133,
+          "end": 3769.8999945046135,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3769.899994476109,
+          "end": 3773.629059461028,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3775.0934411446037,
+          "end": 3776.799994476109,
+          "voice": "voice-2"
+        },
+        {
+          "start": 3776.799994476109,
+          "end": 3783.699994476109,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3790.5784496736987,
+          "end": 3794.9950215229724,
+          "voice": "voice-5"
+        },
+        {
+          "start": 3799.185404205579,
+          "end": 3803.509336360805,
+          "voice": "voice-5"
+        },
+        {
+          "start": 3803.8999943593444,
+          "end": 3807.620601186146,
+          "voice": "voice-5"
+        },
+        {
+          "start": 3807.8936732468287,
+          "end": 3809.3999943593444,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3809.3999943593444,
+          "end": 3814.8999943593444,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3814.8999943215676,
+          "end": 3820.9999943215676,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3820.9999943215676,
+          "end": 3827.0999943215675,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3827.0999942796698,
+          "end": 3835.7999942796696,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3835.799994249792,
+          "end": 3841.299994249792,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3841.2999942309034,
+          "end": 3842.5598010460362,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3842.832191708768,
+          "end": 3848.3499942309036,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3848.3499942309036,
+          "end": 3855.3999942309033,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3856.952932344421,
+          "end": 3859.5297857779706,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3860.058808668302,
+          "end": 3860.9499941824806,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3860.9499941824806,
+          "end": 3866.4999941824803,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3866.79999414333,
+          "end": 3873.64999414333,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3873.64999414333,
+          "end": 3880.49999414333,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3880.4999940962807,
+          "end": 3888.299994096281,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3888.5999940684633,
+          "end": 3894.8999940684635,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3894.8999940684635,
+          "end": 3901.199994068463,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3901.1999940251917,
+          "end": 3908.099994025192,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3908.2999940008085,
+          "end": 3914.4999940008083,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3914.4999940008083,
+          "end": 3920.6999940008086,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3920.699993958224,
+          "end": 3928.0499939582237,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3928.0499939582237,
+          "end": 3935.3999939582236,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3935.3999939077403,
+          "end": 3941.0499939077404,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3941.0499939077404,
+          "end": 3946.6999939077405,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3946.6999938689332,
+          "end": 3953.549993868933,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3953.549993868933,
+          "end": 3960.399993868933,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3960.399993821884,
+          "end": 3965.699993821884,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3965.699993821884,
+          "end": 3970.999993821884,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3970.999993785481,
+          "end": 3972.2797590489954,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3973.593651386203,
+          "end": 3976.599993785481,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3976.599993785481,
+          "end": 3979.364286754672,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3979.8591293232307,
+          "end": 3982.1999937854807,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3982.3999937463304,
+          "end": 3988.4914986618837,
+          "voice": "voice-1"
+        },
+        {
+          "start": 3988.6446370536155,
+          "end": 3989.8999937463304,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3989.8999937463304,
+          "end": 3997.3999937463304,
+          "voice": "voice-4"
+        },
+        {
+          "start": 3997.8042739534317,
+          "end": 4004.6999936941297,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4004.6999936941297,
+          "end": 4011.7999936941296,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4012.572715362412,
+          "end": 4018.499993643646,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4020.1384130591564,
+          "end": 4026.3543485011373,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4026.7999935938496,
+          "end": 4033.6999935938497,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4033.6999935701533,
+          "end": 4041.1999935701533,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4041.1999935701533,
+          "end": 4048.6999935701533,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4048.6999935186395,
+          "end": 4054.5999935186396,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4054.5999934983774,
+          "end": 4057.6258739890777,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4057.7284462091015,
+          "end": 4059.3999934983776,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4059.6999934808628,
+          "end": 4067.6999934808628,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4067.7999934530453,
+          "end": 4073.0999934530455,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4073.0999934530455,
+          "end": 4078.399993453045,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4078.3999934166422,
+          "end": 4085.3999934166422,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4085.499993392259,
+          "end": 4091.599993392259,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4091.6999933709667,
+          "end": 4099.999993370967,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4099.999993371566,
+          "end": 4106.699993371566,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4106.79999339769,
+          "end": 4114.09999339769,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4114.099993425734,
+          "end": 4120.599993425734,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4120.599993425734,
+          "end": 4127.099993425734,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4127.399993476829,
+          "end": 4136.099993476829,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4136.799993512941,
+          "end": 4142.299993512941,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4142.29999353407,
+          "end": 4147.29999353407,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4147.7999935552,
+          "end": 4152.8999935552,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4152.8999935747925,
+          "end": 4159.999993574793,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4160.099993602453,
+          "end": 4162.215872171463,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4162.591269982094,
+          "end": 4164.775402698491,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4164.826593309032,
+          "end": 4165.699993602453,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4165.699993602453,
+          "end": 4171.299993602453,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4171.29999364548,
+          "end": 4176.29999364548,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4176.299993664688,
+          "end": 4181.699993664688,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4181.699993664688,
+          "end": 4187.099993664689,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4187.099993706179,
+          "end": 4194.199993706179,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4194.199993706179,
+          "end": 4201.299993706179,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4201.299993760731,
+          "end": 4206.855809811227,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4206.941021713842,
+          "end": 4207.599993760731,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4207.599993760731,
+          "end": 4213.899993760731,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4213.8999938091365,
+          "end": 4220.299993809136,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4220.299993809136,
+          "end": 4226.699993809137,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4226.69999385831,
+          "end": 4233.799993858311,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4234.08773092769,
+          "end": 4238.047275807588,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4238.43981689482,
+          "end": 4239.399993885971,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4240.122233719072,
+          "end": 4244.225122520022,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4245.170816407214,
+          "end": 4250.099993928614,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4250.299993948975,
+          "end": 4256.649993948975,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4256.649993948975,
+          "end": 4262.999993948974,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4262.999993997764,
+          "end": 4268.549993997764,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4268.549993997764,
+          "end": 4274.099993997765,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4274.099994040407,
+          "end": 4280.399994040407,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4280.653629470684,
+          "end": 4284.084820197765,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4284.733503021791,
+          "end": 4285.899994064994,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4285.899994085739,
+          "end": 4291.399994085739,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4291.499994107253,
+          "end": 4296.949994107253,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4296.949994107253,
+          "end": 4302.3999941072525,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4302.399994149127,
+          "end": 4308.699994149128,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4308.69999417333,
+          "end": 4310.830632601189,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4310.881767923457,
+          "end": 4314.89999417333,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4314.89999417333,
+          "end": 4321.09999417333,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4321.099994220967,
+          "end": 4330.099994220967,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4330.099994255543,
+          "end": 4336.6045733616575,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4337.1362158075035,
+          "end": 4342.023163984087,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4342.023163984087,
+          "end": 4343.899994255543,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4343.899994308558,
+          "end": 4353.399994308558,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4353.399994345054,
+          "end": 4358.199994345055,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4358.98785472342,
+          "end": 4363.9999943657995,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4364.099994386161,
+          "end": 4367.940879528415,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4368.077444333474,
+          "end": 4369.49999438616,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4369.499994406906,
+          "end": 4375.599994406906,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4375.6999944307245,
+          "end": 4381.899994430724,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4382.087490612376,
+          "end": 4388.099994430724,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4388.099994478362,
+          "end": 4390.267503960031,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4390.642978043469,
+          "end": 4393.578502695808,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4393.599994499491,
+          "end": 4399.649994499491,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4399.649994499491,
+          "end": 4405.699994499491,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4405.999994547128,
+          "end": 4413.399994547128,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4413.399994575557,
+          "end": 4421.399994575557,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4422.106857251446,
+          "end": 4427.8999946078275,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4428.456053641898,
+          "end": 4433.599994632414,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4433.599994632414,
+          "end": 4438.999994632414,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4439.099994674289,
+          "end": 4441.561727954859,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4441.869444614929,
+          "end": 4443.271264955254,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4444.938748576543,
+          "end": 4448.076656723422,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4448.912295306015,
+          "end": 4450.599994695802,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4450.599994695802,
+          "end": 4456.499994695802,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4456.799994742287,
+          "end": 4462.799994742287,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4462.799994765337,
+          "end": 4469.699994765337,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4469.699994791845,
+          "end": 4474.899994791845,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4474.899994811822,
+          "end": 4478.755469551354,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4478.755469551354,
+          "end": 4484.394313663797,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4485.070012299598,
+          "end": 4487.025212967225,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4488.062319408315,
+          "end": 4493.199994850239,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4493.599994883662,
+          "end": 4498.749994883661,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4498.749994883661,
+          "end": 4503.771576998881,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4503.899994923231,
+          "end": 4510.599994923231,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4510.599994948971,
+          "end": 4516.199994948971,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4516.199994948971,
+          "end": 4521.79999494897,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4521.799994991998,
+          "end": 4530.199994991997,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4530.199995024268,
+          "end": 4538.599995024268,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4539.119330530593,
+          "end": 4545.099995058075,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4545.199995081894,
+          "end": 4555.199995081894,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4555.199995120311,
+          "end": 4560.902819025825,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4561.481613093848,
+          "end": 4562.299995120311,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4562.299995120311,
+          "end": 4569.39999512031,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4569.399995174863,
+          "end": 4575.644638482148,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4575.848823004457,
+          "end": 4576.899995174863,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4577.3999952055965,
+          "end": 4580.946263862313,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4581.338399338777,
+          "end": 4583.449995205597,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4583.449995205597,
+          "end": 4589.499995205597,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4589.599995252465,
+          "end": 4596.67086854139,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4596.73885770763,
+          "end": 4598.013654574624,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4598.199995285504,
+          "end": 4600.494069254813,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4601.0208566107285,
+          "end": 4607.099995285504,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4607.099995319695,
+          "end": 4608.41633881,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4608.997581390135,
+          "end": 4611.899995319695,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4611.899995338135,
+          "end": 4612.85307365607,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4613.63595941723,
+          "end": 4614.55499922381,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4615.082596149809,
+          "end": 4619.1999953381355,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4619.336356225563,
+          "end": 4623.0521896437485,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4623.751039048086,
+          "end": 4625.39999536618,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4626.83858872193,
+          "end": 4632.899995394609,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4633.0999954195795,
+          "end": 4638.39999541958,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4639.322767920427,
+          "end": 4641.904947745878,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4642.754349004251,
+          "end": 4648.037624831326,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4648.69999547951,
+          "end": 4655.2999954795105,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4655.799995506786,
+          "end": 4659.559982240888,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4660.444685001853,
+          "end": 4663.399995506787,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4663.399995535983,
+          "end": 4668.799995535983,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4669.299995558649,
+          "end": 4671.402165820889,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4671.778163753973,
+          "end": 4674.199995558649,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4674.399995578242,
+          "end": 4678.305326913217,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4678.47586539946,
+          "end": 4680.299995578242,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4680.5999956020605,
+          "end": 4687.899995602061,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4689.299995635483,
+          "end": 4694.761436849137,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4694.899995656997,
+          "end": 4699.899995656997,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4700.9385890066005,
+          "end": 4702.5064880147165,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4703.307479899297,
+          "end": 4704.909463668459,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4705.540031747809,
+          "end": 4706.818210287033,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4707.639330885074,
+          "end": 4711.3832169159405,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4712.404842931045,
+          "end": 4717.599995723458,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4717.8553460683315,
+          "end": 4724.699995744204,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4725.099995773016,
+          "end": 4727.467990185886,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4727.706493220276,
+          "end": 4728.592361633723,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4729.495265978199,
+          "end": 4731.649995773017,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4731.649995773017,
+          "end": 4738.123649563596,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4738.521564352159,
+          "end": 4744.549995823727,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4744.549995823727,
+          "end": 4750.799995823727,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4750.899995872132,
+          "end": 4752.883058792591,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4752.985631012615,
+          "end": 4755.088361523102,
+          "voice": "voice-2"
+        },
+        {
+          "start": 4756.370778035785,
+          "end": 4759.205761614425,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4760.093828759541,
+          "end": 4761.399995892493,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4761.39999591247,
+          "end": 4764.572591490294,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4765.16958528182,
+          "end": 4767.1999959124705,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4767.599995936289,
+          "end": 4769.1027064530945,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4769.529612849914,
+          "end": 4772.849995936289,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4772.849995936289,
+          "end": 4778.099995936289,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4778.699995978932,
+          "end": 4784.0999959789315,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4784.099995999677,
+          "end": 4787.378222607186,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4787.599035798366,
+          "end": 4793.599995999677,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4793.599996036173,
+          "end": 4802.599996036173,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4802.699996071133,
+          "end": 4811.499996071133,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4811.799996106092,
+          "end": 4817.999996106092,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4817.999996129911,
+          "end": 4825.199996129911,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4825.673125768455,
+          "end": 4828.336139467086,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4831.707139844633,
+          "end": 4833.857145487337,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4834.505559887518,
+          "end": 4836.860327972384,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4837.199996203672,
+          "end": 4841.2396866628915,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4841.870355637538,
+          "end": 4842.858971868064,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4843.39999622749,
+          "end": 4847.530690250155,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4847.8706650668355,
+          "end": 4851.89999622749,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4851.899996260145,
+          "end": 4853.745804295282,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4853.950894076964,
+          "end": 4856.799996260144,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4856.999996279737,
+          "end": 4863.299996279738,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4863.399996304324,
+          "end": 4867.190076616892,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4867.4450147545085,
+          "end": 4872.099996304324,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4872.199996338131,
+          "end": 4880.699996338131,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4880.699996370786,
+          "end": 4889.499996370786,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4889.499996404593,
+          "end": 4896.599996404593,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4896.599996404593,
+          "end": 4903.699996404593,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4903.699996459145,
+          "end": 4908.799996459145,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4908.919352336016,
+          "end": 4912.8751464629495,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4913.38667156557,
+          "end": 4914.7507385058925,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4915.171908382581,
+          "end": 4916.888352127664,
+          "voice": "voice-3"
+        },
+        {
+          "start": 4922.088666840488,
+          "end": 4923.431231750009,
+          "voice": "voice-1"
+        },
+        {
+          "start": 4923.799996536363,
+          "end": 4929.573153015354,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4932.030513186025,
+          "end": 4934.499857402702,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4935.640864730409,
+          "end": 4936.952171659264,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4946.608507226909,
+          "end": 4951.79999658861,
+          "voice": "voice-2"
+        },
+        {
+          "start": 4951.799996643931,
+          "end": 4957.049996643931,
+          "voice": "voice-2"
+        },
+        {
+          "start": 4957.049996643931,
+          "end": 4962.299996643931,
+          "voice": "voice-2"
+        },
+        {
+          "start": 4962.299996684269,
+          "end": 4967.649996684269,
+          "voice": "voice-2"
+        },
+        {
+          "start": 4968.3499671369345,
+          "end": 4972.999996684269,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4973.099996725759,
+          "end": 4980.39999672576,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4980.399996753804,
+          "end": 4987.2999967538035,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4987.2999967538035,
+          "end": 4994.199996753804,
+          "voice": "voice-4"
+        },
+        {
+          "start": 4994.199996806819,
+          "end": 5001.79999680682,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5002.037939097792,
+          "end": 5010.499996836016,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5010.499996869439,
+          "end": 5017.09999686944,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5017.0999968947945,
+          "end": 5024.399996894795,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5024.399996922839,
+          "end": 5030.699996922839,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5030.699996947042,
+          "end": 5037.999996947042,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5037.999996975086,
+          "end": 5045.049996975086,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5045.049996975086,
+          "end": 5052.0999969750865,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5052.099997029254,
+          "end": 5055.105079954919,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5055.207525963749,
+          "end": 5057.399997029254,
+          "voice": "voice-2"
+        },
+        {
+          "start": 5057.499997049999,
+          "end": 5059.515702297487,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5059.771936015388,
+          "end": 5062.59999705,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5063.199997071897,
+          "end": 5072.299997071897,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5072.299997106857,
+          "end": 5076.206042199984,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5076.2572130964,
+          "end": 5078.099997106857,
+          "voice": "voice-2"
+        },
+        {
+          "start": 5078.099997106857,
+          "end": 5083.899997106857,
+          "voice": "voice-2"
+        },
+        {
+          "start": 5083.89999715142,
+          "end": 5089.411519552955,
+          "voice": "voice-2"
+        },
+        {
+          "start": 5089.619257438928,
+          "end": 5095.999997172934,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5095.999997172934,
+          "end": 5102.499997172934,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5102.499997222876,
+          "end": 5109.699997222876,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5109.904572346282,
+          "end": 5115.799997250537,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5116.4070807470225,
+          "end": 5121.799997275123,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5121.799997297021,
+          "end": 5131.299997297021,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5131.299997333517,
+          "end": 5138.399997333518,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5138.399997360793,
+          "end": 5143.799997360793,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5143.999997382307,
+          "end": 5149.299997382307,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5149.299997382307,
+          "end": 5154.599997382307,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5154.769865571078,
+          "end": 5157.249940532593,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5157.385835051033,
+          "end": 5158.7277934206195,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5158.914648383474,
+          "end": 5163.857811491699,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5163.999997459141,
+          "end": 5171.699997459141,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5171.699997488722,
+          "end": 5174.885036562256,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5175.515231459158,
+          "end": 5178.399997488722,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5178.699997515614,
+          "end": 5185.599997515614,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5185.899997543274,
+          "end": 5191.049997543274,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5191.049997543274,
+          "end": 5196.199997543275,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5196.199997582844,
+          "end": 5202.399997582844,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5202.399997582844,
+          "end": 5208.599997582844,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5208.599997630481,
+          "end": 5214.049997630481,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5214.049997630481,
+          "end": 5219.499997630481,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5219.771846092243,
+          "end": 5221.980614503834,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5222.252462923721,
+          "end": 5228.599997672356,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5228.753756634768,
+          "end": 5232.119368713455,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5234.094190164401,
+          "end": 5235.341345909295,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5235.51218916202,
+          "end": 5236.400574076191,
+          "voice": "voice-2"
+        },
+        {
+          "start": 5236.691007605824,
+          "end": 5237.357296291452,
+          "voice": "voice-2"
+        },
+        {
+          "start": 5237.921079025446,
+          "end": 5238.553199060529,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5238.899997746885,
+          "end": 5240.182150497181,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5240.387294937229,
+          "end": 5243.699997746885,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5243.799997765709,
+          "end": 5249.699997765709,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5250.499997791449,
+          "end": 5259.299997791449,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5259.39999782564,
+          "end": 5261.071274990825,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5261.753428935799,
+          "end": 5265.299997825639,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5265.299997825639,
+          "end": 5271.19999782564,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5271.199997870972,
+          "end": 5273.360950732076,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5273.939473545285,
+          "end": 5278.699997870972,
+          "voice": "voice-2"
+        },
+        {
+          "start": 5278.699997870972,
+          "end": 5286.199997870972,
+          "voice": "voice-2"
+        },
+        {
+          "start": 5286.199997928597,
+          "end": 5292.099997928597,
+          "voice": "voice-2"
+        },
+        {
+          "start": 5292.099997928597,
+          "end": 5297.999997928598,
+          "voice": "voice-2"
+        },
+        {
+          "start": 5298.254818351441,
+          "end": 5301.601459309428,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5302.31495636646,
+          "end": 5307.29999797393,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5307.299998009657,
+          "end": 5313.699998009657,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5313.699998034244,
+          "end": 5321.899998034244,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5321.899998065746,
+          "end": 5327.799998065746,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5327.799998088412,
+          "end": 5333.399998088413,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5333.399998109926,
+          "end": 5340.499998109926,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5340.499998137202,
+          "end": 5345.799998137202,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5345.799998137202,
+          "end": 5351.099998137202,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5351.099998177924,
+          "end": 5356.799998177924,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5356.899998200206,
+          "end": 5361.799998200206,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5361.79999821903,
+          "end": 5367.29999821903,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5367.29999821903,
+          "end": 5372.79999821903,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5373.099998262442,
+          "end": 5380.149998262442,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5380.149998262442,
+          "end": 5382.431270062817,
+          "voice": "voice-2"
+        },
+        {
+          "start": 5382.584489810603,
+          "end": 5387.199998262442,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5387.19999831661,
+          "end": 5394.69999831661,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5394.69999831661,
+          "end": 5402.19999831661,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5402.199998374235,
+          "end": 5407.399998374235,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5407.399998374235,
+          "end": 5412.599998374235,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5412.599998414189,
+          "end": 5418.699998414189,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5418.699998414189,
+          "end": 5424.799998414189,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5424.799998461058,
+          "end": 5429.9499984610575,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5429.9499984610575,
+          "end": 5435.099998461058,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5435.099998500627,
+          "end": 5440.949998500628,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5440.949998500628,
+          "end": 5446.799998500627,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5446.799998545575,
+          "end": 5453.899998545576,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5453.8999985728515,
+          "end": 5461.049998572851,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5461.049998572851,
+          "end": 5468.182345808545,
+          "voice": "voice-1"
+        },
+        {
+          "start": 5474.8979799701465,
+          "end": 5479.180940682107,
+          "voice": "voice-5"
+        },
+        {
+          "start": 5480.2999986742725,
+          "end": 5483.889094870056,
+          "voice": "voice-5"
+        },
+        {
+          "start": 5484.416402841949,
+          "end": 5485.454008851157,
+          "voice": "voice-5"
+        },
+        {
+          "start": 5485.590088327774,
+          "end": 5487.954469234001,
+          "voice": "voice-5"
+        },
+        {
+          "start": 5488.199998704622,
+          "end": 5492.999998704622,
+          "voice": "voice-1"
+        },
+        {
+          "start": 5494.551245472405,
+          "end": 5499.599998728825,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5500.199998750722,
+          "end": 5504.999998750723,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5505.399998770699,
+          "end": 5507.536350663219,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5508.989069950134,
+          "end": 5510.117063749384,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5510.599998790676,
+          "end": 5516.499998790676,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5516.699998814111,
+          "end": 5519.831180144492,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5520.392750709179,
+          "end": 5524.09999881411,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5524.099998842539,
+          "end": 5532.999998842539,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5532.99999887673,
+          "end": 5541.49999887673,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5541.499998909385,
+          "end": 5548.199998909385,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5548.399998935893,
+          "end": 5554.3499989358925,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5554.3499989358925,
+          "end": 5560.299998935892,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5560.299998981609,
+          "end": 5566.599998981609,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5566.599999005812,
+          "end": 5571.749999005811,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5571.749999005811,
+          "end": 5576.899999005812,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5576.899999045381,
+          "end": 5585.999999045382,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5585.999999080341,
+          "end": 5587.03710552143,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5587.3601386752125,
+          "end": 5594.299999080341,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5594.95541452369,
+          "end": 5596.675211617191,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5596.760350087166,
+          "end": 5597.696873256895,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5598.905839530545,
+          "end": 5601.494049017794,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5601.599999140271,
+          "end": 5606.142123352693,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5606.465345674925,
+          "end": 5609.299999140271,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5609.499999170621,
+          "end": 5614.549999170621,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5614.549999170621,
+          "end": 5619.599999170621,
+          "voice": "voice-3"
+        },
+        {
+          "start": 5619.921941060651,
+          "end": 5622.704750421247,
+          "voice": "voice-2"
+        },
+        {
+          "start": 5624.121763776642,
+          "end": 5625.049999209807,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5625.049999209807,
+          "end": 5630.399999209806,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5630.3999992509125,
+          "end": 5639.799999250912,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5639.799999287025,
+          "end": 5647.199999287024,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5647.199999287024,
+          "end": 5654.599999287025,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5654.599999343882,
+          "end": 5663.799999343882,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5663.7999993792255,
+          "end": 5672.199999379225,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5672.199999411496,
+          "end": 5679.499999411496,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5679.499999411496,
+          "end": 5686.799999411496,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5686.899999467969,
+          "end": 5692.249999467969,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5692.249999467969,
+          "end": 5697.599999467969,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5697.599999509075,
+          "end": 5703.749999509075,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5703.749999509075,
+          "end": 5709.899999509075,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5709.899999556328,
+          "end": 5717.099999556328,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5717.099999556328,
+          "end": 5724.299999556328,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5724.299999611649,
+          "end": 5731.7499996116485,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5731.7499996116485,
+          "end": 5739.199999611648,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5739.19999966889,
+          "end": 5744.56407756227,
+          "voice": "voice-4"
+        },
+        {
+          "start": 5744.819509842907,
+          "end": 5746.04999966889,
+          "voice": "voice-2"
+        },
+        {
+          "start": 5746.04999966889,
+          "end": 5752.89999966889,
+          "voice": "voice-2"
+        },
+        {
+          "start": 5752.899999721521,
+          "end": 5753.6328220840105,
+          "voice": "voice-2"
+        },
+        {
+          "start": 5753.6328220840105,
+          "end": 5759.199999721522,
+          "voice": "voice-1"
+        },
+        {
+          "start": 5765.393263608768,
+          "end": 5769.399999745724,
+          "voice": "voice-6"
+        },
+        {
+          "start": 5769.39999978491,
+          "end": 5774.99999978491,
+          "voice": "voice-6"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "about": "What each evaluation clip's page shows as its title and channel, for pnpm eval:review (claim breakdown and the speaker gate read them). YouTube: the video's title and channel as yt-dlp read them on 2026-10-27. Other sites: the clip's event, and the posting account's name, since no page title was kept.",
+  "pages": {
+    "cnn-2024-biden-opening-economy": { "title": "CNN Presidential Debate: President Joe Biden and former President Donald Trump", "channel": "CNN", "from": "youtube" },
+    "cnn-2024-trump-greatest-economy": { "title": "CNN Presidential Debate: President Joe Biden and former President Donald Trump", "channel": "CNN", "from": "youtube" },
+    "abc-2024-trump-springfield-pets": { "title": "DEBATE REPLAY: VP Harris and former President Trump l ABC News Presidential Debate", "channel": "ABC News", "from": "youtube" },
+    "abc-2024-harris-afghanistan-camp-david": { "title": "DEBATE REPLAY: VP Harris and former President Trump l ABC News Presidential Debate", "channel": "ABC News", "from": "youtube" },
+    "cbs-2024-walz-iran-tbi-headaches": { "title": "Watch: CBS News VP debate between JD Vance and Tim Walz | full video", "channel": "CBS News", "from": "youtube" },
+    "cbs-2024-vance-cbp-one-mic-cut": { "title": "Watch: CBS News VP debate between JD Vance and Tim Walz | full video", "channel": "CBS News", "from": "youtube" },
+    "biden-sotu-2024-economy": { "title": "President Biden's State of the Union Address", "channel": "The Biden White House", "from": "youtube" },
+    "trump-joint-2025-social-security-ages": { "title": "President Trump Addresses Joint Session of Congress, March 4, 2025", "channel": "The White House", "from": "youtube" },
+    "trump-joint-2025-inflation-eggs-energy": { "title": "President Trump Addresses Joint Session of Congress, March 4, 2025", "channel": "The White House", "from": "youtube" },
+    "booker-senate-floor-2025-consumer-confidence": { "title": "Cory Booker’s Marathon Floor Speech | Longest in Senate History on Trump & America’s Moral Moment", "channel": "Senator Cory Booker", "from": "youtube" },
+    "johnson-speaker-acceptance-2023-prices-debt": { "title": "House floor, address after election as Speaker", "channel": "Office of the Clerk, U.S. House of Representatives", "from": "event" },
+    "murray-senate-floor-2025-tax-cuts-debt": { "title": "On the Senate Floor, Murray Blasts Senate GOP's Pro-Billionaire Budget Blueprint", "channel": "Senator Patty Murray", "from": "youtube" },
+    "uk-pmqs-2025-09-03-badenoch-unemployment": { "title": "Prime Minister's Questions, House of Commons", "channel": "UK Parliament", "from": "event" },
+    "uk-pmqs-2026-03-04-starmer-defence-270bn": { "title": "Prime Minister's Questions, House of Commons", "channel": "UK Parliament", "from": "event" },
+    "us-khanna-tiktok-2025-02-20-telehealth": { "title": "Self-posted TikTok video", "channel": "Rep. Ro Khanna", "from": "event" },
+    "us-vance-peachtree-city-2025-08-21-biggest-tax-cut": { "title": "Vice President's remarks at ALTA Refrigeration Inc., Peachtree City, Georgia", "channel": "Right Side Broadcasting Network", "from": "event" },
+    "us-warner-x-2025-07-21-russia-interference": { "title": "Self-posted X video responding to DNI Tulsi Gabbard", "channel": "Mark Warner", "from": "event" }
+  }
+}

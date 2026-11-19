@@ -1,0 +1,422 @@
+{
+  "frozenAt": "2026-10-27T03:13:07.266Z",
+  "refilteredAt": "2026-10-27T03:35:05.271Z",
+  "id": "pf/democratic-national-committee/trump-defense-budget-ww2",
+  "said": "2026-04-03",
+  "queries": {
+    "fact": "President Donald Trump’s proposed 2027 military budget would be the largest spending increase since World War II.",
+    "claim": "President Donald Trump’s proposed 2027 military budget would be the largest spending increase since World War II. Democratic National Committee"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2492.0375420000637,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1660.797416999936,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 771.7537920000032,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Would Trump's proposed military budget be the largest ...",
+      "url": "https://www.wbaltv.com/article/trumps-military-budget-largest-increase-since-wwii/71088153",
+      "domain": "wbaltv.com",
+      "published": "2026-04-21",
+      "publishedAsGiven": "Apr 21, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Trump's Proposed Military Spending Would Be a “Bloody New ...",
+      "url": "https://blog.ucs.org/sean-manning/trumps-proposed-military-spending-would-be-a-bloody-new-deal/",
+      "domain": "blog.ucs.org",
+      "published": "2026-03-23",
+      "publishedAsGiven": "Mar 23, 2026",
+      "snippet": "If passed and sustained, President Trump's new defense budget could become the largest discretionary spending increase in modern US history."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "President Donald Trump is asking Congress to approve a ...",
+      "url": "https://www.facebook.com/WYFF4/posts/president-donald-trump-is-asking-congress-to-approve-a-15-trillion-defense-budge/1489605339454544/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "REBUILDING OUR MILITARY",
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2026/04/rebuilding-our-military-fact-sheet.pdf",
+      "domain": "whitehouse.gov",
+      "published": null,
+      "snippet": "President Trump is committed to rebuilding our military to secure peace through strength. The President's historic FY 2027 Budget fully funds the Golden Dome to ..."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "The DNC said Trump's 2027 proposed military budget ...",
+      "url": "https://www.facebook.com/wdsutv/posts/the-dnc-said-trumps-2027-proposed-military-budget-would-represent-the-largest-sp/1459392156230908/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Trump proposes \"historic\" defense spending budget, eyes ...",
+      "url": "https://www.reuters.com/world/us/trumps-budget-proposes-10-cut-discretionary-spending-increased-defense-spending-2026-04-03/",
+      "domain": "reuters.com",
+      "published": "2026-04-05",
+      "publishedAsGiven": "Apr 5, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Would Trump's proposed military budget be the largest ...",
+      "url": "https://politifact.com/factchecks/2026/apr/20/democratic-national-committee/trump-defense-budget-ww2/",
+      "domain": "politifact.com",
+      "published": "2026-04-20",
+      "publishedAsGiven": "Apr 20, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "$1.5 Trillion Budget Request Prioritizes Service Members, ...",
+      "url": "https://www.war.gov/News/News-Stories/Article/Article/4465551/15-trillion-budget-request-prioritizes-service-members-modernization/",
+      "domain": "war.gov",
+      "published": "2026-04-21",
+      "publishedAsGiven": "Apr 21, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Unpacking the $1.5 Trillion FY 2027 Defense Budget Topline",
+      "url": "https://www.csis.org/analysis/unpacking-15-trillion-fy-2027-defense-budget-topline",
+      "domain": "csis.org",
+      "published": "2026-04-10",
+      "publishedAsGiven": "Apr 10, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Is Trump proposing the biggest military spending boost ...",
+      "url": "https://www.wral.com/archive/22359497/",
+      "domain": "wral.com",
+      "published": "2026-05-18",
+      "publishedAsGiven": "May 18, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Would Trump's proposed military budget be the largest ...",
+      "url": "https://www.wbaltv.com/article/trumps-military-budget-largest-increase-since-wwii/71088153",
+      "domain": "wbaltv.com",
+      "published": "2026-04-21",
+      "publishedAsGiven": "Apr 21, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Would Trump's proposed military budget be the largest ...",
+      "url": "https://politifact.com/factchecks/2026/apr/20/democratic-national-committee/trump-defense-budget-ww2/",
+      "domain": "politifact.com",
+      "published": "2026-04-20",
+      "publishedAsGiven": "Apr 20, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Is Trump proposing the biggest military spending boost ...",
+      "url": "https://www.wral.com/archive/22359497/",
+      "domain": "wral.com",
+      "published": "2026-05-18",
+      "publishedAsGiven": "May 18, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "The DNC said Trump's 2027 proposed military budget ...",
+      "url": "https://www.facebook.com/wdsutv/posts/the-dnc-said-trumps-2027-proposed-military-budget-would-represent-the-largest-sp/1459392156230908/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Republicans Unveil $1 Trillion+ Defense Funding Bill, Largest ...",
+      "url": "http://democrats-appropriations.house.gov/news/press-releases/republicans-unveil-1-trillion-defense-funding-bill-largest-history-amid-steep",
+      "domain": "democrats-appropriations.house.gov",
+      "published": "2026-06-10",
+      "publishedAsGiven": "Jun 10, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Trump's $1.5 trillion defense budget includes $750 billion ...",
+      "url": "https://www.reuters.com/legal/government/trumps-15-trillion-defense-budget-includes-750-billion-ships-jets-golden-dome-2026-04-21/",
+      "domain": "reuters.com",
+      "published": "2026-04-21",
+      "publishedAsGiven": "Apr 21, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "REBUILDING OUR MILITARY",
+      "url": "https://www.whitehouse.gov/wp-content/uploads/2026/04/rebuilding-our-military-fact-sheet.pdf",
+      "domain": "whitehouse.gov",
+      "published": null,
+      "snippet": "Highlights of the Historic Increase in Military Spending: • Historic Funding Increases to Secure Peace Through Strength. The Budget builds upon the historic."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Trump calls for a major increase in defense spending ...",
+      "url": "https://www.pbs.org/newshour/politics/trump-calls-for-a-major-increase-in-defense-spending-alongside-cuts-in-domestic-spending",
+      "domain": "pbs.org",
+      "published": "2026-04-03",
+      "publishedAsGiven": "Apr 3, 2026",
+      "snippet": "The White House is releasing details of President Donald Trump's 2027 budget, including a $1.5 trillion defense spending request."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Department of War Releases the President's Fiscal Year ...",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4466038/department-of-war-releases-the-presidents-fiscal-year-2027-budget/",
+      "domain": "war.gov",
+      "published": "2026-04-21",
+      "publishedAsGiven": "Apr 21, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Trump budget seeks $1.5T in defense spending alongside ...",
+      "url": "https://www.youtube.com/watch?v=LkqfWpXb2Z8",
+      "domain": "youtube.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Trump proposes \"historic\" defense spending budget, eyes ...",
+      "url": "https://www.reuters.com/world/us/trumps-budget-proposes-10-cut-discretionary-spending-increased-defense-spending-2026-04-03/",
+      "domain": "reuters.com",
+      "published": "2026-04-05",
+      "publishedAsGiven": "Apr 5, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Trump budget seeks $1.5T in defense spending alongside ...",
+      "url": "https://apnews.com/article/trump-2027-annual-budget-congress-defense-f95715d838be17afd9799208cd3182e3",
+      "domain": "apnews.com",
+      "published": "2026-04-03",
+      "publishedAsGiven": "Apr 3, 2026",
+      "snippet": "President Donald Trump has proposed boosting defense spending to $1.5 trillion in his 2027 budget released Friday, the largest such request ..."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Trump calls for $1.5 trillion military budget in 2027, up from ...",
+      "url": "https://www.reuters.com/world/us/trump-says-us-military-budget-2027-should-be-15-trillion-2026-01-07/",
+      "domain": "reuters.com",
+      "published": "2026-01-08",
+      "publishedAsGiven": "Jan 8, 2026",
+      "snippet": "WASHINGTON, Jan 7 (Reuters) - President Donald Trump said on Wednesday the 2027 U.S. military budget should be $1.5 trillion, ..."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Pass Trump's Defense Budget",
+      "url": "https://www.wsj.com/opinion/pass-trumps-defense-budget-9c74aa0c",
+      "domain": "wsj.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "Oct 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Golden Dome, ships and missiles top Trump's $1.5 trillion ...",
+      "url": "https://www.reuters.com/business/aerospace-defense/golden-dome-ships-missiles-top-trumps-15-trillion-fiscal-2027-defense-wish-list-2026-04-02/",
+      "domain": "reuters.com",
+      "published": "2026-04-02",
+      "publishedAsGiven": "Apr 2, 2026",
+      "snippet": "U.S. President Donald Trump is set to unveil a $1.5 trillion defense budget request for the ​next fiscal year on Friday, by far the ‌largest ..."
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "Trump's $1.5 trillion defense budget includes $750 billion ...",
+      "url": "https://www.reuters.com/legal/government/trumps-15-trillion-defense-budget-includes-750-billion-ships-jets-golden-dome-2026-04-21/",
+      "domain": "reuters.com",
+      "published": "2026-04-21",
+      "publishedAsGiven": "Apr 21, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Trump's Budget Breakthrough for Defense",
+      "url": "https://www.wsj.com/opinion/donald-trump-defense-budget-iran-china-russia-3942c69b",
+      "domain": "wsj.com",
+      "published": "2026-04-02",
+      "publishedAsGiven": "Apr 2, 2026",
+      "snippet": "... 2027 budget on Friday, and we got an early look. Most noteworthy is its proposal to boost defense spending to $1.5 trillion. This includes a ..."
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Trump's Budget Plan: a 10% Cut, but With $1.5 Trillion for ...",
+      "url": "https://www.wsj.com/podcasts/opinion-potomac-watch/trump-budget-plan-a-10-cut-but-with-15-trillion-for-defense/bad03348-5cd3-4af7-b4b4-8f6a1e5a0af9",
+      "domain": "wsj.com",
+      "published": "2026-04-07",
+      "publishedAsGiven": "Apr 7, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "Trump proposes massive increase in defense spending to ...",
+      "url": "https://apnews.com/article/trump-defense-spending-3bbea1ccc679ee8a388386d60e651fd7",
+      "domain": "apnews.com",
+      "published": "2026-01-07",
+      "publishedAsGiven": "Jan 7, 2026",
+      "snippet": "President Donald Trump is proposing setting U.S. military spending at $1.5 trillion in 2027, citing “troubled and dangerous times.”"
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "Hegseth Brushed Off Congress for Months. Now He Needs ...",
+      "url": "https://www.wsj.com/politics/policy/pete-hegseth-congress-defense-budget-3b25872c",
+      "domain": "wsj.com",
+      "published": "2026-06-25",
+      "publishedAsGiven": "Jun 25, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 0,
+    "after-said": 15,
+    "maybe-after-said": 4,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 2,
+  "searchedAt": "2026-10-27T03:13:00.456Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Trump calls for a major increase in defense spending ...",
+      "url": "https://www.pbs.org/newshour/politics/trump-calls-for-a-major-increase-in-defense-spending-alongside-cuts-in-domestic-spending",
+      "domain": "pbs.org",
+      "snippet": "The White House is releasing details of President Donald Trump's 2027 budget, including a $1.5 trillion defense spending request.",
+      "published": "2026-04-03",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "PBS News Hour",
+        "page": "https://mediabiasfactcheck.com/pbs-news-hour/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Trump budget seeks $1.5T in defense spending alongside ...",
+      "url": "https://apnews.com/article/trump-2027-annual-budget-congress-defense-f95715d838be17afd9799208cd3182e3",
+      "domain": "apnews.com",
+      "snippet": "President Donald Trump has proposed boosting defense spending to $1.5 trillion in his 2027 budget released Friday, the largest such request ...",
+      "published": "2026-04-03",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Associated Press",
+        "page": "https://mediabiasfactcheck.com/associated-press/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Trump calls for $1.5 trillion military budget in 2027, up from ...",
+      "url": "https://www.reuters.com/world/us/trump-says-us-military-budget-2027-should-be-15-trillion-2026-01-07/",
+      "domain": "reuters.com",
+      "snippet": "WASHINGTON, Jan 7 (Reuters) - President Donald Trump said on Wednesday the 2027 U.S. military budget should be $1.5 trillion, ...",
+      "published": "2026-01-08",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Golden Dome, ships and missiles top Trump's $1.5 trillion ...",
+      "url": "https://www.reuters.com/business/aerospace-defense/golden-dome-ships-missiles-top-trumps-15-trillion-fiscal-2027-defense-wish-list-2026-04-02/",
+      "domain": "reuters.com",
+      "snippet": "U.S. President Donald Trump is set to unveil a $1.5 trillion defense budget request for the ​next fiscal year on Friday, by far the ‌largest ...",
+      "published": "2026-04-02",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Trump's Budget Breakthrough for Defense",
+      "url": "https://www.wsj.com/opinion/donald-trump-defense-budget-iran-china-russia-3942c69b",
+      "domain": "wsj.com",
+      "snippet": "... 2027 budget on Friday, and we got an early look. Most noteworthy is its proposal to boost defense spending to $1.5 trillion. This includes a ...",
+      "published": "2026-04-02",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Wall Street Journal",
+        "page": "https://mediabiasfactcheck.com/wall-street-journal/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

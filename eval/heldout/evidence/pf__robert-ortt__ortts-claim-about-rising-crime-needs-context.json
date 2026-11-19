@@ -1,0 +1,233 @@
+{
+  "frozenAt": "2026-10-27T03:05:51.116Z",
+  "refilteredAt": "2026-10-27T03:33:15.050Z",
+  "id": "pf/robert-ortt/ortts-claim-about-rising-crime-needs-context",
+  "said": "2025-08-04",
+  "queries": {
+    "fact": "During Gov. Hochul’s tenure, there has been more crime on our streets.",
+    "claim": "During Gov. Hochul’s tenure, there has been more crime on our streets. Robert Ortt"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2505.4412909999955,
+      "results": 7
+    },
+    {
+      "query": "claim",
+      "ms": 2392.7660000000033,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Ortt's claim about rising crime needs context",
+      "url": "https://politifact.com/factchecks/2025/sep/27/robert-ortt/ortts-claim-about-rising-crime-needs-context/",
+      "domain": "politifact.com",
+      "published": "2025-09-27",
+      "publishedAsGiven": "Sep 27, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Safer Streets: Governor Hochul Invests Nearly $4 Billion ...",
+      "url": "https://www.governor.ny.gov/news/safer-streets-governor-hochul-invests-nearly-4-billion-dollars-public-safety-taking-office",
+      "domain": "governor.ny.gov",
+      "published": "2026-08-14",
+      "publishedAsGiven": "Aug 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "On Kathy Hochul's watch, overall crime is up 22%. Violent ...",
+      "url": "https://www.facebook.com/BruceBlakemanNewYorkFirst/posts/on-kathy-hochuls-watch-overall-crime-is-up-22-violent-crime-up-11-robbery-up-22-/1596102359188907/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Safer Streets: Governor Hochul and Police Commissioner ...",
+      "url": "https://www.governor.ny.gov/news/safer-streets-governor-hochul-and-police-commissioner-tisch-highlight-record-breaking-crime",
+      "domain": "governor.ny.gov",
+      "published": "2026-08-18",
+      "publishedAsGiven": "Aug 18, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Hochul says subway crime 'not statistically significant, but ...",
+      "url": "https://www.cityandstateny.com/politics/2024/03/progressives-and-civil-liberties-groups-criticize-hochuls-plan-put-national-guard-subways/394770/",
+      "domain": "cityandstateny.com",
+      "published": "2024-03-07",
+      "publishedAsGiven": "Mar 7, 2024",
+      "snippet": "Mar 7, 2024 — Hochul says subway crime 'not statistically significant, but psychologically significant'. The governor's supporters say the specter of National ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Your safety is at risk in Kathy Hochul's New York. Overall crime ...",
+      "url": "https://www.facebook.com/BruceBlakemanNewYorkFirst/posts/your-safety-is-at-risk-in-kathy-hochuls-new-york-overall-crime-is-up-22-and-viol/1651929713606171/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Kathy Hochul's laws created a crime crisis in New York. ...",
+      "url": "https://www.facebook.com/BruceBlakemanNewYorkFirst/posts/kathy-hochuls-laws-created-a-crime-crisis-in-new-york-cattaraugus-county-sheriff/1636006328531843/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Ortt's claim about rising crime needs context",
+      "url": "https://politifact.com/factchecks/2025/sep/27/robert-ortt/ortts-claim-about-rising-crime-needs-context/",
+      "domain": "politifact.com",
+      "published": "2025-09-27",
+      "publishedAsGiven": "Sep 27, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Safer Streets: Governor Hochul Invests Nearly $4 Billion ...",
+      "url": "https://www.governor.ny.gov/news/safer-streets-governor-hochul-invests-nearly-4-billion-dollars-public-safety-taking-office",
+      "domain": "governor.ny.gov",
+      "published": "2026-08-14",
+      "publishedAsGiven": "Aug 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Under Hochul, overall crime is up 22%. That's her record. In ...",
+      "url": "https://www.facebook.com/BruceBlakemanNewYorkFirst/posts/under-hochul-overall-crime-is-up-22-thats-her-record-in-nassau-i-hired-over-900-/1751982120267596/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Kathy Hochul's sanctuary policies released a violent repeat ...",
+      "url": "https://www.facebook.com/BruceBlakemanNewYorkFirst/posts/kathy-hochuls-sanctuary-policies-released-a-violent-repeat-offender-back-onto-ou/1771972164935258/",
+      "domain": "facebook.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Fact Check Posts – Page 2",
+      "url": "https://politifact.com/factchecks/list/page/2/?category=new-york",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "One day Kathy Hochul's talking about how much money she's ...",
+      "url": "https://www.facebook.com/roborttnysenate/posts/one-day-kathy-hochuls-talking-about-how-much-money-shes-spent-on-law-enforcement/1558187572780745/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Kathy Hochul ran as “tough on crime.” As governor, she ...",
+      "url": "https://www.facebook.com/BruceBlakemanNewYorkFirst/posts/kathy-hochul-ran-as-tough-on-crimeas-governor-she-defended-cashless-bail-that-pu/1500276282104849/",
+      "domain": "facebook.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "On Kathy Hochul's watch, overall crime is up 22%. Violent ...",
+      "url": "https://www.facebook.com/BruceBlakemanNewYorkFirst/posts/on-kathy-hochuls-watch-overall-crime-is-up-22-violent-crime-up-11-robbery-up-22-/1596102359188907/",
+      "domain": "facebook.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "No, New Yorkers are not getting the largest middle class ...",
+      "url": "https://politifact.com/factchecks/2025/jun/01/kathy-hochul/no-new-yorkers-are-not-getting-the-largest-middle/",
+      "domain": "politifact.com",
+      "published": "2025-06-01",
+      "publishedAsGiven": "Jun 1, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Senate Republican Leader Rob Ortt, Members Of The ...",
+      "url": "https://www.nysenate.gov/newsroom/press-releases/2025/robert-g-ortt/senate-republican-leader-rob-ortt-members-wny",
+      "domain": "nysenate.gov",
+      "published": "2025-04-04",
+      "publishedAsGiven": "Apr 4, 2025",
+      "snippet": "The decision by Governor Hochul and DOCCS to release inmates early because of a staffing crisis they created is an outrageous betrayal of public ..."
+    }
+  ],
+  "returned": 17,
+  "dropped": {
+    "fact-checker": 4,
+    "fact-check-words": 0,
+    "after-said": 8,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 3
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:05:46.218Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Hochul says subway crime 'not statistically significant, but ...",
+      "url": "https://www.cityandstateny.com/politics/2024/03/progressives-and-civil-liberties-groups-criticize-hochuls-plan-put-national-guard-subways/394770/",
+      "domain": "cityandstateny.com",
+      "snippet": "Mar 7, 2024 — Hochul says subway crime 'not statistically significant, but psychologically significant'. The governor's supporters say the specter of National ... Read more",
+      "published": "2024-03-07",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "City and State New York",
+        "page": "https://mediabiasfactcheck.com/city-and-state-new-york/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Senate Republican Leader Rob Ortt, Members Of The ...",
+      "url": "https://www.nysenate.gov/newsroom/press-releases/2025/robert-g-ortt/senate-republican-leader-rob-ortt-members-wny",
+      "domain": "nysenate.gov",
+      "snippet": "The decision by Governor Hochul and DOCCS to release inmates early because of a staffing crisis they created is an outrageous betrayal of public ...",
+      "published": "2025-04-04",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    }
+  ]
+}

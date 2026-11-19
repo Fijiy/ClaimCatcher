@@ -1,0 +1,249 @@
+{
+  "frozenAt": "2026-10-27T03:12:54.454Z",
+  "refilteredAt": "2026-10-27T03:34:57.908Z",
+  "id": "pf/donald-trump/more-americans-working-today-employment",
+  "said": "2026-03-27",
+  "queries": {
+    "fact": "More Americans are working today than at any time in the history of our country.",
+    "claim": "More Americans are working today than at any time in the history of our country. Donald Trump"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1707.5843749999767,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1077.6496670000488,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "POTUS: More Americans Working Now Than Ever Before, U.S. ...",
+      "url": "https://www.facebook.com/departmentoflabor/videos/potus-more-americans-are-working-today-in-our-country-than-at-any-time-by-far-in/4628794894067274/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Trump's Pointless Job Boast",
+      "url": "https://www.factcheck.org/2019/01/trumps-pointless-job-boast/",
+      "domain": "factcheck.org",
+      "published": "2019-01-25",
+      "publishedAsGiven": "Jan 25, 2019",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "FACT FOCUS: Trump Boasts About the Economy but ...",
+      "url": "https://www.usnews.com/news/us/articles/2026-08-06/fact-focus-trump-boasts-about-the-economy-but-theres-more-to-the-story",
+      "domain": "usnews.com",
+      "published": "2026-08-06",
+      "publishedAsGiven": "Aug 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "POTUS: “More Americans are working today in our country than ...",
+      "url": "https://www.facebook.com/departmentoflabor/posts/potus-more-americans-are-working-today-in-our-country-than-at-any-time-by-far-in/1491111289731089/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Fact-check: Trump says more Americans are working than ...",
+      "url": "https://www.wral.com/news/state/fact-check-trump-record-high-us-jobs-employment-april-24/",
+      "domain": "wral.com",
+      "published": "2026-04-24",
+      "publishedAsGiven": "Apr 24, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Trump says more Americans are working than at 'any time' in ...",
+      "url": "https://www.youtube.com/watch?v=yZIQcYMYYuc",
+      "domain": "youtube.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "POTUS: “More Americans are working today in our country than ...",
+      "url": "https://www.instagram.com/reel/DeC0FX6ouPC/",
+      "domain": "instagram.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Economy & Jobs - Trump White House Archives",
+      "url": "https://trumpwhitehouse.archives.gov/issues/economy-jobs/",
+      "domain": "trumpwhitehouse.archives.gov",
+      "published": "2021-01-15",
+      "publishedAsGiven": "Jan 15, 2021",
+      "snippet": "Under the Trump Administration, more Americans were employed than ever before—160 million—and the unemployment rate fell to a 50-year low."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "FACT: More Americans are working today than at any time ...",
+      "url": "https://www.facebook.com/ilgop/posts/fact-more-americans-are-working-today-than-at-any-time-in-the-history-of-our-cou/1368670161958171/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "snippet": "This labor force expansion is shown to be more than 150 million people, with a majority of workers in the service industry, and is contrasted ..."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "\"It was just announced. We have more jobs right now than ...",
+      "url": "https://www.reddit.com/r/economy/comments/1p1iedf/it_was_just_announced_we_have_more_jobs_right_now/",
+      "domain": "reddit.com",
+      "published": "2025-11-27",
+      "publishedAsGiven": "11 months ago",
+      "snippet": "We have more jobs right now than we've ever had in the history of our country. Those are big numbers. You know, it's like crazy. It's it's a ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "POTUS: “More Americans are working today in our country than ...",
+      "url": "https://www.facebook.com/departmentoflabor/posts/potus-more-americans-are-working-today-in-our-country-than-at-any-time-by-far-in/1491111289731089/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Record Incomes & Jobs? Trump's Big Economic Pitch Amid ...",
+      "url": "https://www.youtube.com/watch?v=30eBgbCdcw0",
+      "domain": "youtube.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "16 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Fact-check: Trump says more Americans are working than ...",
+      "url": "https://www.wral.com/news/state/fact-check-trump-record-high-us-jobs-employment-april-24/",
+      "domain": "wral.com",
+      "published": "2026-04-24",
+      "publishedAsGiven": "Apr 24, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "FACT FOCUS: Trump Boasts About the Economy but ...",
+      "url": "https://www.usnews.com/news/us/articles/2026-08-06/fact-focus-trump-boasts-about-the-economy-but-theres-more-to-the-story",
+      "domain": "usnews.com",
+      "published": "2026-08-06",
+      "publishedAsGiven": "Aug 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Trump says more Americans are working than at 'any time' in ...",
+      "url": "https://www.wral.com/archive/22351411/",
+      "domain": "wral.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "\"More Americans are working in the United States ...",
+      "url": "https://x.com/KellieMeyerNews/status/2085116647715508674",
+      "domain": "x.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Trump's Pointless Job Boast",
+      "url": "https://www.factcheck.org/2019/01/trumps-pointless-job-boast/",
+      "domain": "factcheck.org",
+      "published": "2019-01-25",
+      "publishedAsGiven": "Jan 25, 2019",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "POTUS: “More Americans are working today in our country than ...",
+      "url": "https://www.instagram.com/reel/DeC0FX6ouPC/",
+      "domain": "instagram.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Trump Administration Accomplishments – The White House",
+      "url": "https://trumpwhitehouse.archives.gov/trump-administration-accomplishments-2018/",
+      "domain": "trumpwhitehouse.archives.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Fact-checking Trump's longest ever State of the Union",
+      "url": "https://www.bbc.com/news/articles/cgmlzg0p8k2o",
+      "domain": "bbc.com",
+      "published": "2026-02-25",
+      "publishedAsGiven": "Feb 25, 2026",
+      "dropped": "fact-check-words"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 3,
+    "after-said": 9,
+    "maybe-after-said": 1,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:12:51.667Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Economy & Jobs - Trump White House Archives",
+      "url": "https://trumpwhitehouse.archives.gov/issues/economy-jobs/",
+      "domain": "trumpwhitehouse.archives.gov",
+      "snippet": "Under the Trump Administration, more Americans were employed than ever before—160 million—and the unemployment rate fell to a 50-year low.",
+      "published": "2021-01-15",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 1
+    }
+  ]
+}

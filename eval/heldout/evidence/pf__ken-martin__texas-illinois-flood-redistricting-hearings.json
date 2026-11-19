@@ -1,0 +1,269 @@
+{
+  "frozenAt": "2026-10-27T03:06:02.606Z",
+  "refilteredAt": "2026-10-27T03:33:17.554Z",
+  "id": "pf/ken-martin/texas-illinois-flood-redistricting-hearings",
+  "said": "2025-08-05",
+  "queries": {
+    "fact": "Texas Republicans held one hearing on flood response but eight hearings on redistricting",
+    "claim": "Texas Republicans held one hearing on flood response but eight hearings on redistricting Ken Martin"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 3511.335290999996,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1976.5555410000088,
+      "results": 8
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Did Texas Republicans hold more meetings for flooding or ...",
+      "url": "https://www.wral.com/archive/22114882/",
+      "domain": "wral.com",
+      "published": "2025-08-11",
+      "publishedAsGiven": "Aug 11, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Did Texas Republicans hold more meetings for flooding or ...",
+      "url": "https://www.youtube.com/watch?v=rCy5nUF5TY4",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Redistricting",
+      "url": "https://politifact.com/redistricting/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Hearings in Texas on flooding response and redistricting ...",
+      "url": "https://www.cbsnews.com/texas/news/hearings-texas-flooding-response-redistricting-special-session-continues/",
+      "domain": "cbsnews.com",
+      "published": "2025-08-03",
+      "publishedAsGiven": "Aug 3, 2025",
+      "snippet": "In Kerr County, officials question the response to deadly flooding. Feedback on redistricting across the state has been overwhelmingly ..."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Texas Republicans and Democrats, locked in redistricting ...",
+      "url": "https://www.texastribune.org/2025/08/12/texas-floods-political-redistricting-battle/",
+      "domain": "texastribune.org",
+      "published": "2025-08-12",
+      "publishedAsGiven": "Aug 12, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Texas lawmakers address floods, spar over redistricting",
+      "url": "https://www.kxan.com/state-of-texas/state-of-texas-lawmakers-address-flood-response-and-spar-over-redistricting/",
+      "domain": "kxan.com",
+      "published": "2025-07-26",
+      "publishedAsGiven": "Jul 26, 2025",
+      "snippet": "Witnesses who testified before the committee expressed anger and frustration with the potential of redrawing congressional maps. The Republican ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Texas Senate special committee hearing on redistricting map",
+      "url": "https://www.youtube.com/watch?v=aT7887scOa8",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Texas lawmakers hold simultaneous redistricting hearings ...",
+      "url": "https://cbsaustin.com/news/local/texas-lawmakers-hold-simultaneous-redistricting-hearings-as-tension-mount-statewide",
+      "domain": "cbsaustin.com",
+      "published": "2025-07-28",
+      "publishedAsGiven": "Jul 28, 2025",
+      "snippet": "Both meetings are part of an ongoing special session called by Gov. Greg Abbott to redraw the state's 38 congressional districts."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Yesterday, the Texas Senate and House Select ...",
+      "url": "https://www.facebook.com/drschwertner/posts/yesterday-the-texas-senate-and-house-select-committees-on-disaster-preparedness-/1256711402570587/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Texas Republicans set redistricting hearings; Democrats ...",
+      "url": "https://www.spokesman.com/stories/2025/jul/22/texas-republicans-set-redistricting-hearings-democ/",
+      "domain": "spokesman.com",
+      "published": "2025-07-22",
+      "publishedAsGiven": "Jul 22, 2025",
+      "snippet": "Texas Republicans set redistricting hearings; Democrats say Legislature must first address deadly floods. July 22, 2025 Updated Tue., July 22 ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Did Texas Republicans hold more meetings for flooding or ...",
+      "url": "https://www.wral.com/archive/22114882/",
+      "domain": "wral.com",
+      "published": "2025-08-11",
+      "publishedAsGiven": "Aug 11, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "DNC chair excludes some examples from a tally of Texas ...",
+      "url": "https://politifact.com/factchecks/2025/aug/06/ken-martin/texas-illinois-flood-redistricting-hearings/",
+      "domain": "politifact.com",
+      "published": "2025-08-06",
+      "publishedAsGiven": "Aug 6, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Did Texas Republicans hold more meetings for flooding or ...",
+      "url": "https://www.wral.com/archive/22115007/",
+      "domain": "wral.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "TODAY: Final Texas Redistricting Committee Hearing as GOP ...",
+      "url": "https://democrats.org/today-final-texas-redistricting-committee-hearing-as-gop-rigs-maps-in-desperate-ploy-to-save-their-majority/",
+      "domain": "democrats.org",
+      "published": "2025-08-01",
+      "publishedAsGiven": "Aug 1, 2025",
+      "snippet": "Aug 1, 2025 — A reminder: Texas Republicans have held EIGHT hearings during this special session, but only ONE was focused on flood relief for families in ... Read more"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Ken Martin – DNC chair excludes some examples from a tally of ...",
+      "url": "https://wnymedia.net/2025/08/07/ken-martin-dnc-chair-excludes-some-examples-from-a-tally-of-texas-hearings-on-flood-versus-redistricting/",
+      "domain": "wnymedia.net",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "The high stakes of good data",
+      "url": "https://www.linkedin.com/pulse/high-stakes-good-data-politifact-kjvue",
+      "domain": "linkedin.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Redistricting",
+      "url": "https://politifact.com/redistricting/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Texas lawmakers seek answers on Guadalupe River flood ...",
+      "url": "https://www.facebook.com/texaspublicradio/posts/after-the-july-4-flash-flood-that-turned-the-upper-guadalupe-river-into-a-disast/1342121054590016/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    }
+  ],
+  "returned": 18,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 2,
+    "after-said": 3,
+    "maybe-after-said": 3,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:05:57.118Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Hearings in Texas on flooding response and redistricting ...",
+      "url": "https://www.cbsnews.com/texas/news/hearings-texas-flooding-response-redistricting-special-session-continues/",
+      "domain": "cbsnews.com",
+      "snippet": "In Kerr County, officials question the response to deadly flooding. Feedback on redistricting across the state has been overwhelmingly ...",
+      "published": "2025-08-03",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "CBS News",
+        "page": "https://mediabiasfactcheck.com/cbs-news/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Texas Republicans set redistricting hearings; Democrats ...",
+      "url": "https://www.spokesman.com/stories/2025/jul/22/texas-republicans-set-redistricting-hearings-democ/",
+      "domain": "spokesman.com",
+      "snippet": "Texas Republicans set redistricting hearings; Democrats say Legislature must first address deadly floods. July 22, 2025 Updated Tue., July 22 ...",
+      "published": "2025-07-22",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "The Spokesman-Review",
+        "page": "https://mediabiasfactcheck.com/the-spokesman-review/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Texas lawmakers address floods, spar over redistricting",
+      "url": "https://www.kxan.com/state-of-texas/state-of-texas-lawmakers-address-flood-response-and-spar-over-redistricting/",
+      "domain": "kxan.com",
+      "snippet": "Witnesses who testified before the committee expressed anger and frustration with the potential of redrawing congressional maps. The Republican ...",
+      "published": "2025-07-26",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    },
+    {
+      "title": "Texas lawmakers hold simultaneous redistricting hearings ...",
+      "url": "https://cbsaustin.com/news/local/texas-lawmakers-hold-simultaneous-redistricting-hearings-as-tension-mount-statewide",
+      "domain": "cbsaustin.com",
+      "snippet": "Both meetings are part of an ongoing special session called by Gov. Greg Abbott to redraw the state's 38 congressional districts.",
+      "published": "2025-07-28",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 4
+    }
+  ]
+}

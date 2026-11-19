@@ -1,0 +1,238 @@
+{
+  "frozenAt": "2026-10-27T03:28:01.592Z",
+  "refilteredAt": "2026-10-27T03:38:44.967Z",
+  "id": "pf/mike-rogers/el-sayed-muslim-brotherhood-michigan-senate",
+  "said": "2026-10-18",
+  "queries": {
+    "fact": "Michigan U.S. Senate candidate Abdul El-Sayed didn’t disavow the Muslim Brotherhood.",
+    "claim": "Michigan U.S. Senate candidate Abdul El-Sayed didn’t disavow the Muslim Brotherhood. Mike Rogers"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1667.3363749999553,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2246.047540999949,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "What Republicans mean when they ask Abdul El-Sayed to ' ...",
+      "url": "https://www.cnn.com/2026/10/22/us/word-of-week-abdul-el-sayed-disavow-cec",
+      "domain": "cnn.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Abdul El-Sayed disavows Muslim Brotherhood, responds ...",
+      "url": "https://bridgemi.com/michigan-government/abdul-el-sayed-disavows-muslim-brotherhood-responds-to-claims/",
+      "domain": "bridgemi.com",
+      "published": "2026-10-19",
+      "publishedAsGiven": "8 days ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "On Saturday, Michigan Democratic Senate nominee Abdul ...",
+      "url": "https://www.facebook.com/cnn/videos/on-saturday-michigan-democratic-senate-nominee-abdul-el-sayed-responded-to-an-at/1604603521464916/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Examining the Muslim Brotherhood claims in Michigan's ...",
+      "url": "https://www.washingtonpost.com/politics/2026/10/23/examining-muslim-brotherhood-claims-michigans-senate-race/",
+      "domain": "washingtonpost.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Abdul El Sayed's viral interaction with 'Tommy' over Muslim ...",
+      "url": "https://www.youtube.com/watch?v=Z_N5nq50GpY",
+      "domain": "youtube.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "El-Sayed refuses to answer questions about Muslim ...",
+      "url": "https://nypost.com/2026/10/23/us-news/el-sayed-refuses-to-answer-questions-about-muslim-brotherhood-letter-im-not-interested/",
+      "domain": "nypost.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "On Saturday, Michigan Democratic Senate nominee Abdul ...",
+      "url": "https://www.instagram.com/reel/Deot91pCkIZ/?hl=en",
+      "domain": "instagram.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Abdul El-Sayed Confronts Attacks on His Faith and Family ...",
+      "url": "https://www.nytimes.com/2026/10/21/us/politics/abdul-el-sayed-muslim-brotherhood-mother-half-sister.html",
+      "domain": "nytimes.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Abdul El-Sayed denied that he has ties to the Muslim ...",
+      "url": "https://www.facebook.com/NBCNews/posts/abdul-el-sayed-denied-that-he-has-ties-to-the-muslim-brotherhood-in-an-interview/1512434517415075/",
+      "domain": "facebook.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "1 day ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Abdul El-Sayed on Muslim Brotherhood accusations ...",
+      "url": "https://www.reddit.com/r/videos/comments/1xcb6s0/abdul_elsayed_on_muslim_brotherhood_accusations/",
+      "domain": "reddit.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "What Republicans mean when they ask Abdul El-Sayed to ' ...",
+      "url": "https://www.cnn.com/2026/10/22/us/word-of-week-abdul-el-sayed-disavow-cec",
+      "domain": "cnn.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Examining the Muslim Brotherhood claims in Michigan's ...",
+      "url": "https://www.washingtonpost.com/politics/2026/10/23/examining-muslim-brotherhood-claims-michigans-senate-race/",
+      "domain": "washingtonpost.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Abdul El-Sayed denied that he has ties to the Muslim ...",
+      "url": "https://www.facebook.com/NBCNews/posts/abdul-el-sayed-denied-that-he-has-ties-to-the-muslim-brotherhood-in-an-interview/1512434517415075/",
+      "domain": "facebook.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "1 day ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Abdul El-Sayed disavows Muslim Brotherhood, responds ...",
+      "url": "https://bridgemi.com/michigan-government/abdul-el-sayed-disavows-muslim-brotherhood-responds-to-claims/",
+      "domain": "bridgemi.com",
+      "published": "2026-10-19",
+      "publishedAsGiven": "8 days ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Abdul El Sayed's viral interaction with 'Tommy' over Muslim ...",
+      "url": "https://www.youtube.com/watch?v=Z_N5nq50GpY",
+      "domain": "youtube.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Abdul El-Sayed Confronts Attacks on His Faith and Family ...",
+      "url": "https://www.nytimes.com/2026/10/21/us/politics/abdul-el-sayed-muslim-brotherhood-mother-half-sister.html",
+      "domain": "nytimes.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Michigan Senate candidates Republican Mike Rogers and ...",
+      "url": "https://www.instagram.com/reel/DeyLH0uAjDL/",
+      "domain": "instagram.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Mike Rogers said Abdul El-Sayed didn't disavow ...",
+      "url": "https://politifact.com/factchecks/2026/oct/19/mike-rogers/el-sayed-muslim-brotherhood-michigan-senate/",
+      "domain": "politifact.com",
+      "published": "2026-10-19",
+      "publishedAsGiven": "8 days ago",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Republican 'Muslim Brotherhood' attacks on El-Sayed in ...",
+      "url": "https://www.reuters.com/legal/government/republican-muslim-brotherhood-attacks-on-el-sayed-michigan-seek-exploit-2026-10-23/",
+      "domain": "reuters.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Abdul El-Sayed on Muslim Brotherhood accusations by Mike ...",
+      "url": "https://www.reddit.com/r/videos/comments/1xcb6s0/abdul_elsayed_on_muslim_brotherhood_accusations/",
+      "domain": "reddit.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 0,
+    "after-said": 13,
+    "maybe-after-said": 6,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:27:57.678Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

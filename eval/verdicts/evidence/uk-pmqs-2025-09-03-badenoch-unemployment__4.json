@@ -1,0 +1,116 @@
+{
+  "case_id": "uk-pmqs-2025-09-03-badenoch-unemployment#4",
+  "queries": {
+    "A": "Unemployment has gone up in every single month under this Labour Government. Badenoch",
+    "B": "UK unemployment rate monthly ONS labour market July 2024 to August 2025"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 3,
+      "title": "Youth unemployment is not at its ‘highest ever’ levels – Full Fact",
+      "url": "https://fullfact.org/politics/badenoch-youth-unemployment-pmqs/",
+      "domain": "fullfact.org",
+      "published": "2026-02-27",
+      "snippet": "Mrs Badenoch also said that unemployment has risen “every single month under this Labour government”. We’ve heard this claim from Mrs Badenoch and other Conservative politicians before . It’s also incorrect, as we’ve previously explained.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 6,
+      "title": "How have unemployment and jobs figures changed under Labour? – Full Fact",
+      "url": "https://fullfact.org/economy/unemployment-jobs-pmqs/",
+      "domain": "fullfact.org",
+      "published": "2025-05-14",
+      "snippet": "The Leader of the Opposition Kemi Badenoch claimed that “unemployment is up 10% since the election”—but was later challenged by Labour MP Jake Richards, who raised a point of order and claimed that figure was “completely and utterly incorrect”.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 8,
+      "title": "Unemployment has increased under Labour, but it hasn’t risen ‘every single month’ – Full Fact",
+      "url": "https://fullfact.org/economy/alex-burghart-labour-unemployment-record/",
+      "domain": "fullfact.org",
+      "published": "2026-01-07",
+      "snippet": "Conservative shadow chancellor of the Duchy of Lancaster and shadow Northern Ireland secretary Alex Burghart claimed on LBC yesterday that unemployment has risen “in every single month” since Labour took office.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 9,
+      "title": "Fact check: The unemployment rate has risen from 4.2% to 4.5% since the election | LBC",
+      "url": "https://www.lbc.co.uk/business/b26077fa679a4a53b8fa4febb6a5dc62/",
+      "domain": "lbc.co.uk",
+      "published": "2025-05-14",
+      "snippet": "A disagreement broke out between leader of the Opposition Kemi Badenoch and Labour MP Jake Richards at Prime Minister’s Questions (PMQs) on May 14.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 1,
+      "title": "Unemployment - Office for National Statistics",
+      "url": "https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/",
+      "domain": "ons.gov.uk",
+      "published": null,
+      "snippet": "Labour market statistics summary data table, including earnings, employment, unemployment, redundancies and vacancies, Great Britain and UK, published monthly.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "Data related to Labour market overview, UK - Office for National Statistics",
+      "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/october2025/relateddata",
+      "domain": "ons.gov.uk",
+      "published": "2026-10-20",
+      "snippet": "Labour market statistics summary data table, including earnings, employment, unemployment, redundancies and vacancies, Great Britain and UK, published monthly.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "Data related to Labour market overview, UK - Office for National Statistics",
+      "url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/july2025/relateddata",
+      "domain": "ons.gov.uk",
+      "published": "2026-10-20",
+      "snippet": "Labour market statistics summary data table, including earnings, employment, unemployment, redundancies and vacancies, Great Britain and UK, published monthly.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 4,
+      "title": "UK unemployment rate rises to 4.5% as labour market begins to weaken | Quilter Media Centre",
+      "url": "https://media.quilter.com/search/2025/uk-unemployment-rate-rises-to-4.5-as-labour-market-begins-to-weaken",
+      "domain": "media.quilter.com",
+      "published": null,
+      "snippet": "“While the labour market has been surprisingly resilient thus far, this latest print may prove to be the start of the expected slowdown. The unemployment rate ticked up slightly to 4.5% in January to March 2025, while payrolled employee numbers fell by 47,000 between February and March 2025 and by 63,000 between March 2024 and March 2025. Job vacancies also dropped by 42,000 on the quarter to 761,000 in February to April 2025, marking the 34th consecutive quarterly decline.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://mp.scotsman.com/uk-news/fact-check-has-unemployment-risen-every-single-month-under-labour-5670530",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "A",
+      "url": "https://fullfact.org/economy/kemi-badenoch-unemployment-under-labour/",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "A",
+      "url": "https://fullfact.org/economy/badenoch-labour-unemploment-record",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "A",
+      "url": "https://fullfact.org/economy/badenoch-labour-unemployment-record/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it) -- page refers to the claim being made at Prime Minister's Questions \"last month\" (this event)"
+    },
+    {
+      "q": "A",
+      "url": "https://mp.scotsman.com/uk-news/fact-check-the-unemployment-rate-has-risen-from-42-to-45-since-the-election-5699366",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    }
+  ]
+}

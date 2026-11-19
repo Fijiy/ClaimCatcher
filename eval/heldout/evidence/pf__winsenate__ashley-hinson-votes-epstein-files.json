@@ -1,0 +1,235 @@
+{
+  "frozenAt": "2026-10-27T03:25:24.611Z",
+  "refilteredAt": "2026-10-27T03:38:03.725Z",
+  "id": "pf/winsenate/ashley-hinson-votes-epstein-files",
+  "said": "2026-09-25",
+  "queries": {
+    "fact": "Iowa Republican Senate candidate Rep. Ashley Hinson voted against releasing the Jeffrey Epstein files.",
+    "claim": "Iowa Republican Senate candidate Rep. Ashley Hinson voted against releasing the Jeffrey Epstein files. WinSenate"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 3611.375,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1114.2035000000615,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Sex trafficking victim advocate explains Rep. Hinson&#39",
+      "url": "https://www.c-span.org/clip/campaign-2026/sex-trafficking-victim-advocate-explains-rep-hinsons-vote-on-epstein-files/5207683",
+      "domain": "c-span.org",
+      "published": "2026-09-30",
+      "publishedAsGiven": "Sep 30, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Attacks Over Epstein Files Lobbed in Iowa Senate Ads",
+      "url": "https://www.nytimes.com/2026/10/05/us/elections/iowa-senate-epstein-hinson-turek-ads.html?eafs_enabled=false",
+      "domain": "nytimes.com",
+      "published": "2026-10-05",
+      "publishedAsGiven": "Oct 5, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Rep. Ashley Hinson, GOP U.S. Senate candidate in Iowa ...",
+      "url": "https://www.facebook.com/politifact/posts/rep-ashley-hinson-gop-us-senate-candidate-in-iowa-opposed-procedural-efforts-rel/1569508391876925/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Senate Democrats' ad claiming Rep. Ashley Hinson “voted ...",
+      "url": "https://washingtonreporter.news/fact-check-senate-democrats-ad-claiming-rep-ashley-hinson-voted-against-releasing-the-epstein-files-is-false/",
+      "domain": "washingtonreporter.news",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "The day Ashley Hinson skipped voting on the Epstein files ...",
+      "url": "https://www.facebook.com/Turek4Iowa/posts/the-day-ashley-hinson-skipped-voting-on-the-epstein-files-she-took-thousands-fro/1103747865620237/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "The Epstein Fallout Is Creating A New Problem For ...",
+      "url": "https://sg.news.yahoo.com/epstein-fallout-creating-problem-republican-123643972.html",
+      "domain": "sg.news.yahoo.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Midterms Watch: OpenAI's New Image Generator Produced ...",
+      "url": "https://www.newsguardtech.com/special-reports/openai-image-generator-produced-fake-disparaging-images-of-candidates-80-percent-of-the-time",
+      "domain": "newsguardtech.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Ashley Hinson Votes to Release Epstein Files and Protect ...",
+      "url": "https://www.facebook.com/AshleyHinsonIowa/videos/i-voted-to-release-the-epstein-files-and-have-spent-years-working-across-the-ais/1126588686571725/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "FACT CHECK: Ashley Hinson Fought to Block the Release ...",
+      "url": "https://iowademocrats.org/2026/09/11/fact-check-ashley-hinson-fought-to-block-the-release-of-the-epstein-files/",
+      "domain": "iowademocrats.org",
+      "published": "2026-09-11",
+      "publishedAsGiven": "Sep 11, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Ashley Hinson Epstein files: did she support releasing them?",
+      "url": "https://www.tiktok.com/@couriernewsroom/video/7696520660239125774",
+      "domain": "tiktok.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "FACT CHECK: Ashley Hinson Fought to Block the Release ...",
+      "url": "https://iowademocrats.org/2026/09/11/fact-check-ashley-hinson-fought-to-block-the-release-of-the-epstein-files/",
+      "domain": "iowademocrats.org",
+      "published": "2026-09-11",
+      "publishedAsGiven": "Sep 11, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Ashley Hinson voted for Epstein files' release. What's ...",
+      "url": "https://politifact.com/factchecks/2026/oct/02/winsenate/ashley-hinson-votes-epstein-files/",
+      "domain": "politifact.com",
+      "published": "2026-10-02",
+      "publishedAsGiven": "Oct 2, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Senate Democrats' ad claiming Rep. Ashley Hinson “voted ...",
+      "url": "https://washingtonreporter.news/fact-check-senate-democrats-ad-claiming-rep-ashley-hinson-voted-against-releasing-the-epstein-files-is-false/",
+      "domain": "washingtonreporter.news",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Rep. Ashley Hinson, GOP U.S. Senate candidate in Iowa ...",
+      "url": "https://www.facebook.com/politifact/posts/rep-ashley-hinson-gop-us-senate-candidate-in-iowa-opposed-procedural-efforts-rel/1569508391876925/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Iowa Senate candidates spar over new attack ad",
+      "url": "https://who13.com/news/politics/iowa-politics/iowa-senate-candidates-spar-over-new-attack-ad/",
+      "domain": "who13.com",
+      "published": "2026-09-30",
+      "publishedAsGiven": "Sep 30, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Trump-Backed Iowa Senate Candidate Slapped With ...",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-backed-iowa-senate-candidate-175334411.html",
+      "domain": "yahoo.com",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Sex trafficking victim advocate explains Rep. Hinson&#39",
+      "url": "https://www.c-span.org/clip/campaign-2026/sex-trafficking-victim-advocate-explains-rep-hinsons-vote-on-epstein-files/5207683",
+      "domain": "c-span.org",
+      "published": "2026-09-30",
+      "publishedAsGiven": "Sep 30, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "The day Ashley Hinson skipped voting on the Epstein files ...",
+      "url": "https://www.facebook.com/Turek4Iowa/videos/why-did-hinson-skip-epstein-files-vote/941863738680814/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Ashley Hinson pressed by Iowa callers over Epstein files",
+      "url": "https://www.thegazette.com/news/politics/ashley-hinson-pressed-over-epstein-files-during-iowa-telephone-town-hall/article_a9691a7b-8cb6-41ff-9a7a-2fbfd80b2f6a.html",
+      "domain": "thegazette.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "WinSenate",
+      "url": "https://politifact.com/personalities/winsenate/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 7,
+    "after-said": 9,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:25:18.592Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

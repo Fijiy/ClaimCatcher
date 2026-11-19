@@ -1,0 +1,242 @@
+{
+  "frozenAt": "2026-10-27T03:07:22.739Z",
+  "refilteredAt": "2026-10-27T03:33:35.768Z",
+  "id": "pf/amy-klobuchar/expiring-aca-subsidies-rural-areas-double",
+  "said": "2025-09-28",
+  "queries": {
+    "fact": "People with insurance through the Affordable Care Act will see a 75% increase in premiums starting Nov. 1 if enhanced subsidies are not extended, including twice as much in the rural areas.",
+    "claim": "People with insurance through the Affordable Care Act will see a 75% increase in premiums starting Nov. 1 if enhanced subsidies are not extended, including twice as much in the rural areas. Amy Klobuchar"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2222.6310839999933,
+      "results": 7
+    },
+    {
+      "query": "claim",
+      "ms": 1827.1567909999867,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Delaying ACA subsidy extension lessens 2026 premium cuts",
+      "url": "https://www.fiercehealthcare.com/payers/delaying-aca-subsidy-legislation-past-sept-30-limits-next-years-premium-reductions-cbo",
+      "domain": "fiercehealthcare.com",
+      "published": "2025-09-18",
+      "publishedAsGiven": "Sep 18, 2025",
+      "snippet": "Sep 18, 2025 — “ If Congress does not extend enhanced [ premium tax credits], we project that these gains will be reversed, and 4.8 million people will become ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Stay covered with Marketplace insurance",
+      "url": "https://www.floridablue.com/health-insurance-education/aca-marketplace-changes",
+      "domain": "floridablue.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Insurance premiums rise for ACA enrollees",
+      "url": "https://crh.arizona.edu/news/insurance-premiums-rise-aca-enrollees",
+      "domain": "crh.arizona.edu",
+      "published": "2026-01-06",
+      "publishedAsGiven": "Jan 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "New Research: Millions of Americans Will Pay More for…",
+      "url": "https://www.ahip.org/news/press-releases/new-research-millions-of-americans-will-pay-more-for-marketplace-coverage-if-arpa-tax-credits-expire",
+      "domain": "ahip.org",
+      "published": "2022-04-26",
+      "publishedAsGiven": "Apr 26, 2022",
+      "snippet": "Apr 26, 2022 — Press Release. Nearly 3 million Americans would also lose health coverage and become uninsured if enhanced premium subsidies lapse. Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "ACA health insurance will cost the average person 75% ...",
+      "url": "https://www.nprillinois.org/2025-07-18/aca-health-insurance-will-cost-the-average-person-75-more-next-year-research-shows",
+      "domain": "nprillinois.org",
+      "published": "2025-07-18",
+      "publishedAsGiven": "Jul 18, 2025",
+      "snippet": "Jul 18, 2025 — The average person who buys Affordable Care Act insurance will be paying 75 % more for their premium , according to the analysis from KFF, a ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "ACA Subsidy Cliff 2026: Prepare for Premium Increases",
+      "url": "https://ictinsurance.com/aca-subsidy-cliff-2026/",
+      "domain": "ictinsurance.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "How much will health insurance premiums on the ...",
+      "url": "https://www.quora.com/How-much-will-health-insurance-premiums-on-the-Affordable-Care-Act-marketplace-increase-next-year-if-the-expiring-enhanced-subsidies-trigger-a-cliff-on-aid",
+      "domain": "quora.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact check: Could Affordable Care Act health premiums ...",
+      "url": "https://www.wral.com/news/local/fact-check-affordable-care-act-premiums-rise-oct-2025/",
+      "domain": "wral.com",
+      "published": "2025-10-10",
+      "publishedAsGiven": "Oct 10, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Enhanced Premium Tax Credit and 2026 Exchange ...",
+      "url": "https://www.congress.gov/crs-product/R48290",
+      "domain": "congress.gov",
+      "published": "2025-12-10",
+      "publishedAsGiven": "Dec 10, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Lawmakers' Health Care, Government Shutdown Claims",
+      "url": "https://www.factcheck.org/2025/10/lawmakers-health-care-government-shutdown-claims/",
+      "domain": "factcheck.org",
+      "published": "2025-10-01",
+      "publishedAsGiven": "Oct 1, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Dems Push to Extend Obamacare Subsidies: Premiums Could ...",
+      "url": "https://www.facebook.com/amyklobuchar/videos/the-health-care-tax-credit-is-a-big-deal-without-it4-million-people-lose-their-h/1327478252420253/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Fact check: Klobuchar says ACA costs could rise 75%",
+      "url": "https://www.youtube.com/watch?v=HAhYcgsgVq4",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Would rural residents get hit twice as hard by expiring ACA ...",
+      "url": "https://politifact.com/factchecks/2025/sep/30/amy-klobuchar/expiring-aca-subsidies-rural-areas-double/",
+      "domain": "politifact.com",
+      "published": "2025-09-30",
+      "publishedAsGiven": "Sep 30, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "We put forward a straightforward bill: extend the health care tax ...",
+      "url": "https://www.facebook.com/amyklobuchar/posts/we-put-forward-a-straightforward-bill-extend-the-health-care-tax-credits-to-prev/1418641132951382/",
+      "domain": "facebook.com",
+      "published": "2025-12-27",
+      "publishedAsGiven": "10 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Americans are facing a cliff: Health insurance premiums could ...",
+      "url": "https://www.facebook.com/amyklobuchar/videos/americans-are-facing-a-cliff-health-insurance-premiums-could-increase-by-75-and-/1827078114863326/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Health Insurance Premium Tax Credit and Cost-Sharing ...",
+      "url": "https://www.congress.gov/crs-product/R44425",
+      "domain": "congress.gov",
+      "published": "2026-02-19",
+      "publishedAsGiven": "Feb 19, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Throwback to when Sens. Klobuchar and Smith voted for ...",
+      "url": "https://www.americanexperiment.org/throwback-to-when-sens-klobuchar-and-smith-voted-for-aca-subsidies-to-expire-in-2025/",
+      "domain": "americanexperiment.org",
+      "published": "2025-11-07",
+      "publishedAsGiven": "Nov 7, 2025",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 17,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 2,
+    "after-said": 5,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 3
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:07:18.689Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Delaying ACA subsidy extension lessens 2026 premium cuts",
+      "url": "https://www.fiercehealthcare.com/payers/delaying-aca-subsidy-legislation-past-sept-30-limits-next-years-premium-reductions-cbo",
+      "domain": "fiercehealthcare.com",
+      "snippet": "Sep 18, 2025 — “ If Congress does not extend enhanced [ premium tax credits], we project that these gains will be reversed, and 4.8 million people will become ... Read more",
+      "published": "2025-09-18",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "New Research: Millions of Americans Will Pay More for…",
+      "url": "https://www.ahip.org/news/press-releases/new-research-millions-of-americans-will-pay-more-for-marketplace-coverage-if-arpa-tax-credits-expire",
+      "domain": "ahip.org",
+      "snippet": "Apr 26, 2022 — Press Release. Nearly 3 million Americans would also lose health coverage and become uninsured if enhanced premium subsidies lapse. Read more",
+      "published": "2022-04-26",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    },
+    {
+      "title": "ACA health insurance will cost the average person 75% ...",
+      "url": "https://www.nprillinois.org/2025-07-18/aca-health-insurance-will-cost-the-average-person-75-more-next-year-research-shows",
+      "domain": "nprillinois.org",
+      "snippet": "Jul 18, 2025 — The average person who buys Affordable Care Act insurance will be paying 75 % more for their premium , according to the analysis from KFF, a ... Read more",
+      "published": "2025-07-18",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    }
+  ]
+}

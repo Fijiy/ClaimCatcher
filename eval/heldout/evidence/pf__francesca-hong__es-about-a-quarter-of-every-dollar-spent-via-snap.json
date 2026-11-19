@@ -1,0 +1,410 @@
+{
+  "frozenAt": "2026-10-27T03:04:13.282Z",
+  "refilteredAt": "2026-10-27T03:32:53.330Z",
+  "id": "pf/francesca-hong/es-about-a-quarter-of-every-dollar-spent-via-snap",
+  "said": "2025-06-12",
+  "queries": {
+    "fact": "Nearly 25 cents of every $1 spent via SNAP goes to farmers and ranchers.",
+    "claim": "Nearly 25 cents of every $1 spent via SNAP goes to farmers and ranchers. Francesca Hong"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 944.5158330000122,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1678.1834589999926,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 150.11283299999923,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Yes, about a quarter of every dollar spent via SNAP goes to ...",
+      "url": "https://politifact.com/factchecks/2025/jul/30/francesca-hong/es-about-a-quarter-of-every-dollar-spent-via-snap/",
+      "domain": "politifact.com",
+      "published": "2025-07-30",
+      "publishedAsGiven": "Jul 30, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Overview Who Will Be Hurt by SNAP Cuts? How Does ...",
+      "url": "https://democrats-agriculture.house.gov/uploadedfiles/250409_-_ag_dems_-_snap_facts.pdf",
+      "domain": "democrats-agriculture.house.gov",
+      "published": "2025-04-09",
+      "publishedAsGiven": "Apr 9, 2025",
+      "snippet": "cutting SNAP by $230 billion would take away $30 billion in revenue from farmers and ranchers, causing additional harm to an already struggling ..."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "How accurate are estimates that nearly 25 cents of every ...",
+      "url": "https://www.quora.com/How-accurate-are-estimates-that-nearly-25-cents-of-every-1-spent-via-SNAP-goes-to-farmers-and-ranchers",
+      "domain": "quora.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Francesca Hong right on SNAP dollars benefiting farmers ...",
+      "url": "https://www.jsonline.com/story/news/politics/politifactwisconsin/2025/07/31/francesca-hong-right-on-snap-dollars-benefiting-farmers-and-ranchers/85442483007/",
+      "domain": "jsonline.com",
+      "published": "2025-07-31",
+      "publishedAsGiven": "Jul 31, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Food Stamp Program Boosts Farm Income and Jobs",
+      "url": "http://www.ers.usda.gov/amber-waves/2006/september/food-stamp-program-boosts-farm-income-and-jobs",
+      "domain": "ers.usda.gov",
+      "published": "2006-09-01",
+      "publishedAsGiven": "Sep 1, 2006",
+      "snippet": "An estimated 26 cents of every food stamp dollar goes to additional food demand. ... On average, each dollar spent on food by low-income ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "snap spending hidden in farm bill",
+      "url": "https://www.facebook.com/groups/i.am.ag/posts/2100126270554686/",
+      "domain": "facebook.com",
+      "published": "2025-11-27",
+      "publishedAsGiven": "11 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "The Supplemental Nutrition Assistance Program (SNAP)",
+      "url": "https://www.cbpp.org/research/food-assistance/the-supplemental-nutrition-assistance-program-snap",
+      "domain": "cbpp.org",
+      "published": "2024-11-25",
+      "publishedAsGiven": "Nov 25, 2024",
+      "snippet": "This means that every dollar in SNAP that a low-income family receives enables them to spend an additional dollar on food or other items."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Farmers and ranchers are major SNAP beneficiaries, too",
+      "url": "https://www.farmanddairy.com/columns/farmers-and-ranchers-are-major-snap-beneficiaries-too/895489.html",
+      "domain": "farmanddairy.com",
+      "published": "2025-11-19",
+      "publishedAsGiven": "Nov 19, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Supplemental Nutrition Assistance Program (SNAP)",
+      "url": "https://frac.org/programs/supplemental-nutrition-assistance-program-snap",
+      "domain": "frac.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "SNAP cuts could kill support for farm safety net",
+      "url": "https://www.farmprogress.com/farm-policy/snap-cuts-could-kill-support-for-farm-safety-net",
+      "domain": "farmprogress.com",
+      "published": "2025-10-31",
+      "publishedAsGiven": "Oct 31, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Yes, about a quarter of every dollar spent via SNAP goes to ...",
+      "url": "https://politifact.com/factchecks/2025/jul/30/francesca-hong/es-about-a-quarter-of-every-dollar-spent-via-snap/",
+      "domain": "politifact.com",
+      "published": "2025-07-30",
+      "publishedAsGiven": "Jul 30, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Francesca Hong's claim about SNAP dollars benefiting farmers",
+      "url": "https://www.facebook.com/StateRepHong/posts/hong-claimed-that-nearly-25-cents-of-every-dollar-spent-via-snap-goes-to-farmers/1357271873071579/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Yes, nearly 25 cents of every dollar spent via SNAP goes back ...",
+      "url": "https://news.mikecallicrate.com/fact-check-yes-nearly-25-cents-of-every-dollar-spent-via-snap-goes-back-to-farmers/",
+      "domain": "news.mikecallicrate.com",
+      "published": "2025-07-31",
+      "publishedAsGiven": "Jul 31, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Politifact Check: 25 cents of every $1 spent via SNAP goes ...",
+      "url": "https://aae.wisc.edu/2025/07/30/https-www-politifact-com-factchecks-2025-jul-30-francesca-hong-es-about-a-quarter-of-every-dollar-spent-via-snap/",
+      "domain": "aae.wisc.edu",
+      "published": "2025-07-30",
+      "publishedAsGiven": "Jul 30, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Latest Fact-Checks On Francesca Hong",
+      "url": "https://politifact.com/factchecks/list/?speaker=francesca-hong&ruling=true",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Will millions of low-income Americans lose food stamps ...",
+      "url": "https://www.aljazeera.com/economy/2025/10/25/will-millions-of-low-income-americans-lose-food-stamps-during-shutdown",
+      "domain": "aljazeera.com",
+      "published": "2025-10-25",
+      "publishedAsGiven": "Oct 25, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "SNAP Explained: Why 42 Million Americans Could Go Hungry ...",
+      "url": "https://zeenews.india.com/world/snap-explained-why-42-million-americans-could-go-hungry-this-november-2976595.html",
+      "domain": "zeenews.india.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Francesca Hong",
+      "url": "https://politifact.com/personalities/francesca-hong/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Economic and Business Benefits of SNAP",
+      "url": "https://sph.uth.edu/research/centers/dell/legislative-initiatives/tx-rpc-project-reports/Economic%20Impact%20of%20SNAP_2023.pdf",
+      "domain": "sph.uth.edu",
+      "published": "2023-06-13",
+      "publishedAsGiven": "Jun 13, 2023",
+      "snippet": "SNAP Boosts Local and Farm Economies. For every $5 in SNAP benefits spent at local grocery stores or farm stands, $9 in economic activity is ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Latest Fact-checks in Welfare",
+      "url": "https://www.politifact.com/factchecks/list/?category=welfare",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "US farm bill: the food stamp showdown",
+      "url": "https://www.csmonitor.com/USA/2018/0503/US-farm-bill-the-food-stamp-showdown",
+      "domain": "csmonitor.com",
+      "published": "2018-05-03",
+      "publishedAsGiven": "May 3, 2018",
+      "snippet": "House Republicans want to trim SNAP funding, putting bipartisan agreement at risk."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Arrington: Putting the Farm Back in the Farm Bill | Opinion",
+      "url": "https://www.usatoday.com/story/opinion/2025/06/11/arrington-viewpoint-putting-the-farm-back-in-the-farm-bill-opinion/84139796007/",
+      "domain": "usatoday.com",
+      "published": "2025-06-11",
+      "publishedAsGiven": "Jun 11, 2025",
+      "snippet": "Since then, federal spending on food stamps has outpaced the farm safety net by roughly 250 percent."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Will Minnesota farmers get a farm bill this year?",
+      "url": "https://www.usatoday.com/story/news/politics/2026/09/18/what-farm-bill-partisan-divide-in-congress-means-for-minnesota-farmers/91823450007/",
+      "domain": "usatoday.com",
+      "published": "2026-09-18",
+      "publishedAsGiven": "Sep 18, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Democrats urge US House Republicans not to cut food aid ...",
+      "url": "https://www.reuters.com/world/us/democrats-urge-us-house-republicans-not-cut-food-aid-poor-2023-08-07/",
+      "domain": "reuters.com",
+      "published": "2023-08-07",
+      "publishedAsGiven": "Aug 7, 2023",
+      "snippet": "\"Playing partisan SNAP politics does nothing to address the needs of our farm and ranch families who depend on the other components of the farm ..."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "SNAP and Medicaid cuts must survive Senate vote | Opinion",
+      "url": "https://www.usatoday.com/story/opinion/2025/05/29/snap-medicaid-cuts-senate-vote/83878124007/",
+      "domain": "usatoday.com",
+      "published": "2025-05-29",
+      "publishedAsGiven": "May 29, 2025",
+      "snippet": "Congress' painful cuts would take away $30 billion in revenue from farmers and ranchers who are already operating on razor-thin margins."
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "U.S. House Republican farm bill approach may test Biden ...",
+      "url": "https://www.reuters.com/world/us/us-house-republican-farm-bill-approach-may-test-biden-hunger-climate-goals-2022-11-18/",
+      "domain": "reuters.com",
+      "published": "2022-11-18",
+      "publishedAsGiven": "Nov 18, 2022",
+      "snippet": "“Whenever it does end, most SNAP recipients are going to lose about $82 a person a month,” she said, calling the looming expiration a “hunger ..."
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "House passes five-year farm bill",
+      "url": "https://www.usatoday.com/story/news/politics/2014/01/29/farm-bill-house/5022949/",
+      "domain": "usatoday.com",
+      "published": "2014-01-29",
+      "publishedAsGiven": "Jan 29, 2014",
+      "snippet": "The agreement would cut $23 billion over 10 years, much of that from food stamps."
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "House passes farm bill; strips out food-stamp program",
+      "url": "https://www.usatoday.com/story/news/politics/2013/07/11/house-passes-stripped-down-farm-bill/2510185/",
+      "domain": "usatoday.com",
+      "published": "2013-07-11",
+      "publishedAsGiven": "Jul 11, 2013",
+      "snippet": "The White House late Wednesday said it would veto the 608-page farm bill because it omitted SNAP spending and did not \"contain sufficient ..."
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "Factbox: Some provisions of farm bill",
+      "url": "https://www.reuters.com/article/us-usa-agriculture-farmbill-factbox/factbox-some-provisions-of-farm-bill-idUKBREA131HX20140204/",
+      "domain": "reuters.com",
+      "published": "2014-02-04",
+      "publishedAsGiven": "Feb 4, 2014",
+      "snippet": "SNAP and other nutrition programs account for more than three-quarters of the farm bill's spending - some $756 billion over a decade."
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "One Year of Flexibility to Deliver the Farm Bill",
+      "url": "https://www.wsj.com/opinion/one-year-of-flexibility-to-deliver-the-farm-bill-5fd72017",
+      "domain": "wsj.com",
+      "published": "2026-08-21",
+      "publishedAsGiven": "Aug 21, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 5,
+    "fact-check-words": 3,
+    "after-said": 6,
+    "maybe-after-said": 1,
+    "after-said-link-date": 0,
+    "undated": 3
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:04:08.894Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Food Stamp Program Boosts Farm Income and Jobs",
+      "url": "http://www.ers.usda.gov/amber-waves/2006/september/food-stamp-program-boosts-farm-income-and-jobs",
+      "domain": "ers.usda.gov",
+      "snippet": "An estimated 26 cents of every food stamp dollar goes to additional food demand. ... On average, each dollar spent on food by low-income ...",
+      "published": "2006-09-01",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Economic and Business Benefits of SNAP",
+      "url": "https://sph.uth.edu/research/centers/dell/legislative-initiatives/tx-rpc-project-reports/Economic%20Impact%20of%20SNAP_2023.pdf",
+      "domain": "sph.uth.edu",
+      "snippet": "SNAP Boosts Local and Farm Economies. For every $5 in SNAP benefits spent at local grocery stores or farm stands, $9 in economic activity is ...",
+      "published": "2023-06-13",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "US farm bill: the food stamp showdown",
+      "url": "https://www.csmonitor.com/USA/2018/0503/US-farm-bill-the-food-stamp-showdown",
+      "domain": "csmonitor.com",
+      "snippet": "House Republicans want to trim SNAP funding, putting bipartisan agreement at risk.",
+      "published": "2018-05-03",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Christian Science Monitor",
+        "page": "https://mediabiasfactcheck.com/christian-science-monitor/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "The Supplemental Nutrition Assistance Program (SNAP)",
+      "url": "https://www.cbpp.org/research/food-assistance/the-supplemental-nutrition-assistance-program-snap",
+      "domain": "cbpp.org",
+      "snippet": "This means that every dollar in SNAP that a low-income family receives enables them to spend an additional dollar on food or other items.",
+      "published": "2024-11-25",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "The Center on Budget and Policy Priorities",
+        "page": "https://mediabiasfactcheck.com/the-center-on-budget-and-policy-priorities/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Arrington: Putting the Farm Back in the Farm Bill | Opinion",
+      "url": "https://www.usatoday.com/story/opinion/2025/06/11/arrington-viewpoint-putting-the-farm-back-in-the-farm-bill-opinion/84139796007/",
+      "domain": "usatoday.com",
+      "snippet": "Since then, federal spending on food stamps has outpaced the farm safety net by roughly 250 percent.",
+      "published": "2025-06-11",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "USA Today",
+        "page": "https://mediabiasfactcheck.com/usa-today-2/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

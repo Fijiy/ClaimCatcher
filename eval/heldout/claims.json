@@ -1,0 +1,2760 @@
+[
+  {
+    "id": "pf/common-cause/yes-wisconsin-makes-it-harder-to-vote-than-most-ot",
+    "claim": "Wisconsin makes it more difficult for its citizens to vote than almost any state in the nation.",
+    "speaker": "Common Cause",
+    "said": "2025-01-08",
+    "venue": "News release",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/jan/28/common-cause/yes-wisconsin-makes-it-harder-to-vote-than-most-ot/",
+      "published": "2025-01-28",
+      "authors": [
+        "Madeline Heim"
+      ],
+      "rating": "True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/robin-vos/wisconsin-republicans-say-voter-id-laws-are-suppor",
+    "claim": "Voter ID “is supported, if you look at any poll, by 70 to 80% of the public.”",
+    "speaker": "Robin Vos",
+    "said": "2025-01-08",
+    "venue": "News conference",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/jan/23/robin-vos/wisconsin-republicans-say-voter-id-laws-are-suppor/",
+      "published": "2025-01-23",
+      "authors": [
+        "Hope Karnopp"
+      ],
+      "rating": "True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/cavalier-johnson/mps-does-indeed-have-a-larger-tax-levy-than-the-ci",
+    "claim": "“After the referendum, Milwaukee Public Schools has a larger tax levy than the City of Milwaukee.”",
+    "speaker": "Cavalier Johnson",
+    "said": "2025-01-19",
+    "venue": "TV interview",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/mar/03/cavalier-johnson/mps-does-indeed-have-a-larger-tax-levy-than-the-ci/",
+      "published": "2025-03-03",
+      "authors": [
+        "D.L. Davis"
+      ],
+      "rating": "True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/susan-crawford/candidate-right-that-wisconsin-does-not-require-ju",
+    "claim": "Wisconsin does not “require judges to automatically recuse just because they have done some kind of legal work in the past as a lawyer.”",
+    "speaker": "Susan Crawford",
+    "said": "2025-02-09",
+    "venue": "TV interview",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/feb/19/susan-crawford/candidate-right-that-wisconsin-does-not-require-ju/",
+      "published": "2025-02-19",
+      "authors": [
+        "Hope Karnopp"
+      ],
+      "rating": "True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/joel-kitchens/do-90-of-wisconsin-school-districts-ban-cellphones",
+    "claim": "“90% of the (school) districts in Wisconsin already have a policy” banning cellphones during class time.",
+    "speaker": "Joel Kitchens",
+    "said": "2025-02-19",
+    "venue": "News conference",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/feb/28/joel-kitchens/do-90-of-wisconsin-school-districts-ban-cellphones/",
+      "published": "2025-02-28",
+      "authors": [
+        "Hope Karnopp"
+      ],
+      "rating": "True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/donald-trump/fact-checking-trumps-statement-about-declining-egg",
+    "claim": "“Egg prices came down 50%”",
+    "speaker": "Donald Trump",
+    "said": "2025-04-02",
+    "venue": "a speech announcing tariffs",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/apr/04/donald-trump/fact-checking-trumps-statement-about-declining-egg/",
+      "published": "2025-04-04",
+      "authors": [
+        "Amy Sherman",
+        "Louis Jacobson"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/brian-tyler-cohen/claim-about-trump-rejecting-helene-relief-for-nort",
+    "claim": "Trump “just denied North Carolina’s request for FEMA relief from Hurricane Helene.”",
+    "speaker": "Brian Tyler Cohen",
+    "said": "2025-04-12",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/apr/24/brian-tyler-cohen/claim-about-trump-rejecting-helene-relief-for-nort/",
+      "published": "2025-04-24",
+      "authors": [
+        "Paul Specht"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/moms-demand-action-gun-sense-america/firearm-related-deaths-are-no-1-killer-of-college",
+    "claim": "“Gun violence is the leading killer of college-aged people in the U.S.”",
+    "speaker": "Moms Demand Action for Gun Sense In America",
+    "said": "2025-04-17",
+    "venue": "a Threads post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/apr/22/moms-demand-action-gun-sense-america/firearm-related-deaths-are-no-1-killer-of-college/",
+      "published": "2025-04-22",
+      "authors": [
+        "Loreben Tuquero"
+      ],
+      "rating": "True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/charles-blow/china-toys-christmas-goods-trump-tariffs",
+    "claim": "“China makes 80% of all toys” and “90% of all Christmas goods” sold in the U.S.",
+    "speaker": "Charles Blow",
+    "said": "2025-05-05",
+    "venue": "a CNN NewsNight episode",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/may/09/charles-blow/china-toys-christmas-goods-trump-tariffs/",
+      "published": "2025-05-09",
+      "authors": [
+        "Loreben Tuquero"
+      ],
+      "rating": "True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/bernie-sanders/medicaid-cut-house-republicans-trump",
+    "claim": "“Republicans just unveiled their ‘big, beautiful bill,’ which will take Medicaid & health insurance away from 13.7 million Americans.”",
+    "speaker": "Bernie Sanders",
+    "said": "2025-05-12",
+    "venue": "a post on X",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/may/16/bernie-sanders/medicaid-cut-house-republicans-trump/",
+      "published": "2025-05-16",
+      "authors": [
+        "Amy Sherman",
+        "Louis Jacobson"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/us-energy-department/gas-prices-memorial-day-20-year-low",
+    "claim": "“U.S. retail gasoline prices heading into Memorial Day weekend: 20 year low.”",
+    "speaker": "U.S. Energy Department",
+    "said": "2025-05-25",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/may/28/us-energy-department/gas-prices-memorial-day-20-year-low/",
+      "published": "2025-05-28",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/john-thune/thune-says-health-care-often-comes-with-a-job-the",
+    "claim": "“A lot of times, health care comes with a job.”",
+    "speaker": "John Thune",
+    "said": "2025-05-30",
+    "venue": "an interview with KOTA",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/jun/27/john-thune/thune-says-health-care-often-comes-with-a-job-the/",
+      "published": "2025-06-27",
+      "authors": [
+        "Arielle Zionts"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/american-action-network/reconciliation-bill-tax-cut-social-security",
+    "claim": "The Republican tax and spending bill will provide a “tax cut for Social Security recipients.”",
+    "speaker": "American Action Network",
+    "said": "2025-06-04",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/jun/24/american-action-network/reconciliation-bill-tax-cut-social-security/",
+      "published": "2025-06-24",
+      "authors": [
+        "Loreben Tuquero"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/francesca-hong/es-about-a-quarter-of-every-dollar-spent-via-snap",
+    "claim": "“Nearly 25 cents of every $1 spent via SNAP goes to farmers and ranchers.”",
+    "speaker": "Francesca Hong",
+    "said": "2025-06-12",
+    "venue": "X, formerly Twitter",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/jul/30/francesca-hong/es-about-a-quarter-of-every-dollar-spent-via-snap/",
+      "published": "2025-07-30",
+      "authors": [
+        "Madeline Heim"
+      ],
+      "rating": "True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/elizabeth-warren/elizabeth-warren-one-big-beautiful-bill-meta-taxes",
+    "claim": "“If every one of the 340 million people in America paid a new $35 copay to visit the doctor, that still wouldn’t be enough to cover how much Meta would get from just one tax break in Donald Trump’s ‘Big Beautiful Bill.’”",
+    "speaker": "Elizabeth Warren",
+    "said": "2025-06-24",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/jun/27/elizabeth-warren/elizabeth-warren-one-big-beautiful-bill-meta-taxes/",
+      "published": "2025-06-27",
+      "authors": [
+        "Amy Sherman",
+        "Louis Jacobson"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/hakeem-jeffries/permanent-tax-breaks-billionaires-temporary",
+    "claim": "President Donald Trump’s tax law has “tax breaks for billionaires, permanent; tax breaks for everybody else, expire.”",
+    "speaker": "Hakeem Jeffries",
+    "said": "2025-07-02",
+    "venue": "a House floor speech",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/jul/08/hakeem-jeffries/permanent-tax-breaks-billionaires-temporary/",
+      "published": "2025-07-08",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/gavin-newsom/is-newsom-right-that-florida-is-worst-for-mental-h",
+    "claim": "Florida: #51 in mental health care, #1 in home insurance costs, #1 in elder fraud, #1 in rent hikes.",
+    "speaker": "Gavin Newsom",
+    "said": "2025-07-18",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/jul/23/gavin-newsom/is-newsom-right-that-florida-is-worst-for-mental-h/",
+      "published": "2025-07-23",
+      "authors": [
+        "Ella Moore",
+        "Samantha Putterman"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/ritchie-torres/dollar-decline-currency-foreign-exchange",
+    "claim": "“Since Donald Trump’s inauguration, we have seen an 11% decline in the value of the dollar, the steepest decline in more than a half a century.”",
+    "speaker": "Ritchie Torres",
+    "said": "2025-07-20",
+    "venue": "an interview on CNN's \"State of the Union\"",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/jul/25/ritchie-torres/dollar-decline-currency-foreign-exchange/",
+      "published": "2025-07-25",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/us-trade-representative/ice-cream-trade-imports-exports-biden-trump",
+    "claim": "“America had a trade surplus in ice cream in 2020 under President Trump’s leadership, but that surplus turned into a trade deficit of $40.6 million under President Biden’s watch.”",
+    "speaker": "U.S. Trade Representative",
+    "said": "2025-07-20",
+    "venue": "a social media post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/jul/24/us-trade-representative/ice-cream-trade-imports-exports-biden-trump/",
+      "published": "2025-07-24",
+      "authors": [
+        "Gabrielle Lazor"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/donald-trump/trump-cites-60-million-in-us-food-aid-to-gaza-but",
+    "claim": "“We gave $60 million two weeks ago” for food aid to Gaza.",
+    "speaker": "Donald Trump",
+    "said": "2025-07-27",
+    "venue": "a press briefing",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/jul/30/donald-trump/trump-cites-60-million-in-us-food-aid-to-gaza-but/",
+      "published": "2025-07-30",
+      "authors": [
+        "Gabrielle Lazor",
+        "Samantha Putterman"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/americans-prosperity/did-wisconsin-governors-did-evers-400-year-veto-lo",
+    "claim": "“The (Evers) Era locked Wisconsin families into a 400‑year property tax increase.”",
+    "speaker": "Americans for Prosperity",
+    "said": "2025-07-28",
+    "venue": "X",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/aug/15/americans-prosperity/did-wisconsin-governors-did-evers-400-year-veto-lo/",
+      "published": "2025-08-15",
+      "authors": [
+        "Hope Karnopp"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/robert-ortt/ortts-claim-about-rising-crime-needs-context",
+    "claim": "During Gov. Hochul’s tenure, there has been “more crime on our streets.”",
+    "speaker": "Robert Ortt",
+    "said": "2025-08-04",
+    "venue": "a statement",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/sep/27/robert-ortt/ortts-claim-about-rising-crime-needs-context/",
+      "published": "2025-09-27",
+      "authors": [
+        "Jill Terreri Ramos"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/ken-martin/texas-illinois-flood-redistricting-hearings",
+    "claim": "Texas Republicans held one hearing on flood response but eight hearings on redistricting",
+    "speaker": "Ken Martin",
+    "said": "2025-08-05",
+    "venue": "a press conference",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/aug/06/ken-martin/texas-illinois-flood-redistricting-hearings/",
+      "published": "2025-08-06",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/gavin-newsom/california-texas-independent-redistricting",
+    "claim": "“Democrats have voted for national independent redistricting. Republicans have not.”",
+    "speaker": "Gavin Newsom",
+    "said": "2025-08-17",
+    "venue": "a podcast episode",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/aug/21/gavin-newsom/california-texas-independent-redistricting/",
+      "published": "2025-08-21",
+      "authors": [
+        "Loreben Tuquero"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/kristi-noem/immigrant-population-drop-1-6-million",
+    "claim": "U.S. Bureau of Labor Statistics statistics show, “We have 1.6 million illegal aliens that have gone home voluntarily.”",
+    "speaker": "Kristi Noem",
+    "said": "2025-08-19",
+    "venue": "a press conference",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/sep/02/kristi-noem/immigrant-population-drop-1-6-million/",
+      "published": "2025-09-02",
+      "authors": [
+        "Maria Ramirez Uribe"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/donald-trump/prices-energy-groceries-gasoline-inflation",
+    "claim": "“Groceries are down. Energy is way down. … Was $4 and $5 for a gallon of gas.”",
+    "speaker": "Donald Trump",
+    "said": "2025-08-26",
+    "venue": "a Cabinet meeting",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/sep/05/donald-trump/prices-energy-groceries-gasoline-inflation/",
+      "published": "2025-09-05",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/donald-trump/wage-increase-500-dollars-2025-workers",
+    "claim": "“The average American worker has already seen a $500 wage increase this year.”",
+    "speaker": "Donald Trump",
+    "said": "2025-08-26",
+    "venue": "a Cabinet meeting",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/sep/05/donald-trump/wage-increase-500-dollars-2025-workers/",
+      "published": "2025-09-05",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/chris-murphy/minneapolis-mass-shooting-school-2022-law",
+    "claim": "Following the passage of a 2022 gun safety law, mass shootings “began to drop.”",
+    "speaker": "Chris Murphy",
+    "said": "2025-08-27",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/aug/28/chris-murphy/minneapolis-mass-shooting-school-2022-law/",
+      "published": "2025-08-28",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/katherine-clark/aca-enhanced-subsidies-renewal-government-shutdown",
+    "claim": "“Republicans are spiking health insurance premiums by 75% for everyday Americans” if they don’t extend enhanced Affordable Care Act subsidies.",
+    "speaker": "Katherine Clark",
+    "said": "2025-09-12",
+    "venue": "a post on X",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/sep/17/katherine-clark/aca-enhanced-subsidies-renewal-government-shutdown/",
+      "published": "2025-09-17",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/amy-klobuchar/expiring-aca-subsidies-rural-areas-double",
+    "claim": "People with insurance through the Affordable Care Act will see a “75% increase in premiums starting Nov. 1” if enhanced subsidies are not extended, including “twice as much in the rural areas.”",
+    "speaker": "Amy Klobuchar",
+    "said": "2025-09-28",
+    "venue": "an interview on CBS' \"Face the Nation\"",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/sep/30/amy-klobuchar/expiring-aca-subsidies-rural-areas-double/",
+      "published": "2025-09-30",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/dan-koh/congress-gets-paid-during-a-government-shutdown-bu",
+    "claim": "“If the government shuts down, members of Congress still get paid. The janitors never get paid.”",
+    "speaker": "Dan Koh",
+    "said": "2025-09-29",
+    "venue": "The People's Cabinet podcast",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/sep/30/dan-koh/congress-gets-paid-during-a-government-shutdown-bu/",
+      "published": "2025-09-30",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/james-clyburn/trump-wic-budget-proposal-shutdown-food",
+    "claim": "“Trump’s budget called for a $300 (million) cut” to the Women, Infants and Children program.",
+    "speaker": "James Clyburn",
+    "said": "2025-10-08",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/oct/16/james-clyburn/trump-wic-budget-proposal-shutdown-food/",
+      "published": "2025-10-16",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/darren-soto/florida-aca-cost-increase-uninsured-highest",
+    "claim": "Florida will be the “hardest hit” state in the country if enhanced Affordable Care Act subsidies expire.",
+    "speaker": "Darren Soto",
+    "said": "2025-10-13",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/oct/20/darren-soto/florida-aca-cost-increase-uninsured-highest/",
+      "published": "2025-10-20",
+      "authors": [
+        "Samantha Putterman"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/ron-desantis/desantis-property-tax-homestead-snowbirds-airbnbs",
+    "claim": "In Florida, “68 to 70% of property tax revenue” is from “second homes, investment properties, commercial properties, Airbnb,” not primary residences.",
+    "speaker": "Ron DeSantis",
+    "said": "2025-10-15",
+    "venue": "a speech",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/oct/30/ron-desantis/desantis-property-tax-homestead-snowbirds-airbnbs/",
+      "published": "2025-10-30",
+      "authors": [
+        "Samantha Putterman"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/rand-paul/venezuela-drug-boats-coast-guard-florida",
+    "claim": "“About 25% of the time the Coast Guard boards a ship, there are no drugs.”",
+    "speaker": "Rand Paul",
+    "said": "2025-10-19",
+    "venue": "an interview",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/oct/22/rand-paul/venezuela-drug-boats-coast-guard-florida/",
+      "published": "2025-10-22",
+      "authors": [
+        "Samantha Putterman"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/scott-bessent/overall-inflation-decline-trump",
+    "claim": "“Overall, the inflation since President Trump” took office “has come down.”",
+    "speaker": "Scott Bessent",
+    "said": "2025-10-26",
+    "venue": "an interview on NBC's \"Meet the Press\"",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/oct/29/scott-bessent/overall-inflation-decline-trump/",
+      "published": "2025-10-29",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/elise-stefanik/hochul-has-extended-higher-taxes-on-wealthy-indivi",
+    "claim": "Gov. Kathy Hochul has raised taxes.",
+    "speaker": "Elise Stefanik",
+    "said": "2025-11-07",
+    "venue": "a television interview",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/dec/11/elise-stefanik/hochul-has-extended-higher-taxes-on-wealthy-indivi/",
+      "published": "2025-12-11",
+      "authors": [
+        "Jill Terreri Ramos"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/donald-trump/health-insurance-company-stock-price-1000-percent",
+    "claim": "Stock prices for health insurance companies are “up over 1,000% over a short period of time.”",
+    "speaker": "Donald Trump",
+    "said": "2025-11-16",
+    "venue": "remarks to reporters",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/nov/19/donald-trump/health-insurance-company-stock-price-1000-percent/",
+      "published": "2025-11-19",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/pam-bondi/doj-minnesota-fraud-trump-biden-somalis",
+    "claim": "The Justice Department has been investigating fraud in Minnesota “for months. So far, we have charged 98 individuals.”",
+    "speaker": "Pam Bondi",
+    "said": "2025-12-29",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jan/08/pam-bondi/doj-minnesota-fraud-trump-biden-somalis/",
+      "published": "2026-01-08",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/josh-riley/investor-owned-single-family-homes-us",
+    "claim": "“Nearly 27% of all homes sold in the first quarter of 2025 were bought by investors.”",
+    "speaker": "Josh Riley",
+    "said": "2026-01-08",
+    "venue": "a press release",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/feb/25/josh-riley/investor-owned-single-family-homes-us/",
+      "published": "2026-02-25",
+      "authors": [
+        "Chris Doody",
+        "Holden Turek"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/mark-warner/ice-training-requirements-trump-minneapolis",
+    "claim": "“They are not getting the traditional five months training. … The training for the ICE agents now is 47 days.”",
+    "speaker": "Mark Warner",
+    "said": "2026-01-11",
+    "venue": "an interview",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jan/12/mark-warner/ice-training-requirements-trump-minneapolis/",
+      "published": "2026-01-12",
+      "authors": [
+        "Madison Czopek",
+        "Maria Ramirez Uribe"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/claudia-tenney/chips-science-act-micron-semiconductor-new-york",
+    "claim": "Said she has led the House effort to build a large Micron semiconductor facility near Syracuse.",
+    "speaker": "Claudia Tenney",
+    "said": "2026-01-16",
+    "venue": "a post on X",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/feb/13/claudia-tenney/chips-science-act-micron-semiconductor-new-york/",
+      "published": "2026-02-13",
+      "authors": [
+        "Andrew McGurl"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/tom-omara/new-york-electricity-rates-utilities",
+    "claim": "“New Yorkers pay 49% more than the national average for electricity.”",
+    "speaker": "Tom O'Mara",
+    "said": "2026-01-20",
+    "venue": "an op-ed",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/feb/13/tom-omara/new-york-electricity-rates-utilities/",
+      "published": "2026-02-13",
+      "authors": [
+        "Brooke Johnpier"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/donald-trump/trump-says-the-us-leads-china-by-a-lot-in-ai-exper",
+    "claim": "In artificial intelligence, “We’re leading China by a lot.”",
+    "speaker": "Donald Trump",
+    "said": "2026-01-21",
+    "venue": "remarks",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jan/29/donald-trump/trump-says-the-us-leads-china-by-a-lot-in-ai-exper/",
+      "published": "2026-01-29",
+      "authors": [
+        "Loreben Tuquero"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/jared-moskowitz/fema-disaster-declaration-backlog-trump",
+    "claim": "The Federal Emergency Management Agency’s “backlog of unanswered disaster assistance applications has exploded to the largest in its history.”",
+    "speaker": "Jared Moskowitz",
+    "said": "2026-01-22",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jan/28/jared-moskowitz/fema-disaster-declaration-backlog-trump/",
+      "published": "2026-01-28",
+      "authors": [
+        "Samantha Putterman"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/donald-trump/factory-manufacturing-construction-record-high",
+    "claim": "“We right now have more factories and plants being built in our country than we’ve ever had before.”",
+    "speaker": "Donald Trump",
+    "said": "2026-01-27",
+    "venue": "remarks at a restaurant in Iowa",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/feb/09/donald-trump/factory-manufacturing-construction-record-high/",
+      "published": "2026-02-09",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/blake-gendebien/milk-prices-consumers-inflation-gallon-1980s",
+    "claim": "Milk prices “currently are no higher than they were in 1980’s.”",
+    "speaker": "Blake Gendebien",
+    "said": "2026-01-30",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/mar/31/blake-gendebien/milk-prices-consumers-inflation-gallon-1980s/",
+      "published": "2026-03-31",
+      "authors": [
+        "Mary McNaughton",
+        "Emma Gavazzi"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/gretchen-whitmer/michigan-poverty-decline-affordability",
+    "claim": "Under Michigan Gov. Gretchen Whitmer, there are “fewer families living in poverty” than under her predecessor.",
+    "speaker": "Gretchen Whitmer",
+    "said": "2026-02-02",
+    "venue": "a Substack",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/feb/06/gretchen-whitmer/michigan-poverty-decline-affordability/",
+      "published": "2026-02-06",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/donald-trump/murder-crime-rate-lowest-125-years-fbi",
+    "claim": "“The crime rate now is the lowest it’s been since 1900. That’s 125 years.”",
+    "speaker": "Donald Trump",
+    "said": "2026-02-03",
+    "venue": "remarks in the Oval Office",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/feb/12/donald-trump/murder-crime-rate-lowest-125-years-fbi/",
+      "published": "2026-02-12",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/marcus-molinaro/new-york-population-loss-lead-nation",
+    "claim": "New York leads the nation in population loss.",
+    "speaker": "Marc Molinaro",
+    "said": "2026-02-14",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/apr/01/marcus-molinaro/new-york-population-loss-lead-nation/",
+      "published": "2026-04-01",
+      "authors": [
+        "Holden Turek"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/abigail-spanberger/trump-tariff-cost-families-1700",
+    "claim": "President Donald Trump’s tariff policies “have forced American families to pay more than $1,700 each in tariff costs” since last year.",
+    "speaker": "Abigail Spanberger",
+    "said": "2026-02-24",
+    "venue": "the Democratic response to Trump's State of the Union address",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/feb/25/abigail-spanberger/trump-tariff-cost-families-1700/",
+      "published": "2026-02-25",
+      "authors": [
+        "Loreben Tuquero",
+        "Zoe Weyand"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/james-fishback/ai-data-centers-energy-water-florida-governor",
+    "claim": "Artificial intelligence data centers “drive up electric bills by 30 or 40%” and “suck up 500,000 gallons of water a day.”",
+    "speaker": "James Fishback",
+    "said": "2026-02-26",
+    "venue": "a speech",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/mar/04/james-fishback/ai-data-centers-energy-water-florida-governor/",
+      "published": "2026-03-04",
+      "authors": [
+        "Samantha Putterman"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/chris-murphy/airstrikes-regime-change-ground-troops-iran",
+    "claim": "“There is no history … that shows an air campaign alone will result in positive regime change. In fact, there’s not a single example of it in the entirety of American history.”",
+    "speaker": "Chris Murphy",
+    "said": "2026-03-01",
+    "venue": "an interview with CBS News' \"Face the Nation\"",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/mar/02/chris-murphy/airstrikes-regime-change-ground-troops-iran/",
+      "published": "2026-03-02",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/elizabeth-warren/trump-military-strikes-iran-venezuela",
+    "claim": "“In the modern era, no American president has ordered more military strikes against as many different countries as Donald Trump.”",
+    "speaker": "Elizabeth Warren",
+    "said": "2026-03-03",
+    "venue": "in a speech on March 3, 2026",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/mar/20/elizabeth-warren/trump-military-strikes-iran-venezuela/",
+      "published": "2026-03-20",
+      "authors": [
+        "Zoe Weyand"
+      ],
+      "rating": "True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/sam-sutton/hate-crimes-new-york-city-houses-worship",
+    "claim": "From January 2025 to January 2026, “hate crimes in New York City increased by 152%”",
+    "speaker": "Sam Sutton",
+    "said": "2026-03-11",
+    "venue": "a rally",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/may/05/sam-sutton/hate-crimes-new-york-city-houses-worship/",
+      "published": "2026-05-05",
+      "authors": [
+        "Emma Gavazzi"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/chris-wright/us-iran-crude-oil-net-exporter-gas-prices",
+    "claim": "The U.S. produces “more oil than we can consume. We’re a net oil exporter.”",
+    "speaker": "Chris Wright",
+    "said": "2026-03-12",
+    "venue": "an interview with Fox News",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/mar/13/chris-wright/us-iran-crude-oil-net-exporter-gas-prices/",
+      "published": "2026-03-13",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/charles-schumer/voter-registration-save-america-act-in-person",
+    "claim": "The SAVE America Act “would force Americans to register (to vote) only in person, something only 5% of Americans do today.”",
+    "speaker": "Charles Schumer",
+    "said": "2026-03-17",
+    "venue": "remarks to reporters",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/mar/19/charles-schumer/voter-registration-save-america-act-in-person/",
+      "published": "2026-03-19",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/mark-kelly/reregister-vote-elections-save-america-act",
+    "claim": "The SAVE America Act “requires everyone to re-register to vote in person and your driver’s license, REAL ID, or military ID aren’t even good enough.”",
+    "speaker": "Mark Kelly",
+    "said": "2026-03-17",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/mar/24/mark-kelly/reregister-vote-elections-save-america-act/",
+      "published": "2026-03-24",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/tammy-duckworth/save-america-act-voter-id-drivers-licenses-real-id",
+    "claim": "“9% of American citizens don’t have the identification that the SAVE act requires to vote. Almost 1 in 10.”",
+    "speaker": "Tammy Duckworth",
+    "said": "2026-03-18",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/mar/20/tammy-duckworth/save-america-act-voter-id-drivers-licenses-real-id/",
+      "published": "2026-03-20",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/seth-moulton/trump-bomb-civilian-infrastructure-war-crime",
+    "claim": "“Bombing civilian power infrastructure is a war crime.”",
+    "speaker": "Seth Moulton",
+    "said": "2026-03-24",
+    "venue": "an interview on MS NOW",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/apr/02/seth-moulton/trump-bomb-civilian-infrastructure-war-crime/",
+      "published": "2026-04-02",
+      "authors": [
+        "Louis Jacobson",
+        "Zoe Weyand"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/donald-trump/more-americans-working-today-employment",
+    "claim": "“More Americans are working today than at any time in the history of our country.”",
+    "speaker": "Donald Trump",
+    "said": "2026-03-27",
+    "venue": "a speech to a Saudi investment conference",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/mar/31/donald-trump/more-americans-working-today-employment/",
+      "published": "2026-03-31",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/nicholas-langworthy/tax-refunds-11-percent-reduction-irs",
+    "claim": "“The average IRS tax refund is up 11% compared to last year.”",
+    "speaker": "Nicholas Langworthy",
+    "said": "2026-03-31",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/may/11/nicholas-langworthy/tax-refunds-11-percent-reduction-irs/",
+      "published": "2026-05-11",
+      "authors": [
+        "Holden Turek"
+      ],
+      "rating": "True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/democratic-national-committee/trump-defense-budget-ww2",
+    "claim": "President Donald Trump’s proposed 2027 military budget would be “the largest spending increase since World War II.”",
+    "speaker": "Democratic National Committee",
+    "said": "2026-04-03",
+    "venue": "a post on X",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/apr/20/democratic-national-committee/trump-defense-budget-ww2/",
+      "published": "2026-04-20",
+      "authors": [
+        "Zoe Weyand"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/brandon-gill/dignity-act-amnesty-florida-immigrants-citizenship",
+    "claim": "“The Dignity Act is mass amnesty.”",
+    "speaker": "Brandon Gill",
+    "said": "2026-04-07",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/apr/13/brandon-gill/dignity-act-amnesty-florida-immigrants-citizenship/",
+      "published": "2026-04-13",
+      "authors": [
+        "Samantha Putterman"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/byron-donalds/iran-blockade-trump-strait-hormuz-barbary",
+    "claim": "The U.S. Navy was created “to free international waters from the Barbary pirates.”",
+    "speaker": "Byron Donalds",
+    "said": "2026-04-12",
+    "venue": "an interview on NBC's \"Meet the Press\"",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/apr/14/byron-donalds/iran-blockade-trump-strait-hormuz-barbary/",
+      "published": "2026-04-14",
+      "authors": [
+        "Louis Jacobson",
+        "Zoe Weyand"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/restoration-of-america/save-america-act-voter-id-citizenship-poll",
+    "claim": "“83% of us favor requiring a photo ID to vote. In fact, most of the civilized world requires it but not us.”",
+    "speaker": "Restoration of America",
+    "said": "2026-04-13",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/apr/17/restoration-of-america/save-america-act-voter-id-citizenship-poll/",
+      "published": "2026-04-17",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/chris-wright/wind-solar-energy-oil-strait-hormuz-iran",
+    "claim": "Solar and wind have not reached “3% of global energy.”",
+    "speaker": "Chris Wright",
+    "said": "2026-04-19",
+    "venue": "an interview on CNN's \"State of the Union\"",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/apr/22/chris-wright/wind-solar-energy-oil-strait-hormuz-iran/",
+      "published": "2026-04-22",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/robert-f-kennedy-jr/percentage-decreases-drug-prices-trump-math",
+    "claim": "“There’s two ways of calculating percentage” decreases. “If you have a $600 drug and you reduce it to $10, that’s a 600% reduction.”",
+    "speaker": "Robert F. Kennedy Jr.",
+    "said": "2026-04-22",
+    "venue": "testimony to the Senate Finance Committee",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/apr/23/robert-f-kennedy-jr/percentage-decreases-drug-prices-trump-math/",
+      "published": "2026-04-23",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Pants on Fire"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/donald-trump/oil-united-states-russia-saudi-arabia-hormuz-iran",
+    "claim": "“We are right now producing more oil than Saudi Arabia and Russia combined.”",
+    "speaker": "Donald Trump",
+    "said": "2026-04-23",
+    "venue": "remarks at the White House",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/apr/29/donald-trump/oil-united-states-russia-saudi-arabia-hormuz-iran/",
+      "published": "2026-04-29",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/pine-tree-results-pac/graham-platner-collins-maine-reddit-rape-senate",
+    "claim": "“Graham Platner blames Maine’s women for getting raped because he says they get f—– up drunk”",
+    "speaker": "Pine Tree Results PAC",
+    "said": "2026-04-26",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/apr/29/pine-tree-results-pac/graham-platner-collins-maine-reddit-rape-senate/",
+      "published": "2026-04-29",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/ron-desantis/florida-redistricting-republican-democrat-majority",
+    "claim": "Since the 2020 census, Florida has “moved from a Democrat majority to a 1.5 million Republican advantage.”",
+    "speaker": "Ron DeSantis",
+    "said": "2026-04-27",
+    "venue": "an interview with Fox News Digital",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/apr/29/ron-desantis/florida-redistricting-republican-democrat-majority/",
+      "published": "2026-04-29",
+      "authors": [
+        "Louis Jacobson",
+        "Samantha Putterman"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/kathy-castor/kid-care-florida-desantis-health-insurance",
+    "claim": "“Florida is the only state in the nation kicking children off their affordable health coverage.”",
+    "speaker": "Kathy Castor",
+    "said": "2026-04-29",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/may/14/kathy-castor/kid-care-florida-desantis-health-insurance/",
+      "published": "2026-05-14",
+      "authors": [
+        "Samantha Putterman"
+      ],
+      "rating": "True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/marcy-kaptur/white-house-trump-ballroom-east-wing-1-billion",
+    "claim": "Republicans “want you to pay $1 Billion for a ballroom.”",
+    "speaker": "Marcy Kaptur",
+    "said": "2026-05-05",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/may/08/marcy-kaptur/white-house-trump-ballroom-east-wing-1-billion/",
+      "published": "2026-05-08",
+      "authors": [
+        "Louis Jacobson",
+        "Maria Briceño"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/marco-rubio/cuba-us-oil-blockade-blackout-castro",
+    "claim": "“The reason (people in Cuba) are forced to survive 22 hours a day without electricity is not due to an oil ‘blockade’ by the US.”",
+    "speaker": "Marco Rubio",
+    "said": "2026-05-20",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/may/22/marco-rubio/cuba-us-oil-blockade-blackout-castro/",
+      "published": "2026-05-22",
+      "authors": [
+        "Maria Briceño",
+        "Samantha Putterman"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/james-talarico/ken-paxton-adam-hoffman-plea-deal-texas-senate",
+    "claim": "“Adam Hoffman abused a little boy” and Ken Paxton “let Hoffman off the hook.”",
+    "speaker": "James Talarico",
+    "said": "2026-05-28",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jun/03/james-talarico/ken-paxton-adam-hoffman-plea-deal-texas-senate/",
+      "published": "2026-06-03",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/mallory-mcmorrow/michigan-us-senate-soar-fund-jobs",
+    "claim": "“Michigan has spent more than $2.5 billion on incentives to companies since 2019, and so far, that fund, the SOAR fund, has created zero jobs.”",
+    "speaker": "Mallory McMorrow",
+    "said": "2026-05-28",
+    "venue": "a Democratic primary debate",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jun/04/mallory-mcmorrow/michigan-us-senate-soar-fund-jobs/",
+      "published": "2026-06-04",
+      "authors": [
+        "Caleb McCullough"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/move-indigo/yes-new-yorkers-with-second-homes-in-the-empire-st",
+    "claim": "New York state law allows citizens with dual residences to choose where they want to vote.",
+    "speaker": "Move Indigo",
+    "said": "2026-06-01",
+    "venue": "a statement",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jun/26/move-indigo/yes-new-yorkers-with-second-homes-in-the-empire-st/",
+      "published": "2026-06-26",
+      "authors": [
+        "Jill Terreri Ramos"
+      ],
+      "rating": "True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/graham-platner/susan-collins-trump-vote-maine-senate-election",
+    "claim": "Sen. Susan Collins votes “with Donald Trump 95% of the time.”",
+    "speaker": "Graham Platner",
+    "said": "2026-06-09",
+    "venue": "a primary night speech",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jun/10/graham-platner/susan-collins-trump-vote-maine-senate-election/",
+      "published": "2026-06-10",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/david-jolly/david-jolly-florida-hospital-cost-governor-race",
+    "claim": "Florida is “49th in avoidable hospital costs.”",
+    "speaker": "David Jolly",
+    "said": "2026-06-11",
+    "venue": "a speech",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jun/24/david-jolly/david-jolly-florida-hospital-cost-governor-race/",
+      "published": "2026-06-24",
+      "authors": [
+        "Samantha Putterman"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/bernie-sanders/elon-musk-social-security-taxes-spacex",
+    "claim": "“Today, Elon Musk, a trillionaire, pays the same amount into Social Security as someone making $184,500.”",
+    "speaker": "Bernie Sanders",
+    "said": "2026-06-12",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jun/17/bernie-sanders/elon-musk-social-security-taxes-spacex/",
+      "published": "2026-06-17",
+      "authors": [
+        "Caleb McCullough"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/susan-collins/maine-senate-abortion-supreme-court-kavanaugh",
+    "claim": "The Supreme Court’s 2022 ruling on abortion “has not had an impact on the state of Maine in that Maine actually expanded its law.”",
+    "speaker": "Susan Collins",
+    "said": "2026-06-12",
+    "venue": "an interview with the media",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jun/23/susan-collins/maine-senate-abortion-supreme-court-kavanaugh/",
+      "published": "2026-06-23",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/abdul-el-sayed/mike-rogers-14-million-pharma-lobbyist-michigan",
+    "claim": "Michigan U.S. Senate candidate Mike Rogers “took a $14 million payout as a pharma lobbyist.”",
+    "speaker": "Abdul El-Sayed",
+    "said": "2026-06-14",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jul/02/abdul-el-sayed/mike-rogers-14-million-pharma-lobbyist-michigan/",
+      "published": "2026-07-02",
+      "authors": [
+        "Caleb McCullough"
+      ],
+      "rating": "Pants on Fire"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/josh-hokit/josh-hokit-ufc-white-house-michelle-obama",
+    "claim": "“Michelle Obama is a man.”",
+    "speaker": "Josh Hokit",
+    "said": "2026-06-14",
+    "venue": "a UFC event at the White House",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jun/15/josh-hokit/josh-hokit-ufc-white-house-michelle-obama/",
+      "published": "2026-06-15",
+      "authors": [
+        "Loreben Tuquero"
+      ],
+      "rating": "Pants on Fire"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/jon-ossoff/did-mike-collins-help-double-health-insurance-prem",
+    "claim": "President Donald Trump and U.S. Rep. Mike Collins “doubled health insurance premiums for more than a million Georgians and threw 300,000 Georgians off their insurance altogether.”",
+    "speaker": "Jon Ossoff",
+    "said": "2026-06-27",
+    "venue": "a campaign speech",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jul/16/jon-ossoff/did-mike-collins-help-double-health-insurance-prem/",
+      "published": "2026-07-16",
+      "authors": [
+        "Ben Brasch"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/donald-trump/transgender-sports-supreme-court-ruling-title-ix",
+    "claim": "“The United States Supreme Court just ruled against men playing in women’s sports.”",
+    "speaker": "Donald Trump",
+    "said": "2026-06-30",
+    "venue": "a Truth Social post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jul/01/donald-trump/transgender-sports-supreme-court-ruling-title-ix/",
+      "published": "2026-07-01",
+      "authors": [
+        "Caleb McCullough"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/sherrod-brown/sherrod-brown-blames-hb-6-for-electric-bill-spike-experts-say-the-law-wasnt-the-main-cause",
+    "claim": "Since the passage of the “Jon Husted-backed” HB 6, Ohioans’ residential utility rates have gone up $663 a year.",
+    "speaker": "Sherrod Brown",
+    "said": "2026-07-01",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jul/20/sherrod-brown/sherrod-brown-blames-hb-6-for-electric-bill-spike-experts-say-the-law-wasnt-the-main-cause/",
+      "published": "2026-07-20",
+      "authors": [
+        "Gracey Abernethy"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/paul-renner/florida-ai-data-centers-tax-breaksgovernors-race",
+    "claim": "Jay Collins sponsored a bill to give AI hyperscale data centers “permanent tax incentives.”",
+    "speaker": "Paul Renner",
+    "said": "2026-07-02",
+    "venue": "a debate",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jul/09/paul-renner/florida-ai-data-centers-tax-breaksgovernors-race/",
+      "published": "2026-07-09",
+      "authors": [
+        "Samantha Putterman"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/republican-national-committee-republican/no-asking-people-to-voluntarily-limit-their-energy",
+    "claim": "New York Democrats are communists for “trying to force” New Yorkers to conserve energy.",
+    "speaker": "Republican National Committee",
+    "said": "2026-07-03",
+    "venue": "a post on X",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jul/24/republican-national-committee-republican/no-asking-people-to-voluntarily-limit-their-energy/",
+      "published": "2026-07-24",
+      "authors": [
+        "Jill Terreri Ramos"
+      ],
+      "rating": "Pants on Fire"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/byron-donalds/florida-data-centers-byron-donalds-governor-race",
+    "claim": "“Senate Bill 484 ensures that utility rates will not go up due to data centers.”",
+    "speaker": "Byron Donalds",
+    "said": "2026-07-22",
+    "venue": "X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/aug/07/byron-donalds/florida-data-centers-byron-donalds-governor-race/",
+      "published": "2026-08-07",
+      "authors": [
+        "Samantha Putterman"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/alexander-vindman/ashley-moody-senate-hope-florida-medicaid",
+    "claim": "Then-Florida Attorney General Ashley Moody transferred “$10 million in taxpayer money meant for children’s health care to a campaign fund.”",
+    "speaker": "Alexander Vindman",
+    "said": "2026-07-27",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/aug/13/alexander-vindman/ashley-moody-senate-hope-florida-medicaid/",
+      "published": "2026-08-13",
+      "authors": [
+        "Samantha Putterman"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/united-democracy-project/el-sayed-uncommitted-michigan-2024-harris",
+    "claim": "“With our democracy on the line against Donald Trump in 2024, El-Sayed told Democrats to vote uncommitted — even after Gov. (Gretchen) Whitmer warned those efforts would help elect Donald Trump.”",
+    "speaker": "United Democracy Project",
+    "said": "2026-07-28",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jul/31/united-democracy-project/el-sayed-uncommitted-michigan-2024-harris/",
+      "published": "2026-07-31",
+      "authors": [
+        "Gracey Abernethy"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/donald-trump/inflation-consumer-prices-groceries-gasoline-iran-war",
+    "claim": "Prices are “all coming down now. The food, the groceries, it’s all coming down.”",
+    "speaker": "Donald Trump",
+    "said": "2026-08-04",
+    "venue": "a Fox News interview",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/aug/10/donald-trump/inflation-consumer-prices-groceries-gasoline-iran-war/",
+      "published": "2026-08-10",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "False",
+    "basis": "judgment",
+    "mappingNote": "Overall prices and groceries were up since January 2025; only some items fell."
+  },
+  {
+    "id": "pf/abdul-el-sayed/mike-rogers-opioids-michigan-lobbying",
+    "claim": "Former U.S. Rep. Mike Rogers “helped to architect the legislation that kicked off the opioid epidemic.”",
+    "speaker": "Abdul El-Sayed",
+    "said": "2026-08-05",
+    "venue": "an interview",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/aug/17/abdul-el-sayed/mike-rogers-opioids-michigan-lobbying/",
+      "published": "2026-08-17",
+      "authors": [
+        "Caleb McCullough"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "False",
+    "basis": "judgment",
+    "mappingNote": "Experts say the legislation he wrote did not start the epidemic, which began years earlier with OxyContin marketing."
+  },
+  {
+    "id": "pf/mike-rogers/abdul-el-sayed-9-11-hasan-piker-michigan",
+    "claim": "Abdul El-Sayed “believes America deserved 9/11.”",
+    "speaker": "Mike Rogers",
+    "said": "2026-08-05",
+    "venue": "a campaign statement",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/aug/07/mike-rogers/abdul-el-sayed-9-11-hasan-piker-michigan/",
+      "published": "2026-08-07",
+      "authors": [
+        "Caleb McCullough"
+      ],
+      "rating": "Pants on Fire"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/seth-moulton/jeffrey-epstein-ed-markey-senate-massachusetts",
+    "claim": "“DOJ Epstein files reveal Senator Ed Markey was part of Epstein lobbying effort.”",
+    "speaker": "Seth Moulton",
+    "said": "2026-08-05",
+    "venue": "an Instagram post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/aug/06/seth-moulton/jeffrey-epstein-ed-markey-senate-massachusetts/",
+      "published": "2026-08-06",
+      "authors": [
+        "Amy Sherman",
+        "Caleb McCullough"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "False",
+    "basis": "judgment",
+    "mappingNote": "No evidence the briefing happened or that Markey and Epstein worked together; Markey denies it."
+  },
+  {
+    "id": "pf/byron-donalds/david-jolly-trans-youth-surgeries-florida-governor",
+    "claim": "Florida Democratic gubernatorial candidate David Jolly said he supports “gender-changing surgeries on kids.”",
+    "speaker": "Byron Donalds",
+    "said": "2026-08-08",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/aug/19/byron-donalds/david-jolly-trans-youth-surgeries-florida-governor/",
+      "published": "2026-08-19",
+      "authors": [
+        "Samantha Putterman"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/donald-trump/vaccine-soda-bottle-injection-children",
+    "claim": "There are vaccines the size of a “bottle of soda … poured into a little child’s body.”",
+    "speaker": "Donald Trump",
+    "said": "2026-08-10",
+    "venue": "remarks while signing an executive order",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/aug/11/donald-trump/vaccine-soda-bottle-injection-children/",
+      "published": "2026-08-11",
+      "authors": [
+        "Grace Abels",
+        "Louis Jacobson"
+      ],
+      "rating": "Pants on Fire"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/ron-johnson/covid-19-vaccine-pregnancy-miscarriage-dr-fauci",
+    "claim": "There is “an 82% miscarriage rate with women who got the (COVID-19 vaccine) injection in the first or second trimester.”",
+    "speaker": "Ron Johnson",
+    "said": "2026-08-10",
+    "venue": "a Fox News Digital video",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/aug/12/ron-johnson/covid-19-vaccine-pregnancy-miscarriage-dr-fauci/",
+      "published": "2026-08-12",
+      "authors": [
+        "Caleb McCullough"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/jon-ossoff/collins-crypto-georgia-trading",
+    "claim": "U.S. Rep. Mike Collins “is literally one of the most active crypto traders in the entire Congress, House or Senate.”",
+    "speaker": "Jon Ossoff",
+    "said": "2026-08-16",
+    "venue": "a speech",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/02/jon-ossoff/collins-crypto-georgia-trading/",
+      "published": "2026-09-02",
+      "authors": [
+        "Ben Brasch"
+      ],
+      "rating": "True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/randy-fine/mamdani-id-new-york-city-grocery-stores-save-voter",
+    "claim": "New York City Mayor Zohran Mamdani is “requiring ID” to shop at city-run grocery stores.",
+    "speaker": "Randy Fine",
+    "said": "2026-08-16",
+    "venue": "a fundraising email",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/aug/18/randy-fine/mamdani-id-new-york-city-grocery-stores-save-voter/",
+      "published": "2026-08-18",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/zach-lahn/rob-sand-7500-tax-increase-iowa-governor",
+    "claim": "Iowa gubernatorial candidate Rob Sand “wants to raise (Iowans’) taxes by $7,500 per year.”",
+    "speaker": "Zach Lahn",
+    "said": "2026-08-21",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/17/zach-lahn/rob-sand-7500-tax-increase-iowa-governor/",
+      "published": "2026-09-17",
+      "authors": [
+        "Genevieve DiChiara"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/byron-donalds/us-measles-illegal-immigration-mmr-vaccine-fl",
+    "claim": "“Rampant illegal immigration” during the Biden administration is the cause of “a measles outbreak in certain parts of the country.”",
+    "speaker": "Byron Donalds",
+    "said": "2026-08-23",
+    "venue": "an interview",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/aug/27/byron-donalds/us-measles-illegal-immigration-mmr-vaccine-fl/",
+      "published": "2026-08-27",
+      "authors": [
+        "Samantha Putterman"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/kelly-ayotte/warmington-opioid-purdue-pharma-new-hampshire",
+    "claim": "New Hampshire Democratic governor candidate Cinde Warmington “was a Purdue Pharma lobbyist. She said that OxyContin was a miracle drug.”",
+    "speaker": "Kelly Ayotte",
+    "said": "2026-08-23",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/22/kelly-ayotte/warmington-opioid-purdue-pharma-new-hampshire/",
+      "published": "2026-10-22",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/byron-donalds/fl-governor-tax-tips-social-security-income-tax",
+    "claim": "Florida Democratic gubernatorial nominee David Jolly “wants more taxes on tips, overtime and Social Security.”",
+    "speaker": "Byron Donalds",
+    "said": "2026-08-24",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/11/byron-donalds/fl-governor-tax-tips-social-security-income-tax/",
+      "published": "2026-09-11",
+      "authors": [
+        "Samantha Putterman"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/jd-vance/maine-fentanyl-drug-overdoses-decline-border",
+    "claim": "Drug overdoses decreased in Maine because the Trump administration “sealed the border.”",
+    "speaker": "JD Vance",
+    "said": "2026-08-24",
+    "venue": "a speech in Brewer, Maine",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/aug/26/jd-vance/maine-fentanyl-drug-overdoses-decline-border/",
+      "published": "2026-08-26",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/rob-sand/iowa-school-ranking-best-bottom-half",
+    "claim": "Iowa once had “the best public schools in the country,” but is now “in the bottom half.”",
+    "speaker": "Rob Sand",
+    "said": "2026-08-24",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/24/rob-sand/iowa-school-ranking-best-bottom-half/",
+      "published": "2026-09-24",
+      "authors": [
+        "Grace Olson"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/roy-cooper/cooper-says-north-carolina-officials-removed-an-hbcu-early-voting-site-ahead-of-the-midterm-elections",
+    "claim": "North Carolina officials “removed” an early-voting site from North Carolina A&T State University.",
+    "speaker": "Roy Cooper",
+    "said": "2026-08-26",
+    "venue": "a televised interview",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/11/roy-cooper/cooper-says-north-carolina-officials-removed-an-hbcu-early-voting-site-ahead-of-the-midterm-elections/",
+      "published": "2026-09-11",
+      "authors": [
+        "Paul Specht"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "Misleading",
+    "basis": "judgment",
+    "mappingNote": "There is no campus early-voting site this midterm after one in 2024, the literal fact; there has never been one in a midterm, so \"removed\" misleads."
+  },
+  {
+    "id": "pf/david-jolly/ai-data-centers-florida-poll-governor-race",
+    "claim": "“70, 80% of people across Florida are saying, ‘Don’t build data centers.'”",
+    "speaker": "David Jolly",
+    "said": "2026-08-28",
+    "venue": "a news conference",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/02/david-jolly/ai-data-centers-florida-poll-governor-race/",
+      "published": "2026-09-02",
+      "authors": [
+        "Samantha Putterman"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/troy-jackson/susan-collins-maine-trump-tariffs-canada",
+    "claim": "When Sen. Susan Collins “had the chance to actually vote to stop Trump’s tariffs from driving up costs for Maine families and businesses, she voted NO.”",
+    "speaker": "Troy Jackson",
+    "said": "2026-08-28",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/02/troy-jackson/susan-collins-maine-trump-tariffs-canada/",
+      "published": "2026-09-02",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "Misleading",
+    "basis": "judgment",
+    "mappingNote": "She did cast that one no vote, the literal fact; she voted against the tariffs four other times."
+  },
+  {
+    "id": "pf/abdul-el-sayed/senate-candidate-abdul-el-sayed-overstates-michiganders-cost-for-trumps-tariffs",
+    "claim": "President Donald Trump’s tariffs “cost each Michigan household $5,619.”",
+    "speaker": "Abdul El-Sayed",
+    "said": "2026-09-01",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/17/abdul-el-sayed/senate-candidate-abdul-el-sayed-overstates-michiganders-cost-for-trumps-tariffs/",
+      "published": "2026-09-17",
+      "authors": [
+        "Caleb McCullough"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "False",
+    "basis": "judgment",
+    "mappingNote": "$5,619 is all tariffs paid by Michigan importers, not a cost borne by each household (about $1,000 nationally)."
+  },
+  {
+    "id": "pf/sam-altman/chatgpt-almonds-ai-california-water-useage",
+    "claim": "“For every 38,000 ChatGPT queries, that is the same amount of water that is used in the production of a single almond in California.”",
+    "speaker": "Sam Altman",
+    "said": "2026-09-01",
+    "venue": "a podcast",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/04/sam-altman/chatgpt-almonds-ai-california-water-useage/",
+      "published": "2026-09-04",
+      "authors": [
+        "Caleb McCullough"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "False",
+    "basis": "judgment",
+    "mappingNote": "Available estimates put it at 1,000 to 10,000 prompts per almond, not 38,000."
+  },
+  {
+    "id": "pf/ashley-hinson/josh-turek-iowa-senate-house-votes",
+    "claim": "Iowa Democratic U.S. Senate candidate Josh Turek “skipped 58% of the votes at the Statehouse this year.”",
+    "speaker": "Ashley Hinson",
+    "said": "2026-09-02",
+    "venue": "a social media post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/30/ashley-hinson/josh-turek-iowa-senate-house-votes/",
+      "published": "2026-09-30",
+      "authors": [
+        "Anna Mitchell"
+      ],
+      "rating": "True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/jon-ossoff/social-security-georgia-mike-collins-retirement",
+    "claim": "U.S. Rep. Mike Collins “voted to gut Social Security” and “wants to push (older Americans) off Social Security and back to work.”",
+    "speaker": "Jon Ossoff",
+    "said": "2026-09-02",
+    "venue": "a TV ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/15/jon-ossoff/social-security-georgia-mike-collins-retirement/",
+      "published": "2026-09-15",
+      "authors": [
+        "Maria Briceño"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "False",
+    "basis": "judgment",
+    "mappingNote": "He did not vote to gut Social Security or tell older people to leave it; the clip was taken out of context."
+  },
+  {
+    "id": "pf/republican-national-committee-republican/rnc-falsely-says-54-of-ncs-commercial-driver-licenses-were-issued-illegally-to-noncitizens",
+    "claim": "“54% of North Carolina commercial driver’s licenses were issued illegally to foreign nationals.”",
+    "speaker": "Republican National Committee",
+    "said": "2026-09-02",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/24/republican-national-committee-republican/rnc-falsely-says-54-of-ncs-commercial-driver-licenses-were-issued-illegally-to-noncitizens/",
+      "published": "2026-09-24",
+      "authors": [
+        "Paul Specht"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/sherrod-brown/jon-husted-pushed-for-data-centers-and-tax-incentives-in-ohio-as-sherrod-brown-ads-say",
+    "claim": "Sen. Jon Husted “led the push to bring data centers to Ohio and gave billions of tax dollars to make it happen.”",
+    "speaker": "Sherrod Brown",
+    "said": "2026-09-03",
+    "venue": "a campaign ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/23/sherrod-brown/jon-husted-pushed-for-data-centers-and-tax-incentives-in-ohio-as-sherrod-brown-ads-say/",
+      "published": "2026-09-23",
+      "authors": [
+        "Cami Henry-Seymore"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/john-e-sununu/chris-pappas-raise-taxes-68-new-hampshire-senate",
+    "claim": "“Chris Pappas voted to raise taxes 68 times. Every tax vote he’s made was to raise taxes.”",
+    "speaker": "John E. Sununu",
+    "said": "2026-09-08",
+    "venue": "his primary night victory speech",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/01/john-e-sununu/chris-pappas-raise-taxes-68-new-hampshire-senate/",
+      "published": "2026-10-01",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/zach-nunn/zach-nunn-said-republicans-passed-the-largest-tax-cut-in-u-s-history-this-is-mostly-false",
+    "claim": "“We have cut the largest taxes in U.S. history.”",
+    "speaker": "Zach Nunn",
+    "said": "2026-09-08",
+    "venue": "a social media post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/07/zach-nunn/zach-nunn-said-republicans-passed-the-largest-tax-cut-in-u-s-history-this-is-mostly-false/",
+      "published": "2026-10-07",
+      "authors": [
+        "Isabella Tisdale"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "Misleading",
+    "basis": "judgment",
+    "mappingNote": "Nominally the tax cuts are very large; by size relative to the economy they rank third to sixth since 1980."
+  },
+  {
+    "id": "pf/robert-f-kennedy-jr/children-health-history-midterm-convention",
+    "claim": "The U.S. has “the sickest children in the history of the world.”",
+    "speaker": "Robert F. Kennedy Jr.",
+    "said": "2026-09-10",
+    "venue": "a speech at the RNC midterm convention",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/10/robert-f-kennedy-jr/children-health-history-midterm-convention/",
+      "published": "2026-09-10",
+      "authors": [
+        "Caleb McCullough",
+        "Loreben Tuquero"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/texas-pac/talarico-transgender-texas-paxton-senate",
+    "claim": "Democratic U.S. Senate candidate James Talarico “supported using taxpayer dollars for sex change surgeries on young children.”",
+    "speaker": "Texas PAC",
+    "said": "2026-09-11",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/24/texas-pac/talarico-transgender-texas-paxton-senate/",
+      "published": "2026-09-24",
+      "authors": [
+        "Ben Brasch"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/abdul-el-sayed/mike-rogers-9-11-first-responders-healthcare",
+    "claim": "Former U.S. Rep. Mike Rogers “voted to deny health care” to 9/11 first responders “nine times.”",
+    "speaker": "Abdul El-Sayed",
+    "said": "2026-09-12",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/15/abdul-el-sayed/mike-rogers-9-11-first-responders-healthcare/",
+      "published": "2026-09-15",
+      "authors": [
+        "Caleb McCullough"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/club-growth-action/kathy-castor-insider-trading",
+    "claim": "U.S. Rep. Kathy Castor “repeatedly” violated “a law aimed at stopping members of Congress from insider trading.”",
+    "speaker": "Club for Growth Action",
+    "said": "2026-09-14",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/22/club-growth-action/kathy-castor-insider-trading/",
+      "published": "2026-10-22",
+      "authors": [
+        "Loreben Tuquero"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "Misleading",
+    "basis": "judgment",
+    "mappingNote": "She did file three late trade disclosures in 2017 (the literal \"repeatedly violated\"); the ad's cited case was a typo and the insider-trading impression is wrong."
+  },
+  {
+    "id": "pf/chris-pappas/sununu-social-security-privatization-new-hampshire",
+    "claim": "New Hampshire Republican U.S. Senate candidate John Sununu “led efforts to privatize Social Security.”",
+    "speaker": "Chris Pappas",
+    "said": "2026-09-15",
+    "venue": "a press release",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/23/chris-pappas/sununu-social-security-privatization-new-hampshire/",
+      "published": "2026-09-23",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/senate-leadership-fund/no-ohio-senate-candidate-sherrod-brown-does-not-support-forcing-childhood-sex-change-surgery",
+    "claim": "Sherrod Brown supports “forcing childhood sex change surgery.”",
+    "speaker": "Senate Leadership Fund",
+    "said": "2026-09-16",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/01/senate-leadership-fund/no-ohio-senate-candidate-sherrod-brown-does-not-support-forcing-childhood-sex-change-surgery/",
+      "published": "2026-10-01",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/sherrod-brown/jon-husted-health-insurance-490000-ohio-senate",
+    "claim": "Sen. Jon Husted voted “to kick 490,000 Ohioans off their healthcare.”",
+    "speaker": "Sherrod Brown",
+    "said": "2026-09-18",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/09/sherrod-brown/jon-husted-health-insurance-490000-ohio-senate/",
+      "published": "2026-10-09",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/amy-acton/ramaswamy-alzheimers-drug-intepirdine-ohio",
+    "claim": "Vivek Ramaswamy “pushed an Alzheimer’s drug that he knew didn’t work. He made hundreds of millions of dollars scamming people.”",
+    "speaker": "Amy Acton",
+    "said": "2026-09-21",
+    "venue": "a campaign ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/12/amy-acton/ramaswamy-alzheimers-drug-intepirdine-ohio/",
+      "published": "2026-10-12",
+      "authors": [
+        "Cami Henry-Seymore"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "False",
+    "basis": "judgment",
+    "mappingNote": "The checker found the evidence does not show he knew the drug would fail or made hundreds of millions from it (the README's \"no evidence where evidence contradicts\" rule)."
+  },
+  {
+    "id": "pf/donald-trump/fact-check-where-was-cooper-when-hurricane-helene-hit-nc",
+    "claim": "Roy Cooper was “in New York speaking at a New York Times ‘Climate Forward’ event” when Hurricane “Helene slammed into North Carolina.”",
+    "speaker": "Donald Trump",
+    "said": "2026-09-21",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/05/donald-trump/fact-check-where-was-cooper-when-hurricane-helene-hit-nc/",
+      "published": "2026-10-05",
+      "authors": [
+        "Paul Specht"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/donald-trump/united-nations-artificial-intelligence-hoax-russia",
+    "claim": "The people who warned of climate change, the “Russia hoax” and the “Ukraine hoax” are the same people “now saying that AI is going to kill us all.”",
+    "speaker": "Donald Trump",
+    "said": "2026-09-22",
+    "venue": "a speech to the United Nations General Assembly",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/22/donald-trump/united-nations-artificial-intelligence-hoax-russia/",
+      "published": "2026-09-22",
+      "authors": [
+        "Caleb McCullough",
+        "Loreben Tuquero"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/senate-leadership-fund/fact-checking-gop-ad-in-iowa-senate-race-does-josh-turek-support-amnesty-for-immigrants",
+    "claim": "Iowa U.S. Senate Democratic candidate Josh Turek “supports amnesty for illegals.”",
+    "speaker": "Senate Leadership Fund",
+    "said": "2026-09-22",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/07/senate-leadership-fund/fact-checking-gop-ad-in-iowa-senate-race-does-josh-turek-support-amnesty-for-immigrants/",
+      "published": "2026-10-07",
+      "authors": [
+        "Caleb McCullough"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/mike-rogers/mostly-false-mike-rogers-says-abdul-el-sayed-supports-defunding-police-and-emptying-prisons",
+    "claim": "“Abdul El-Sayed supports defunding the police and emptying prisons.”",
+    "speaker": "Mike Rogers",
+    "said": "2026-09-23",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/28/mike-rogers/mostly-false-mike-rogers-says-abdul-el-sayed-supports-defunding-police-and-emptying-prisons/",
+      "published": "2026-09-28",
+      "authors": [
+        "Caleb McCullough"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "False",
+    "basis": "judgment",
+    "mappingNote": "He called for defunding police in 2020 but now backs police funding, and never said to empty prisons."
+  },
+  {
+    "id": "pf/mike-rogers/abdul-el-sayed-temple-israel-condemn",
+    "claim": "Abdul El-Sayed “could not condemn the terrorist who tried to attack and kill 140 Jewish children right here in Michigan.”",
+    "speaker": "Mike Rogers",
+    "said": "2026-09-24",
+    "venue": "a TV interview",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/01/mike-rogers/abdul-el-sayed-temple-israel-condemn/",
+      "published": "2026-10-01",
+      "authors": [
+        "Caleb McCullough"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "False",
+    "basis": "judgment",
+    "mappingNote": "El-Sayed did condemn the attacker (\"I condemn what he did\"), so the literal claim is contradicted."
+  },
+  {
+    "id": "pf/winsenate/susan-collins-jeffrey-epstein-files-pac-donor",
+    "claim": "Sen. Susan Collins “voted to cover up the Epstein files” and Jeffrey Epstein’s “business partner funneled $3 million” to a Collins super PAC.",
+    "speaker": "WinSenate",
+    "said": "2026-09-24",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/sep/28/winsenate/susan-collins-jeffrey-epstein-files-pac-donor/",
+      "published": "2026-09-28",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/winsenate/ashley-hinson-votes-epstein-files",
+    "claim": "Iowa Republican Senate candidate Rep. Ashley Hinson voted against releasing the Jeffrey Epstein files.",
+    "speaker": "WinSenate",
+    "said": "2026-09-25",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/02/winsenate/ashley-hinson-votes-epstein-files/",
+      "published": "2026-10-02",
+      "authors": [
+        "Loreben Tuquero"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "Misleading",
+    "basis": "judgment",
+    "mappingNote": "She did vote against procedural moves to force the release, the literal fact; she later voted for the release bill itself."
+  },
+  {
+    "id": "pf/byron-donalds/florida-governor-offshore-oil-drilling-lobbying",
+    "claim": "“Just months after” the 2010 Deepwater Horizon oil spill, David Jolly “was in Washington, pressuring Congress to expand drilling off the Florida coast, over $5 million in billings.”",
+    "speaker": "Byron Donalds",
+    "said": "2026-09-28",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/01/byron-donalds/florida-governor-offshore-oil-drilling-lobbying/",
+      "published": "2026-10-01",
+      "authors": [
+        "Samantha Putterman"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "False",
+    "basis": "judgment",
+    "mappingNote": "He attended one meeting where the bill was discussed, but the $5 million figure was his firm's billings across all clients, not drilling."
+  },
+  {
+    "id": "pf/senate-leadership-fund/sherrod-brown-soren-aldaco-transition-ohio-texas",
+    "claim": "“Sherrod Brown supports sex changes for minors. Irreversible surgery on kids. Like me,” Soren Aldaco.",
+    "speaker": "Senate Leadership Fund",
+    "said": "2026-09-28",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/14/senate-leadership-fund/sherrod-brown-soren-aldaco-transition-ohio-texas/",
+      "published": "2026-10-14",
+      "authors": [
+        "Loreben Tuquero"
+      ],
+      "rating": "Pants on Fire"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/donald-trump/iran-war-four-six-weeks-nuclear-timeline-midterms",
+    "claim": "“I stated, numerous times, that it would take 4-6 weeks to get rid of THE IRAN NUCLEAR THREAT, and I did it in one night!”",
+    "speaker": "Donald Trump",
+    "said": "2026-10-01",
+    "venue": "a Truth Social post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/02/donald-trump/iran-war-four-six-weeks-nuclear-timeline-midterms/",
+      "published": "2026-10-02",
+      "authors": [
+        "Amy Sherman",
+        "Maria Briceño"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/markwayne-mullin/trump-wealth-financial-gain-crypto",
+    "claim": "For President Donald Trump, “there’s no financial gain like the past presidents have had. It’s cost him to be in office.”",
+    "speaker": "Markwayne Mullin",
+    "said": "2026-10-01",
+    "venue": "a speech at a rally in Oklahoma",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/05/markwayne-mullin/trump-wealth-financial-gain-crypto/",
+      "published": "2026-10-05",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Pants on Fire"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/senate-leadership-fund/new-hampshire-senate-amazon-lobbyist-vann-bentley",
+    "claim": "New Hampshire U.S. Senate candidate Chris Pappas “lied about dating an Amazon lobbyist, then voted on bills Amazon lobbied on.”",
+    "speaker": "Senate Leadership Fund",
+    "said": "2026-10-01",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/15/senate-leadership-fund/new-hampshire-senate-amazon-lobbyist-vann-bentley/",
+      "published": "2026-10-15",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "False",
+    "basis": "judgment",
+    "mappingNote": "The checker found no evidence Pappas lied about the relationship, the claim's main assertion; the votes part is true but party-line."
+  },
+  {
+    "id": "pf/donald-trump/james-talarico-texas-paxton-vegan-meat-vomit",
+    "claim": "James Talarico is “a vegan” and “what they don’t show you is that, after every barbecue … he throws up.”",
+    "speaker": "Donald Trump",
+    "said": "2026-10-02",
+    "venue": "a rally in Alabama",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/13/donald-trump/james-talarico-texas-paxton-vegan-meat-vomit/",
+      "published": "2026-10-13",
+      "authors": [
+        "Amy Sherman",
+        "Caleb McCullough"
+      ],
+      "rating": "Pants on Fire"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/mariannette-miller-meeks/iowa-house-individual-stock-holdings",
+    "claim": "“I don’t own a single individual stock.”",
+    "speaker": "Mariannette Miller-Meeks",
+    "said": "2026-10-02",
+    "venue": "a Facebook post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/14/mariannette-miller-meeks/iowa-house-individual-stock-holdings/",
+      "published": "2026-10-14",
+      "authors": [
+        "Evan Watson"
+      ],
+      "rating": "True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/angie-nixon/cubans-deportation-immigration-trump-nixon",
+    "claim": "President Donald Trump has deported “over 13,000 Cubans since he has been in office, his first term and his second term.”",
+    "speaker": "Angie Nixon",
+    "said": "2026-10-04",
+    "venue": "an Oct. 4 CBS Miami interview",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/09/angie-nixon/cubans-deportation-immigration-trump-nixon/",
+      "published": "2026-10-09",
+      "authors": [
+        "Maria Briceño"
+      ],
+      "rating": "Mostly True"
+    },
+    "label": "True",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/donald-trump/no-brazils-fast-vote-counting-is-not-proof-of-us-election-cheating-despite-trumps-claim",
+    "claim": "Brazil’s quick election results are proof that places like Detroit, Philadelphia and California “take weeks to rig” their elections.",
+    "speaker": "Donald Trump",
+    "said": "2026-10-04",
+    "venue": "a Truth Social post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/05/donald-trump/no-brazils-fast-vote-counting-is-not-proof-of-us-election-cheating-despite-trumps-claim/",
+      "published": "2026-10-05",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "Pants on Fire"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/ashley-moody/moodys-fl-diner-ad-mischaracterizes-nixons-position-on-obbba-as-support-for-4-trillion-tax-hike",
+    "claim": "Florida U.S. Senate candidate Angie Nixon “backed a $4 trillion tax hike on everyone in this diner,” including a server and older adults.",
+    "speaker": "Ashley Moody",
+    "said": "2026-10-06",
+    "venue": "a TV ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/20/ashley-moody/moodys-fl-diner-ad-mischaracterizes-nixons-position-on-obbba-as-support-for-4-trillion-tax-hike/",
+      "published": "2026-10-20",
+      "authors": [
+        "Maria Briceño"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/james-talarico/ken-paxton-puppy-abusers-vote-texas-research",
+    "claim": "Texas Republican Senate candidate Ken Paxton voted “to protect puppy abusers.”",
+    "speaker": "James Talarico",
+    "said": "2026-10-06",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/12/james-talarico/ken-paxton-puppy-abusers-vote-texas-research/",
+      "published": "2026-10-12",
+      "authors": [
+        "Caleb McCullough"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "Misleading",
+    "basis": "judgment",
+    "mappingNote": "Paxton did vote against the bill (raising appeal bond fees for people found to have abused animals); \"protect puppy abusers\" gives the wrong impression of what the bill did."
+  },
+  {
+    "id": "pf/chris-pappas/john-sununu-pharma-lobbying-new-hampshire-senate",
+    "claim": "New Hampshire U.S. Senate candidate John E. Sununu “cashed in” with “Big Pharma,” earning “up to $35 million.”",
+    "speaker": "Chris Pappas",
+    "said": "2026-10-13",
+    "venue": "a debate",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/26/chris-pappas/john-sununu-pharma-lobbying-new-hampshire-senate/",
+      "published": "2026-10-26",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "Misleading",
+    "basis": "judgment",
+    "mappingNote": "\"Up to $35 million\" is the top of the disclosed range, so the literal words hold; the low end ($7.9 million) and the impression are left out."
+  },
+  {
+    "id": "pf/mike-collins/collins-ossoff-abortion-georgia-roevwade",
+    "claim": "U.S. Sen. Jon Ossoff is “all for abortion up until and past birth.”",
+    "speaker": "Mike Collins",
+    "said": "2026-10-13",
+    "venue": "in a debate",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/16/mike-collins/collins-ossoff-abortion-georgia-roevwade/",
+      "published": "2026-10-16",
+      "authors": [
+        "Maria Briceño"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/roger-marshall/adam-hamilton-kansas-beef-climate-change-cows",
+    "claim": "Kansas U.S. Senate candidate Adam Hamilton “wants to shut down the beef industry.”",
+    "speaker": "Roger Marshall",
+    "said": "2026-10-16",
+    "venue": "an interview with Sean Hannity",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/20/roger-marshall/adam-hamilton-kansas-beef-climate-change-cows/",
+      "published": "2026-10-20",
+      "authors": [
+        "Amy Sherman"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/jd-vance/biden-gasoline-prices-refineries-cbs-town-hall",
+    "claim": "“The biggest reason why gas prices are so high is because when Joe Biden was president, we had about 20% of American refining capacity that went offline.”",
+    "speaker": "JD Vance",
+    "said": "2026-10-17",
+    "venue": "a CBS News town hall",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/19/jd-vance/biden-gasoline-prices-refineries-cbs-town-hall/",
+      "published": "2026-10-19",
+      "authors": [
+        "Louis Jacobson"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/mike-rogers/el-sayed-muslim-brotherhood-michigan-senate",
+    "claim": "Michigan U.S. Senate candidate Abdul El-Sayed “didn’t disavow” the Muslim Brotherhood.",
+    "speaker": "Mike Rogers",
+    "said": "2026-10-18",
+    "venue": "an interview",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/19/mike-rogers/el-sayed-muslim-brotherhood-michigan-senate/",
+      "published": "2026-10-19",
+      "authors": [
+        "Caleb McCullough"
+      ],
+      "rating": "False"
+    },
+    "label": "False",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/winsenate/ashley-hinson-8-million-richer-iowa-senate",
+    "claim": "“After just five years in Washington,” Republican U.S. Rep. Ashley Hinson is “$8 million richer.”",
+    "speaker": "WinSenate",
+    "said": "2026-10-19",
+    "venue": "an ad",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/23/winsenate/ashley-hinson-8-million-richer-iowa-senate/",
+      "published": "2026-10-23",
+      "authors": [
+        "Caleb McCullough"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "Misleading",
+    "basis": "judgment",
+    "mappingNote": "The figure comes from financial disclosures (the top of the reported ranges); the impression of self-enrichment in office leaves out that the gain is her husband's company stake."
+  },
+  {
+    "id": "pf/david-jolly/donalds-fl-governor-midterms-jim-crow-black-family",
+    "claim": "U.S. Rep. Byron Donalds “suggests there were good parts of Jim Crow.”",
+    "speaker": "David Jolly",
+    "said": "2026-10-20",
+    "venue": "a speech",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/26/david-jolly/donalds-fl-governor-midterms-jim-crow-black-family/",
+      "published": "2026-10-26",
+      "authors": [
+        "Samantha Putterman"
+      ],
+      "rating": "Half True"
+    },
+    "label": "Misleading",
+    "basis": "firm"
+  },
+  {
+    "id": "pf/josh-stein/fact-checking-steins-claims-about-mail-in-ballot-rejections-in-north-carolina",
+    "claim": "In North Carolina, “thousands more absentee ballots (are) being rejected this election — at a rejection rate twice as high as in 2022.”",
+    "speaker": "Josh Stein",
+    "said": "2026-10-20",
+    "venue": "an X post",
+    "factCheck": {
+      "publisher": "PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/oct/23/josh-stein/fact-checking-steins-claims-about-mail-in-ballot-rejections-in-north-carolina/",
+      "published": "2026-10-23",
+      "authors": [
+        "Paul Specht"
+      ],
+      "rating": "Mostly False"
+    },
+    "label": "False",
+    "basis": "judgment",
+    "mappingNote": "Rejected ballots were fewer in number than in 2022, and the rate rose but did not double: both parts of the literal claim fail."
+  }
+]

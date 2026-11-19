@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <!-- ClaimCatcher mark hand-tuned for 16 px: icon.svg redrawn on the pixel
+       grid (1 px brackets, 6x5 bubble with a tail), with a 1 px white
+       outline underneath for dark toolbars. Left bracket blue, right bracket
+       red, bubble #141414. -->
+  <path fill="#fff" d="M0 1h4v1h-4zM12 1h4v1h-4zM0 2h1v1h-1zM3 2h1v1h-1zM12 2h1v1h-1zM15 2h1v1h-1zM0 3h1v1h-1zM2 3h2v1h-2zM5 3h6v1h-6zM12 3h2v1h-2zM15 3h1v1h-1zM0 4h1v1h-1zM2 4h1v1h-1zM4 4h2v1h-2zM10 4h2v1h-2zM13 4h1v1h-1zM15 4h1v1h-1zM0 5h1v1h-1zM2 5h1v1h-1zM4 5h1v1h-1zM11 5h1v1h-1zM13 5h1v1h-1zM15 5h1v1h-1zM0 6h1v1h-1zM2 6h1v1h-1zM4 6h1v1h-1zM11 6h1v1h-1zM13 6h1v1h-1zM15 6h1v1h-1zM0 7h1v1h-1zM2 7h1v1h-1zM4 7h1v1h-1zM11 7h1v1h-1zM13 7h1v1h-1zM15 7h1v1h-1zM0 8h1v1h-1zM2 8h1v1h-1zM4 8h1v1h-1zM10 8h2v1h-2zM13 8h1v1h-1zM15 8h1v1h-1zM0 9h1v1h-1zM2 9h1v1h-1zM4 9h2v1h-2zM8 9h3v1h-3zM13 9h1v1h-1zM15 9h1v1h-1zM0 10h1v1h-1zM2 10h1v1h-1zM5 10h1v1h-1zM7 10h2v1h-2zM13 10h1v1h-1zM15 10h1v1h-1zM0 11h1v1h-1zM2 11h1v1h-1zM5 11h3v1h-3zM13 11h1v1h-1zM15 11h1v1h-1zM0 12h1v1h-1zM2 12h2v1h-2zM12 12h2v1h-2zM15 12h1v1h-1zM0 13h1v1h-1zM3 13h1v1h-1zM12 13h1v1h-1zM15 13h1v1h-1zM0 14h4v1h-4zM12 14h4v1h-4z"/>
+  <path fill="#1d4ed8" d="M1 2h2v1h-2zM1 3h1v1h-1zM1 4h1v1h-1zM1 5h1v1h-1zM1 6h1v1h-1zM1 7h1v1h-1zM1 8h1v1h-1zM1 9h1v1h-1zM1 10h1v1h-1zM1 11h1v1h-1zM1 12h1v1h-1zM1 13h2v1h-2z"/>
+  <path fill="#b91c1c" d="M13 2h2v1h-2zM14 3h1v1h-1zM14 4h1v1h-1zM14 5h1v1h-1zM14 6h1v1h-1zM14 7h1v1h-1zM14 8h1v1h-1zM14 9h1v1h-1zM14 10h1v1h-1zM14 11h1v1h-1zM14 12h1v1h-1zM13 13h2v1h-2z"/>
+  <path fill="#141414" d="M6 4h4v1h-4zM5 5h6v1h-6zM5 6h6v1h-6zM5 7h6v1h-6zM5 8h5v1h-5zM6 9h2v1h-2zM6 10h1v1h-1z"/>
+</svg>

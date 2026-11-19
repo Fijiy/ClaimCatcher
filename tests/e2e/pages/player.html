@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Fixture: player with a full-screen button</title>
+    <style>
+      body { margin: 0; padding: 40px; }
+      #player { position: relative; width: 480px; background: #000; }
+      #player video { display: block; width: 100%; }
+    </style>
+  </head>
+  <body>
+    <h1>Hearing (fixture)</h1>
+    <!-- Like YouTube's and Bitmovin's players: a container holds the video
+         and its controls, and the container is what goes fullscreen. -->
+    <div id="player">
+      <video id="video" src="/media/tone.wav" controls>
+        <track kind="captions" src="/video-track.vtt" srclang="en" label="English" />
+      </video>
+    </div>
+    <button id="fullscreen" type="button" onclick="document.getElementById('player').requestFullscreen()">Full screen</button>
+  </body>
+</html>

@@ -1,0 +1,251 @@
+{
+  "frozenAt": "2026-10-27T03:24:03.677Z",
+  "refilteredAt": "2026-10-27T03:37:45.943Z",
+  "id": "pf/amy-acton/ramaswamy-alzheimers-drug-intepirdine-ohio",
+  "said": "2026-09-21",
+  "queries": {
+    "fact": "Vivek Ramaswamy pushed an Alzheimer’s drug that he knew didn’t work. He made hundreds of millions of dollars scamming people.",
+    "claim": "Vivek Ramaswamy pushed an Alzheimer’s drug that he knew didn’t work. He made hundreds of millions of dollars scamming people. Amy Acton"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2702.130000000121,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1186.831290999893,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Ramaswamy promoted a failed Alzheimer's drug, but did ...",
+      "url": "https://politifact.com/factchecks/2026/oct/12/amy-acton/ramaswamy-alzheimers-drug-intepirdine-ohio/",
+      "domain": "politifact.com",
+      "published": "2026-10-12",
+      "publishedAsGiven": "Oct 12, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Ohio governor attack ads fact-checked on Acton and ...",
+      "url": "https://www.dispatch.com/story/news/politics/elections/2026/10/26/ohio-governor-attack-ads-acton-ramaswamy-fact-check/92252879007/",
+      "domain": "dispatch.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "18 hours ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Fact-check: Did Ramaswamy push a drug he knew didn't ...",
+      "url": "https://www.cleveland.com/politics/2026/09/fact-checking-amy-actons-attack-ad-about-vivek-ramaswamy-scamming-alzheimers-patients.html",
+      "domain": "cleveland.com",
+      "published": "2026-09-30",
+      "publishedAsGiven": "Sep 30, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Amy Acton funded an ad that features an Ohioan accusing ...",
+      "url": "https://www.facebook.com/clevelandcom/posts/amy-acton-funded-an-ad-that-features-an-ohioan-accusing-vivek-ramaswamy-of-knowi/1578938204267370/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "How Vivek Ramaswamy's mom manipulated Alzheimer's data ...",
+      "url": "https://oligarchwatch.substack.com/p/how-vivek-ramaswamys-mom-manipulated",
+      "domain": "oligarchwatch.substack.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "snippet": "Vivek Ramaswamy, a billionaire and the Republican nominee in Ohio's gubernatorial race, served as the frontman for a dubious pharmaceutical ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Vivek Ramaswamy Defends Mom Attack Ad, Cites ...",
+      "url": "https://www.reddit.com/r/Ohio/comments/1xeq36e/vivek_ramaswamy_defends_mom_attack_ad_cites/",
+      "domain": "reddit.com",
+      "published": "2026-10-25",
+      "publishedAsGiven": "2 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "In Ohio's race for governor, Amy Acton's campaign says ...",
+      "url": "https://www.facebook.com/politifact/posts/in-ohios-race-for-governor-amy-actons-campaign-says-vivek-ramaswamy-pushed-an-al/1579184234242674/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Acton campaign 'defamed my mother' before attack ad",
+      "url": "https://www.yahoo.com/news/politics/articles/ramaswamy-acton-campaign-defamed-mother-152432693.html",
+      "domain": "yahoo.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "12 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Two lies in Amy Acton's attack ad against Vivek ...",
+      "url": "https://www.youtube.com/shorts/_3UXjz3lm2g",
+      "domain": "youtube.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "At an Ohio deli, GOP voters shrug at controversy over ...",
+      "url": "https://www.centredaily.com/news/nation-world/national/article317765171.html",
+      "domain": "centredaily.com",
+      "published": "2026-10-25",
+      "publishedAsGiven": "2 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Ohio governor attack ads fact-checked on Acton and ...",
+      "url": "https://www.dispatch.com/story/news/politics/elections/2026/10/26/ohio-governor-attack-ads-acton-ramaswamy-fact-check/92252879007/",
+      "domain": "dispatch.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "18 hours ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Acton campaign 'defamed my mother' before attack ad",
+      "url": "https://www.yahoo.com/news/politics/articles/ramaswamy-acton-campaign-defamed-mother-152432693.html",
+      "domain": "yahoo.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "12 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Ramaswamy promoted a failed Alzheimer's drug, but did ...",
+      "url": "https://politifact.com/factchecks/2026/oct/12/amy-acton/ramaswamy-alzheimers-drug-intepirdine-ohio/",
+      "domain": "politifact.com",
+      "published": "2026-10-12",
+      "publishedAsGiven": "Oct 12, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Vivek Ramaswamy Defends Mom Attack Ad, Cites ...",
+      "url": "https://www.reddit.com/r/Ohio/comments/1xeq36e/vivek_ramaswamy_defends_mom_attack_ad_cites/",
+      "domain": "reddit.com",
+      "published": "2026-10-25",
+      "publishedAsGiven": "2 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Amy Acton funded an ad that features an Ohioan accusing ...",
+      "url": "https://www.facebook.com/clevelandcom/posts/amy-acton-funded-an-ad-that-features-an-ohioan-accusing-vivek-ramaswamy-of-knowi/1578938204267370/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Vivek Ramaswamy made false promises about the success ...",
+      "url": "https://www.facebook.com/amyactonoh/posts/vivek-ramaswamy-made-false-promises-about-the-success-of-a-drug-that-had-already/122176887080718957/",
+      "domain": "facebook.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "2 lies in Amy Acton ad attacking Vivek Ramaswamy over ...",
+      "url": "https://www.cleveland.com/news/2026/10/2-lies-in-amy-acton-ad-attacking-vivek-ramaswamy-over-alzheimers-drug.html",
+      "domain": "cleveland.com",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Two lies in Amy Acton's attack ad against Vivek ...",
+      "url": "https://www.youtube.com/shorts/_3UXjz3lm2g",
+      "domain": "youtube.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "At an Ohio deli, GOP voters shrug at controversy over ...",
+      "url": "https://www.centredaily.com/news/nation-world/national/article317765171.html",
+      "domain": "centredaily.com",
+      "published": "2026-10-25",
+      "publishedAsGiven": "2 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Dr. Amy Acton Ad: Vivek Ramaswamy For Himself Not Ohio",
+      "url": "https://www.facebook.com/democrats/videos/this-is-heartbreaking-ohio-deserves-better-than-vivek-ramaswamy/1402023015369356/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 4,
+    "after-said": 12,
+    "maybe-after-said": 1,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:23:59.788Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "How Vivek Ramaswamy's mom manipulated Alzheimer's data ...",
+      "url": "https://oligarchwatch.substack.com/p/how-vivek-ramaswamys-mom-manipulated",
+      "domain": "oligarchwatch.substack.com",
+      "snippet": "Vivek Ramaswamy, a billionaire and the Republican nominee in Ohio's gubernatorial race, served as the frontman for a dubious pharmaceutical ...",
+      "published": "2026-08-27",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

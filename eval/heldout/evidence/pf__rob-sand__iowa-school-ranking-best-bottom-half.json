@@ -1,0 +1,417 @@
+{
+  "frozenAt": "2026-10-27T03:20:42.864Z",
+  "refilteredAt": "2026-10-27T03:36:57.667Z",
+  "id": "pf/rob-sand/iowa-school-ranking-best-bottom-half",
+  "said": "2026-08-24",
+  "queries": {
+    "fact": "Iowa once had the best public schools in the country, but is now in the bottom half.",
+    "claim": "Iowa once had the best public schools in the country, but is now in the bottom half. Rob Sand"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1133.3375409999862,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2389.8559580000583,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 2577.186875000014,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Iowa's public schools used to be the best in the nation, and now ...",
+      "url": "https://www.facebook.com/robsandia/posts/iowas-public-schools-used-to-be-the-best-in-the-nation-and-now-were-in-the-botto/1631741978743104/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Rob Sand's comparison of Iowa public schools' ranking",
+      "url": "https://www.kcci.com/article/iowa-governor-fact-checks-rob-sand-iowa-public-school-ranking/74080611",
+      "domain": "kcci.com",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Iowa used to be #1 in education. Now, because of 10 years ...",
+      "url": "https://www.facebook.com/iowahousedemocrats/posts/iowa-used-to-be-1-in-education-now-because-of-10-years-of-republican-control-and/1540896914738209/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Iowa Education Rankings Fall to Lowest Level in Decades",
+      "url": "https://robsand.com/news/new-report-iowa-education-rankings-fall-to-lowest-level-in-decades",
+      "domain": "robsand.com",
+      "published": "2026-06-11",
+      "publishedAsGiven": "Jun 11, 2026",
+      "snippet": "... Iowa's education system has fallen to 27th nationally, placing the state in the bottom half of U.S. rankings for the first time since 1990."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Iowa is no longer a leader in education, and it's our fault",
+      "url": "https://www.thegazette.com/opinion/iowa-is-no-longer-a-leader-in-education-and-it-s-our-fault/article_36a97cdc-07e4-414c-bf1d-1002ca399986.html",
+      "domain": "thegazette.com",
+      "published": "2026-06-21",
+      "publishedAsGiven": "Jun 21, 2026",
+      "snippet": "The latest report, released this month, gives Iowa its lowest rank ever in education: 27th. The report includes rankings and comprehensive ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Rob Sand: Iowa Public Schools Fall to Bottom Half, Beaten by ...",
+      "url": "https://www.facebook.com/robsandia/videos/iowas-public-schools-used-to-be-the-best-in-the-nation-and-now-were-in-the-botto/1841887006999938/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Find High Schools in Iowa",
+      "url": "https://www.usnews.com/education/best-high-schools/iowa",
+      "domain": "usnews.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Elementary and Secondary Education in Iowa, 1890-1900",
+      "url": "https://pubs.lib.uiowa.edu/annals-of-iowa/article/4977/galley/113824/view/",
+      "domain": "pubs.lib.uiowa.edu",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Fact-checking Rob Sand's comparison of Iowa public ...",
+      "url": "https://politifact.com/factchecks/2026/sep/24/rob-sand/iowa-school-ranking-best-bottom-half/",
+      "domain": "politifact.com",
+      "published": "2026-09-24",
+      "publishedAsGiven": "Sep 24, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Iowa scores in 50-state education rankings decline from ...",
+      "url": "https://www.congress.gov/119/meeting/house/117856/documents/HHRG-119-GO00-20250205-SD011.pdf",
+      "domain": "congress.gov",
+      "published": "2024-06-17",
+      "publishedAsGiven": "Jun 17, 2024",
+      "snippet": "Iowa, which has ranked first in on-time high school graduation rate since the 2010-11 school year, fell to No. 3, according to the report."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Rob Sand's comparison of Iowa public schools' ranking",
+      "url": "https://www.kcci.com/article/iowa-governor-fact-checks-rob-sand-iowa-public-school-ranking/74080611",
+      "domain": "kcci.com",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Rob Sand: Iowa Public Schools Fall to Bottom Half, Beaten by ...",
+      "url": "https://www.facebook.com/robsandia/videos/iowas-public-schools-used-to-be-the-best-in-the-nation-and-now-were-in-the-botto/1841887006999938/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Fact-checking Rob Sand's comparison of Iowa public ...",
+      "url": "https://politifact.com/factchecks/2026/sep/24/rob-sand/iowa-school-ranking-best-bottom-half/",
+      "domain": "politifact.com",
+      "published": "2026-09-24",
+      "publishedAsGiven": "Sep 24, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Iowa Education Rankings Fall to Lowest Level in Decades",
+      "url": "https://robsand.com/news/new-report-iowa-education-rankings-fall-to-lowest-level-in-decades",
+      "domain": "robsand.com",
+      "published": "2026-06-11",
+      "publishedAsGiven": "Jun 11, 2026",
+      "snippet": "Iowa's education system has fallen to 27th nationally, placing the state in the bottom half of U.S. rankings for the first time since 1990."
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Iowa's public schools used to be the best in the nation, and now ...",
+      "url": "https://www.facebook.com/robsandia/posts/iowas-public-schools-used-to-be-the-best-in-the-nation-and-now-were-in-the-botto/1631741978743104/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Iowa school ranking fact check by Grace Olson",
+      "url": "https://www.facebook.com/UISJMC/posts/heading-into-the-midterms-america-needs-journalists-now-more-than-ever-and-sjmc-/1819106296320407/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Fact-checking Rob Sand's comparison of Iowa public ...",
+      "url": "https://www.linkedin.com/posts/politifact_fact-checking-rob-sands-comparison-of-iowa-activity-7513342916006846464-p0f4",
+      "domain": "linkedin.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "In Iowa's governor's race, Democrat Rob Sand said ...",
+      "url": "https://www.facebook.com/politifact/posts/in-iowas-governors-race-democrat-rob-sand-said-iowa-used-to-have-the-best-public/1568640898630341/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Is Iowa's public school system really \"in the bottom half,\" losing ...",
+      "url": "https://iowafirstcheck.com/fact-checks/rob-sand-iowa-schools-bottom-half-ad/",
+      "domain": "iowafirstcheck.com",
+      "published": "2026-09-30",
+      "publishedAsGiven": "Sep 30, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Rob Sand wants to improve public education, not attack it",
+      "url": "https://www.desmoinesregister.com/story/opinion/columnists/iowa-view/2026/10/22/rob-sand-iowa-governor-supports-public-schools/92348181007/",
+      "domain": "desmoinesregister.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Some Colleges Have More Students From the Top 1 ...",
+      "url": "https://www.nytimes.com/interactive/2017/01/18/upshot/some-colleges-have-more-students-from-the-top-1-percent-than-the-bottom-60.html",
+      "domain": "nytimes.com",
+      "published": "2017-01-18",
+      "publishedAsGiven": "Jan 18, 2017",
+      "snippet": "At 38 colleges in America, more students came from the top 1 percent of the income scale than from the entire bottom 60 percent. less than one- ..."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Gov. Reynolds: Explain steep rankings drop for Iowa State ...",
+      "url": "https://www.usatoday.com/story/opinion/columnists/iowa-view/2018/10/26/gov-reynolds-explain-steep-rankings-drop-iowa-state-university-university-iowa/1765173002/",
+      "domain": "usatoday.com",
+      "published": "2018-10-27",
+      "publishedAsGiven": "Oct 27, 2018",
+      "snippet": "Iowa snagged the No. 1 spot, The state was in the top 10 for preschool enrollment but finished in the bottom half for pre-K quality.”"
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Geographic disparity: States with the best (and worst) schools",
+      "url": "https://www.usatoday.com/story/money/economy/2018/02/08/geographic-disparity-states-best-and-worst-schools/1079181001/",
+      "domain": "usatoday.com",
+      "published": "2018-02-08",
+      "publishedAsGiven": "Feb 8, 2018",
+      "snippet": "Public school spending: $14,569 per pupil (11th highest) state's public schools are proficient in reading, each the fourth largest share of any ..."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "As school choice expands in Iowa, one district is in a crisis ...",
+      "url": "https://www.npr.org/2026/04/28/nx-s1-5793881/as-school-choice-expands-in-iowa-one-district-is-in-a-crisis-from-losing-students",
+      "domain": "npr.org",
+      "published": "2026-04-28",
+      "publishedAsGiven": "Apr 28, 2026",
+      "snippet": "Iowa has one of the most generous private school choice programs in the country, offering any child in the state $8,000 to pay for ."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "School choice posts major wins in Iowa, Utah. Is your state ...",
+      "url": "https://www.usatoday.com/story/opinion/columnist/2023/02/27/school-choice-expanding-educational-freedom-parents/11332407002/",
+      "domain": "usatoday.com",
+      "published": "2023-02-27",
+      "publishedAsGiven": "Feb 27, 2023",
+      "snippet": "At a recent event in Iowa, Iowa Gov. Kim Reynolds for last month signing into law one of the country's most expansive school choice programs."
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "Iowa school districts in showdown with governor over ...",
+      "url": "https://www.nbcnews.com/news/education/iowa-school-districts-showdown-governor-over-reopening-plans-n1236664",
+      "domain": "nbcnews.com",
+      "published": "2020-08-13",
+      "publishedAsGiven": "Aug 13, 2020",
+      "snippet": "Iowa school districts are confronting orders by Gov. Kim Reynolds on how they must reopen and raising concerns about safety amid the ..."
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "A new federal voucher could help public schools",
+      "url": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
+      "domain": "npr.org",
+      "published": "2026-10-20",
+      "publishedAsGiven": "7 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Why U.S. Test Scores Are in a 'Generation-Long Decline'",
+      "url": "https://www.nytimes.com/2026/05/13/upshot/test-scores-school-districts-us.html",
+      "domain": "nytimes.com",
+      "published": "2026-05-13",
+      "publishedAsGiven": "May 13, 2026",
+      "snippet": "In one in three school districts in the United States, students are reading a full grade level lower than they were in 2015. Only a few states, ..."
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "College football's greatest overachievers of all time",
+      "url": "https://www.nytimes.com/athletic/7708504/2026/10/21/college-football-overachievers-all-time-byu/",
+      "domain": "nytimes.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "A looming 'demographic cliff': Fewer college students and ...",
+      "url": "https://www.npr.org/2025/01/08/nx-s1-5246200/demographic-cliff-fewer-college-students-mean-fewer-graduates",
+      "domain": "npr.org",
+      "published": "2025-01-08",
+      "publishedAsGiven": "Jan 8, 2025",
+      "snippet": "This was the unceremonious end of Iowa Wesleyan University, a 181-year-old institution that closed in 2023 after financial losses due in part to ..."
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 6,
+    "after-said": 7,
+    "maybe-after-said": 1,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:20:39.341Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Iowa is no longer a leader in education, and it's our fault",
+      "url": "https://www.thegazette.com/opinion/iowa-is-no-longer-a-leader-in-education-and-it-s-our-fault/article_36a97cdc-07e4-414c-bf1d-1002ca399986.html",
+      "domain": "thegazette.com",
+      "snippet": "The latest report, released this month, gives Iowa its lowest rank ever in education: 27th. The report includes rankings and comprehensive ...",
+      "published": "2026-06-21",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "The Gazette (Cedar Rapids)",
+        "page": "https://mediabiasfactcheck.com/the-gazette-cedar-rapids/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Some Colleges Have More Students From the Top 1 ...",
+      "url": "https://www.nytimes.com/interactive/2017/01/18/upshot/some-colleges-have-more-students-from-the-top-1-percent-than-the-bottom-60.html",
+      "domain": "nytimes.com",
+      "snippet": "At 38 colleges in America, more students came from the top 1 percent of the income scale than from the entire bottom 60 percent. less than one- ...",
+      "published": "2017-01-18",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "New York Times",
+        "page": "https://mediabiasfactcheck.com/new-york-times/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Iowa scores in 50-state education rankings decline from ...",
+      "url": "https://www.congress.gov/119/meeting/house/117856/documents/HHRG-119-GO00-20250205-SD011.pdf",
+      "domain": "congress.gov",
+      "snippet": "Iowa, which has ranked first in on-time high school graduation rate since the 2010-11 school year, fell to No. 3, according to the report.",
+      "published": "2024-06-17",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Gov. Reynolds: Explain steep rankings drop for Iowa State ...",
+      "url": "https://www.usatoday.com/story/opinion/columnists/iowa-view/2018/10/26/gov-reynolds-explain-steep-rankings-drop-iowa-state-university-university-iowa/1765173002/",
+      "domain": "usatoday.com",
+      "snippet": "Iowa snagged the No. 1 spot, The state was in the top 10 for preschool enrollment but finished in the bottom half for pre-K quality.”",
+      "published": "2018-10-27",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "USA Today",
+        "page": "https://mediabiasfactcheck.com/usa-today-2/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Geographic disparity: States with the best (and worst) schools",
+      "url": "https://www.usatoday.com/story/money/economy/2018/02/08/geographic-disparity-states-best-and-worst-schools/1079181001/",
+      "domain": "usatoday.com",
+      "snippet": "Public school spending: $14,569 per pupil (11th highest) state's public schools are proficient in reading, each the fourth largest share of any ...",
+      "published": "2018-02-08",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "USA Today",
+        "page": "https://mediabiasfactcheck.com/usa-today-2/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

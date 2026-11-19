@@ -1,0 +1,402 @@
+{
+  "frozenAt": "2026-10-27T03:21:44.384Z",
+  "refilteredAt": "2026-10-27T03:37:12.837Z",
+  "id": "pf/ashley-hinson/josh-turek-iowa-senate-house-votes",
+  "said": "2026-09-02",
+  "queries": {
+    "fact": "Iowa Democratic U.S. Senate candidate Josh Turek skipped 58% of the votes at the Statehouse this year.",
+    "claim": "Iowa Democratic U.S. Senate candidate Josh Turek skipped 58% of the votes at the Statehouse this year. Ashley Hinson"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2554.624666000018,
+      "results": 8
+    },
+    {
+      "query": "claim",
+      "ms": 2585.3992500000168,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 158.60174999997253,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "ICYMI: Josh Turek Says He's Too Busy Campaigning To ...",
+      "url": "https://senateleadershipfund.org/press-releases/icymi-josh-turek-says-hes-too-busy-campaigning-to-do-his-job/",
+      "domain": "senateleadershipfund.org",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Iowa Dem Senate candidate says he's too busy ...",
+      "url": "https://iowagop.org/iowa-dem-senate-candidate-says-hes-too-busy-campaigning-to-attend-all-state-house-votes/",
+      "domain": "iowagop.org",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "PolitiFact | In Iowa's U.S. Senate race, fact-checking Ashley ...",
+      "url": "https://dailyiowan.com/2026/10/05/politifact-in-iowas-u-s-senate-race-fact-checking-ashley-hinsons-claim-about-josh-tureks-voting-record/",
+      "domain": "dailyiowan.com",
+      "published": "2026-10-05",
+      "publishedAsGiven": "Oct 5, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Iowa GOP",
+      "url": "https://www.facebook.com/IowaGOP/posts/josh-turek-was-asked-to-explain-why-he-missed-58-of-his-iowa-house-votes-his-ans/1647078040119722/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Josh Turek missed 58% of Iowa House votes while ...",
+      "url": "https://www.foxnews.com/politics/dem-senate-hopeful-pocketed-massive-taxpayer-funded-cash-while-skipping-hundreds-votes",
+      "domain": "foxnews.com",
+      "published": "2026-07-08",
+      "publishedAsGiven": "Jul 8, 2026",
+      "snippet": "Jul 8, 2026 — Records show Josh Turek missed votes on rural health and education bills while fundraising in California and Washington, DC. Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Checking Josh Turek and Ashley Hinson's missed votes ...",
+      "url": "https://www.ktiv.com/2026/08/26/checking-josh-turek-ashley-hinsons-missed-votes-claims-against-each-other/",
+      "domain": "ktiv.com",
+      "published": "2026-08-25",
+      "publishedAsGiven": "Aug 25, 2026",
+      "snippet": "Aug 25, 2026 — “ Josh Turek didn't show up to vote for the Iowa Farm Bill. He skipped 58 % of the votes in the State Capitol, and so he's not shown up for ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Josh Turek had NO ANSWER for why he missed 58% of ...",
+      "url": "https://www.facebook.com/IowaGOP/posts/josh-turek-had-no-answer-for-why-he-missed-58-of-his-votes-in-the-iowa-house-thi/1646255580201968/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Ashley Hinson and Josh Turek Voting Records Compared ...",
+      "url": "https://www.newsweek.com/iowa-senate-midterms-ashley-hinson-josh-turek-voting-12519313",
+      "domain": "newsweek.com",
+      "published": "2026-10-02",
+      "publishedAsGiven": "Oct 2, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Josh Turek had NO ANSWER for why he missed 58% of ...",
+      "url": "https://www.facebook.com/IowaGOP/posts/josh-turek-had-no-answer-for-why-he-missed-58-of-his-votes-in-the-iowa-house-thi/1646255580201968/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "In Iowa's U.S. Senate race, fact-checking Ashley Hinson's ...",
+      "url": "https://politifact.com/factchecks/2026/sep/30/ashley-hinson/josh-turek-iowa-senate-house-votes/",
+      "domain": "politifact.com",
+      "published": "2026-09-30",
+      "publishedAsGiven": "Sep 30, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Josh Turek missed 58% of his votes in the Iowa House and ...",
+      "url": "https://www.facebook.com/IowaGOP/videos/josh-turek-missed-58-of-his-votes-in-the-iowa-house-and-thinks-you-dont-care-now/1870359080630508/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Ashley Hinson and Josh Turek Voting Records Compared ...",
+      "url": "https://www.newsweek.com/iowa-senate-midterms-ashley-hinson-josh-turek-voting-12519313",
+      "domain": "newsweek.com",
+      "published": "2026-10-02",
+      "publishedAsGiven": "Oct 2, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Iowa Dem Senate candidate says he's too busy ...",
+      "url": "https://www.wfmd.com/2026/10/14/iowa-dem-senate-candidate-says-hes-too-busy-campaigning-to-attend-all-state-house-votes/",
+      "domain": "wfmd.com",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Josh Turek missed 58% of his votes in the Iowa House and ...",
+      "url": "https://www.facebook.com/IowaGOP/posts/josh-turek-missed-58-of-his-votes-in-the-iowa-house-and-thinks-you-dont-care-now/1646252926868900/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Checking Josh Turek and Ashley Hinson's missed votes ...",
+      "url": "https://www.ktiv.com/2026/08/26/checking-josh-turek-ashley-hinsons-missed-votes-claims-against-each-other/",
+      "domain": "ktiv.com",
+      "published": "2026-08-25",
+      "publishedAsGiven": "Aug 25, 2026",
+      "snippet": "“Josh Turek didn't show up to vote for the Iowa Farm Bill. He skipped 58% of the votes in the State Capitol, and so he's not shown up for Iowa ..."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Josh Turek missed 58% of Iowa House votes while ...",
+      "url": "https://www.foxnews.com/politics/dem-senate-hopeful-pocketed-massive-taxpayer-funded-cash-while-skipping-hundreds-votes",
+      "domain": "foxnews.com",
+      "published": "2026-07-08",
+      "publishedAsGiven": "Jul 8, 2026",
+      "snippet": "Records show Josh Turek missed votes on rural health and education bills while fundraising in California and Washington, DC."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Josh Turek skipped 58% of the votes at the State House this ...",
+      "url": "https://www.facebook.com/AshleyHinsonIowa/posts/josh-turek-skipped-58-of-the-votes-at-the-state-house-this-year-and-had-the-auda/1654010176344582/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Josh Turek missed 58% of his votes in the Iowa House and ...",
+      "url": "https://www.facebook.com/IowaGOP/posts/josh-turek-missed-58-of-his-votes-in-the-iowa-house-and-thinks-you-dont-care-now/1640587324102127/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Cross-Tabs: September 2026 Times/Siena Poll of ...",
+      "url": "https://www.nytimes.com/interactive/2026/10/04/polls/times-siena-iowa-poll-crosstabs.html",
+      "domain": "nytimes.com",
+      "published": "2026-10-03",
+      "publishedAsGiven": "Oct 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Iowa Midterm Elections 2026: Key Races, Candidates and ...",
+      "url": "https://www.nbcnews.com/politics/2026-elections/iowa-results",
+      "domain": "nbcnews.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "5 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Iowa Primary 2026: Live Election Results",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-iowa-primary.html",
+      "domain": "nytimes.com",
+      "published": "2026-07-14",
+      "publishedAsGiven": "Jul 14, 2026",
+      "snippet": "Josh Turek, a former paralympic athlete with support from the establishment, is running against Zach Wahls, a progressive who says he would ..."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Toplines: September 2026 Times/Siena Poll of the Likely ...",
+      "url": "https://www.nytimes.com/interactive/2026/10/04/polls/times-siena-iowa-poll-toplines.html",
+      "domain": "nytimes.com",
+      "published": "2026-10-03",
+      "publishedAsGiven": "Oct 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Toplines: September 2026 Times/Siena Polls of the Likely ...",
+      "url": "https://www.nytimes.com/interactive/2026/10/04/polls/times-siena-poll-toplines.html",
+      "domain": "nytimes.com",
+      "published": "2026-10-03",
+      "publishedAsGiven": "Oct 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "Cross-Tabs: June 2026 Times/Siena Polls of Likely Voters ...",
+      "url": "https://www.nytimes.com/interactive/2026/07/01/polls/times-siena-battleground-poll-crosstabs.html",
+      "domain": "nytimes.com",
+      "published": "2026-07-01",
+      "publishedAsGiven": "Jul 1, 2026",
+      "snippet": "Results of New York Times/Siena polls of 3,659 likely voters in Alaska, Iowa, Maine, North Carolina, Ohio and Texas conducted from June 15 to 29 ..."
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Federal agents search Rep. Ilhan Omar's home",
+      "url": "https://apnews.com/live/trump-greece-envoy-russia-diesel-midterm-elections-news-updates-10-12-2026",
+      "domain": "apnews.com",
+      "published": "2026-10-12",
+      "publishedAsGiven": "Oct 12, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Iowa Primary Election Results 2022",
+      "url": "https://www.nytimes.com/interactive/2022/06/07/us/elections/results-iowa.html",
+      "domain": "nytimes.com",
+      "published": "2022-06-07",
+      "publishedAsGiven": "Jun 7, 2022",
+      "snippet": "See full results and maps from the Iowa primary elections. Candidate 86,372 +55.2% 55.2% Total reported 156,432 Karen Bass."
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "2026 Midterm Primary Election Calendar",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/2026-election-calendar.html",
+      "domain": "nytimes.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "Iowa Election Results 2022",
+      "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-iowa.html",
+      "domain": "nytimes.com",
+      "published": "2022-11-08",
+      "publishedAsGiven": "Nov 8, 2022",
+      "snippet": "See full results and maps from the 2022 Iowa elections."
+    }
+  ],
+  "returned": 28,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 1,
+    "after-said": 15,
+    "maybe-after-said": 1,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:21:37.939Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Iowa Primary 2026: Live Election Results",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-iowa-primary.html",
+      "domain": "nytimes.com",
+      "snippet": "Josh Turek, a former paralympic athlete with support from the establishment, is running against Zach Wahls, a progressive who says he would ...",
+      "published": "2026-07-14",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "New York Times",
+        "page": "https://mediabiasfactcheck.com/new-york-times/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Cross-Tabs: June 2026 Times/Siena Polls of Likely Voters ...",
+      "url": "https://www.nytimes.com/interactive/2026/07/01/polls/times-siena-battleground-poll-crosstabs.html",
+      "domain": "nytimes.com",
+      "snippet": "Results of New York Times/Siena polls of 3,659 likely voters in Alaska, Iowa, Maine, North Carolina, Ohio and Texas conducted from June 15 to 29 ...",
+      "published": "2026-07-01",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "New York Times",
+        "page": "https://mediabiasfactcheck.com/new-york-times/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Iowa Primary Election Results 2022",
+      "url": "https://www.nytimes.com/interactive/2022/06/07/us/elections/results-iowa.html",
+      "domain": "nytimes.com",
+      "snippet": "See full results and maps from the Iowa primary elections. Candidate 86,372 +55.2% 55.2% Total reported 156,432 Karen Bass.",
+      "published": "2022-06-07",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "New York Times",
+        "page": "https://mediabiasfactcheck.com/new-york-times/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Iowa Election Results 2022",
+      "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-iowa.html",
+      "domain": "nytimes.com",
+      "snippet": "See full results and maps from the 2022 Iowa elections.",
+      "published": "2022-11-08",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "New York Times",
+        "page": "https://mediabiasfactcheck.com/new-york-times/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Josh Turek missed 58% of Iowa House votes while ...",
+      "url": "https://www.foxnews.com/politics/dem-senate-hopeful-pocketed-massive-taxpayer-funded-cash-while-skipping-hundreds-votes",
+      "domain": "foxnews.com",
+      "snippet": "Jul 8, 2026 — Records show Josh Turek missed votes on rural health and education bills while fundraising in California and Washington, DC. Read more",
+      "published": "2026-07-08",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "R",
+        "reliability": "mixed",
+        "name": "Fox News",
+        "page": "https://mediabiasfactcheck.com/fox-news/"
+      },
+      "weight": "reduced",
+      "n": 5
+    }
+  ]
+}

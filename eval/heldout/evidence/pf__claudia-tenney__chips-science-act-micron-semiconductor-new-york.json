@@ -1,0 +1,421 @@
+{
+  "frozenAt": "2026-10-27T03:09:34.866Z",
+  "refilteredAt": "2026-10-27T03:34:07.877Z",
+  "id": "pf/claudia-tenney/chips-science-act-micron-semiconductor-new-york",
+  "said": "2026-01-16",
+  "queries": {
+    "fact": "Said she has led the House effort to build a large Micron semiconductor facility near Syracuse.",
+    "claim": "Said she has led the House effort to build a large Micron semiconductor facility near Syracuse. Claudia Tenney"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 3505.585375000024,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 3405.3154579999973,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 88.50545799999963,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Governor Hochul Celebrates Groundbreaking of Micron's ...",
+      "url": "https://www.governor.ny.gov/news/promise-progress-governor-hochul-celebrates-groundbreaking-microns-semiconductor-manufacturing",
+      "domain": "governor.ny.gov",
+      "published": "2026-01-16",
+      "publishedAsGiven": "Jan 16, 2026",
+      "snippet": "Governor Kathy Hochul today celebrated the groundbreaking of Micron's first semiconductor fabrication facility in Clay, Onondaga County — a ..."
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Micron is building one of the largest semiconductor factories in ...",
+      "url": "https://www.facebook.com/BloombergTelevision/videos/micron-is-building-one-of-the-largest-semiconductor-factories-in-us-history-in-s/28555986880677598/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Micron Picks Syracuse Suburb for Huge Computer Chip ...",
+      "url": "https://cnybac.com/news/micron-picks-syracuse-suburb-for-huge-computer-chip-plant-that-would-bring-up-to-9000-jobs/",
+      "domain": "cnybac.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "🔗 https://l.syracuse.com/dzqfgo Less than a week after ...",
+      "url": "https://www.facebook.com/syracusecom/posts/less-than-a-week-after-dropping-30-million-to-buy-a-huge-piece-of-property-for/1374584081373588/",
+      "domain": "facebook.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Micron Pledges Up to $100 Billion for Semiconductor ...",
+      "url": "https://www.nytimes.com/2022/10/04/technology/micron-chip-clay-syracuse.html",
+      "domain": "nytimes.com",
+      "published": "2022-10-04",
+      "publishedAsGiven": "Oct 4, 2022",
+      "snippet": "Micron announced on Tuesday that it planned to spend as much as $100 billion over the next 20 years or more to build a huge computer chip ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Micron would change Syracuse area for decades to come. ...",
+      "url": "https://www.syracuse.com/news/2022/10/micron-would-change-syracuse-area-for-decades-to-come-are-we-up-to-the-challenge.html",
+      "domain": "syracuse.com",
+      "published": "2022-10-07",
+      "publishedAsGiven": "Oct 7, 2022",
+      "snippet": "Micron Technology's plan to build a mammoth semiconductor fabrication campus near Syracuse should create thousands and thousands of high-paying ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "What's new with Micron Technology's massive construction ...",
+      "url": "https://www.facebook.com/syracusecom/videos/whats-new-with-micron-technologys-massive-construction-project-in-the-town-of-cl/2115163472422668/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "New York | Micron Technology Inc.",
+      "url": "https://www.micron.com/us-expansion/ny",
+      "domain": "micron.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Housing concerns rise as Micron celebrates a major milestone ...",
+      "url": "https://www.youtube.com/watch?v=cYykcdam4xo",
+      "domain": "youtube.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Micron is in Onondaga County",
+      "url": "https://ongoved.com/micron/",
+      "domain": "ongoved.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Congresswoman Tenney Secures Massive Win for Central ...",
+      "url": "http://tenney.house.gov/media/press-releases/congresswoman-tenney-secures-massive-win-central-new-york-one-big-beautiful",
+      "domain": "tenney.house.gov",
+      "published": "2025-07-09",
+      "publishedAsGiven": "Jul 9, 2025",
+      "snippet": "Congresswoman Tenney led more than 20 of her colleagues in introducing the Building Advanced Semiconductors Investment Credit (BASIC) Act,"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact-checking Rep. Claudia Tenney on Micron plant",
+      "url": "https://politifact.com/factchecks/2026/feb/13/claudia-tenney/chips-science-act-micron-semiconductor-new-york/",
+      "domain": "politifact.com",
+      "published": "2026-02-13",
+      "publishedAsGiven": "Feb 13, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "The legislation could have a big impact for Micron's ...",
+      "url": "https://www.facebook.com/cnycentral/posts/the-legislation-could-have-a-big-impact-for-microns-semiconductor-facilities-com/1117023107129962/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "snippet": "The legislation could have a big impact for Micron's semiconductor facilities coming to Clay, N.Y. https://bit.ly/3GO4Qyi"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Governor Hochul Celebrates Groundbreaking of Micron's ...",
+      "url": "https://www.youtube.com/watch?v=YBAkZOk7OTs",
+      "domain": "youtube.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "University's Commitment to Creating Jobs Lauded During ...",
+      "url": "https://news.syr.edu/2026/01/20/universitys-commitment-to-creating-jobs-lauded-during-micron-groundbreaking/",
+      "domain": "news.syr.edu",
+      "published": "2026-01-20",
+      "publishedAsGiven": "Jan 20, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "It was exciting to break ground with @we_are_micron ...",
+      "url": "https://www.instagram.com/p/DTmFHSCkUy1/",
+      "domain": "instagram.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Micron picks Syracuse suburb to build massive computer ...",
+      "url": "https://www.reddit.com/r/Syracuse/comments/xvdjzn/micron_picks_syracuse_suburb_to_build_massive/",
+      "domain": "reddit.com",
+      "published": "2022-10-27",
+      "publishedAsGiven": "4 years ago",
+      "snippet": "Micron picks Syracuse suburb to build massive computer chip plant. $100 Billion investment that will create 9,000 permanent jobs"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Micron Celebrates Official Groundbreaking at New York ...",
+      "url": "https://investors.micron.com/news/press-release/2026/Micron-Celebrates-Official-Groundbreaking-at-New-York-Megafab-Site-01-16-2026/default.aspx",
+      "domain": "investors.micron.com",
+      "published": "2026-01-16",
+      "publishedAsGiven": "Jan 16, 2026",
+      "snippet": "With up to four fabs, this will be the largest semiconductor facility in the United States, generating 50,000 jobs in New York."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Rep. Claudia Tenney",
+      "url": "https://x.com/RepTenney/status/2012350764925005861",
+      "domain": "x.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Micron milestone: First concrete to flow at giant computer ...",
+      "url": "https://www.syracuse.com/micron/2026/07/micron-milestone-first-concrete-to-flow-at-giant-computer-chip-factory-site-in-ny.html",
+      "domain": "syracuse.com",
+      "published": "2026-07-09",
+      "publishedAsGiven": "Jul 9, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "A $100 Billion Bet on Semiconductors Hinges ...",
+      "url": "https://www.wsj.com/articles/a-100-billion-bet-on-semiconductors-hinges-on-remaking-upstate-new-yorks-workforce-b063b67d",
+      "domain": "wsj.com",
+      "published": "2023-03-16",
+      "publishedAsGiven": "Mar 16, 2023",
+      "snippet": "Micron plans to hire 9,000 employees at a new suburban Syracuse campus amid shortage of skilled workers."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Micron's $100 billion mega-plant sparks workforce ...",
+      "url": "https://www.usatoday.com/story/news/2026/07/22/how-chips-act-is-bringing-thousands-of-high-paying-trades-jobs-to-upstate-ny/91004546007/",
+      "domain": "usatoday.com",
+      "published": "2026-07-22",
+      "publishedAsGiven": "Jul 22, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Michigan offered Micron up to $27.9B in incentives to land ...",
+      "url": "https://www.usatoday.com/story/business/2023/07/25/micron-technology-semiconductor-plant-syracuse-new-york-tax-incentives-michigan/70464860007/",
+      "domain": "usatoday.com",
+      "published": "2023-07-25",
+      "publishedAsGiven": "Jul 25, 2023",
+      "snippet": "Michigan offered the Idaho-based semiconductor company $4 billion in direct and indirect cash incentives, plus 50-year tax breaks."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Biden in Syracuse: Micron sparks bright future for Upstate NY",
+      "url": "https://www.usatoday.com/story/news/2024/04/25/biden-in-syracuse-micron-sparks-bright-future-for-upstate-ny/73437166007/",
+      "domain": "usatoday.com",
+      "published": "2024-04-25",
+      "publishedAsGiven": "Apr 25, 2024",
+      "snippet": "President Joe Biden visited Syracuse on Thursday to promote a federal cash infusion for Micron chip manufacturing plants in New York and Idaho."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "New York approves power line for Micron's $100 billion ...",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/new-york-approves-power-line-microns-100-billion-semiconductor-plant-2025-10-16/",
+      "domain": "reuters.com",
+      "published": "2025-10-16",
+      "publishedAsGiven": "Oct 16, 2025",
+      "snippet": "The two-mile, 345-kilovolt line is a key piece of infrastructure for Micron's planned $100 billion investment in Central New York, the largest ..."
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "Micron to bring microchip plant to upstate New York",
+      "url": "https://apnews.com/article/technology-business-new-york-charles-schumer-congress-775aa7865f27cd0f02802b59eb570e66",
+      "domain": "apnews.com",
+      "published": "2022-10-04",
+      "publishedAsGiven": "Oct 4, 2022",
+      "snippet": "The company was lured to the Syracuse area with help ・ including up to $5.5 billion in state tax credits ・ the $280 billion CHIPS and Science ..."
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Micron to Spend Up to $100 Billion on Chip Factory in New ...",
+      "url": "https://www.wsj.com/articles/micron-to-spend-up-to-100-billion-on-chip-factory-in-new-york-11664893884",
+      "domain": "wsj.com",
+      "published": "2022-10-04",
+      "publishedAsGiven": "Oct 4, 2022",
+      "snippet": "Micron Technology Inc. has agreed to invest as much as $100 billion to build a semiconductor-manufacturing campus in upstate New York, ..."
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Michigan lost $100B project after pursuing semiconductor ...",
+      "url": "https://www.usatoday.com/story/news/local/michigan/2023/07/04/michigan-lost-100b-project-after-pursuing-semiconductor-giant-15-months-project-copper/70379316007/",
+      "domain": "usatoday.com",
+      "published": "2023-07-04",
+      "publishedAsGiven": "Jul 4, 2023",
+      "snippet": "Micron Technology announced it would set up a sprawling semiconductor manufacturing campus and create 9,000 direct jobs near Syracuse."
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "US will provide $6.1 billion to Micron Technology for chip ...",
+      "url": "https://apnews.com/article/micron-biden-trump-schumer-chips-computer-ab9eeef7636262177e7b1aabbd6d1245",
+      "domain": "apnews.com",
+      "published": "2024-04-17",
+      "publishedAsGiven": "Apr 17, 2024",
+      "snippet": "Senate Majority Leader Chuck Schumer, D-N.Y., personally courted Micron to build what would ultimately be a set of four chip factories near ..."
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "New York Joins IBM, Micron in $10 Billion Chip Research ...",
+      "url": "https://www.wsj.com/tech/new-york-joins-ibm-micron-in-10-billion-chip-research-complex-475437b3",
+      "domain": "wsj.com",
+      "published": "2023-12-11",
+      "publishedAsGiven": "Dec 11, 2023",
+      "snippet": "Micron is planning to invest up to $100 billion in a large factory near Syracuse that it is hoping to get funding for through the Chips Act."
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 0,
+    "after-said": 7,
+    "maybe-after-said": 3,
+    "after-said-link-date": 0,
+    "undated": 3
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:09:24.540Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Micron Pledges Up to $100 Billion for Semiconductor ...",
+      "url": "https://www.nytimes.com/2022/10/04/technology/micron-chip-clay-syracuse.html",
+      "domain": "nytimes.com",
+      "snippet": "Micron announced on Tuesday that it planned to spend as much as $100 billion over the next 20 years or more to build a huge computer chip ...",
+      "published": "2022-10-04",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "New York Times",
+        "page": "https://mediabiasfactcheck.com/new-york-times/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "A $100 Billion Bet on Semiconductors Hinges ...",
+      "url": "https://www.wsj.com/articles/a-100-billion-bet-on-semiconductors-hinges-on-remaking-upstate-new-yorks-workforce-b063b67d",
+      "domain": "wsj.com",
+      "snippet": "Micron plans to hire 9,000 employees at a new suburban Syracuse campus amid shortage of skilled workers.",
+      "published": "2023-03-16",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Wall Street Journal",
+        "page": "https://mediabiasfactcheck.com/wall-street-journal/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Michigan offered Micron up to $27.9B in incentives to land ...",
+      "url": "https://www.usatoday.com/story/business/2023/07/25/micron-technology-semiconductor-plant-syracuse-new-york-tax-incentives-michigan/70464860007/",
+      "domain": "usatoday.com",
+      "snippet": "Michigan offered the Idaho-based semiconductor company $4 billion in direct and indirect cash incentives, plus 50-year tax breaks.",
+      "published": "2023-07-25",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "USA Today",
+        "page": "https://mediabiasfactcheck.com/usa-today-2/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Biden in Syracuse: Micron sparks bright future for Upstate NY",
+      "url": "https://www.usatoday.com/story/news/2024/04/25/biden-in-syracuse-micron-sparks-bright-future-for-upstate-ny/73437166007/",
+      "domain": "usatoday.com",
+      "snippet": "President Joe Biden visited Syracuse on Thursday to promote a federal cash infusion for Micron chip manufacturing plants in New York and Idaho.",
+      "published": "2024-04-25",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "USA Today",
+        "page": "https://mediabiasfactcheck.com/usa-today-2/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "New York approves power line for Micron's $100 billion ...",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/new-york-approves-power-line-microns-100-billion-semiconductor-plant-2025-10-16/",
+      "domain": "reuters.com",
+      "snippet": "The two-mile, 345-kilovolt line is a key piece of infrastructure for Micron's planned $100 billion investment in Central New York, the largest ...",
+      "published": "2025-10-16",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

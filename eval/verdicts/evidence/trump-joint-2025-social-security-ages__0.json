@@ -1,0 +1,116 @@
+{
+  "case_id": "trump-joint-2025-social-security-ages#0",
+  "queries": {
+    "A": "The government's accountability office has estimated annual fraud of over $500 billion in our nation Trump",
+    "B": "GAO estimate of annual federal government losses to fraud"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 1,
+      "title": "GAO-24-105833 Highlights, FRAUD RISK MANAGEMENT: 2018-2022 Data Show Federal Government Loses an Estimated $233 Billion to $521 Billion Annually to Fraud, Based on Various Risk Environments",
+      "url": "https://www.gao.gov/assets/d24105833high.pdf",
+      "domain": "gao.gov",
+      "published": "2024-04-12",
+      "snippet": "April 2024 FRAUD RISK MANAGEMENT 2018-2022 Data Show Federal Government Loses an Estimated $233 Billion to $521 Billion Annually to Fraud, Based on Various Risk Environments What GAO Found GAO estimated total direct annual financial losses to the government from fraud to be between $233 billion and $521 billion, based on data from fiscal years 2018 through 2022. The range reflects the different risk environments during this period. Ninety percent of the estimated fraud losses fell in this range.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 2,
+      "title": "GAO-24-105833, FRAUD RISK MANAGEMENT: 2018-2022 Data Show Federal Government Loses an Estimated $233 Billion to $521 Billion Annually to Fraud, Based on Various Risk Environments",
+      "url": "https://www.gao.gov/assets/d24105833.pdf",
+      "domain": "gao.gov",
+      "published": "2024-04-12",
+      "snippet": "26See figure 4 for more information on these studies. 27GAO-23-106696. 28Small Business Administration, Office of Inspector General, COVID-19 Pandemic EIDL and PPP Loan Fraud Landscape, White Paper Report 23-09 (Washington, D.C.: June 27, 2023). Using a different approach, the Small Business Administration estimated $36 billion of pandemic relief emergency program funds that were likely obtained fraudulently from 2020 to 2022. Small Business Administration, Protecting the Integrity of the Pandemic Relief Programs: SBA’s Actions to Prevent, Detect and Tackle Fraud (Washington, D.C.: June 2023).",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 3,
+      "title": "GAO: Federal Govt Annually Loses $233B-$521B to Fraud (4.16.24) - EconSpark",
+      "url": "https://www.aeaweb.org/forum/4386/gao-federal-govt-annually-loses-$233b-$521b-to-fraud-4-16-24",
+      "domain": "aeaweb.org",
+      "published": "2024-04-17",
+      "snippet": "GAO estimated total direct annual financial losses to the government from fraud to be between $233 billion and $521 billion, based on data from fiscal years 2018 through 2022. The range reflects the different risk environments during this period. Ninety percent of the estimated fraud losses fell in this range.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 4,
+      "title": "GAO tax fraud estimate puts annual losses at up to $304 billion",
+      "url": "https://www.thetaxadviser.com/news/2026/sep/gao-tax-fraud-estimate-puts-annual-losses-at-up-to-304-billion/",
+      "domain": "thetaxadviser.com",
+      "published": "2026-09-29",
+      "snippet": "A first-of-its-kind U.S. Government Accountability Office (GAO) report estimates annual federal tax fraud losses of between $116 billion and $304 billion and says the IRS needs a coordinated strategy for managing fraud risks.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "Our First-Of-A-Kind Estimate of Fraud in the Federal Government",
+      "url": "https://www.gao.gov/assets/870/867438.txt",
+      "domain": "gao.gov",
+      "published": "2024-04",
+      "snippet": "We looked at a recent 5-year period and are estimating annual losses from fraud to be between $233 and $521 billion dollars.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 4,
+      "title": "Fraud Risk Management: 2018-2022 Data Show Federal Government Loses an Estimated $233 Billion to $521 Billion Annually to Fraud, Based on Various Risk Environments | U.S. GAO",
+      "url": "https://www.gao.gov/products/GAO-24-105833",
+      "domain": "gao.gov",
+      "published": "2024-04-16",
+      "snippet": "GAO estimated total direct annual financial losses to the government from fraud to be between $233 billion and $521 billion",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 9,
+      "title": "gao quote1",
+      "url": "https://budget.house.gov/imo/media/doc/gao_quote1.pdf",
+      "domain": "budget.house.gov",
+      "published": "2024-04-17",
+      "snippet": "Chairman Arrington Statement on First Ever Government-Wide Fraud Estimate Report WASHINGTON, D.C. – Yeasterday, the Government Accountability Office (GAO) unveiled a first-ever fraud estimate report across all government programs. According to the report, the federal government faces estimated annual financial losses due to fraud ranging from $233 billion to $521 billion. These losses stem from various fraud risks within federal programs and operations, underscoring a critical need for enhanced fraud risk management and prevention strategies.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "B",
+      "url": "https://www.aeaweb.org/forum/4386/gao-federal-govt-annually-loses-%24233b-%24521b-to-fraud-4-16-24",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://www.aeaweb.org/forum/4386/gao-federal-govt-annually-loses-$233b-$521b-to-fraud-4-16-24",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://www.gao.gov/assets/d24105833.pdf",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://gao.gov/products/gao-24-105833",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://www.gao.gov/assets/d24105833high.pdf",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://concordcoalition.org/?p=17131",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "B",
+      "url": "https://budget.house.gov/download/04/17/2024/gao-quote&download=1",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "case_id": "biden-sotu-2024-economy#2",
+  "queries": {
+    "A": "Unemployment at 50-year lows. Biden",
+    "B": "US unemployment rate below 4 percent longest stretch since 1960s"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 1,
+      "title": "Biden Cherry-Picks Unemployment Record - FactCheck.org",
+      "url": "https://www.factcheck.org/?p=239598",
+      "domain": "factcheck.org",
+      "published": "2023-08-17",
+      "snippet": "Biden inherited an unemployment rate of 6.7% — higher than the historical average — but the rate had been declining for months as the worst effects of the pandemic ebbed. As it did during Trump’s initial years in office, the unemployment rate continued to decline under Biden, reaching a 50-year low of 3.4% in January and again in April — a tick lower than the 3.5% it was under Trump in February 2020, a month before the World Health Organization officially declared COVID-19 a pandemic.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 4,
+      "title": "Fact Check: Did US unemployment fall to the lowest rate in 50 years under Biden? | Econofact",
+      "url": "https://econofact.org/factbrief/did-us-unemployment-fall-to-the-lowest-rate-in-50-years-under-biden",
+      "domain": "econofact.org",
+      "published": "2024-07-09",
+      "snippet": "The average unemployment rate during the Biden Administration (February 2021 through May 2024) was 4.1%, with the highest rates of over 6% from February 2021 to April 2021. The unemployment rate remained below 4% in the 27 months from February 2022 through April 2024. This is the longest stretch of sub-4% unemployment since the end of the 1960s.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 5,
+      "title": "Fact-checking Biden on unemployment rate accomplishments",
+      "url": "https://politifact.com/factchecks/2023/jun/29/joe-biden/fact-checking-joe-biden-on-his-unemployment-rate-a/",
+      "domain": "politifact.com",
+      "published": "2023-06-29",
+      "snippet": "Biden’s saying “below 4%” made his statement correct. But by setting a 50-year timeline, Biden cordons off two earlier periods in which unemployment was below 4% for much longer.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 6,
+      "title": "Biden expected to tout economic accomplishments in State of the Union address",
+      "url": "https://cbsnews.com/video/biden-expected-to-tout-economic-accomplishments-at-state-of-the-union-address",
+      "domain": "cbsnews.com",
+      "published": null,
+      "snippet": "The latest jobs report shows the unemployment rate is at its lowest level in 50 years. Terry Haines, founder of Pangaea Policy, joined CBS News to discuss how President Biden could frame his administration's economic record.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 4,
+      "title": "Did US unemployment fall to the lowest rate in 50 years under Biden?",
+      "url": "https://gigafact.org/?p=801",
+      "domain": "gigafact.org",
+      "published": "2024-07-09",
+      "snippet": "The average unemployment rate during the Biden Administration (February 2021 through May 2024) was 4.1%, with the highest rates of over 6% from February 2021 to April 2021. The unemployment rate remained below 4% in the 27 months from February 2022 through April 2024. This is the longest stretch of sub-4% unemployment since the end of the 1960s.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 7,
+      "title": "U.S. unemployment rate falls to 49-year low of 3.7 percent",
+      "url": "https://www.marketplace.org/2018/10/05/economy/us-unemployment-rate-falls-49-year-low-37-percent",
+      "domain": "marketplace.org",
+      "published": "2018-10-05",
+      "snippet": "Probably not anytime soon, most economists say. Yet there are some surprising similarities between today’s economy and the late 1960s, when the unemployment rate remained mostly below 4 percent for four straight years.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 8,
+      "title": "Unemployment Lowest in 49 Years – RV PRO",
+      "url": "https://rv-pro.com/news/unemployment-lowest-49-years/",
+      "domain": "rv-pro.com",
+      "published": "2018-10-05",
+      "snippet": "Probably not anytime soon, most economists tell the Washington Post . Yet there are some surprising similarities between today’s economy and the late 1960s, when the unemployment rate remained mostly below 4 percent for four straight years.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 10,
+      "title": "Unemployment Was Still Below 4.0 Percent in May",
+      "url": "https://www.cepr.net/unemployment-was-still-below-4-0-percent-in-may/",
+      "domain": "cepr.net",
+      "published": "2024-06-07",
+      "snippet": "This is a bit nitpicky, but still a point worth making. If the unemployment rate came in below 4.0 percent in May, it would have been the 28 th consecutive month of below 4.0 percent unemployment, beating the 27-month streak in the late 1960s boom. Unfortunately, the rate ticked up to 4.0 percent, so it seems that we just tied the 1960s streak.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://www.factcheck.org/2023/08/biden-cherry-picks-unemployment-record",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "A",
+      "url": "https://econofact.org/factbrief",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch -- index/listing page with no text matching the query"
+    },
+    {
+      "q": "B",
+      "url": "https://econofact.org/factbrief/did-us-unemployment-fall-to-the-lowest-rate-in-50-years-under-biden",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://econofact.org/?p=9670",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://www.factcheck.org/?p=239598",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://www.factcheck.org/2023/08/biden-cherry-picks-unemployment-record",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://gigafact.org/fact-briefs/did-us-unemployment-fall-to-the-lowest-rate-in-50-years-under-biden/",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://rv-pro.com/?p=34964",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    }
+  ]
+}

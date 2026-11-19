@@ -1,0 +1,275 @@
+{
+  "frozenAt": "2026-10-27T03:17:16.592Z",
+  "refilteredAt": "2026-10-27T03:36:05.688Z",
+  "id": "pf/paul-renner/florida-ai-data-centers-tax-breaksgovernors-race",
+  "said": "2026-07-02",
+  "queries": {
+    "fact": "Jay Collins sponsored a bill to give AI hyperscale data centers permanent tax incentives.",
+    "claim": "Jay Collins sponsored a bill to give AI hyperscale data centers permanent tax incentives. Paul Renner"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2007.575790999923,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2225.913750000065,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "FL governor's race: Did Jay Collins sponsor a bill giving ...",
+      "url": "https://www.wlrn.org/government-politics/2026-07-13/fl-governors-race-did-jay-collins-sponsor-a-bill-giving-permanent-tax-breaks-to-ai-data-centers",
+      "domain": "wlrn.org",
+      "published": "2026-07-13",
+      "publishedAsGiven": "Jul 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Just last year, Jay Collins personally championed AI Data ...",
+      "url": "https://www.facebook.com/RepPaulRenner/videos/just-last-year-jay-collins-personally-championed-ai-data-centers-he-called-them-/1883980682275514/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "FL governor's race: Did Jay Collins sponsor a bill giving ...",
+      "url": "https://politifact.com/factchecks/2026/jul/09/paul-renner/florida-ai-data-centers-tax-breaksgovernors-race/",
+      "domain": "politifact.com",
+      "published": "2026-07-09",
+      "publishedAsGiven": "Jul 9, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Jay Collins AI Data Center Position Reversal Criticized by Paul ...",
+      "url": "https://www.facebook.com/RepPaulRenner/videos/just-last-year-jay-collins-personally-championed-ai-data-centers-he-called-them-/1043003771632081/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "snippet": "Jay Collins personally championed AI data centers. He called them a major opportunity for Florida's economy and pushed permanent tax breaks to ..."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Just last year, Jay Collins personally championed AI Data ...",
+      "url": "https://www.facebook.com/RepPaulRenner/posts/just-last-year-jay-collins-personally-championed-ai-data-centers-he-called-them-/1382088280401724/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Data center reactions; property tax amendment impacts",
+      "url": "https://baynews9.com/fl/tampa/political-connections/2026/07/14/data-center-reactions--property-tax-amendment-impacts",
+      "domain": "baynews9.com",
+      "published": "2026-07-14",
+      "publishedAsGiven": "Jul 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Energy Tax Benefits for Data Centers: In Brief",
+      "url": "https://www.congress.gov/crs-product/R48583",
+      "domain": "congress.gov",
+      "published": "2025-06-25",
+      "publishedAsGiven": "Jun 25, 2025",
+      "snippet": "data center owners may claim tax breaks for investing in energy storage equipment or improving their centers' energy efficiency."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Florida has offered tax breaks to attract data centers since ...",
+      "url": "https://www.facebook.com/CLEOInstitute/posts/florida-has-offered-tax-breaks-to-attract-data-centers-since-2017-as-ai-drives-d/1438482868307605/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "DeSantis signs bill regulating costs, water use tied to large- ...",
+      "url": "https://www.fox13news.com/news/desantis-bill-costs-water-use-ai-data-centers-florida",
+      "domain": "fox13news.com",
+      "published": "2026-05-07",
+      "publishedAsGiven": "May 7, 2026",
+      "snippet": "Florida Gov. Ron DeSantis signed a new bill Thursday aimed at controlling large-scale data centers and preventing consumers from footing the ..."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Just last year, Jay Collins personally championed AI data ...",
+      "url": "https://www.facebook.com/RepPaulRenner/posts/just-last-year-jay-collins-personally-championed-ai-data-centers-he-called-them/1369821921628360/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "snippet": "A speaker at a Florida legislative hearing discusses a bill proposing tax exemptions for data centers. He argues that these exemptions ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Did Jay Collins sponsor a bill giving permanent tax breaks ...",
+      "url": "https://www.wlrn.org/light/government-politics/2026-07-13/fl-governors-race-did-jay-collins-sponsor-a-bill-giving-permanent-tax-breaks-to-ai-data-centers",
+      "domain": "wlrn.org",
+      "published": "2026-07-13",
+      "publishedAsGiven": "Jul 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Paul Renner Challenges Jay Collins on AI Data Center Tax ...",
+      "url": "https://www.facebook.com/RepPaulRenner/videos/jay-collins-supported-permanent-tax-breaks-for-ai-data-centers-my-position-could/1267668435320690/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Just last year, Jay Collins personally championed AI Data ...",
+      "url": "https://www.facebook.com/RepPaulRenner/videos/just-last-year-jay-collins-personally-championed-ai-data-centers-he-called-them-/1883980682275514/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "FL governor's race: Did Jay Collins sponsor a bill giving ...",
+      "url": "https://politifact.com/factchecks/2026/jul/09/paul-renner/florida-ai-data-centers-tax-breaksgovernors-race/",
+      "domain": "politifact.com",
+      "published": "2026-07-09",
+      "publishedAsGiven": "Jul 9, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "DC Byron has long supported AI data centers. What about Jay ...",
+      "url": "https://www.facebook.com/RepPaulRenner/videos/dc-byron-has-long-supported-ai-data-centers-what-about-jay-collins-just-last-yea/1638517570571712/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "snippet": "Just last year, he sponsored legislation to give permanent tax breaks to Big Tech, just as they wanted to bring hyperscale data centers to ..."
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Just last year, Jay Collins personally championed AI Data ...",
+      "url": "https://www.facebook.com/RepPaulRenner/posts/just-last-year-jay-collins-personally-championed-ai-data-centers-he-called-them-/1382088280401724/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Data center reactions; property tax amendment impacts",
+      "url": "https://baynews9.com/fl/tampa/political-connections/2026/07/14/data-center-reactions--property-tax-amendment-impacts",
+      "domain": "baynews9.com",
+      "published": "2026-07-14",
+      "publishedAsGiven": "Jul 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Unbelievable. Just last year, Jay Collins said he wanted Florida ...",
+      "url": "https://www.facebook.com/RepPaulRenner/posts/unbelievable-just-last-year-jay-collins-said-he-wanted-florida-to-compete-with-o/1370478171562735/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "snippet": "Paul Renner will BAN massive AI data center developments, while Jay Collins sponsored legislation to expand them and Byron Donalds' campaign ..."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Jay Collins AI Data Center Position Reversal Criticized by Paul ...",
+      "url": "https://www.facebook.com/RepPaulRenner/videos/just-last-year-jay-collins-personally-championed-ai-data-centers-he-called-them-/1043003771632081/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "snippet": "Just last year, Jay Collins personally championed AI data centers. He called them a major opportunity for Florida's economy and pushed permanent ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Florida GOP gubernatorial candidates split on AI data ...",
+      "url": "https://flvoicenews.com/florida-gop-gubernatorial-candidates-split-on-ai-data-center-expansion/",
+      "domain": "flvoicenews.com",
+      "published": "2026-06-16",
+      "publishedAsGiven": "Jun 16, 2026",
+      "snippet": "Jay Collins has proposed a middle-ground approach that would allow development while imposing additional safeguards. Renner pushes for statewide ..."
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 0,
+    "after-said": 4,
+    "maybe-after-said": 6,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:17:12.357Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Energy Tax Benefits for Data Centers: In Brief",
+      "url": "https://www.congress.gov/crs-product/R48583",
+      "domain": "congress.gov",
+      "snippet": "data center owners may claim tax breaks for investing in energy storage equipment or improving their centers' energy efficiency.",
+      "published": "2025-06-25",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "DeSantis signs bill regulating costs, water use tied to large- ...",
+      "url": "https://www.fox13news.com/news/desantis-bill-costs-water-use-ai-data-centers-florida",
+      "domain": "fox13news.com",
+      "snippet": "Florida Gov. Ron DeSantis signed a new bill Thursday aimed at controlling large-scale data centers and preventing consumers from footing the ...",
+      "published": "2026-05-07",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    },
+    {
+      "title": "Florida GOP gubernatorial candidates split on AI data ...",
+      "url": "https://flvoicenews.com/florida-gop-gubernatorial-candidates-split-on-ai-data-center-expansion/",
+      "domain": "flvoicenews.com",
+      "snippet": "Jay Collins has proposed a middle-ground approach that would allow development while imposing additional safeguards. Renner pushes for statewide ...",
+      "published": "2026-06-16",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    }
+  ]
+}

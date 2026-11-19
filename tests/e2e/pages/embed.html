@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Fixture: a video embedded from another site</title>
+  </head>
+  <body>
+    <h1>News article with an embedded video (fixture)</h1>
+    <p>Like a YouTube embed on a news site: the player is in a frame from another origin, which the icon click's grant doesn't reach.</p>
+    <iframe id="embed" width="480" height="270" allow="autoplay" title="Embedded video"></iframe>
+    <script>
+      const other = location.hostname === 'localhost' ? '127.0.0.1' : 'localhost';
+      document.getElementById('embed').src = `${location.protocol}//${other}:${location.port}/uncaptioned.html`;
+    </script>
+  </body>
+</html>

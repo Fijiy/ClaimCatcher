@@ -1,0 +1,226 @@
+{
+  "frozenAt": "2026-10-27T03:03:52.526Z",
+  "refilteredAt": "2026-10-27T03:32:48.174Z",
+  "id": "pf/john-thune/thune-says-health-care-often-comes-with-a-job-the",
+  "said": "2025-05-30",
+  "queries": {
+    "fact": "A lot of times, health care comes with a job.",
+    "claim": "A lot of times, health care comes with a job. John Thune"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2944.2664169999916,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2247.7652919999964,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Thune Says Health Care Often 'Comes With a Job.' The ...",
+      "url": "https://kffhealthnews.org/medicaid/fact-check-thune-health-insurance-workplace-job-employers/",
+      "domain": "kffhealthnews.org",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "John Thune says health care 'comes with a job.' Not always",
+      "url": "https://www.linkedin.com/posts/arielle-zionts-35b76054_john-thune-says-health-care-comes-with-a-activity-7344402117056503809-d-6y",
+      "domain": "linkedin.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Probably dumb, but why is healthcare tied to your job? - Reddit",
+      "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1hl48h7/probably_dumb_but_why_is_healthcare_tied_to_your/",
+      "domain": "reddit.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Why Are There So Many Health Care Jobs? - YouTube",
+      "url": "https://www.youtube.com/shorts/JoYN2CMHUHk",
+      "domain": "youtube.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Health insurance keeps many Americans trapped in unwanted ...",
+      "url": "https://www.news-medical.net/news/20260722/Health-insurance-keeps-many-Americans-trapped-in-unwanted-jobs.aspx",
+      "domain": "news-medical.net",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "As an American, have you ever kept a job just to keep ... - Quora",
+      "url": "https://www.quora.com/As-an-American-have-you-ever-kept-a-job-just-to-keep-the-medical-insurance",
+      "domain": "quora.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Health care industry gets a hiring boom while the ... - YouTube",
+      "url": "https://www.youtube.com/watch?v=Z3b4I4kOTZs",
+      "domain": "youtube.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Trapped by Benefits: Why So Many Americans Stay in Jobs for ...",
+      "url": "https://christinelorelie.medium.com/trapped-by-benefits-why-so-many-americans-stay-in-jobs-for-health-insurance-61c6c465a5ac",
+      "domain": "christinelorelie.medium.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Healthcare Becomes America's Jobs Lifeline - YouTube",
+      "url": "https://www.youtube.com/watch?v=qWzndbCRF_o",
+      "domain": "youtube.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "12 Part-Time Jobs that Come With Health Insurance",
+      "url": "https://www.thepennyhoarder.com/make-money/side-gigs/part-time-jobs-with-health-insurance/",
+      "domain": "thepennyhoarder.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Thune Says Health Care Often 'Comes With a Job.' The ...",
+      "url": "https://kffhealthnews.org/medicaid/fact-check-thune-health-insurance-workplace-job-employers/",
+      "domain": "kffhealthnews.org",
+      "published": "2025-06-27",
+      "publishedAsGiven": "Jun 27, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "I pressed Majority Leader John Thune on Mitch ...",
+      "url": "https://www.facebook.com/NoblesRyan/videos/i-pressed-majority-leader-john-thune-on-mitch-mcconnells-extended-absence-and-th/1383293850332148/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "John Thune says health care often 'comes with a job.' ...",
+      "url": "https://politifact.com/factchecks/2025/jun/27/john-thune/thune-says-health-care-often-comes-with-a-job-the/",
+      "domain": "politifact.com",
+      "published": "2025-06-27",
+      "publishedAsGiven": "Jun 27, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Majority Leader Thune addresses Health Care on the ...",
+      "url": "https://www.c-span.org/clip/us-senate/majority-leader-thune-addresses-health-care-on-the-senate-floor/5183596",
+      "domain": "c-span.org",
+      "published": "2025-12-08",
+      "publishedAsGiven": "Dec 8, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Policy & Solutions - Senator John Thune",
+      "url": "https://www.thune.senate.gov/policy-solutions/",
+      "domain": "thune.senate.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "John Thune Lists Achievements In The Senate In Trump's ...",
+      "url": "https://www.youtube.com/watch?v=ZGEwBt7p0m8",
+      "domain": "youtube.com",
+      "published": "2025-12-27",
+      "publishedAsGiven": "10 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "KFF Health News | Senate Majority Leader John Thune ...",
+      "url": "https://www.instagram.com/reel/DMF3JOrI-mf/",
+      "domain": "instagram.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "John Thune",
+      "url": "https://en.wikipedia.org/wiki/John_Thune",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "User Clip: Thune health care answer 10-15-25",
+      "url": "https://www.c-span.org/clip/news-conference/user-clip-thune-health-care-answer-10-15-25/5175715",
+      "domain": "c-span.org",
+      "published": "2025-10-15",
+      "publishedAsGiven": "Oct 15, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Inside John Thune's arithmetic",
+      "url": "https://rollcall.com/2026/06/15/inside-john-thune-arithmetic/",
+      "domain": "rollcall.com",
+      "published": "2026-06-15",
+      "publishedAsGiven": "Jun 15, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 2,
+    "after-said": 5,
+    "maybe-after-said": 1,
+    "after-said-link-date": 0,
+    "undated": 11
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:03:42.397Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

@@ -1,0 +1,260 @@
+{
+  "frozenAt": "2026-10-27T03:11:05.617Z",
+  "refilteredAt": "2026-10-27T03:34:32.154Z",
+  "id": "pf/abigail-spanberger/trump-tariff-cost-families-1700",
+  "said": "2026-02-24",
+  "queries": {
+    "fact": "President Donald Trump’s tariff policies have forced American families to pay more than $1,700 each in tariff costs since last year.",
+    "claim": "President Donald Trump’s tariff policies have forced American families to pay more than $1,700 each in tariff costs since last year. Abigail Spanberger"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2970.772666999954,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2121.103541999939,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "UPDATED DATA: American Families Have Already Paid More ...",
+      "url": "https://www.jec.senate.gov/public/index.cfm/democrats/2026/2/updated-data-american-families-have-already-paid-more-than-1-700-each-in-tariff-costs-since-trump-entered-office",
+      "domain": "jec.senate.gov",
+      "published": "2026-02-20",
+      "publishedAsGiven": "Feb 20, 2026",
+      "snippet": "American families have already paid more than $1,700 each in tariff costs since President Trump took office. an average of more than $1,700 per ..."
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "The president's policies \"have forced American families to ...",
+      "url": "https://www.facebook.com/newshour/posts/the-presidents-policies-have-forced-american-families-to-pay-more-than-1700-each/1382550277073548/",
+      "domain": "facebook.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Trump says tariffs help America. Estimates suggest they ...",
+      "url": "https://www.poynter.org/fact-checking/2026/do-trump-tariffs-cost-families-1700-dollars/",
+      "domain": "poynter.org",
+      "published": "2026-02-26",
+      "publishedAsGiven": "Feb 26, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "American Families Have Paid More Than $1700 Each in ...",
+      "url": "https://www.jec.senate.gov/public/_cache/files/7cc03e65-d40a-465f-9e88-09dd53d3502f/jec-fact-sheet-on-cost-of-tariffs-for-families-update.pdf",
+      "domain": "jec.senate.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Trump economic policies would cost middle-class families ...",
+      "url": "https://michiganindependent.com/economy/trump-economic-policies-would-cost-middle-class-families-1700-a-year-report-finds/",
+      "domain": "michiganindependent.com",
+      "published": "2024-05-22",
+      "publishedAsGiven": "May 22, 2024",
+      "snippet": "Former President Donald Trump's proposal to impose a 10% tariff on all imported goods would cost middle-class families $1,700 a year and ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "JB Pritzker: Trump Owes Illinois Families $1700 From Tariffs",
+      "url": "https://www.facebook.com/GovPritzker/videos/donald-trump-owes-the-families-of-illinois-1700-a-piece-because-he-overcharged-t/2091241985076643/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "\"Trump's Reckless Tariffs Cost Families $1700 Each,\" Says ...",
+      "url": "https://www.youtube.com/watch?v=VPmKMV0hehM",
+      "domain": "youtube.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "ICYMI: Rep. Stevens Introduces Bill to Refund Michiganders ...",
+      "url": "http://stevens.house.gov/media/press-releases/icymi-rep-stevens-introduces-bill-refund-michiganders-trumps-illegal-tariffs",
+      "domain": "stevens.house.gov",
+      "published": "2026-07-21",
+      "publishedAsGiven": "Jul 21, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "The average US family has paid about $1700 because of ...",
+      "url": "https://www.facebook.com/Aaron4ny23/posts/the-average-us-family-has-paid-about-1700-because-of-trumps-tariffs-ny23-busines/122197741478844029/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Trump's Tariff Would Cost the Typical American Household ...",
+      "url": "https://www.americanprogressaction.org/article/trumps-tariff-would-cost-the-typical-american-household-roughly-1500-each-year/",
+      "domain": "americanprogressaction.org",
+      "published": "2024-03-27",
+      "publishedAsGiven": "Mar 27, 2024",
+      "snippet": "Trump's Tariff Would Cost the Typical American Household Roughly $1,500 Each Year. Former President Donald Trump's proposed tariff would raise ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "American Families Have Paid More Than $1700 Each in ...",
+      "url": "https://www.jec.senate.gov/public/_cache/files/7cc03e65-d40a-465f-9e88-09dd53d3502f/jec-fact-sheet-on-cost-of-tariffs-for-families-update.pdf",
+      "domain": "jec.senate.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Trump says tariffs help America. Estimates suggest they ...",
+      "url": "https://www.poynter.org/fact-checking/2026/do-trump-tariffs-cost-families-1700-dollars/",
+      "domain": "poynter.org",
+      "published": "2026-02-26",
+      "publishedAsGiven": "Feb 26, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Fact-checks (258)",
+      "url": "https://politifact.com/search/factcheck/?q=estimating",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "The president's policies \"have forced American families to ...",
+      "url": "https://www.facebook.com/newshour/posts/the-presidents-policies-have-forced-american-families-to-pay-more-than-1700-each/1382550277073548/",
+      "domain": "facebook.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Fact-checking Democrats' responses to Trump's 2026 State ...",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-democrats-responses-to-trumps-2026-state-of-the-union-address",
+      "domain": "pbs.org",
+      "published": "2026-02-25",
+      "publishedAsGiven": "Feb 25, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "In Democratic rebuttal, Spanberger accuses Trump of ...",
+      "url": "https://virginiamercury.com/2026/02/25/in-democratic-rebuttal-spanberger-accuses-trump-of-driving-up-costs-and-chaos/",
+      "domain": "virginiamercury.com",
+      "published": "2026-02-25",
+      "publishedAsGiven": "Feb 25, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "\"Trump's Reckless Tariffs Cost Families $1700 Each,\" Says ...",
+      "url": "https://www.youtube.com/watch?v=VPmKMV0hehM",
+      "domain": "youtube.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Democrats Must Decide Whether To Continue Opposing ...",
+      "url": "https://www.forbes.com/sites/stuartanderson/2026/03/12/democrats-must-decide-whether-to-continue-opposing-tariffs-after-trump/",
+      "domain": "forbes.com",
+      "published": "2026-03-12",
+      "publishedAsGiven": "Mar 12, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "UPDATED DATA: American Families Have Already Paid More ...",
+      "url": "https://www.jec.senate.gov/public/index.cfm/democrats/2026/2/updated-data-american-families-have-already-paid-more-than-1-700-each-in-tariff-costs-since-trump-entered-office",
+      "domain": "jec.senate.gov",
+      "published": "2026-02-20",
+      "publishedAsGiven": "Feb 20, 2026",
+      "snippet": "“President Trump's tariffs have been a disaster for American families, driving costs up at the worst possible time,” said U.S. Senator Maggie ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "The president's policies \"have forced American families to ...",
+      "url": "https://x.com/NewsHour/status/2026742499713191944",
+      "domain": "x.com",
+      "published": "2026-02-25",
+      "publishedAsGiven": "Feb 25, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 3,
+    "after-said": 6,
+    "maybe-after-said": 4,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:11:00.524Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Trump economic policies would cost middle-class families ...",
+      "url": "https://michiganindependent.com/economy/trump-economic-policies-would-cost-middle-class-families-1700-a-year-report-finds/",
+      "domain": "michiganindependent.com",
+      "snippet": "Former President Donald Trump's proposal to impose a 10% tariff on all imported goods would cost middle-class families $1,700 a year and ...",
+      "published": "2024-05-22",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "Trump's Tariff Would Cost the Typical American Household ...",
+      "url": "https://www.americanprogressaction.org/article/trumps-tariff-would-cost-the-typical-american-household-roughly-1500-each-year/",
+      "domain": "americanprogressaction.org",
+      "snippet": "Trump's Tariff Would Cost the Typical American Household Roughly $1,500 Each Year. Former President Donald Trump's proposed tariff would raise ...",
+      "published": "2024-03-27",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    }
+  ]
+}

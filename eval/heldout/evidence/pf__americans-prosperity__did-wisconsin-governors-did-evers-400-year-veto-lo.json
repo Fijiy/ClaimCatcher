@@ -1,0 +1,233 @@
+{
+  "frozenAt": "2026-10-27T03:05:40.216Z",
+  "refilteredAt": "2026-10-27T03:33:12.547Z",
+  "id": "pf/americans-prosperity/did-wisconsin-governors-did-evers-400-year-veto-lo",
+  "said": "2025-07-28",
+  "queries": {
+    "fact": "The (Evers) Era locked Wisconsin families into a 400‑year property tax increase.",
+    "claim": "The (Evers) Era locked Wisconsin families into a 400‑year property tax increase. Americans for Prosperity"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2603.0393329999933,
+      "results": 8
+    },
+    {
+      "query": "claim",
+      "ms": 3842.163042,
+      "results": 7
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Sen. Felzkowski: Responds to court upholding Evers' 400 ...",
+      "url": "https://www.wispolitics.com/2025/sen-felzkowski-responds-to-court-upholding-evers-400-year-property-tax-increase/",
+      "domain": "wispolitics.com",
+      "published": "2025-04-18",
+      "publishedAsGiven": "Apr 18, 2025",
+      "snippet": "Apr 18, 2025 — Sen. Felzkowski: Responds to court upholding Evers' 400 year property tax increase ... For the median homeowner, this is going to be a $246 ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Fighting Wisconsin's 400-year property tax hike",
+      "url": "https://www.facebook.com/willpenterman38/posts/this-afternoon-im-at-an-assembly-committee-on-education-hearing-on-four-bills-in/1140257614986683/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Applauds Wisconsin Senate Republicans for repealing ...",
+      "url": "https://www.wispolitics.com/2025/americans-for-prosperity-wisconsin-applauds-wisconsin-senate-republicans-for-repealing-governor-evers-unprecedented-property-tax-extension/",
+      "domain": "wispolitics.com",
+      "published": "2025-11-18",
+      "publishedAsGiven": "Nov 18, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "When the hard-working people of Wisconsin complained ...",
+      "url": "https://www.facebook.com/scottkwalker/posts/when-the-hard-working-people-of-wisconsin-complained-about-the-400-year-property/1532209304941986/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Tiffany campaign: Releases statement on rising property ...",
+      "url": "https://pro.stateaffairs.com/wi/press-releases/tiffany-campaign-releases-statement-on-rising-property-taxes-and-launches-statewide-digital-buy",
+      "domain": "pro.stateaffairs.com",
+      "published": "2025-12-15",
+      "publishedAsGiven": "Dec 15, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "WMC Reacts to 400-Year Veto Lawsuit Ruling",
+      "url": "https://www.wmc.org/press-releases/wmc-reacts-to-400-year-veto-lawsuit-ruling/",
+      "domain": "wmc.org",
+      "published": "2025-04-18",
+      "publishedAsGiven": "Apr 18, 2025",
+      "snippet": "Apr 18, 2025 — Tony Evers in the state budget. The partial veto increased the property tax levy limit for school districts for 400 years , four centuries ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Felzkowski: Evers Raised Property Taxes 400 Years, Supreme ...",
+      "url": "https://www.facebook.com/SenFelzkowski/videos/governor-evers-increased-your-property-taxes-for-400-years-and-the-supreme-court/1195083505402799/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Responds to court upholding Evers' 400 year property tax ...",
+      "url": "https://pro.stateaffairs.com/wi/press-releases/sen-felzkowski-responds-to-court-upholding-evers-400-year-property-tax-increase",
+      "domain": "pro.stateaffairs.com",
+      "published": "2025-04-18",
+      "publishedAsGiven": "Apr 18, 2025",
+      "snippet": "Apr 18, 2025 — Today's ruling cemented Evers' actions to increase property taxes across Wisconsin for the next 400 years . For the median homeowner, this is ... Read more"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Did Wisconsin Gov. Evers’ 400-year veto lock in property tax ...",
+      "url": "https://www.politifact.com/factchecks/2025/aug/15/americans-prosperity/did-wisconsin-governors-did-evers-400-year-veto-lo/",
+      "domain": "politifact.com",
+      "published": "2025-08-15",
+      "publishedAsGiven": "Aug 15, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Did Wisconsin Gov. Evers’ 400-year veto lock in property tax ...",
+      "url": "https://api.politifact.com/factchecks/2025/aug/15/americans-prosperity/did-wisconsin-governors-did-evers-400-year-veto-lo/",
+      "domain": "api.politifact.com",
+      "published": "2025-08-15",
+      "publishedAsGiven": "Aug 15, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "The ‘400-Year Veto’ That Could Rewrite Wisconsin Property Taxes",
+      "url": "https://www.realtor.com/advice/finance/wisconsin-homeowners-property-taxes-evers-400-year-veto/",
+      "domain": "realtor.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Did Evers’ 400-year veto lock in higher property taxes for ...",
+      "url": "https://www.jsonline.com/story/news/politics/politifactwisconsin/2025/08/15/did-evers-400-year-veto-lock-in-higher-property-taxes-for-centuries/85661860007/",
+      "domain": "jsonline.com",
+      "published": "2025-08-15",
+      "publishedAsGiven": "Aug 15, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Americans for Prosperity-Wisconsin: Applauds Wisconsin Senate ...",
+      "url": "https://pro.stateaffairs.com/wi/press-releases/americans-for-prosperity-wisconsin-applauds-wisconsin-senate-republicans-for-repealing-governor-evers-unprecedented-property-tax-extension",
+      "domain": "pro.stateaffairs.com",
+      "published": "2026-09-05",
+      "publishedAsGiven": "Sep 5, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Does Wisconsin Gov. Tony Evers’ 2023 budget veto increase ...",
+      "url": "https://wisconsinwatch.org/2025/07/wisconsin-evers-budget-veto-increase-property-taxes-school-districts-revenue/",
+      "domain": "wisconsinwatch.org",
+      "published": "2025-07-15",
+      "publishedAsGiven": "Jul 15, 2025",
+      "snippet": "School districts could raise property taxes in order to reach the maximum revenue, or the Legislature and governor could provide more general aid through the biennial budget."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Evers’ 400-Year Veto Just Hit Your Tax Bill - The Heartland Post",
+      "url": "https://heartlandpost.com/evers-400-year-veto-just-hit-your-tax-bill/",
+      "domain": "heartlandpost.com",
+      "published": "2026-09-28",
+      "publishedAsGiven": "Sep 28, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 15,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 1,
+    "after-said": 4,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 4
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:05:33.771Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Sen. Felzkowski: Responds to court upholding Evers' 400 ...",
+      "url": "https://www.wispolitics.com/2025/sen-felzkowski-responds-to-court-upholding-evers-400-year-property-tax-increase/",
+      "domain": "wispolitics.com",
+      "snippet": "Apr 18, 2025 — Sen. Felzkowski: Responds to court upholding Evers' 400 year property tax increase ... For the median homeowner, this is going to be a $246 ... Read more",
+      "published": "2025-04-18",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "Does Wisconsin Gov. Tony Evers’ 2023 budget veto increase ...",
+      "url": "https://wisconsinwatch.org/2025/07/wisconsin-evers-budget-veto-increase-property-taxes-school-districts-revenue/",
+      "domain": "wisconsinwatch.org",
+      "snippet": "School districts could raise property taxes in order to reach the maximum revenue, or the Legislature and governor could provide more general aid through the biennial budget.",
+      "published": "2025-07-15",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    },
+    {
+      "title": "WMC Reacts to 400-Year Veto Lawsuit Ruling",
+      "url": "https://www.wmc.org/press-releases/wmc-reacts-to-400-year-veto-lawsuit-ruling/",
+      "domain": "wmc.org",
+      "snippet": "Apr 18, 2025 — Tony Evers in the state budget. The partial veto increased the property tax levy limit for school districts for 400 years , four centuries ... Read more",
+      "published": "2025-04-18",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    },
+    {
+      "title": "Responds to court upholding Evers' 400 year property tax ...",
+      "url": "https://pro.stateaffairs.com/wi/press-releases/sen-felzkowski-responds-to-court-upholding-evers-400-year-property-tax-increase",
+      "domain": "pro.stateaffairs.com",
+      "snippet": "Apr 18, 2025 — Today's ruling cemented Evers' actions to increase property taxes across Wisconsin for the next 400 years . For the median homeowner, this is ... Read more",
+      "published": "2025-04-18",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 4
+    }
+  ]
+}

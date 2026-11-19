@@ -1,0 +1,248 @@
+{
+  "frozenAt": "2026-10-27T03:12:02.477Z",
+  "refilteredAt": "2026-10-27T03:34:44.979Z",
+  "id": "pf/chris-wright/us-iran-crude-oil-net-exporter-gas-prices",
+  "said": "2026-03-12",
+  "queries": {
+    "fact": "The U.S. produces more oil than we can consume. We’re a net oil exporter.",
+    "claim": "The U.S. produces more oil than we can consume. We’re a net oil exporter. Chris Wright"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 3071.5119160000468,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1635.0745830000378,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Secretary Chris Wright : “The United States produces more oil ...",
+      "url": "https://www.facebook.com/energy/videos/secretary-chris-wright-the-united-states-produces-more-oil-than-we-consume-were-/2402967410143467/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Fact-check: Does the US produce more oil than it consumes?",
+      "url": "https://www.wral.com/news/state/chris-wright-us-net-oil-exporter-fact-check-march-23-2026/",
+      "domain": "wral.com",
+      "published": "2026-03-23",
+      "publishedAsGiven": "Mar 23, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Questions for those who say \"The USA is a net exporter so ...",
+      "url": "https://www.reddit.com/r/oil/comments/1tbfiws/questions_for_those_who_say_the_usa_is_a_net/",
+      "domain": "reddit.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "The U.S. is a big oil exporter. So why does it import most of ...",
+      "url": "https://www.npr.org/2026/03/22/nx-s1-5752447/the-u-s-is-a-big-oil-exporter-so-why-does-it-import-most-of-the-oil-it-consumes",
+      "domain": "npr.org",
+      "published": "2026-03-22",
+      "publishedAsGiven": "Mar 22, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Oil and petroleum products explained Oil imports and exports",
+      "url": "https://www.eia.gov/energyexplained/oil-and-petroleum-products/imports-and-exports.php",
+      "domain": "eia.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "The U.S. exports much of the oil it produces, selling it to ...",
+      "url": "https://www.facebook.com/CBSBaltimore/posts/the-us-exports-much-of-the-oil-it-produces-selling-it-to-foreign-purchasers-we-a/1345183397643351/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Why Does The US Import Oil When They Produce So Much?",
+      "url": "https://www.youtube.com/watch?v=evIAnt5mNGI",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "snippet": "-The US lacks the infrastructure to refine the higher quality (less sulfur) crude oil being extracted domestically."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Is the US a net exporter of oil? And does that matter for Iran ...",
+      "url": "https://politifact.com/factchecks/2026/mar/13/chris-wright/us-iran-crude-oil-net-exporter-gas-prices/",
+      "domain": "politifact.com",
+      "published": "2026-03-13",
+      "publishedAsGiven": "Mar 13, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "How much oil does the U.S. export and import?",
+      "url": "https://profession.americangeosciences.org/collections/geoscience-faq/how-much-oil-does-us-export-and-import/",
+      "domain": "profession.americangeosciences.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "How much oil does the United States import (and why)?",
+      "url": "https://www.afpm.org/newsroom/blog/how-much-oil-does-united-states-import-and-why",
+      "domain": "afpm.org",
+      "published": "2025-01-24",
+      "publishedAsGiven": "Jan 24, 2025",
+      "snippet": "The United States is producing a record amount of crude oil (~13.4 million barrels per day), while U.S. refineries need about 16.5 million ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact-check: Does the US produce more oil than it consumes?",
+      "url": "https://www.wral.com/news/state/chris-wright-us-net-oil-exporter-fact-check-march-23-2026/",
+      "domain": "wral.com",
+      "published": "2026-03-23",
+      "publishedAsGiven": "Mar 23, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Secretary Chris Wright : “The United States produces more oil ...",
+      "url": "https://www.facebook.com/energy/videos/secretary-chris-wright-the-united-states-produces-more-oil-than-we-consume-were-/2402967410143467/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "\"Fortunately, the US produces more oil than we can ...",
+      "url": "https://x.com/atrupar/status/2032099847130460456",
+      "domain": "x.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Is the United States a Net Oil Exporter as Chris Wright ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-is-the-united-states-a-net-oil-exporter-as-chris-wright-claimed/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-03-16",
+      "publishedAsGiven": "Mar 16, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "The U.S. is a big oil exporter. So why does it import most of ...",
+      "url": "https://www.vpm.org/npr-news/npr-news/2026-03-22/the-u-s-is-a-big-oil-exporter-so-why-does-it-import-most-of-the-oil-it-consumes",
+      "domain": "vpm.org",
+      "published": "2026-03-22",
+      "publishedAsGiven": "Mar 22, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Is the US a net exporter of oil? And does that matter for Iran ...",
+      "url": "https://politifact.com/factchecks/2026/mar/13/chris-wright/us-iran-crude-oil-net-exporter-gas-prices/",
+      "domain": "politifact.com",
+      "published": "2026-03-13",
+      "publishedAsGiven": "Mar 13, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "\"the US produces more oil than we can consume. We' ...",
+      "url": "https://www.reddit.com/r/oil/comments/1rumlcq/trumps_energy_secretary_wright_the_us_produces/",
+      "domain": "reddit.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Energy Secretary Chris Wright on Thursday refused to rule ...",
+      "url": "https://www.facebook.com/bostonherald/posts/energy-secretary-chris-wright-on-thursday-refused-to-rule-out-oil-prices-skyrock/1396555072512078/",
+      "domain": "facebook.com",
+      "published": "\"The United States",
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Fact Check: Is Charles Wright's claim US produces more oil ...",
+      "url": "https://news.meaww.com/fact-check-is-charles-wrights-claim-us-produces-more-oil-than-it-consumes-true",
+      "domain": "news.meaww.com",
+      "published": "2026-03-14",
+      "publishedAsGiven": "Mar 14, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Secretary Chris Wright on X",
+      "url": "https://x.com/SecretaryWright/status/2032237853200036200",
+      "domain": "x.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 4,
+    "after-said": 5,
+    "maybe-after-said": 4,
+    "after-said-link-date": 0,
+    "undated": 3
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:11:57.768Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "How much oil does the United States import (and why)?",
+      "url": "https://www.afpm.org/newsroom/blog/how-much-oil-does-united-states-import-and-why",
+      "domain": "afpm.org",
+      "snippet": "The United States is producing a record amount of crude oil (~13.4 million barrels per day), while U.S. refineries need about 16.5 million ...",
+      "published": "2025-01-24",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

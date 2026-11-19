@@ -1,0 +1,261 @@
+{
+  "frozenAt": "2026-10-27T03:22:25.214Z",
+  "refilteredAt": "2026-10-27T03:37:22.850Z",
+  "id": "pf/john-e-sununu/chris-pappas-raise-taxes-68-new-hampshire-senate",
+  "said": "2026-09-08",
+  "queries": {
+    "fact": "Chris Pappas voted to raise taxes 68 times. Every tax vote he’s made was to raise taxes.",
+    "claim": "Chris Pappas voted to raise taxes 68 times. Every tax vote he’s made was to raise taxes. John E. Sununu"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1428.6520000000019,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2011.9834159999155,
+      "results": 9
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "John Sununu said Chris Pappas voted to raise taxes 68 ...",
+      "url": "https://politifact.com/factchecks/2026/oct/01/john-e-sununu/chris-pappas-raise-taxes-68-new-hampshire-senate/",
+      "domain": "politifact.com",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "SCOOP: Chris Pappas voted to raise taxes 68 times during ...",
+      "url": "https://washingtonreporter.news/scoop-chris-pappas-voted-to-raise-taxes-68-times-across-during-his-two-decades-in-office/",
+      "domain": "washingtonreporter.news",
+      "published": "2026-08-28",
+      "publishedAsGiven": "Aug 28, 2026",
+      "snippet": "Pappas supported legislation containing tax increases or opposed legislation containing tax cuts 68 times, according to a Washington Reporter ..."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Fact Check: Did Chris Pappas vote to raise taxes 68 times?",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-chris-pappas-vote-to-raise-taxes-68-times/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-10-03",
+      "publishedAsGiven": "Oct 3, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "ICYMI: Chris Pappas Voted For Higher Taxes 68 Times",
+      "url": "https://senateleadershipfund.org/press-releases/icymi-chris-pappas-voted-for-higher-taxes-68-times/",
+      "domain": "senateleadershipfund.org",
+      "published": "2026-08-28",
+      "publishedAsGiven": "Aug 28, 2026",
+      "snippet": "Washington insider Chris Pappas has voted at least 68 times to raise taxes or oppose tax cuts for working families over his two decades in ..."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Did Chris Pappas vote to raise taxes 68 times?",
+      "url": "https://www.facebook.com/politifact/posts/in-new-hampshire-where-taxes-are-a-dirty-word-republican-john-sununu-said-his-de/1570812325079865/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Sununu, Pappas clash over taxes, personal finances ...",
+      "url": "https://www.yahoo.com/news/politics/articles/sununu-pappas-clash-over-taxes-035900891.html",
+      "domain": "yahoo.com",
+      "published": "2026-10-15",
+      "publishedAsGiven": "Oct 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Sununu, Pappas clash over taxes, personal finances ...",
+      "url": "https://www.unionleader.com/news/politics/sununu-pappas-clash-over-taxes-personal-finances-trump-and-biden-16816b62",
+      "domain": "unionleader.com",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Pappas Voted for the Largest Tax Increase in American ...",
+      "url": "https://afpaction.com/afp-action-reminds-voters-pappas-voted-for-the-largest-tax-increase-in-american-history/",
+      "domain": "afpaction.com",
+      "published": "2026-06-08",
+      "publishedAsGiven": "Jun 8, 2026",
+      "snippet": "Pappas voted with Washington Democrats 94 percent of the time, rubber-stamping tax hikes, runaway spending, and policies that drove up costs ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Sununu Adds Biz Endorsements, Hits 'California Chris ...",
+      "url": "https://nhjournal.com/sununu-adds-biz-endorsements-hits-california-chris-pappas-on-taxes/",
+      "domain": "nhjournal.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Taxes",
+      "url": "https://politifact.com/taxes/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "John Sununu said Chris Pappas voted to raise taxes 68 ...",
+      "url": "https://politifact.com/factchecks/2026/oct/01/john-e-sununu/chris-pappas-raise-taxes-68-new-hampshire-senate/",
+      "domain": "politifact.com",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Sununu, Pappas clash over taxes, personal finances ...",
+      "url": "https://www.yahoo.com/news/politics/articles/sununu-pappas-clash-over-taxes-035900891.html",
+      "domain": "yahoo.com",
+      "published": "2026-10-15",
+      "publishedAsGiven": "Oct 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Sununu, Pappas clash over taxes, personal finances ...",
+      "url": "https://www.unionleader.com/news/politics/sununu-pappas-clash-over-taxes-personal-finances-trump-and-biden-16816b62",
+      "domain": "unionleader.com",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Fact Check: Did Chris Pappas vote to raise taxes 68 times?",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-chris-pappas-vote-to-raise-taxes-68-times/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-10-03",
+      "publishedAsGiven": "Oct 3, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Did Chris Pappas vote to raise taxes 68 times?",
+      "url": "https://www.facebook.com/politifact/posts/in-new-hampshire-where-taxes-are-a-dirty-word-republican-john-sununu-said-his-de/1570812325079865/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Sununu Adds Biz Endorsements, Hits 'California Chris ...",
+      "url": "https://nhjournal.com/sununu-adds-biz-endorsements-hits-california-chris-pappas-on-taxes/",
+      "domain": "nhjournal.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "SCOOP: Chris Pappas voted to raise taxes 68 times during ...",
+      "url": "https://washingtonreporter.news/scoop-chris-pappas-voted-to-raise-taxes-68-times-across-during-his-two-decades-in-office/",
+      "domain": "washingtonreporter.news",
+      "published": "2026-08-28",
+      "publishedAsGiven": "Aug 28, 2026",
+      "snippet": "Aug 28, 2026 — Pappas supported legislation containing tax increases or opposed legislation containing tax cuts 68 times, according to a Washington Reporter ..."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Media",
+      "url": "https://www.sununusenator.com/media",
+      "domain": "sununusenator.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Senate Republicans",
+      "url": "https://x.com/NRSC/status/2110017559814930606",
+      "domain": "x.com",
+      "published": null,
+      "dropped": "undated"
+    }
+  ],
+  "returned": 19,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 4,
+    "after-said": 6,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:22:21.773Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "SCOOP: Chris Pappas voted to raise taxes 68 times during ...",
+      "url": "https://washingtonreporter.news/scoop-chris-pappas-voted-to-raise-taxes-68-times-across-during-his-two-decades-in-office/",
+      "domain": "washingtonreporter.news",
+      "snippet": "Pappas supported legislation containing tax increases or opposed legislation containing tax cuts 68 times, according to a Washington Reporter ...",
+      "published": "2026-08-28",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "ICYMI: Chris Pappas Voted For Higher Taxes 68 Times",
+      "url": "https://senateleadershipfund.org/press-releases/icymi-chris-pappas-voted-for-higher-taxes-68-times/",
+      "domain": "senateleadershipfund.org",
+      "snippet": "Washington insider Chris Pappas has voted at least 68 times to raise taxes or oppose tax cuts for working families over his two decades in ...",
+      "published": "2026-08-28",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    },
+    {
+      "title": "Pappas Voted for the Largest Tax Increase in American ...",
+      "url": "https://afpaction.com/afp-action-reminds-voters-pappas-voted-for-the-largest-tax-increase-in-american-history/",
+      "domain": "afpaction.com",
+      "snippet": "Pappas voted with Washington Democrats 94 percent of the time, rubber-stamping tax hikes, runaway spending, and policies that drove up costs ...",
+      "published": "2026-06-08",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    }
+  ]
+}

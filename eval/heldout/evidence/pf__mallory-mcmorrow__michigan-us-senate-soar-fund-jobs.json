@@ -1,0 +1,287 @@
+{
+  "frozenAt": "2026-10-27T03:15:23.571Z",
+  "refilteredAt": "2026-10-27T03:35:38.179Z",
+  "id": "pf/mallory-mcmorrow/michigan-us-senate-soar-fund-jobs",
+  "said": "2026-05-28",
+  "queries": {
+    "fact": "Michigan has spent more than $2.5 billion on incentives to companies since 2019, and so far, that fund, the SOAR fund, has created zero jobs.",
+    "claim": "Michigan has spent more than $2.5 billion on incentives to companies since 2019, and so far, that fund, the SOAR fund, has created zero jobs. Mallory McMorrow"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1885.7484160000458,
+      "results": 7
+    },
+    {
+      "query": "claim",
+      "ms": 1998.7788750000764,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "PolitiFact | Michigan Senate race: Is it true that no jobs ...",
+      "url": "https://api.politifact.com/factchecks/2026/jun/04/mallory-mcmorrow/michigan-US-senate-soar-fund-jobs/",
+      "domain": "api.politifact.com",
+      "published": "2026-05-28",
+      "publishedAsGiven": "May 28, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Michigan Senate race: Is it true that no jobs were created ...",
+      "url": "https://www.politifact.com/factchecks/2026/jun/04/mallory-mcmorrow/michigan-US-senate-soar-fund-jobs/",
+      "domain": "politifact.com",
+      "published": "2026-06-04",
+      "publishedAsGiven": "Jun 4, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "After $1B and mixed results, Michigan lawmakers cooling on ...",
+      "url": "https://www.bridgemi.com/business-watch/after-1b-and-mixed-results-michigan-lawmakers-cooling-corporate-incentives/",
+      "domain": "bridgemi.com",
+      "published": "2025-04-28",
+      "publishedAsGiven": "Apr 28, 2025",
+      "snippet": "More than three years later, data shows that zero jobs have been created under SOAR so far, despite the state spending $890 million as of September 30, 2024, on $1.96 billion promised across eight deals, two for Ford Motor Co."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Michigan U.S. Senate candidate Mallory McMorrow said the ...",
+      "url": "https://wisconsinreport.com/newsone/michigan-u-s-senate-candidate-mallory-mcmorrow-said-the-state-spent-more-than-2-5-billion-on-corporate-incentives-since-2019-and-the-soar-fund-created-no-jobs-the-statement-leaves-out-context-on-j/",
+      "domain": "wisconsinreport.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "A first for Michigan's $2.4B SOAR business incentive program ...",
+      "url": "https://www.bridgemi.com/business-watch/a-first-for-michigans-2-4b-soar-business-incentive-program-new-jobs/",
+      "domain": "bridgemi.com",
+      "published": "2026-04-07",
+      "publishedAsGiven": "Apr 7, 2026",
+      "snippet": "Michigan’s embattled $2.4 billion business incentive program has spurred controversy, but last year it began generating something new: Jobs. Reports submitted to the state for the Strategic Outreach and Attraction Reserve (SOAR) Fund show that 1,846 jobs were created in 2025 among 10 companies awarded a collective $1.74 billion in large taxpayer subsidies. That’s less than 13% of the ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "A First for Michigan’s $2.4B SOAR Business Incentive Program ...",
+      "url": "https://www.usnews.com/news/best-states/michigan/articles/2026-04-08/a-first-for-michigans-2-4b-soar-business-incentive-program-new-jobs",
+      "domain": "usnews.com",
+      "published": "2026-04-08",
+      "publishedAsGiven": "Apr 8, 2026",
+      "snippet": "Michigan’s embattled $2.4 billion business incentive program has spurred controversy, but last year it began generating something new: Jobs."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Michigan SOAR Program Delivers First Jobs After Years of ...",
+      "url": "https://www.michigancapitol.com/news/politics/michigan-soar-program-delivers-first-jobs-after-years-of-empty-promises",
+      "domain": "michigancapitol.com",
+      "published": "2026-04-08",
+      "publishedAsGiven": "Apr 8, 2026",
+      "snippet": "LANSING — Michigan's controversial $2.4 billion corporate subsidy program has finally delivered its first results: jobs. Reports from the state show that 1,846 jobs were created in 2025 among companies awarded a collective $1.74 billion in large taxpayer subsidies through the Strategic Outreach and Attraction Reserve (SOAR) Fund."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Michigan Senate race: Is it true that no jobs were created ...",
+      "url": "https://politifact.com/factchecks/2026/jun/04/mallory-mcmorrow/michigan-us-senate-soar-fund-jobs/",
+      "domain": "politifact.com",
+      "published": "2026-06-04",
+      "publishedAsGiven": "Jun 4, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Michigan U.S. Senate candidate Mallory McMorrow said ...",
+      "url": "https://www.facebook.com/politifact/posts/michigan-us-senate-candidate-mallory-mcmorrow-said-the-state-spent-more-than-25-/1454931990001233/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "After $1B and mixed results, Michigan lawmakers cooling ...",
+      "url": "https://bridgemi.com/business-watch/after-1b-and-mixed-results-michigan-lawmakers-cooling-corporate-incentives/",
+      "domain": "bridgemi.com",
+      "published": "2025-04-28",
+      "publishedAsGiven": "Apr 28, 2025",
+      "snippet": "Michigan had pledged $335 million in economic development incentives in 2023 to 83 companies that planned to create 11,408 jobs."
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Gov. Whitmer approves additional investment in SOAR Fund ...",
+      "url": "https://content.govdelivery.com/accounts/MIEDC/bulletins/3306eea",
+      "domain": "content.govdelivery.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "New Study Shows 21st Century Jobs Fund a Bust",
+      "url": "https://www.mackinac.org/new-study-shows-21st-century-jobs-fund-a-bust",
+      "domain": "mackinac.org",
+      "published": "2020-08-31",
+      "publishedAsGiven": "Aug 31, 2020",
+      "snippet": "We found significant and meaningful employment impacts in 4 of 9 incentive categories, the programs created jobs, but had to offer between $274 ..."
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "A first for Michigan's $2.4B SOAR business incentive program",
+      "url": "https://www.ktvb.com/article/syndication/associatedpress/a-first-for-michigans-24b-soar-business-incentive-program-new-jobs/616-7ff88e43-cca1-4ffa-b006-84294a5ce291",
+      "domain": "ktvb.com",
+      "published": "2026-04-08",
+      "publishedAsGiven": "Apr 8, 2026",
+      "snippet": "Michigan's $2.4 billion business incentive program has created 1,846 jobs among 10 companies, despite controversy. This is less than 13% of the ..."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Michigan House Republicans",
+      "url": "https://www.facebook.com/MichiganHouseRepublicans/posts/billions-of-dollars-given-away-with-almost-nothing-to-show-for-it-millions-of-do/1529425545890151/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Strategic Outreach and Attraction Reserve Fund Report",
+      "url": "https://www.michigan.gov/leo/-/media/Project/Websites/leo/Documents/Public-Information/Legislative-Reports/2025/SOAR-Report-FY24.pdf?rev=515f52cd54fc40d497a11e0956ca1fd7&hash=C1685A4CF1AF4E191937CCF08FCE274E",
+      "domain": "michigan.gov",
+      "published": "2025-03-14",
+      "publishedAsGiven": "Mar 14, 2025",
+      "snippet": "The Critical Industry Program (CIP) provides qualified investments to qualified businesses for deal-closing, gap financing, or other economic ..."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Michigan targeted $2.1B for new businesses, but few jobs ...",
+      "url": "https://www.detroitnews.com/story/business/2024/12/03/michigan-soar-economic-development-program-cash-few-jobs-fund-gm-ford-corning-gotion-hemlock-dow/76457225007/",
+      "domain": "detroitnews.com",
+      "published": "2024-12-03",
+      "publishedAsGiven": "Dec 3, 2024",
+      "snippet": "Michigan committed $2.1 billion in direct incentives to support massive manufacturing projects, but few of the jobs promised have come to ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "The state of Michigan is spending over $670 million on a ...",
+      "url": "https://www.facebook.com/DaveBondy25/videos/the-state-of-michigan-is-spending-over-670-million-on-a-project-that-is-supposed/1162877178315770/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "snippet": "The state of Michigan is spending over $670 million on a project that is supposed to bring new jobs to the state. It has brought in nothing ..."
+    }
+  ],
+  "returned": 17,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 2,
+    "after-said": 1,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:15:19.686Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "After $1B and mixed results, Michigan lawmakers cooling on ...",
+      "url": "https://www.bridgemi.com/business-watch/after-1b-and-mixed-results-michigan-lawmakers-cooling-corporate-incentives/",
+      "domain": "bridgemi.com",
+      "snippet": "More than three years later, data shows that zero jobs have been created under SOAR so far, despite the state spending $890 million as of September 30, 2024, on $1.96 billion promised across eight deals, two for Ford Motor Co.",
+      "published": "2025-04-28",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Bridge Magazine",
+        "page": "https://mediabiasfactcheck.com/bridge-magazine/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "New Study Shows 21st Century Jobs Fund a Bust",
+      "url": "https://www.mackinac.org/new-study-shows-21st-century-jobs-fund-a-bust",
+      "domain": "mackinac.org",
+      "snippet": "We found significant and meaningful employment impacts in 4 of 9 incentive categories, the programs created jobs, but had to offer between $274 ...",
+      "published": "2020-08-31",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Mackinac Center for Public Policy",
+        "page": "https://mediabiasfactcheck.com/mackinac-center-for-public-policy/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "A first for Michigan's $2.4B SOAR business incentive program ...",
+      "url": "https://www.bridgemi.com/business-watch/a-first-for-michigans-2-4b-soar-business-incentive-program-new-jobs/",
+      "domain": "bridgemi.com",
+      "snippet": "Michigan’s embattled $2.4 billion business incentive program has spurred controversy, but last year it began generating something new: Jobs. Reports submitted to the state for the Strategic Outreach and Attraction Reserve (SOAR) Fund show that 1,846 jobs were created in 2025 among 10 companies awarded a collective $1.74 billion in large taxpayer subsidies. That’s less than 13% of the ...",
+      "published": "2026-04-07",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Bridge Magazine",
+        "page": "https://mediabiasfactcheck.com/bridge-magazine/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Michigan targeted $2.1B for new businesses, but few jobs ...",
+      "url": "https://www.detroitnews.com/story/business/2024/12/03/michigan-soar-economic-development-program-cash-few-jobs-fund-gm-ford-corning-gotion-hemlock-dow/76457225007/",
+      "domain": "detroitnews.com",
+      "snippet": "Michigan committed $2.1 billion in direct incentives to support massive manufacturing projects, but few of the jobs promised have come to ...",
+      "published": "2024-12-03",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Detroit News",
+        "page": "https://mediabiasfactcheck.com/detroit-news/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "A First for Michigan’s $2.4B SOAR Business Incentive Program ...",
+      "url": "https://www.usnews.com/news/best-states/michigan/articles/2026-04-08/a-first-for-michigans-2-4b-soar-business-incentive-program-new-jobs",
+      "domain": "usnews.com",
+      "snippet": "Michigan’s embattled $2.4 billion business incentive program has spurred controversy, but last year it began generating something new: Jobs.",
+      "published": "2026-04-08",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "US News World Report",
+        "page": "https://mediabiasfactcheck.com/us-news-world-report/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

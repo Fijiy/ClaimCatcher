@@ -1,0 +1,274 @@
+{
+  "frozenAt": "2026-10-27T03:14:13.546Z",
+  "refilteredAt": "2026-10-27T03:35:20.665Z",
+  "id": "pf/donald-trump/oil-united-states-russia-saudi-arabia-hormuz-iran",
+  "said": "2026-04-23",
+  "queries": {
+    "fact": "We are right now producing more oil than Saudi Arabia and Russia combined.",
+    "claim": "We are right now producing more oil than Saudi Arabia and Russia combined. Donald Trump"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1139.877165999962,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1382.455457999953,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "The United States produces more oil than Saudi Arabia ...",
+      "url": "https://www.facebook.com/energy/videos/the-united-states-produces-more-oil-than-saudi-arabia-and-russia-combinedits-cal/2010569360343213/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "snippet": "Coal Natural Gas,Nuclear....like it's High Time for a National Energy Policy ! IN/From Fifield Wisconsin kick the the Can Golden into Project ..."
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "United States produces more crude oil than any country, ever",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=61545",
+      "domain": "eia.gov",
+      "published": "2024-03-11",
+      "publishedAsGiven": "Mar 11, 2024",
+      "snippet": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Fact-check: Trump says the U.S. produces more oil than ...",
+      "url": "https://www.wral.com/news/state/fact-check-trump-oil-production-russia-saudi-arabia-may-11/",
+      "domain": "wral.com",
+      "published": "2026-05-11",
+      "publishedAsGiven": "May 11, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "America now produces MORE oil than Saudi Arabia and ...",
+      "url": "https://www.facebook.com/AmericaFirstPolicyInstitute/posts/america-now-produces-more-oil-than-saudi-arabia-and-russia-combined-at-24m-barre/959035593145291/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "snippet": "America now produces MORE oil than Saudi Arabia and Russia combined. At 24M barrels/day in oil & liquids, the U.S. is the world's energy ..."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Trump says the U.S. produces more oil than Russia and ...",
+      "url": "https://www.youtube.com/watch?v=LaJXaVvp8FA",
+      "domain": "youtube.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "10 Top Oil-producing Countries | INN",
+      "url": "https://investingnews.com/daily/resource-investing/energy-investing/oil-and-gas-investing/top-oil-producing-countries/",
+      "domain": "investingnews.com",
+      "published": "2026-03-26",
+      "publishedAsGiven": "Mar 26, 2026",
+      "snippet": "The top oil production by country includes the US, Saudi Arabia, Russia and Canada. Global production was 103.32 million bpd during the ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "President Trump says the U.S. is \"producing right now ...",
+      "url": "https://www.facebook.com/CBSNews/videos/president-trump-says-the-us-is-producing-right-now-more-oil-by-double-than-russi/1297526839206393/",
+      "domain": "facebook.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "List of countries by oil extraction",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_oil_extraction",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "The United States is now the largest global crude oil ...",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=37053",
+      "domain": "eia.gov",
+      "published": "2018-09-12",
+      "publishedAsGiven": "Sep 12, 2018",
+      "snippet": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "(PDF) Which Country Is the Largest Oil Producer in the World",
+      "url": "https://www.researchgate.net/publication/352220226_Which_Country_Is_the_Largest_Oil_Producer_in_the_World_-_the_USA_Russia_or_Saudi_Arabia_The_Question_of_Measurement_-_What_and_How",
+      "domain": "researchgate.net",
+      "published": "2026-10-02",
+      "publishedAsGiven": "Oct 2, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Trump inflates US oil production as Iran war drags down ...",
+      "url": "https://www.eenews.net/articles/trump-inflates-us-oil-production-as-iran-war-drags-down-crude-inventories/",
+      "domain": "eenews.net",
+      "published": "2026-06-04",
+      "publishedAsGiven": "Jun 4, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact-check: Trump says the U.S. produces more oil than ...",
+      "url": "https://www.wral.com/news/state/fact-check-trump-oil-production-russia-saudi-arabia-may-11/",
+      "domain": "wral.com",
+      "published": "2026-05-11",
+      "publishedAsGiven": "May 11, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "President Trump says the U.S. is \"producing right now ...",
+      "url": "https://www.facebook.com/CBSNews/videos/president-trump-says-the-us-is-producing-right-now-more-oil-by-double-than-russi/1297526839206393/",
+      "domain": "facebook.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "US oil and natural gas production hits record in 2025",
+      "url": "https://www.facebook.com/HGEOgov/posts/the-united-states-leads-the-world-in-oil-and-natural-gas-production-we-hit-recor/1565044682331407/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Trump says the U.S. produces more oil than Russia and ...",
+      "url": "https://www.youtube.com/watch?v=LaJXaVvp8FA",
+      "domain": "youtube.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "\"US President Donald Trump says ...",
+      "url": "https://x.com/ANI/status/2097875057523724630",
+      "domain": "x.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "'Drill, baby, drill': Trump says US oil boom just getting ...",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/drill-baby-drill-trump-says-190500893.html",
+      "domain": "finance.yahoo.com",
+      "published": "2026-05-05",
+      "publishedAsGiven": "May 5, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Does the U.S. produce more oil than Russia and Saudi ...",
+      "url": "https://politifact.com/factchecks/2026/apr/29/donald-trump/oil-united-states-russia-saudi-arabia-hormuz-iran/",
+      "domain": "politifact.com",
+      "published": "2026-04-29",
+      "publishedAsGiven": "Apr 29, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Trump Touts US Energy Superpower Status, Says ...",
+      "url": "https://www.facebook.com/Timesnow/videos/prez-trump-touts-us-energy-superpower-status-says-us-producing-more-oil-than-sau/959107737179663/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Comments",
+      "url": "https://www.youtube.com/watch?v=oUw_8QcBrqY",
+      "domain": "youtube.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 2,
+    "after-said": 11,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:14:09.735Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "United States produces more crude oil than any country, ever",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=61545",
+      "domain": "eia.gov",
+      "snippet": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government.",
+      "published": "2024-03-11",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "The United States is now the largest global crude oil ...",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=37053",
+      "domain": "eia.gov",
+      "snippet": "Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government.",
+      "published": "2018-09-12",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "10 Top Oil-producing Countries | INN",
+      "url": "https://investingnews.com/daily/resource-investing/energy-investing/oil-and-gas-investing/top-oil-producing-countries/",
+      "domain": "investingnews.com",
+      "snippet": "The top oil production by country includes the US, Saudi Arabia, Russia and Canada. Global production was 103.32 million bpd during the ...",
+      "published": "2026-03-26",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "frozenAt": "2026-10-27T03:22:06.107Z",
+  "refilteredAt": "2026-10-27T03:37:17.844Z",
+  "id": "pf/republican-national-committee-republican/rnc-falsely-says-54-of-ncs-commercial-driver-licenses-were-issued-illegally-to-noncitizens",
+  "said": "2026-09-02",
+  "queries": {
+    "fact": "54% of North Carolina commercial driver’s licenses were issued illegally to foreign nationals.",
+    "claim": "54% of North Carolina commercial driver’s licenses were issued illegally to foreign nationals. Republican National Committee"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1789.4472910000477,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1669.8139589999337,
+      "results": 8
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Fact-check: The Republican National Committee said 54% of ...",
+      "url": "https://www.facebook.com/WRALTV/posts/fact-check-the-republican-national-committee-said-54-of-ncs-commercial-driver-li/1710044457154346/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Were 54% of commercial driver licenses in North Carolina ...",
+      "url": "https://www.wfae.org/text/politics/2026-09-29/fact-check-were-54-of-commercial-driver-licenses-in-north-carolina-issued-illegally-to-noncitizens",
+      "domain": "wfae.org",
+      "published": "2026-09-29",
+      "publishedAsGiven": "Sep 29, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "RNC claim on NC commercial driver's licenses fact-checked",
+      "url": "https://www.facebook.com/WFAE/posts/in-a-social-media-post-earlier-this-month-the-republican-national-committee-said/1703884515080711/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Were 54% of commercial driver licenses in North Carolina ...",
+      "url": "https://www.reddit.com/r/NorthCarolina/comments/1wt8eeg/fact_check_were_54_of_commercial_driver_licenses/",
+      "domain": "reddit.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Trump's Transportation Secretary Sean P. Duffy Exposes ...",
+      "url": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-exposes-over-50-north-carolina-trucking",
+      "domain": "transportation.gov",
+      "published": "2026-01-08",
+      "publishedAsGiven": "Jan 8, 2026",
+      "snippet": "Trump's Transportation Secretary Sean P. Duffy Exposes Over 50% of North Carolina Trucking Licensees for Foreigners Were Issued Illegally."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "RNC Claim on NC Commercial Driver Licenses for Noncitizens",
+      "url": "https://www.facebook.com/WRALTV/videos/fact-check-the-republican-national-committee-said-54-of-ncs-commercial-driver-li/1115774164451578/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "RNC says 54% of NC's commercial driver licenses were ...",
+      "url": "https://www.wral.com/news/state/fact-check-rnc-north-carolina-commercial-driver-license-noncitizen-september-24/",
+      "domain": "wral.com",
+      "published": "2026-09-24",
+      "publishedAsGiven": "Sep 24, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "than 50% of North Carolina truck licenses for foreigners were ...",
+      "url": "https://www.instagram.com/reel/DTTWpCPkRKT/",
+      "domain": "instagram.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "snippet": "54% of NC commercial drivers license issued by Cooper and Stein are to forbid Foreign nationals, putting every North Carolina citizens life in ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Transportation Analyst: NC CDLs illegally issued to immigrants",
+      "url": "https://www.youtube.com/watch?v=6gA2brwiB8E",
+      "domain": "youtube.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "snippet": "Thousands Of Truckers Are Being Put Out Of Service For Using Personal Conveyance Wrong. Mutha Trucker - Official Trucking Channel · 1M views."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "RNC falsely says 54% of NC's commercial driver licenses ...",
+      "url": "https://politifact.com/factchecks/2026/sep/24/republican-national-committee-republican/rnc-falsely-says-54-of-ncs-commercial-driver-licenses-were-issued-illegally-to-noncitizens/",
+      "domain": "politifact.com",
+      "published": "2026-09-24",
+      "publishedAsGiven": "Sep 24, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Were 54% of commercial driver licenses in North Carolina ...",
+      "url": "https://www.wfae.org/text/politics/2026-09-29/fact-check-were-54-of-commercial-driver-licenses-in-north-carolina-issued-illegally-to-noncitizens",
+      "domain": "wfae.org",
+      "published": "2026-09-29",
+      "publishedAsGiven": "Sep 29, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "RNC says 54% of NC's commercial driver licenses were ...",
+      "url": "https://www.wral.com/news/state/fact-check-rnc-north-carolina-commercial-driver-license-noncitizen-september-24/",
+      "domain": "wral.com",
+      "published": "2026-09-24",
+      "publishedAsGiven": "Sep 24, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "RNC Claim on NC Commercial Driver Licenses for Noncitizens",
+      "url": "https://www.facebook.com/WRALTV/videos/fact-check-the-republican-national-committee-said-54-of-ncs-commercial-driver-li/1115774164451578/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "RNC falsely says 54% of NC's commercial driver licenses ...",
+      "url": "https://politifact.com/factchecks/2026/sep/24/republican-national-committee-republican/rnc-falsely-says-54-of-ncs-commercial-driver-licenses-were-issued-illegally-to-noncitizens/",
+      "domain": "politifact.com",
+      "published": "2026-09-24",
+      "publishedAsGiven": "Sep 24, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "RNC claim on NC commercial driver's licenses fact-checked",
+      "url": "https://www.facebook.com/WFAE/posts/in-a-social-media-post-earlier-this-month-the-republican-national-committee-said/1703884515080711/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Were 54% of commercial driver licenses in North Carolina ...",
+      "url": "https://www.reddit.com/r/NorthCarolina/comments/1wt8eeg/fact_check_were_54_of_commercial_driver_licenses/",
+      "domain": "reddit.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Trump's Transportation Secretary Sean P. Duffy Exposes ...",
+      "url": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-exposes-over-50-north-carolina-trucking",
+      "domain": "transportation.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "NC delegation demands action on illegal truck driver's licenses",
+      "url": "http://harrigan.house.gov/media/in-the-news/carolina-journal-nc-delegation-demands-action-illegal-truck-drivers-licenses",
+      "domain": "harrigan.house.gov",
+      "published": "2026-01-12",
+      "publishedAsGiven": "Jan 12, 2026",
+      "snippet": "Jan 12, 2026 — Carolina Journal: NC delegation demands action on illegal truck driver's licenses · TRUCK DRIVERS SOUNDED THE ALARM · Media · Contact Us. Read more"
+    }
+  ],
+  "returned": 18,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 9,
+    "after-said": 1,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:22:02.647Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Trump's Transportation Secretary Sean P. Duffy Exposes ...",
+      "url": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-exposes-over-50-north-carolina-trucking",
+      "domain": "transportation.gov",
+      "snippet": "Trump's Transportation Secretary Sean P. Duffy Exposes Over 50% of North Carolina Trucking Licensees for Foreigners Were Issued Illegally.",
+      "published": "2026-01-08",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

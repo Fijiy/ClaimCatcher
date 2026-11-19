@@ -1,0 +1,116 @@
+{
+  "case_id": "trump-joint-2025-social-security-ages#2",
+  "queries": {
+    "A": "3.5 million people from ages 140 to 149 and money is being paid to many of them Trump",
+    "B": "Social Security benefit payments to beneficiaries age 115 and older number"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 6,
+      "title": "What to know about a Social Security chart Elon Musk shared",
+      "url": "https://politifact.com/article/2025/feb/21/elon-musks-chart-doesnt-prove-millions-of-centenar/",
+      "domain": "politifact.com",
+      "published": "2025-02-21",
+      "snippet": "Indeed, on Facebook, a Trump fan page with more than 4 million followers referenced Musk’s tweet and said , “Elon Musk discovers millions over the age of 140 are receiving social security! 695 recipients are over 180 – 189.”",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 1,
+      "title": "Tribune: 123-45-6789 – Spidell",
+      "url": "https://spidell.com/?p=684143",
+      "domain": "spidell.com",
+      "published": null,
+      "snippet": "The SSA stops payments to those over 115 years old. To catch any deaths that may have escaped reporting, the SSA regularly checks that its oldest beneficiaries are using their Medicare benefits — if they’re not, the SSA verifies that the beneficiary is still alive. In the extremely rare cases where benefits are paid to people over 100 years old, the SSA has a policy to stop payments by age 115. 4 Only 0.1% of Social Security benefits are paid to people over 100 years old. 5",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "How many people over 100 receive Social Security benefits?",
+      "url": "https://www.yahoo.com/news/many-people-over-100-receive-231147830.html",
+      "domain": "yahoo.com",
+      "published": "2025-02-20",
+      "snippet": "Elon Musk and President Trump falsely claimed that millions of dead people over 100 years old are receiving Social Security payments, but data shows only about 90,000 beneficiaries aged 99 or older received a check in December.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 5,
+      "title": "How many people over 100 receive Social Security benefits?",
+      "url": "https://digital-release.newsnationnow.com/?p=3255183",
+      "domain": "digital-release.newsnationnow.com",
+      "published": "2025-02-20",
+      "snippet": "An agency inspector general report from Nov. 2021 found that Social Security issued an estimated $298 million in payments after death to about 24,000 beneficiaries. Those individuals were mistakenly kept in “suspended payment status” after they died.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 6,
+      "title": "How many people over 100 receive Social Security benefits? - AOL",
+      "url": "https://aol.com/many-people-over-100-receive-124704429.html",
+      "domain": "aol.com",
+      "published": "2025-02-21",
+      "snippet": "As of 2015, the agency automatically stops payments to people who are older than 115 years old. How often does Social Security pay people after they die?",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://digital-release.wearegreenbay.com/?p=1907786",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://digital-release.newsnationnow.com/?p=3273641",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.miningjournal.net/opinion/editorial/2025/03/much-ado-about-dead-social-security-recipients",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.audacy.com/wccoradio/news/national/is-what-trump-said-about-social-security-really-true",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://signalscv.com/2025/03/social-security-rectifying-records-of-people-aged-100-or-older",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://abc3340.com/news/connect-to-congress/president-donald-trump-vows-to-go-after-fraud-improper-social-security-payments-government-spending-waste-doge-department-of-government-efficiency",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://news3lv.com/news/connect-to-congress/president-donald-trump-vows-to-go-after-fraud-improper-social-security-payments-government-spending-waste-doge-department-of-government-efficiency",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://wlos.com/news/nation-world/president-donald-trump-vows-to-go-after-fraud-improper-social-security-payments-government-spending-waste-doge-department-of-government-efficiency",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://local12.com/news/nation-world/president-donald-trump-vows-to-go-after-fraud-improper-social-security-payments-government-spending-waste-doge-department-of-government-efficiency",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "B",
+      "url": "https://www.yahoo.com/news/social-security-money-going-millions-022858993.html",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "B",
+      "url": "https://digital-release.newsnationnow.com/?p=3273641",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    }
+  ]
+}

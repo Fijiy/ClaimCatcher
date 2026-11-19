@@ -1,0 +1,416 @@
+{
+  "frozenAt": "2026-10-27T03:04:54.402Z",
+  "refilteredAt": "2026-10-27T03:33:01.126Z",
+  "id": "pf/gavin-newsom/is-newsom-right-that-florida-is-worst-for-mental-h",
+  "said": "2025-07-18",
+  "queries": {
+    "fact": "Florida: #51 in mental health care, #1 in home insurance costs, #1 in elder fraud, #1 in rent hikes.",
+    "claim": "Florida: #51 in mental health care, #1 in home insurance costs, #1 in elder fraud, #1 in rent hikes. Gavin Newsom"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1377.032124999998,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2275.1371660000004,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 287.05379099999845,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Is Newsom right that Florida is worst for mental health ...",
+      "url": "https://www.wlrn.org/light/business/2025-07-28/newsom-florida-mental-health-ranking",
+      "domain": "wlrn.org",
+      "published": "2025-07-28",
+      "publishedAsGiven": "Jul 28, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Is Newsom right that Florida is worst for mental health ...",
+      "url": "https://politifact.com/factchecks/2025/jul/23/gavin-newsom/is-newsom-right-that-florida-is-worst-for-mental-h/",
+      "domain": "politifact.com",
+      "published": "2025-07-23",
+      "publishedAsGiven": "Jul 23, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Is Florida the worst state in the nation in mental health care ...",
+      "url": "https://www.instagram.com/p/DMf51XIOgxO/",
+      "domain": "instagram.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Cost of Long Term Care by State: Cost of Care Report",
+      "url": "https://www.carescout.com/cost-of-care",
+      "domain": "carescout.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Florida was once the retirement dream for many seniors. Now ...",
+      "url": "https://www.facebook.com/cnn/posts/florida-was-once-the-retirement-dream-for-many-seniors-now-soaring-health-care-i/1417224636936850/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "How Much Does Home Care Cost in Florida?",
+      "url": "https://citychoiceflorida.com/home-care-guides/how-much-does-home-care-cost-in-florida/",
+      "domain": "citychoiceflorida.com",
+      "published": "2026-07-08",
+      "publishedAsGiven": "Jul 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Common Scams Against the Elderly",
+      "url": "https://flsheriffs.org/blog/entry/public-safety-tip-common-scams-against-the-elderly/",
+      "domain": "flsheriffs.org",
+      "published": "2025-04-05",
+      "publishedAsGiven": "Apr 5, 2025",
+      "snippet": "Scammers frequently target the elderly, taking advantage of their trust, financial stability and unfamiliarity with modern fraud tactics."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Florida Health Price Finder",
+      "url": "https://price.healthfinder.fl.gov/",
+      "domain": "price.healthfinder.fl.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Understanding Home Care Costs and What You Need to ...",
+      "url": "https://www.rightathome.net/palm-beach-fl/blog/home-care-costs-and-paying-for",
+      "domain": "rightathome.net",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "South Florida's rising costs are squeezing older adults, with ...",
+      "url": "https://www.facebook.com/wpbf25news/posts/south-floridas-rising-costs-are-squeezing-older-adults-with-some-saying-they-can/1683847516430322/",
+      "domain": "facebook.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Is Newsom right that Florida is worst for mental health ...",
+      "url": "https://www.wlrn.org/light/business/2025-07-28/newsom-florida-mental-health-ranking",
+      "domain": "wlrn.org",
+      "published": "2025-07-28",
+      "publishedAsGiven": "Jul 28, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Is Newsom right that Florida is worst for mental health ...",
+      "url": "https://politifact.com/factchecks/2025/jul/23/gavin-newsom/is-newsom-right-that-florida-is-worst-for-mental-h/",
+      "domain": "politifact.com",
+      "published": "2025-07-23",
+      "publishedAsGiven": "Jul 23, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Is Florida the worst state in the nation in mental health care ...",
+      "url": "https://www.instagram.com/p/DMf51XIOgxO/",
+      "domain": "instagram.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "LIVE | Gov. Newsom announces behavioral treatment funding",
+      "url": "https://www.youtube.com/watch?v=2fHq6mD5K_c",
+      "domain": "youtube.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Newsom threatens counties over CARE Court",
+      "url": "https://calmatters.org/health/mental-health/2026/03/newsom-threatens-counties-care-court/",
+      "domain": "calmatters.org",
+      "published": "2026-03-02",
+      "publishedAsGiven": "Mar 2, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Gavin Newsom Florida",
+      "url": "https://www.facebook.com/groups/375936820642281/posts/1123843799184909/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Newsom threatens to take certain counties' CARE Court funding",
+      "url": "https://www.youtube.com/watch?v=pHLF_fHhBkc",
+      "domain": "youtube.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Florida home insurance costs push Gulf Coast retirement ...",
+      "url": "https://beinsure.com/news/florida-home-insurance-costs-push-gulf-coast-budget/",
+      "domain": "beinsure.com",
+      "published": "2026-10-25",
+      "publishedAsGiven": "2 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Newsom calls out Kern, nine other counties for lagging on ...",
+      "url": "https://www.youtube.com/watch?v=TkQRmQaMucw",
+      "domain": "youtube.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "All adults are required to report child abuse and neglect in ...",
+      "url": "https://www.yahoo.com/news/adults-required-report-child-abuse-100630941.html",
+      "domain": "yahoo.com",
+      "published": "2025-01-10",
+      "publishedAsGiven": "Jan 10, 2025",
+      "snippet": "Florida law requires \"any person who knows, or has reasonable cause to suspect, that a child is abused, abandoned, or neglected\" to report the ..."
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Traffic crimes highlight nearly 30 new Florida laws. The list, ...",
+      "url": "https://www.usatoday.com/story/news/politics/2025/09/12/new-florida-laws-october-dui-fleeing-officers-pornography/86046801007/",
+      "domain": "usatoday.com",
+      "published": "2025-09-12",
+      "publishedAsGiven": "Sep 12, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Government shutdown: Nationwide flight cuts expected to ...",
+      "url": "https://apnews.com/live/donald-trump-news-updates-11-7-2025",
+      "domain": "apnews.com",
+      "published": "2025-11-07",
+      "publishedAsGiven": "Nov 7, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "What to know about the AP/FRONTLINE investigation into ...",
+      "url": "https://apnews.com/article/scams-online-scams-ai-internet-safety-phishing-fraud-takeaways-b1350fd421cce73ac585a649b07332d5",
+      "domain": "apnews.com",
+      "published": "2026-09-02",
+      "publishedAsGiven": "Sep 2, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "House votes to extend health care subsidies, defying GOP ...",
+      "url": "https://apnews.com/live/donald-trump-news-updates-1-8-2026",
+      "domain": "apnews.com",
+      "published": "2026-01-08",
+      "publishedAsGiven": "Jan 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Trump visits Detroit to promote manufacturing at Ford factory",
+      "url": "https://apnews.com/live/donald-trump-news-updates-1-13-2026",
+      "domain": "apnews.com",
+      "published": "2026-01-13",
+      "publishedAsGiven": "Jan 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "In coal-rich West Virginia, power bills rival mortgages and ...",
+      "url": "https://apnews.com/article/electricity-utility-bills-west-virginia-trump-coal-38ad648f99a42eb2c73d7affaddadbcb",
+      "domain": "apnews.com",
+      "published": "2026-04-09",
+      "publishedAsGiven": "Apr 9, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "New tariffs announced and Trump and Modi meet",
+      "url": "https://apnews.com/live/trump-presidency-updates-2-13-2025",
+      "domain": "apnews.com",
+      "published": "2025-02-13",
+      "publishedAsGiven": "Feb 13, 2025",
+      "snippet": "President Donald Trump is meeting with Indian Prime Minister Narendra Modi. Trump also signed a measure to have tariff rates match what ..."
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "a failure of initiative",
+      "url": "http://online.wsj.com/public/resources/documents/report-katrina-20060215.pdf",
+      "domain": "online.wsj.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "2022 Indian River County General Election: Candidates ...",
+      "url": "https://www.usatoday.com/story/opinion/editorials/2022/09/11/elections-2022-indian-river-county-candidates-answer-questions/7938342001/",
+      "domain": "usatoday.com",
+      "published": "2022-09-11",
+      "publishedAsGiven": "Sep 11, 2022",
+      "snippet": "Here's one way TCPalm is helping you to learn more about Indian River County candidates running in for office in the 2022 general election."
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "Trump says Ukraine can 'forget about' joining NATO, EPA ...",
+      "url": "https://apnews.com/live/trump-presidency-updates-2-26-2025",
+      "domain": "apnews.com",
+      "published": "2025-02-26",
+      "publishedAsGiven": "Feb 26, 2025",
+      "snippet": "President Donald Trump presided over his first Cabinet meeting where he said Ukraine \"could forget about\" joining NATO."
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 0,
+    "after-said": 16,
+    "maybe-after-said": 3,
+    "after-said-link-date": 0,
+    "undated": 4
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:04:47.306Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "New tariffs announced and Trump and Modi meet",
+      "url": "https://apnews.com/live/trump-presidency-updates-2-13-2025",
+      "domain": "apnews.com",
+      "snippet": "President Donald Trump is meeting with Indian Prime Minister Narendra Modi. Trump also signed a measure to have tariff rates match what ...",
+      "published": "2025-02-13",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Associated Press",
+        "page": "https://mediabiasfactcheck.com/associated-press/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "2022 Indian River County General Election: Candidates ...",
+      "url": "https://www.usatoday.com/story/opinion/editorials/2022/09/11/elections-2022-indian-river-county-candidates-answer-questions/7938342001/",
+      "domain": "usatoday.com",
+      "snippet": "Here's one way TCPalm is helping you to learn more about Indian River County candidates running in for office in the 2022 general election.",
+      "published": "2022-09-11",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "USA Today",
+        "page": "https://mediabiasfactcheck.com/usa-today-2/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Trump says Ukraine can 'forget about' joining NATO, EPA ...",
+      "url": "https://apnews.com/live/trump-presidency-updates-2-26-2025",
+      "domain": "apnews.com",
+      "snippet": "President Donald Trump presided over his first Cabinet meeting where he said Ukraine \"could forget about\" joining NATO.",
+      "published": "2025-02-26",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Associated Press",
+        "page": "https://mediabiasfactcheck.com/associated-press/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Common Scams Against the Elderly",
+      "url": "https://flsheriffs.org/blog/entry/public-safety-tip-common-scams-against-the-elderly/",
+      "domain": "flsheriffs.org",
+      "snippet": "Scammers frequently target the elderly, taking advantage of their trust, financial stability and unfamiliarity with modern fraud tactics.",
+      "published": "2025-04-05",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 4
+    },
+    {
+      "title": "All adults are required to report child abuse and neglect in ...",
+      "url": "https://www.yahoo.com/news/adults-required-report-child-abuse-100630941.html",
+      "domain": "yahoo.com",
+      "snippet": "Florida law requires \"any person who knows, or has reasonable cause to suspect, that a child is abused, abandoned, or neglected\" to report the ...",
+      "published": "2025-01-10",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "mixed",
+        "name": "Yahoo News",
+        "page": "https://mediabiasfactcheck.com/yahoo-news/"
+      },
+      "weight": "reduced",
+      "n": 5
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "frozenAt": "2026-10-27T03:11:16.590Z",
+  "refilteredAt": "2026-10-27T03:34:34.656Z",
+  "id": "pf/james-fishback/ai-data-centers-energy-water-florida-governor",
+  "said": "2026-02-26",
+  "queries": {
+    "fact": "Artificial intelligence data centers drive up electric bills by 30 or 40% and suck up 500,000 gallons of water a day.",
+    "claim": "Artificial intelligence data centers drive up electric bills by 30 or 40% and suck up 500,000 gallons of water a day. James Fishback"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2365.5833750000456,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1124.7242499999702,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "By 2030, AI data centers could be using enough clean ...",
+      "url": "https://www.facebook.com/everyoneus/posts/by-2030-ai-data-centers-could-be-using-enough-clean-water-to-meet-the-needs-of-1/1088514327295737/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "US President Donald J Trump warned that the massive ...",
+      "url": "https://www.facebook.com/HindiGoodReturns/posts/us-president-donald-j-trump-warned-that-the-massive-power-demand-from-ai-data-ce/1391376643026677/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Data centers account for 0.2 percent of the 322 billion ...",
+      "url": "https://www.facebook.com/Reason.Magazine/posts/data-centers-account-for-02-percent-of-the-322-billion-gallons-of-water-american/1250126226984506/",
+      "domain": "facebook.com",
+      "published": "2025-12-27",
+      "publishedAsGiven": "10 months ago",
+      "snippet": "Lower people's electric bills and prove you aren't there to jack up electric prices. Why do people believe data centers will jack up electric ..."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "AI data center project secretly sucked 29 million gallons of ...",
+      "url": "https://www.reddit.com/r/technology/comments/1t9xsaq/ai_data_center_project_secretly_sucked_29_million/",
+      "domain": "reddit.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "AI might kill us all, but at least in the meantime it will also ...",
+      "url": "https://www.facebook.com/larissawaters/posts/ai-might-kill-us-all-but-at-least-in-the-meantime-it-will-also-drive-up-our-elec/1612458206913216/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Are AI data centers driving up your electric bill? For most ...",
+      "url": "https://www.facebook.com/USAFacts/posts/are-ai-data-centers-driving-up-your-electric-billfor-most-americans-probably-not/1521726119986635/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Why are electric and water bills rising due to AI facilities ...",
+      "url": "https://www.quora.com/Why-are-electric-and-water-bills-rising-due-to-AI-facilities-and-how-does-that-impact-financial-security-for-everyday-people",
+      "domain": "quora.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Microsoft",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Arizona Capitol TimesJune 12, 2026",
+      "url": "https://azcapitoltimes.com/files/2026/06/Arizona-Capitol-Times-June-12-FINAL.pdf",
+      "domain": "azcapitoltimes.com",
+      "published": "2026-06-12",
+      "publishedAsGiven": "Jun 12, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "The Electric Slide - by Packy McCormick and Sam D'Amico",
+      "url": "https://www.notboring.co/p/the-electric-slide",
+      "domain": "notboring.co",
+      "published": "2025-08-26",
+      "publishedAsGiven": "Aug 26, 2025",
+      "snippet": "If you control energy and action, making intelligence abundant strengthens your position. After catching up to America in electricity generation ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact-checking Florida governor candidate James Fishback ...",
+      "url": "https://www.wlrn.org/light/government-politics/2026-03-16/politifact-fl-fact-checking-florida-governor-candidate-james-fishback-on-ai-data-center-water-energy-use",
+      "domain": "wlrn.org",
+      "published": "2026-03-16",
+      "publishedAsGiven": "Mar 16, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact-checking Fishback on data center water, electricity use",
+      "url": "https://politifact.com/factchecks/2026/mar/04/james-fishback/ai-data-centers-energy-water-florida-governor/",
+      "domain": "politifact.com",
+      "published": "2026-03-04",
+      "publishedAsGiven": "Mar 4, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "AI data centers are draining Florida's water ...",
+      "url": "https://www.facebook.com/fshbck/videos/ai-data-centers-are-draining-floridas-wateran-ai-data-center-can-use-upwards-of-/1549586756622620/",
+      "domain": "facebook.com",
+      "published": "2026-07-17",
+      "publishedAsGiven": "Jul 17, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "🚨 JAMES FISHBACK WANTS TO BAN NEW AI DATA ...",
+      "url": "https://www.facebook.com/thehodgetwins/posts/-james-fishback-wants-to-ban-new-ai-data-centers-in-floridaflorida-gubernatorial/1690727115743202/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "James Fishback: Stop Data Center Water Use in 26-Year ...",
+      "url": "https://www.facebook.com/fshbck/videos/we-have-the-worst-drought-in-26-years-were-telling-farmers-they-cant-water-their/1288073119914762/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Paul Renner Warns Byron Donalds AI Data Centers ...",
+      "url": "https://www.facebook.com/RepPaulRenner/videos/a-warning-to-florida-voters-if-byron-donalds-becomes-governor-massive-ai-data-ce/1918163618884613/",
+      "domain": "facebook.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Fact-checking Fishback on data center water, electricity use",
+      "url": "https://se.headtopics.com/news/fact-checking-fishback-on-data-center-water-electricity-use-80568619",
+      "domain": "se.headtopics.com",
+      "published": "2026-03-05",
+      "publishedAsGiven": "Mar 5, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Fishback warns of AI data centers worsening our drought ...",
+      "url": "https://www.facebook.com/groups/1182627196140058/posts/1454318902304218/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Why College Grads Are Booing Their Commencement ...",
+      "url": "https://www.nytimes.com/2026/05/18/opinion/ai-boo-commencement-speeches.html",
+      "domain": "nytimes.com",
+      "published": "2026-05-18",
+      "publishedAsGiven": "May 18, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "James Fishback",
+      "url": "https://politifact.com/personalities/james-fishback/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 2,
+    "after-said": 12,
+    "maybe-after-said": 1,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:11:11.620Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "The Electric Slide - by Packy McCormick and Sam D'Amico",
+      "url": "https://www.notboring.co/p/the-electric-slide",
+      "domain": "notboring.co",
+      "snippet": "If you control energy and action, making intelligence abundant strengthens your position. After catching up to America in electricity generation ...",
+      "published": "2025-08-26",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

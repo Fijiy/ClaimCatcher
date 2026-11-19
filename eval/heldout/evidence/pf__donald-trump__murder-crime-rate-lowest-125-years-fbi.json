@@ -1,0 +1,236 @@
+{
+  "frozenAt": "2026-10-27T03:10:45.226Z",
+  "refilteredAt": "2026-10-27T03:34:27.148Z",
+  "id": "pf/donald-trump/murder-crime-rate-lowest-125-years-fbi",
+  "said": "2026-02-03",
+  "queries": {
+    "fact": "The crime rate now is the lowest it’s been since 1900. That’s 125 years.",
+    "claim": "The crime rate now is the lowest it’s been since 1900. That’s 125 years. Donald Trump"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 927.4395419999491,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1936.1974169999594,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Is US crime at a historic low?",
+      "url": "https://www.bbc.com/news/articles/c75e4l4796vo",
+      "domain": "bbc.com",
+      "published": "2026-02-24",
+      "publishedAsGiven": "Feb 24, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Trump says the U.S. crime rate is at its lowest in 125 years",
+      "url": "https://www.youtube.com/watch?v=Ku2siTz5QkM",
+      "domain": "youtube.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Why is Crime Going Down?",
+      "url": "https://counciloncj.org/why-is-crime-going-down/",
+      "domain": "counciloncj.org",
+      "published": "2026-02-25",
+      "publishedAsGiven": "Feb 25, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Violent Crime Falls at Historic Rate, New FBI Data Show",
+      "url": "https://www.fbi.gov/news/stories/violent-crime-falls-at-historic-rate-new-fbi-data-show",
+      "domain": "fbi.gov",
+      "published": "2026-08-24",
+      "publishedAsGiven": "Aug 24, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "The national homicide rate is on track to reach its lowest ...",
+      "url": "https://www.facebook.com/FBI/posts/the-national-homicide-rate-is-on-track-to-reach-its-lowest-point-since-1900marki/1468750281965200/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Crime in the United States",
+      "url": "https://en.wikipedia.org/wiki/Crime_in_the_United_States",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Fact check: Trump says the U.S. crime rate is at its lowest in ...",
+      "url": "https://www.wral.com/news/state/fact-check-trump-us-crime-rate-lowest-125-years-feb-2026/",
+      "domain": "wral.com",
+      "published": "2026-02-13",
+      "publishedAsGiven": "Feb 13, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Trump Claims U.S. Has Seen Its Lowest Murder Rate In ...",
+      "url": "https://www.youtube.com/watch?v=Xi6jzo9rW_4",
+      "domain": "youtube.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "50-State Crime Data – Tools for States to Address Crime",
+      "url": "https://projects.csgjusticecenter.org/tools-for-states-to-address-crime/50-state-crime-data/",
+      "domain": "projects.csgjusticecenter.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "We have the lowest murder rate in 125 YEARS thanks to ...",
+      "url": "https://www.facebook.com/icegov/posts/we-have-the-lowest-murder-rate-in-125-years-thanks-to-president-donald-j-trump-a/1284483877202000/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Is US crime at a historic low?",
+      "url": "https://www.bbc.com/news/articles/c75e4l4796vo",
+      "domain": "bbc.com",
+      "published": "2026-02-24",
+      "publishedAsGiven": "Feb 24, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact check: Trump says the U.S. crime rate is at its lowest in ...",
+      "url": "https://www.wral.com/news/state/fact-check-trump-us-crime-rate-lowest-125-years-feb-2026/",
+      "domain": "wral.com",
+      "published": "2026-02-13",
+      "publishedAsGiven": "Feb 13, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Trump says the U.S. crime rate is at its lowest in 125 years",
+      "url": "https://www.youtube.com/watch?v=Ku2siTz5QkM",
+      "domain": "youtube.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Is Trump right that US crime rate is lowest in 125 years?",
+      "url": "https://politifact.com/factchecks/2026/feb/12/donald-trump/murder-crime-rate-lowest-125-years-fbi/",
+      "domain": "politifact.com",
+      "published": "2026-02-12",
+      "publishedAsGiven": "Feb 12, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "ICYMI: Murder Rate Plunges to 125-Year Low as President ...",
+      "url": "https://www.whitehouse.gov/releases/2026/01/icymi-murder-rate-plunges-to-125-year-low-as-president-trump-restores-law-and-order/",
+      "domain": "whitehouse.gov",
+      "published": "2026-01-22",
+      "publishedAsGiven": "Jan 22, 2026",
+      "snippet": "Under President Donald J. Trump's leadership, America is safer than it has been in over a century — and brand new data proves it."
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Why is Crime Going Down?",
+      "url": "https://counciloncj.org/why-is-crime-going-down/",
+      "domain": "counciloncj.org",
+      "published": "2026-02-25",
+      "publishedAsGiven": "Feb 25, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "During a nationwide address from the White House ...",
+      "url": "https://www.facebook.com/BrianAllenNews/videos/during-a-nationwide-address-from-the-white-house-president-trump-says-the-united/1377099540936919/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Trump's Misleading Crime Drop Claims",
+      "url": "https://www.factcheck.org/2026/08/trumps-misleading-crime-drop-claims/",
+      "domain": "factcheck.org",
+      "published": "2026-08-20",
+      "publishedAsGiven": "Aug 20, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Trump Claims U.S. Has Seen Its Lowest Murder Rate In ...",
+      "url": "https://www.youtube.com/watch?v=Xi6jzo9rW_4",
+      "domain": "youtube.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Trump claims credit for murder drop. It's not that simple.",
+      "url": "https://www.usatoday.com/story/opinion/2026/02/26/trump-murder-drop-us-crime-rate/88830024007/",
+      "domain": "usatoday.com",
+      "published": "2026-02-26",
+      "publishedAsGiven": "Feb 26, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 2,
+    "after-said": 11,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:10:41.191Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

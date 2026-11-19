@@ -1,0 +1,2153 @@
+{
+  "gate": "heldout",
+  "started": "2026-10-27T05:37:15.315Z",
+  "environment": {
+    "chrome": "151.0.7922.138",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+    "platform": "darwin arm64",
+    "os": "25.5.0",
+    "cpu": "Apple M4",
+    "cores": "10",
+    "memoryGb": "16",
+    "node": "v22.23.2",
+    "note": "Gemini Nano model version: see chrome://on-device-internals in this profile"
+  },
+  "evidence": {
+    "claims": 151,
+    "requests": 342,
+    "failedRequests": 0,
+    "claimsWithAFailedSearch": 0,
+    "returned": 3218,
+    "dropped": {
+      "fact-checker": 309,
+      "fact-check-words": 470,
+      "after-said": 986,
+      "maybe-after-said": 290,
+      "after-said-link-date": 11,
+      "undated": 450
+    },
+    "keptDatedOnlyByLink": 14,
+    "balancingSearches": 40,
+    "evidenceGiven": 377,
+    "claimsWithFive": 44,
+    "claimsWithNone": 34
+  },
+  "score": {
+    "runs": [
+      {
+        "exact": {
+          "hits": 49,
+          "n": 151,
+          "rate": 0.32450331125827814,
+          "ci": {
+            "lo": 0.25498496591521386,
+            "hi": 0.40272944479289846
+          }
+        },
+        "balanced": {
+          "value": 0.3224347210148428,
+          "ci": {
+            "lo": 0.24931581828133553,
+            "hi": 0.39698638075920023
+          }
+        },
+        "recall": {
+          "True": {
+            "hits": 24,
+            "n": 51,
+            "rate": 0.47058823529411764,
+            "ci": {
+              "lo": 0.34052990115584864,
+              "hi": 0.6047669588986317
+            }
+          },
+          "Misleading": {
+            "hits": 15,
+            "n": 58,
+            "rate": 0.25862068965517243,
+            "ci": {
+              "lo": 0.1634554514347729,
+              "hi": 0.38377385869929603
+            }
+          },
+          "False": {
+            "hits": 10,
+            "n": 42,
+            "rate": 0.23809523809523808,
+            "ci": {
+              "lo": 0.13480964163085252,
+              "hi": 0.38527543993324376
+            }
+          }
+        },
+        "adjacent": {
+          "hits": 64,
+          "n": 151,
+          "rate": 0.423841059602649,
+          "ci": {
+            "lo": 0.34787216125179615,
+            "hi": 0.5035888094328564
+          }
+        },
+        "unverified": {
+          "hits": 42,
+          "n": 151,
+          "rate": 0.2781456953642384,
+          "ci": {
+            "lo": 0.21285802515266838,
+            "hi": 0.3544413242330584
+          }
+        },
+        "exactWhenLabelled": {
+          "hits": 49,
+          "n": 109,
+          "rate": 0.44954128440366975,
+          "ci": {
+            "lo": 0.35946025788318325,
+            "hi": 0.5430578404376522
+          }
+        },
+        "opposite": {
+          "trueAsFalse": 5,
+          "falseAsTrue": 11,
+          "total": 16
+        },
+        "firm": {
+          "exact": {
+            "hits": 45,
+            "n": 131,
+            "rate": 0.3435114503816794,
+            "ci": {
+              "lo": 0.26769257663666646,
+              "hi": 0.42824663716186395
+            }
+          },
+          "adjacent": {
+            "hits": 57,
+            "n": 131,
+            "rate": 0.4351145038167939,
+            "ci": {
+              "lo": 0.35326323027047324,
+              "hi": 0.5206627852069662
+            }
+          }
+        },
+        "judgment": {
+          "exact": {
+            "hits": 4,
+            "n": 20,
+            "rate": 0.2,
+            "ci": {
+              "lo": 0.08065766201776073,
+              "hi": 0.41601743409331715
+            }
+          },
+          "adjacent": {
+            "hits": 7,
+            "n": 20,
+            "rate": 0.35,
+            "ci": {
+              "lo": 0.18119182312398308,
+              "hi": 0.5671457249315559
+            }
+          }
+        },
+        "failed": 0,
+        "confusion": {
+          "True": {
+            "True": 24,
+            "Unverified": 8,
+            "Misleading": 14,
+            "False": 5
+          },
+          "Misleading": {
+            "False": 6,
+            "Unverified": 22,
+            "Misleading": 15,
+            "True": 15
+          },
+          "False": {
+            "False": 10,
+            "Unverified": 12,
+            "True": 11,
+            "Misleading": 9
+          }
+        }
+      },
+      {
+        "exact": {
+          "hits": 50,
+          "n": 151,
+          "rate": 0.33112582781456956,
+          "ci": {
+            "lo": 0.26107067007567664,
+            "hi": 0.4095601779642051
+          }
+        },
+        "balanced": {
+          "value": 0.3281818474516243,
+          "ci": {
+            "lo": 0.25506294471811713,
+            "hi": 0.4029266879165459
+          }
+        },
+        "recall": {
+          "True": {
+            "hits": 24,
+            "n": 51,
+            "rate": 0.47058823529411764,
+            "ci": {
+              "lo": 0.34052990115584864,
+              "hi": 0.6047669588986317
+            }
+          },
+          "Misleading": {
+            "hits": 16,
+            "n": 58,
+            "rate": 0.27586206896551724,
+            "ci": {
+              "lo": 0.1775235207518533,
+              "hi": 0.4020465529440679
+            }
+          },
+          "False": {
+            "hits": 10,
+            "n": 42,
+            "rate": 0.23809523809523808,
+            "ci": {
+              "lo": 0.13480964163085252,
+              "hi": 0.38527543993324376
+            }
+          }
+        },
+        "adjacent": {
+          "hits": 65,
+          "n": 151,
+          "rate": 0.4304635761589404,
+          "ci": {
+            "lo": 0.3541806133531833,
+            "hi": 0.5101967946632385
+          }
+        },
+        "unverified": {
+          "hits": 41,
+          "n": 151,
+          "rate": 0.271523178807947,
+          "ci": {
+            "lo": 0.20691126842872554,
+            "hi": 0.347471643625232
+          }
+        },
+        "exactWhenLabelled": {
+          "hits": 50,
+          "n": 110,
+          "rate": 0.45454545454545453,
+          "ci": {
+            "lo": 0.36459912077855583,
+            "hi": 0.5475594188407658
+          }
+        },
+        "opposite": {
+          "trueAsFalse": 5,
+          "falseAsTrue": 11,
+          "total": 16
+        },
+        "firm": {
+          "exact": {
+            "hits": 45,
+            "n": 131,
+            "rate": 0.3435114503816794,
+            "ci": {
+              "lo": 0.26769257663666646,
+              "hi": 0.42824663716186395
+            }
+          },
+          "adjacent": {
+            "hits": 57,
+            "n": 131,
+            "rate": 0.4351145038167939,
+            "ci": {
+              "lo": 0.35326323027047324,
+              "hi": 0.5206627852069662
+            }
+          }
+        },
+        "judgment": {
+          "exact": {
+            "hits": 5,
+            "n": 20,
+            "rate": 0.25,
+            "ci": {
+              "lo": 0.11186170069997625,
+              "hi": 0.46870087939258864
+            }
+          },
+          "adjacent": {
+            "hits": 8,
+            "n": 20,
+            "rate": 0.4,
+            "ci": {
+              "lo": 0.21880653127178018,
+              "hi": 0.6134185007652458
+            }
+          }
+        },
+        "failed": 0,
+        "confusion": {
+          "True": {
+            "True": 24,
+            "Unverified": 8,
+            "Misleading": 14,
+            "False": 5
+          },
+          "Misleading": {
+            "False": 6,
+            "Unverified": 21,
+            "Misleading": 16,
+            "True": 15
+          },
+          "False": {
+            "False": 10,
+            "Unverified": 12,
+            "True": 11,
+            "Misleading": 9
+          }
+        }
+      }
+    ],
+    "repeat": {
+      "hits": 150,
+      "n": 151,
+      "rate": 0.9933774834437086,
+      "ci": {
+        "lo": 0.9634445761317464,
+        "hi": 0.9988300050850699
+      }
+    },
+    "medianMs": 7310.3020004999125,
+    "p90Ms": 10880.424658300124,
+    "baseRates": {
+      "True": 51,
+      "Misleading": 58,
+      "False": 42
+    }
+  },
+  "runs": [
+    [
+      {
+        "caseId": "pf/common-cause/yes-wisconsin-makes-it-harder-to-vote-than-most-ot",
+        "label": "True",
+        "ms": 17223.452333,
+        "conclusion": "Sources indicate Wisconsin has made voting more difficult, ranking among the least accessible states."
+      },
+      {
+        "caseId": "pf/robin-vos/wisconsin-republicans-say-voter-id-laws-are-suppor",
+        "label": "Unverified",
+        "ms": 5034.711541000001,
+        "conclusion": "There is no evidence to support the claim that voter ID is supported by 70-80% of the public."
+      },
+      {
+        "caseId": "pf/cavalier-johnson/mps-does-indeed-have-a-larger-tax-levy-than-the-ci",
+        "label": "Misleading",
+        "ms": 11446.044375000001,
+        "conclusion": "The referendum increased MPS's tax levy to $252 million, which is larger than the City of Milwaukee's tax levy, but the city's levy amount is not provided."
+      },
+      {
+        "caseId": "pf/susan-crawford/candidate-right-that-wisconsin-does-not-require-ju",
+        "label": "Misleading",
+        "ms": 9455.974708000002,
+        "conclusion": "Wisconsin's recusal rules require recusal in certain situations, not automatically based solely on past legal work."
+      },
+      {
+        "caseId": "pf/joel-kitchens/do-90-of-wisconsin-school-districts-ban-cellphones",
+        "label": "True",
+        "ms": 8945.299417000002,
+        "conclusion": "Sources indicate that approximately 90% of Wisconsin school districts already have policies restricting cellphone use in classrooms."
+      },
+      {
+        "caseId": "pf/donald-trump/fact-checking-trumps-statement-about-declining-egg",
+        "label": "False",
+        "ms": 5548.442916000007,
+        "conclusion": "The claim that egg prices dropped 50% is inaccurate, as the source indicates the opposite was true."
+      },
+      {
+        "caseId": "pf/brian-tyler-cohen/claim-about-trump-rejecting-helene-relief-for-nort",
+        "label": "Unverified",
+        "ms": 5072.371250000004,
+        "conclusion": "Without sources, it's impossible to determine if Trump denied the request."
+      },
+      {
+        "caseId": "pf/moms-demand-action-gun-sense-america/firearm-related-deaths-are-no-1-killer-of-college",
+        "label": "Misleading",
+        "ms": 8165.743291999999,
+        "conclusion": "Sources indicate firearms are a leading cause of death for college-aged people, but one source focuses on intimate partner violence, not overall college-aged deaths."
+      },
+      {
+        "caseId": "pf/charles-blow/china-toys-christmas-goods-trump-tariffs",
+        "label": "True",
+        "ms": 9246.341,
+        "conclusion": "Sources indicate that China is a dominant supplier of toys and Christmas goods to the U.S."
+      },
+      {
+        "caseId": "pf/bernie-sanders/medicaid-cut-house-republicans-trump",
+        "label": "Misleading",
+        "ms": 8617.053333999997,
+        "conclusion": "The bill contains significant Medicaid cuts that could negatively impact healthcare access and costs for millions of Americans."
+      },
+      {
+        "caseId": "pf/us-energy-department/gas-prices-memorial-day-20-year-low",
+        "label": "False",
+        "ms": 9478.120708000002,
+        "conclusion": "Sources indicate gasoline prices are low, but not at a 20-year low, and the claim about a 14% drop from last year is not supported."
+      },
+      {
+        "caseId": "pf/john-thune/thune-says-health-care-often-comes-with-a-job-the",
+        "label": "Unverified",
+        "ms": 4935.893708999996,
+        "conclusion": "Without evidence, the claim cannot be verified or refuted; it remains unsupported."
+      },
+      {
+        "caseId": "pf/american-action-network/reconciliation-bill-tax-cut-social-security",
+        "label": "Unverified",
+        "ms": 5480.4018750000105,
+        "conclusion": "There is no evidence to verify or refute the claim about a tax cut for Social Security recipients from the Republican tax and spending bill."
+      },
+      {
+        "caseId": "pf/francesca-hong/es-about-a-quarter-of-every-dollar-spent-via-snap",
+        "label": "True",
+        "ms": 10708.060167000003,
+        "conclusion": "Sources indicate that a significant portion of SNAP spending supports farmers and ranchers, though the exact percentage varies depending on how it's measured."
+      },
+      {
+        "caseId": "pf/elizabeth-warren/elizabeth-warren-one-big-beautiful-bill-meta-taxes",
+        "label": "Unverified",
+        "ms": 6581.526790999997,
+        "conclusion": "Without sources, it's impossible to determine if the claim is accurate."
+      },
+      {
+        "caseId": "pf/hakeem-jeffries/permanent-tax-breaks-billionaires-temporary",
+        "label": "Misleading",
+        "ms": 7683.450041999997,
+        "conclusion": "The claim is accurate regarding the expiration of certain tax provisions under the Trump tax law, but it's an oversimplification of the law's complexities."
+      },
+      {
+        "caseId": "pf/gavin-newsom/is-newsom-right-that-florida-is-worst-for-mental-h",
+        "label": "Unverified",
+        "ms": 8857.702707999997,
+        "conclusion": "The claim asserts rankings for Florida's healthcare, insurance, and fraud, but the provided sources do not support or refute these specific rankings."
+      },
+      {
+        "caseId": "pf/ritchie-torres/dollar-decline-currency-foreign-exchange",
+        "label": "False",
+        "ms": 9776.567707999988,
+        "conclusion": "Sources indicate the dollar has decreased by approximately 10% since Donald Trump's inauguration, not 11%."
+      },
+      {
+        "caseId": "pf/us-trade-representative/ice-cream-trade-imports-exports-biden-trump",
+        "label": "False",
+        "ms": 10338.56699999998,
+        "conclusion": "The evidence indicates the claim about a trade surplus in ice cream in 2020 under Trump is false because trade gaps soared during his presidency."
+      },
+      {
+        "caseId": "pf/donald-trump/trump-cites-60-million-in-us-food-aid-to-gaza-but",
+        "label": "True",
+        "ms": 6779.596500000014,
+        "conclusion": "Sources confirm the US government provided $60 million for food aid to Gaza approximately two weeks prior to the statement."
+      },
+      {
+        "caseId": "pf/americans-prosperity/did-wisconsin-governors-did-evers-400-year-veto-lo",
+        "label": "True",
+        "ms": 10651.655458000023,
+        "conclusion": "Sources indicate a court ruling cemented a 400-year property tax levy limit increase for school districts due to Governor Evers' actions."
+      },
+      {
+        "caseId": "pf/robert-ortt/ortts-claim-about-rising-crime-needs-context",
+        "label": "Misleading",
+        "ms": 8023.461167000001,
+        "conclusion": "Sources present conflicting information; one suggests subway crime isn't statistically significant, while the other criticizes a policy decision."
+      },
+      {
+        "caseId": "pf/ken-martin/texas-illinois-flood-redistricting-hearings",
+        "label": "True",
+        "ms": 11074.018749999988,
+        "conclusion": "Sources indicate Texas Republicans held eight hearings on redistricting and one on flood response during the legislative session."
+      },
+      {
+        "caseId": "pf/gavin-newsom/california-texas-independent-redistricting",
+        "label": "Misleading",
+        "ms": 6358.001166000002,
+        "conclusion": "Democrats held fewer legislative trifectas than Republicans at the start of the redistricting cycle."
+      },
+      {
+        "caseId": "pf/kristi-noem/immigrant-population-drop-1-6-million",
+        "label": "True",
+        "ms": 6464.672083999991,
+        "conclusion": "The DHS source supports the claim that 1.6 million illegal aliens have voluntarily left the U.S."
+      },
+      {
+        "caseId": "pf/donald-trump/prices-energy-groceries-gasoline-inflation",
+        "label": "Unverified",
+        "ms": 5907.954083999997,
+        "conclusion": "Without supporting evidence, the claim about decreased prices is unsupported."
+      },
+      {
+        "caseId": "pf/donald-trump/wage-increase-500-dollars-2025-workers",
+        "label": "False",
+        "ms": 11742.440457999997,
+        "conclusion": "Sources show wage growth varied significantly across different periods, but no source supports a $500 wage increase for the average American worker this year."
+      },
+      {
+        "caseId": "pf/chris-murphy/minneapolis-mass-shooting-school-2022-law",
+        "label": "Misleading",
+        "ms": 11658.958374999987,
+        "conclusion": "Sources indicate that mass shootings decreased after a similar law expired in 2004, but the 2022 law's impact is not definitively proven to have caused a drop."
+      },
+      {
+        "caseId": "pf/katherine-clark/aca-enhanced-subsidies-renewal-government-shutdown",
+        "label": "True",
+        "ms": 5592.747333000007,
+        "conclusion": "The source supports the claim that Republicans' actions will raise health insurance premiums if subsidies expire."
+      },
+      {
+        "caseId": "pf/amy-klobuchar/expiring-aca-subsidies-rural-areas-double",
+        "label": "Misleading",
+        "ms": 11629.334208999993,
+        "conclusion": "Sources indicate a substantial premium increase for ACA subscribers if subsidies aren't extended, with some suggesting a 75% average increase and disproportionate impact on rural areas."
+      },
+      {
+        "caseId": "pf/dan-koh/congress-gets-paid-during-a-government-shutdown-bu",
+        "label": "True",
+        "ms": 6022.89041599998,
+        "conclusion": "The Constitution does indeed guarantee continued pay for members of Congress during a government shutdown, contrasting with the situation of essential workers like janitors."
+      },
+      {
+        "caseId": "pf/james-clyburn/trump-wic-budget-proposal-shutdown-food",
+        "label": "True",
+        "ms": 7259.867958000046,
+        "conclusion": "Sources confirm that Trump's FY26 budget proposed a $300 million decrease for the WIC program."
+      },
+      {
+        "caseId": "pf/darren-soto/florida-aca-cost-increase-uninsured-highest",
+        "label": "True",
+        "ms": 7159.977791999991,
+        "conclusion": "Sources indicate Florida will experience the most significant negative impact nationally if enhanced ACA subsidies expire."
+      },
+      {
+        "caseId": "pf/ron-desantis/desantis-property-tax-homestead-snowbirds-airbnbs",
+        "label": "False",
+        "ms": 6825.088292,
+        "conclusion": "The claim is unsupported by the provided source, which indicates second homes are treated as rentals for tax purposes."
+      },
+      {
+        "caseId": "pf/rand-paul/venezuela-drug-boats-coast-guard-florida",
+        "label": "Unverified",
+        "ms": 9837.329625000013,
+        "conclusion": "The sources do not provide a definitive rate of drug-free ship boardings, so the claim cannot be verified."
+      },
+      {
+        "caseId": "pf/scott-bessent/overall-inflation-decline-trump",
+        "label": "Unverified",
+        "ms": 5246.628499999992,
+        "conclusion": "Without supporting evidence, the claim cannot be verified."
+      },
+      {
+        "caseId": "pf/elise-stefanik/hochul-has-extended-higher-taxes-on-wealthy-indivi",
+        "label": "Unverified",
+        "ms": 7752.4672919999575,
+        "conclusion": "Sources present conflicting information; Stefanik claims tax increases, while Hochul denies raising taxes."
+      },
+      {
+        "caseId": "pf/donald-trump/health-insurance-company-stock-price-1000-percent",
+        "label": "Misleading",
+        "ms": 9840.254874999984,
+        "conclusion": "While stock prices have increased significantly since 2010, the claim's timeframe of 'short period of time' is not supported by the provided evidence."
+      },
+      {
+        "caseId": "pf/pam-bondi/doj-minnesota-fraud-trump-biden-somalis",
+        "label": "True",
+        "ms": 6165.330125000037,
+        "conclusion": "Pam Bondi claims the Justice Department has been investigating fraud in Minnesota for months, resulting in 98 charges."
+      },
+      {
+        "caseId": "pf/josh-riley/investor-owned-single-family-homes-us",
+        "label": "Misleading",
+        "ms": 11909.10404200002,
+        "conclusion": "Sources indicate investors purchased a substantial portion of homes in 2025, but the exact percentage for the first quarter is not directly supported."
+      },
+      {
+        "caseId": "pf/mark-warner/ice-training-requirements-trump-minneapolis",
+        "label": "True",
+        "ms": 6886.87270800001,
+        "conclusion": "Sources indicate ICE agent training was shortened to 47 days due to a specific bill."
+      },
+      {
+        "caseId": "pf/claudia-tenney/chips-science-act-micron-semiconductor-new-york",
+        "label": "True",
+        "ms": 7673.077041999961,
+        "conclusion": "Sources indicate Claudia Tenney has been involved in efforts to attract Micron to build a facility near Syracuse."
+      },
+      {
+        "caseId": "pf/tom-omara/new-york-electricity-rates-utilities",
+        "label": "Unverified",
+        "ms": 4503.123542000016,
+        "conclusion": "Without sources, the claim cannot be verified or refuted."
+      },
+      {
+        "caseId": "pf/donald-trump/trump-says-the-us-leads-china-by-a-lot-in-ai-exper",
+        "label": "False",
+        "ms": 10448.342124999966,
+        "conclusion": "Sources indicate China is actively pursuing AI leadership and is rapidly catching up to, or even surpassing, the U.S. in certain areas."
+      },
+      {
+        "caseId": "pf/jared-moskowitz/fema-disaster-declaration-backlog-trump",
+        "label": "Unverified",
+        "ms": 9783.068957999989,
+        "conclusion": "Sources indicate a significant backlog of disaster assistance applications at FEMA, though the claim of 'largest in its history' is not definitively supported."
+      },
+      {
+        "caseId": "pf/donald-trump/factory-manufacturing-construction-record-high",
+        "label": "Unverified",
+        "ms": 4411.734999999986,
+        "conclusion": "Without supporting evidence, the claim cannot be verified."
+      },
+      {
+        "caseId": "pf/blake-gendebien/milk-prices-consumers-inflation-gallon-1980s",
+        "label": "Misleading",
+        "ms": 8532.863208000024,
+        "conclusion": "Current milk prices are lower than they were in the 1980s, according to the provided data."
+      },
+      {
+        "caseId": "pf/gretchen-whitmer/michigan-poverty-decline-affordability",
+        "label": "Unverified",
+        "ms": 7841.908916999993,
+        "conclusion": "The provided sources do not offer direct evidence to support or refute the claim about fewer families living in poverty under Gov. Whitmer compared to her predecessor."
+      },
+      {
+        "caseId": "pf/donald-trump/murder-crime-rate-lowest-125-years-fbi",
+        "label": "Unverified",
+        "ms": 4128.48550000001,
+        "conclusion": "Without supporting evidence, the claim cannot be verified."
+      },
+      {
+        "caseId": "pf/marcus-molinaro/new-york-population-loss-lead-nation",
+        "label": "True",
+        "ms": 10465.50437499996,
+        "conclusion": "Sources indicate New York has experienced significant population decline, leading the nation in population loss in 2020 and projecting further decline."
+      },
+      {
+        "caseId": "pf/abigail-spanberger/trump-tariff-cost-families-1700",
+        "label": "Misleading",
+        "ms": 8366.050040999951,
+        "conclusion": "Sources indicate that Trump's proposed tariff policies would cost American families approximately $1,500-$1,700 annually."
+      },
+      {
+        "caseId": "pf/james-fishback/ai-data-centers-energy-water-florida-governor",
+        "label": "Unverified",
+        "ms": 6390.997499999998,
+        "conclusion": "The source does not provide evidence to support or refute the claims about electric bills and water consumption of AI data centers."
+      },
+      {
+        "caseId": "pf/chris-murphy/airstrikes-regime-change-ground-troops-iran",
+        "label": "True",
+        "ms": 1036109.5347499999,
+        "conclusion": "The sources support Chris Murphy's claim that there's no historical evidence of air campaigns leading to positive regime change in the US."
+      },
+      {
+        "caseId": "pf/elizabeth-warren/trump-military-strikes-iran-venezuela",
+        "label": "True",
+        "ms": 10483.293542,
+        "conclusion": "Sources indicate Donald Trump ordered a significant number of military strikes against many countries, potentially more than any other president in modern history."
+      },
+      {
+        "caseId": "pf/sam-sutton/hate-crimes-new-york-city-houses-worship",
+        "label": "False",
+        "ms": 11911.867792000063,
+        "conclusion": "The claim of a 152% increase in hate crimes in NYC from January 2025 to January 2026 is not supported by available data; the NYPD reported an increase, but January 2026 was not a high month for antisemitic hate crimes."
+      },
+      {
+        "caseId": "pf/chris-wright/us-iran-crude-oil-net-exporter-gas-prices",
+        "label": "True",
+        "ms": 5476.054457999999,
+        "conclusion": "The U.S. currently produces more oil than its refineries need, indicating a surplus."
+      },
+      {
+        "caseId": "pf/charles-schumer/voter-registration-save-america-act-in-person",
+        "label": "Misleading",
+        "ms": 8579.484375,
+        "conclusion": "The sources do not confirm that the SAVE America Act would restrict voter registration to in-person methods."
+      },
+      {
+        "caseId": "pf/mark-kelly/reregister-vote-elections-save-america-act",
+        "label": "Misleading",
+        "ms": 11634.559624999994,
+        "conclusion": "The SAVE America Act requires citizenship proof and photo ID for voter registration, potentially impacting access for some citizens."
+      },
+      {
+        "caseId": "pf/tammy-duckworth/save-america-act-voter-id-drivers-licenses-real-id",
+        "label": "Misleading",
+        "ms": 9936.73024999979,
+        "conclusion": "The claim aligns with the statement that millions of Americans lack the specific ID required by the SAVE Act, but the exact percentage is not definitively established."
+      },
+      {
+        "caseId": "pf/seth-moulton/trump-bomb-civilian-infrastructure-war-crime",
+        "label": "True",
+        "ms": 11053.976709000068,
+        "conclusion": "Multiple sources indicate that bombing civilian power infrastructure *can* be a war crime, depending on the context and military objective."
+      },
+      {
+        "caseId": "pf/donald-trump/more-americans-working-today-employment",
+        "label": "True",
+        "ms": 5176.261625000043,
+        "conclusion": "The claim aligns with the data presented by the Trump White House Archives regarding employment during his administration."
+      },
+      {
+        "caseId": "pf/nicholas-langworthy/tax-refunds-11-percent-reduction-irs",
+        "label": "True",
+        "ms": 10847.931582999881,
+        "conclusion": "Sources indicate the average IRS tax refund increased by approximately 11% compared to the same period last year."
+      },
+      {
+        "caseId": "pf/democratic-national-committee/trump-defense-budget-ww2",
+        "label": "True",
+        "ms": 14374.828042000066,
+        "conclusion": "Sources confirm President Trump proposed a $1.5 trillion military budget for 2027."
+      },
+      {
+        "caseId": "pf/brandon-gill/dignity-act-amnesty-florida-immigrants-citizenship",
+        "label": "Misleading",
+        "ms": 5337.795208999887,
+        "conclusion": "The Dignity Act provides legal status, but not citizenship, which is a specific aspect of amnesty."
+      },
+      {
+        "caseId": "pf/byron-donalds/iran-blockade-trump-strait-hormuz-barbary",
+        "label": "Unverified",
+        "ms": 5673.4096250000875,
+        "conclusion": "There is no evidence to support the claim that the U.S. Navy was created solely to free international waters from Barbary pirates."
+      },
+      {
+        "caseId": "pf/restoration-of-america/save-america-act-voter-id-citizenship-poll",
+        "label": "True",
+        "ms": 6425.170875000069,
+        "conclusion": "Sources show 84% of U.S. adults support photo ID, aligning with the implied comparison to other nations."
+      },
+      {
+        "caseId": "pf/chris-wright/wind-solar-energy-oil-strait-hormuz-iran",
+        "label": "False",
+        "ms": 11595.318250000011,
+        "conclusion": "Sources indicate that solar and wind energy currently account for approximately 3% of global energy, not more."
+      },
+      {
+        "caseId": "pf/robert-f-kennedy-jr/percentage-decreases-drug-prices-trump-math",
+        "label": "False",
+        "ms": 8950.018208999885,
+        "conclusion": "The claim that a $600 drug reducing to $10 is a 600% reduction is factually incorrect; it's a 98.33% reduction."
+      },
+      {
+        "caseId": "pf/donald-trump/oil-united-states-russia-saudi-arabia-hormuz-iran",
+        "label": "True",
+        "ms": 6748.799582999898,
+        "conclusion": "The US currently produces more oil than Saudi Arabia and Russia combined, according to multiple sources."
+      },
+      {
+        "caseId": "pf/pine-tree-results-pac/graham-platner-collins-maine-reddit-rape-senate",
+        "label": "Unverified",
+        "ms": 5803.6437920001335,
+        "conclusion": "There is no evidence to support or refute the claim that Graham Platner blames Maine’s women for getting raped due to intoxication."
+      },
+      {
+        "caseId": "pf/ron-desantis/florida-redistricting-republican-democrat-majority",
+        "label": "True",
+        "ms": 11727.300125000067,
+        "conclusion": "Multiple sources confirm DeSantis's statement about Florida's shift in political advantage since the 2020 census."
+      },
+      {
+        "caseId": "pf/kathy-castor/kid-care-florida-desantis-health-insurance",
+        "label": "Unverified",
+        "ms": 4936.267125000013,
+        "conclusion": "Without sources, the claim cannot be verified or refuted."
+      },
+      {
+        "caseId": "pf/marcy-kaptur/white-house-trump-ballroom-east-wing-1-billion",
+        "label": "True",
+        "ms": 7788.130957999965,
+        "conclusion": "Sources confirm Republicans are proposing $1 billion for White House security upgrades, which include a ballroom."
+      },
+      {
+        "caseId": "pf/marco-rubio/cuba-us-oil-blockade-blackout-castro",
+        "label": "Misleading",
+        "ms": 10115.874542000005,
+        "conclusion": "Sources show Rubio denies the US oil blockade is the cause of Cuba's electricity problems, citing mismanagement instead."
+      },
+      {
+        "caseId": "pf/james-talarico/ken-paxton-adam-hoffman-plea-deal-texas-senate",
+        "label": "Misleading",
+        "ms": 10408.230749999871,
+        "conclusion": "Sources confirm Hoffman's abuse allegations and Paxton's office faced criticism for a plea deal, but do not definitively state Paxton 'let Hoffman off the hook'."
+      },
+      {
+        "caseId": "pf/mallory-mcmorrow/michigan-us-senate-soar-fund-jobs",
+        "label": "Misleading",
+        "ms": 14469.055541999871,
+        "conclusion": "The claim is partially false; while some jobs were created in 2025, the overall claim of zero jobs created since 2019 is not entirely accurate, and the statement about zero jobs is misleading."
+      },
+      {
+        "caseId": "pf/move-indigo/yes-new-yorkers-with-second-homes-in-the-empire-st",
+        "label": "True",
+        "ms": 6306.9255000001285,
+        "conclusion": "Sources agree that New York state law permits voters with dual residences to select their preferred voting address."
+      },
+      {
+        "caseId": "pf/graham-platner/susan-collins-trump-vote-maine-senate-election",
+        "label": "Unverified",
+        "ms": 5309.550624999916,
+        "conclusion": "There is no evidence to support the claim that Sen. Susan Collins votes with Donald Trump 95% of the time."
+      },
+      {
+        "caseId": "pf/david-jolly/david-jolly-florida-hospital-cost-governor-race",
+        "label": "True",
+        "ms": 4773.375832999824,
+        "conclusion": "The source explicitly states Florida's 49th ranking in avoidable hospital costs."
+      },
+      {
+        "caseId": "pf/bernie-sanders/elon-musk-social-security-taxes-spacex",
+        "label": "Unverified",
+        "ms": 5377.453208000166,
+        "conclusion": "Without supporting evidence, the claim's factual accuracy cannot be determined."
+      },
+      {
+        "caseId": "pf/susan-collins/maine-senate-abortion-supreme-court-kavanaugh",
+        "label": "False",
+        "ms": 8932.495165999979,
+        "conclusion": "The sources contradict the claim, indicating Maine did not expand its abortion law after the Supreme Court ruling."
+      },
+      {
+        "caseId": "pf/abdul-el-sayed/mike-rogers-14-million-pharma-lobbyist-michigan",
+        "label": "Unverified",
+        "ms": 4454.388666000217,
+        "conclusion": "There is no evidence to confirm or deny Mike Rogers' alleged payout as a pharma lobbyist."
+      },
+      {
+        "caseId": "pf/josh-hokit/josh-hokit-ufc-white-house-michelle-obama",
+        "label": "False",
+        "ms": 4411.399999999907,
+        "conclusion": "Without evidence, the claim that Michelle Obama is a man is demonstrably false."
+      },
+      {
+        "caseId": "pf/jon-ossoff/did-mike-collins-help-double-health-insurance-prem",
+        "label": "True",
+        "ms": 6986.854124999838,
+        "conclusion": "The source confirms Ossoff stated Trump and Collins doubled premiums for over a million Georgians and removed 300,000 from insurance."
+      },
+      {
+        "caseId": "pf/donald-trump/transgender-sports-supreme-court-ruling-title-ix",
+        "label": "True",
+        "ms": 9532.698875000002,
+        "conclusion": "The Supreme Court ruled that states can exclude transgender athletes from women's sports."
+      },
+      {
+        "caseId": "pf/sherrod-brown/sherrod-brown-blames-hb-6-for-electric-bill-spike-experts-say-the-law-wasnt-the-main-cause",
+        "label": "True",
+        "ms": 7042.411416999996,
+        "conclusion": "Sources show a $663 annual increase in residential utility rates in Ohio since 2019, coinciding with the passage of HB 6 supported by Jon Husted."
+      },
+      {
+        "caseId": "pf/paul-renner/florida-ai-data-centers-tax-breaksgovernors-race",
+        "label": "Misleading",
+        "ms": 8014.986374999862,
+        "conclusion": "Jay Collins proposed a bill with safeguards, while Renner advocates for statewide incentives, and tax breaks exist for energy efficiency in data centers."
+      },
+      {
+        "caseId": "pf/republican-national-committee-republican/no-asking-people-to-voluntarily-limit-their-energy",
+        "label": "False",
+        "ms": 10004.87104099989,
+        "conclusion": "Sources contradict the claim that New York Democrats are communists, citing their democratic socialist leanings and election victories."
+      },
+      {
+        "caseId": "pf/byron-donalds/florida-data-centers-byron-donalds-governor-race",
+        "label": "True",
+        "ms": 6217.600000000093,
+        "conclusion": "Senate Bill 484 aims to shield residential and small business customers from utility rate increases related to data centers."
+      },
+      {
+        "caseId": "pf/alexander-vindman/ashley-moody-senate-hope-florida-medicaid",
+        "label": "Unverified",
+        "ms": 4604.49358400004,
+        "conclusion": "Without sources, the claim cannot be verified or refuted."
+      },
+      {
+        "caseId": "pf/united-democracy-project/el-sayed-uncommitted-michigan-2024-harris",
+        "label": "True",
+        "ms": 6372.175166000146,
+        "conclusion": "The UDP claims El-Sayed's 'uncommitted' support aided Donald Trump, aligning with Whitmer's warning."
+      },
+      {
+        "caseId": "pf/donald-trump/inflation-consumer-prices-groceries-gasoline-iran-war",
+        "label": "False",
+        "ms": 5956.392874999903,
+        "conclusion": "Sources indicate that grocery prices are currently rising, contradicting the claim that prices are coming down."
+      },
+      {
+        "caseId": "pf/abdul-el-sayed/mike-rogers-opioids-michigan-lobbying",
+        "label": "False",
+        "ms": 8200.769624999957,
+        "conclusion": "The sources contradict the claim that Mike Rogers 'architected' the opioid epidemic, suggesting he advocated for increased pain treatment, which inadvertently contributed to the crisis."
+      },
+      {
+        "caseId": "pf/mike-rogers/abdul-el-sayed-9-11-hasan-piker-michigan",
+        "label": "True",
+        "ms": 5081.751708999975,
+        "conclusion": "The source directly quotes Abdul El-Sayed as stating America deserved 9/11."
+      },
+      {
+        "caseId": "pf/seth-moulton/jeffrey-epstein-ed-markey-senate-massachusetts",
+        "label": "Unverified",
+        "ms": 8123.022624999983,
+        "conclusion": "The sources indicate Senator Markey had contact with lobbyists connected to Jeffrey Epstein, but whether he was 'part of a lobbying effort' is not definitively proven."
+      },
+      {
+        "caseId": "pf/byron-donalds/david-jolly-trans-youth-surgeries-florida-governor",
+        "label": "Unverified",
+        "ms": 4532.926375000039,
+        "conclusion": "There is no evidence to confirm or deny David Jolly's statement."
+      },
+      {
+        "caseId": "pf/donald-trump/vaccine-soda-bottle-injection-children",
+        "label": "Misleading",
+        "ms": 8584.11295900005,
+        "conclusion": "The claim aligns with Trump's statement about a large vaccine, but the context suggests he is advocating for fewer vaccines and spacing out shots."
+      },
+      {
+        "caseId": "pf/ron-johnson/covid-19-vaccine-pregnancy-miscarriage-dr-fauci",
+        "label": "Unverified",
+        "ms": 5377.030416999944,
+        "conclusion": "Without supporting evidence, the claim cannot be verified or refuted."
+      },
+      {
+        "caseId": "pf/jon-ossoff/collins-crypto-georgia-trading",
+        "label": "Misleading",
+        "ms": 8017.59866600018,
+        "conclusion": "Sources show Collins engaged in crypto transactions, but not necessarily that he is 'one of the most active' in Congress."
+      },
+      {
+        "caseId": "pf/randy-fine/mamdani-id-new-york-city-grocery-stores-save-voter",
+        "label": "True",
+        "ms": 8382.729208000004,
+        "conclusion": "Sources confirm that Mayor Mamdani does not require ID to shop at city-run grocery stores."
+      },
+      {
+        "caseId": "pf/zach-lahn/rob-sand-7500-tax-increase-iowa-governor",
+        "label": "True",
+        "ms": 7344.862458999967,
+        "conclusion": "The sources show Rob Sand intends to raise taxes by $7,500 annually, but the specifics of how this will be achieved are not detailed."
+      },
+      {
+        "caseId": "pf/byron-donalds/us-measles-illegal-immigration-mmr-vaccine-fl",
+        "label": "False",
+        "ms": 8636.251500000013,
+        "conclusion": "Sources show the speaker claims a causal link between illegal immigration and measles outbreaks, though the link is not supported by evidence."
+      },
+      {
+        "caseId": "pf/kelly-ayotte/warmington-opioid-purdue-pharma-new-hampshire",
+        "label": "True",
+        "ms": 9440.163124999963,
+        "conclusion": "Sources confirm Cinde Warmington was a Purdue Pharma lobbyist who stated OxyContin was a miracle drug."
+      },
+      {
+        "caseId": "pf/byron-donalds/fl-governor-tax-tips-social-security-income-tax",
+        "label": "True",
+        "ms": 5062.992125000106,
+        "conclusion": "The claim aligns with Byron Donalds' statement that David Jolly opposed tax relief on overtime, Social Security, and tips."
+      },
+      {
+        "caseId": "pf/jd-vance/maine-fentanyl-drug-overdoses-decline-border",
+        "label": "Misleading",
+        "ms": 6291.523500000127,
+        "conclusion": "The source indicates increased drug trafficking during the Trump administration, but doesn't directly link it to decreased overdoses in Maine."
+      },
+      {
+        "caseId": "pf/rob-sand/iowa-school-ranking-best-bottom-half",
+        "label": "True",
+        "ms": 9432.118500000099,
+        "conclusion": "Sources indicate a decline in Iowa's education ranking and quality, supporting the claim that it is now in the bottom half."
+      },
+      {
+        "caseId": "pf/roy-cooper/cooper-says-north-carolina-officials-removed-an-hbcu-early-voting-site-ahead-of-the-midterm-elections",
+        "label": "Unverified",
+        "ms": 4652.290125000058,
+        "conclusion": "Without evidence, the claim about the removal of an early-voting site is unsupported."
+      },
+      {
+        "caseId": "pf/david-jolly/ai-data-centers-florida-poll-governor-race",
+        "label": "Misleading",
+        "ms": 5927.273125000065,
+        "conclusion": "A Gallup poll indicates a majority of Americans oppose AI data centers, but it doesn't specify Florida."
+      },
+      {
+        "caseId": "pf/troy-jackson/susan-collins-maine-trump-tariffs-canada",
+        "label": "Unverified",
+        "ms": 5299.98362500011,
+        "conclusion": "There is no evidence to verify or refute the claim about Susan Collins' vote on Trump's tariffs."
+      },
+      {
+        "caseId": "pf/abdul-el-sayed/senate-candidate-abdul-el-sayed-overstates-michiganders-cost-for-trumps-tariffs",
+        "label": "Unverified",
+        "ms": 4999.785917000147,
+        "conclusion": "There is no evidence to support or refute the claim about the cost of Trump's tariffs on Michigan households."
+      },
+      {
+        "caseId": "pf/sam-altman/chatgpt-almonds-ai-california-water-useage",
+        "label": "Unverified",
+        "ms": 5234.44133400009,
+        "conclusion": "Without supporting evidence, the claim cannot be verified or refuted."
+      },
+      {
+        "caseId": "pf/ashley-hinson/josh-turek-iowa-senate-house-votes",
+        "label": "Misleading",
+        "ms": 8882.935290999943,
+        "conclusion": "Fox News provides evidence that Josh Turek missed a significant number of votes, but other sources do not corroborate this specific figure."
+      },
+      {
+        "caseId": "pf/jon-ossoff/social-security-georgia-mike-collins-retirement",
+        "label": "True",
+        "ms": 5310.754292000085,
+        "conclusion": "The source confirms Mike Collins stated he wants people to leave Social Security and Medicaid to work."
+      },
+      {
+        "caseId": "pf/republican-national-committee-republican/rnc-falsely-says-54-of-ncs-commercial-driver-licenses-were-issued-illegally-to-noncitizens",
+        "label": "True",
+        "ms": 6144.865874999901,
+        "conclusion": "The evidence suggests that over half of North Carolina's trucking licenses were issued illegally to foreign nationals, aligning with the claim's percentage."
+      },
+      {
+        "caseId": "pf/sherrod-brown/jon-husted-pushed-for-data-centers-and-tax-incentives-in-ohio-as-sherrod-brown-ads-say",
+        "label": "True",
+        "ms": 7261.165749999927,
+        "conclusion": "Sources show Jon Husted supported data centers and provided significant tax breaks, aligning with the claim."
+      },
+      {
+        "caseId": "pf/john-e-sununu/chris-pappas-raise-taxes-68-new-hampshire-senate",
+        "label": "Misleading",
+        "ms": 7249.174375000177,
+        "conclusion": "Sources show Pappas voted to raise taxes 68 times, implying consistent support for tax increases."
+      },
+      {
+        "caseId": "pf/zach-nunn/zach-nunn-said-republicans-passed-the-largest-tax-cut-in-u-s-history-this-is-mostly-false",
+        "label": "Misleading",
+        "ms": 13489.161500000162,
+        "conclusion": "Sources indicate that the 2017 tax cuts were the largest corporate tax cut since 1918, but the claim of 'largest taxes in U.S. history' is debatable and not definitively supported by all sources."
+      },
+      {
+        "caseId": "pf/robert-f-kennedy-jr/children-health-history-midterm-convention",
+        "label": "True",
+        "ms": 9936.122709000017,
+        "conclusion": "Sources support the claim that the U.S. has a high child mortality rate and concerning health issues compared to other wealthy nations."
+      },
+      {
+        "caseId": "pf/texas-pac/talarico-transgender-texas-paxton-senate",
+        "label": "Misleading",
+        "ms": 9360.024250000017,
+        "conclusion": "Sources show Talarico previously supported taxpayer funding for gender-affirming surgeries for minors, but now opposes them."
+      },
+      {
+        "caseId": "pf/abdul-el-sayed/mike-rogers-9-11-first-responders-healthcare",
+        "label": "False",
+        "ms": 7960.119959000032,
+        "conclusion": "The sources show Mike Rogers voted against healthcare for 9/11 first responders twice, not nine times."
+      },
+      {
+        "caseId": "pf/club-growth-action/kathy-castor-insider-trading",
+        "label": "Unverified",
+        "ms": 8005.304999999935,
+        "conclusion": "The sources confirm the existence of a law (STOCK Act) designed to prevent insider trading by Congress members, but do not specify if Rep. Castor violated it repeatedly."
+      },
+      {
+        "caseId": "pf/chris-pappas/sununu-social-security-privatization-new-hampshire",
+        "label": "True",
+        "ms": 4831.517832999816,
+        "conclusion": "Chris Pappas claims John Sununu previously supported privatizing Social Security."
+      },
+      {
+        "caseId": "pf/senate-leadership-fund/no-ohio-senate-candidate-sherrod-brown-does-not-support-forcing-childhood-sex-change-surgery",
+        "label": "False",
+        "ms": 5340.078082999913,
+        "conclusion": "The Senate Leadership Fund claims Sherrod Brown supports forcing childhood sex change surgery."
+      },
+      {
+        "caseId": "pf/sherrod-brown/jon-husted-health-insurance-490000-ohio-senate",
+        "label": "Misleading",
+        "ms": 8445.055500000017,
+        "conclusion": "The sources show Husted voted for healthcare funding cuts that will result in 490,000 Ohioans losing coverage, but also show he voted to increase premiums."
+      },
+      {
+        "caseId": "pf/amy-acton/ramaswamy-alzheimers-drug-intepirdine-ohio",
+        "label": "Misleading",
+        "ms": 7119.521500000032,
+        "conclusion": "The source indicates Vivek Ramaswamy was associated with a company promoting a questionable Alzheimer's drug, but doesn't explicitly state he knew it didn't work."
+      },
+      {
+        "caseId": "pf/donald-trump/fact-check-where-was-cooper-when-hurricane-helene-hit-nc",
+        "label": "Unverified",
+        "ms": 5612.054459000006,
+        "conclusion": "There is no evidence to confirm or deny the claim about Roy Cooper's location during Hurricane Helene."
+      },
+      {
+        "caseId": "pf/donald-trump/united-nations-artificial-intelligence-hoax-russia",
+        "label": "Misleading",
+        "ms": 10630.131833000109,
+        "conclusion": "Sources show Trump equates AI concerns to past warnings he dismissed as hoaxes, implying a pattern of unfounded alarmism."
+      },
+      {
+        "caseId": "pf/senate-leadership-fund/fact-checking-gop-ad-in-iowa-senate-race-does-josh-turek-support-amnesty-for-immigrants",
+        "label": "Unverified",
+        "ms": 5460.541165999835,
+        "conclusion": "There is no evidence to confirm or deny that Josh Turek supports amnesty for undocumented immigrants."
+      },
+      {
+        "caseId": "pf/mike-rogers/mostly-false-mike-rogers-says-abdul-el-sayed-supports-defunding-police-and-emptying-prisons",
+        "label": "Misleading",
+        "ms": 9257.092792000156,
+        "conclusion": "Sources show El-Sayed has nuanced views on defunding police, but the claim implies current support for defunding police and emptying prisons."
+      },
+      {
+        "caseId": "pf/mike-rogers/abdul-el-sayed-temple-israel-condemn",
+        "label": "True",
+        "ms": 5569.284083000151,
+        "conclusion": "The sources show Abdul El-Sayed did condemn the attack on Temple Israel."
+      },
+      {
+        "caseId": "pf/winsenate/susan-collins-jeffrey-epstein-files-pac-donor",
+        "label": "True",
+        "ms": 5077.5797500000335,
+        "conclusion": "The source confirms Sen. Collins accepted campaign donations from individuals associated with Jeffrey Epstein."
+      },
+      {
+        "caseId": "pf/winsenate/ashley-hinson-votes-epstein-files",
+        "label": "Unverified",
+        "ms": 4905.287375000073,
+        "conclusion": "There is no evidence to support or refute the claim that Rep. Ashley Hinson voted against releasing the Jeffrey Epstein files."
+      },
+      {
+        "caseId": "pf/byron-donalds/florida-governor-offshore-oil-drilling-lobbying",
+        "label": "True",
+        "ms": 8518.930250000209,
+        "conclusion": "Sources indicate David Jolly did lobby Congress for expanded drilling shortly after the Deepwater Horizon oil spill, aligning with the claim's timeframe."
+      },
+      {
+        "caseId": "pf/senate-leadership-fund/sherrod-brown-soren-aldaco-transition-ohio-texas",
+        "label": "Unverified",
+        "ms": 5146.608207999961,
+        "conclusion": "There is no evidence to support the claim that Sherrod Brown supports sex changes for minors."
+      },
+      {
+        "caseId": "pf/donald-trump/iran-war-four-six-weeks-nuclear-timeline-midterms",
+        "label": "True",
+        "ms": 6225.975749999983,
+        "conclusion": "The source supports Trump's claim that he stated a 4-6 week timeframe for eliminating the Iran nuclear threat."
+      },
+      {
+        "caseId": "pf/markwayne-mullin/trump-wealth-financial-gain-crypto",
+        "label": "False",
+        "ms": 10124.903541999869,
+        "conclusion": "Sources show Trump's financial gains are substantial, contradicting the claim that he has financially lost from being in office."
+      },
+      {
+        "caseId": "pf/senate-leadership-fund/new-hampshire-senate-amazon-lobbyist-vann-bentley",
+        "label": "Misleading",
+        "ms": 10791.175541999983,
+        "conclusion": "Sources indicate Chris Pappas admitted to a relationship with an Amazon lobbyist and voted on bills the lobbyist supported, but the claim of knowing misrepresentation is disputed."
+      },
+      {
+        "caseId": "pf/donald-trump/james-talarico-texas-paxton-vegan-meat-vomit",
+        "label": "False",
+        "ms": 4917.740708000027,
+        "conclusion": "Sources show the claim about James Talarico being a vegan is false."
+      },
+      {
+        "caseId": "pf/mariannette-miller-meeks/iowa-house-individual-stock-holdings",
+        "label": "True",
+        "ms": 5566.040874999948,
+        "conclusion": "The source directly supports Miller-Meeks' claim of not owning individual stocks."
+      },
+      {
+        "caseId": "pf/angie-nixon/cubans-deportation-immigration-trump-nixon",
+        "label": "Misleading",
+        "ms": 13129.663625000045,
+        "conclusion": "Sources indicate that the Trump administration deported nearly 13,000 Cubans, but the claim's phrasing about 'since he has been in office, his first term and his second term' is misleading."
+      },
+      {
+        "caseId": "pf/donald-trump/no-brazils-fast-vote-counting-is-not-proof-of-us-election-cheating-despite-trumps-claim",
+        "label": "Unverified",
+        "ms": 5669.638000000268,
+        "conclusion": "There is no evidence to support the claim that Brazil's election results prove Detroit, Philadelphia, and California elections are rigged."
+      },
+      {
+        "caseId": "pf/ashley-moody/moodys-fl-diner-ad-mischaracterizes-nixons-position-on-obbba-as-support-for-4-trillion-tax-hike",
+        "label": "Unverified",
+        "ms": 6303.557624999899,
+        "conclusion": "There is no evidence to support or refute the claim about Angie Nixon's stance on a $4 trillion tax hike."
+      },
+      {
+        "caseId": "pf/james-talarico/ken-paxton-puppy-abusers-vote-texas-research",
+        "label": "Unverified",
+        "ms": 4500.257125000004,
+        "conclusion": "There is no evidence to support or refute the claim that Ken Paxton voted \"to protect puppy abusers.\""
+      },
+      {
+        "caseId": "pf/chris-pappas/john-sununu-pharma-lobbying-new-hampshire-senate",
+        "label": "Unverified",
+        "ms": 7141.999749999959,
+        "conclusion": "Sources indicate Sununu's net worth increased by up to $35 million, but do not specify the source of the increase."
+      },
+      {
+        "caseId": "pf/mike-collins/collins-ossoff-abortion-georgia-roevwade",
+        "label": "False",
+        "ms": 8435.720625000075,
+        "conclusion": "The evidence shows Ossoff opposes abortion, contradicting Mike Collins' claim that he is 'all for abortion up until and past birth.'"
+      },
+      {
+        "caseId": "pf/roger-marshall/adam-hamilton-kansas-beef-climate-change-cows",
+        "label": "Misleading",
+        "ms": 7755.259249999654,
+        "conclusion": "Sources show Hamilton has criticized beef consumption and the beef industry, but not explicitly stated a desire to 'shut it down'."
+      },
+      {
+        "caseId": "pf/jd-vance/biden-gasoline-prices-refineries-cbs-town-hall",
+        "label": "Unverified",
+        "ms": 5628.955833000131,
+        "conclusion": "Without sources, it's impossible to determine if the claim about refining capacity under Biden's presidency is accurate or directly linked to current gas prices."
+      },
+      {
+        "caseId": "pf/mike-rogers/el-sayed-muslim-brotherhood-michigan-senate",
+        "label": "Unverified",
+        "ms": 5362.471958000213,
+        "conclusion": "There is no evidence to confirm or deny the claim that Abdul El-Sayed 'didn’t disavow' the Muslim Brotherhood."
+      },
+      {
+        "caseId": "pf/winsenate/ashley-hinson-8-million-richer-iowa-senate",
+        "label": "Misleading",
+        "ms": 7607.612833000254,
+        "conclusion": "The source indicates Ashley Hinson's wealth includes at least $1 million from financial activities, but does not state her total earnings over five years."
+      },
+      {
+        "caseId": "pf/david-jolly/donalds-fl-governor-midterms-jim-crow-black-family",
+        "label": "Misleading",
+        "ms": 9838.223166000098,
+        "conclusion": "Sources show Byron Donalds made a controversial statement about Jim Crow, which has been disputed."
+      },
+      {
+        "caseId": "pf/josh-stein/fact-checking-steins-claims-about-mail-in-ballot-rejections-in-north-carolina",
+        "label": "Unverified",
+        "ms": 4993.906875000335,
+        "conclusion": "There is no evidence to support or refute the claim about ballot rejections."
+      }
+    ],
+    [
+      {
+        "caseId": "pf/common-cause/yes-wisconsin-makes-it-harder-to-vote-than-most-ot",
+        "label": "True",
+        "ms": 8396.262666000053,
+        "conclusion": "Sources indicate Wisconsin has made voting more difficult, ranking among the least accessible states."
+      },
+      {
+        "caseId": "pf/robin-vos/wisconsin-republicans-say-voter-id-laws-are-suppor",
+        "label": "Unverified",
+        "ms": 4748.881416999735,
+        "conclusion": "There is no evidence to support the claim that voter ID is supported by 70-80% of the public."
+      },
+      {
+        "caseId": "pf/cavalier-johnson/mps-does-indeed-have-a-larger-tax-levy-than-the-ci",
+        "label": "Misleading",
+        "ms": 10827.96691699978,
+        "conclusion": "The referendum increased MPS's tax levy to $252 million, which is larger than the City of Milwaukee's tax levy, but the city's levy amount is not provided."
+      },
+      {
+        "caseId": "pf/susan-crawford/candidate-right-that-wisconsin-does-not-require-ju",
+        "label": "Misleading",
+        "ms": 8958.245749999769,
+        "conclusion": "Wisconsin's recusal rules require recusal in certain situations, not automatically based solely on past legal work."
+      },
+      {
+        "caseId": "pf/joel-kitchens/do-90-of-wisconsin-school-districts-ban-cellphones",
+        "label": "True",
+        "ms": 8152.4313749996945,
+        "conclusion": "Sources indicate that approximately 90% of Wisconsin school districts already have policies restricting cellphone use in classrooms."
+      },
+      {
+        "caseId": "pf/donald-trump/fact-checking-trumps-statement-about-declining-egg",
+        "label": "False",
+        "ms": 5182.029291999992,
+        "conclusion": "The claim that egg prices dropped 50% is inaccurate, as the source indicates the opposite was true."
+      },
+      {
+        "caseId": "pf/brian-tyler-cohen/claim-about-trump-rejecting-helene-relief-for-nort",
+        "label": "Unverified",
+        "ms": 4732.796374999918,
+        "conclusion": "Without sources, it's impossible to determine if Trump denied the request."
+      },
+      {
+        "caseId": "pf/moms-demand-action-gun-sense-america/firearm-related-deaths-are-no-1-killer-of-college",
+        "label": "Misleading",
+        "ms": 7643.570208000019,
+        "conclusion": "Sources indicate firearms are a leading cause of death for college-aged people, but one source focuses on intimate partner violence, not overall college-aged deaths."
+      },
+      {
+        "caseId": "pf/charles-blow/china-toys-christmas-goods-trump-tariffs",
+        "label": "True",
+        "ms": 8663.933875000104,
+        "conclusion": "Sources indicate that China is a dominant supplier of toys and Christmas goods to the U.S."
+      },
+      {
+        "caseId": "pf/bernie-sanders/medicaid-cut-house-republicans-trump",
+        "label": "Misleading",
+        "ms": 7805.24445799971,
+        "conclusion": "The bill contains significant Medicaid cuts that could negatively impact healthcare access and costs for millions of Americans."
+      },
+      {
+        "caseId": "pf/us-energy-department/gas-prices-memorial-day-20-year-low",
+        "label": "False",
+        "ms": 8867.529875000007,
+        "conclusion": "Sources indicate gasoline prices are low, but not at a 20-year low, and the claim about a 14% drop from last year is not supported."
+      },
+      {
+        "caseId": "pf/john-thune/thune-says-health-care-often-comes-with-a-job-the",
+        "label": "Unverified",
+        "ms": 4555.95341600012,
+        "conclusion": "Without evidence, the claim cannot be verified or refuted; it remains unsupported."
+      },
+      {
+        "caseId": "pf/american-action-network/reconciliation-bill-tax-cut-social-security",
+        "label": "Unverified",
+        "ms": 4971.3279579998925,
+        "conclusion": "There is no evidence to verify or refute the claim about a tax cut for Social Security recipients from the Republican tax and spending bill."
+      },
+      {
+        "caseId": "pf/francesca-hong/es-about-a-quarter-of-every-dollar-spent-via-snap",
+        "label": "True",
+        "ms": 9797.332291999832,
+        "conclusion": "Sources indicate that a significant portion of SNAP spending supports farmers and ranchers, though the exact percentage varies depending on how it's measured."
+      },
+      {
+        "caseId": "pf/elizabeth-warren/elizabeth-warren-one-big-beautiful-bill-meta-taxes",
+        "label": "Unverified",
+        "ms": 6028.543583000079,
+        "conclusion": "Without sources, it's impossible to determine if the claim is accurate."
+      },
+      {
+        "caseId": "pf/hakeem-jeffries/permanent-tax-breaks-billionaires-temporary",
+        "label": "Misleading",
+        "ms": 7143.368500000332,
+        "conclusion": "The claim is accurate regarding the expiration of certain tax provisions under the Trump tax law, but it's an oversimplification of the law's complexities."
+      },
+      {
+        "caseId": "pf/gavin-newsom/is-newsom-right-that-florida-is-worst-for-mental-h",
+        "label": "Unverified",
+        "ms": 8223.302041999996,
+        "conclusion": "The claim asserts rankings for Florida's healthcare, insurance, and fraud, but the provided sources do not support or refute these specific rankings."
+      },
+      {
+        "caseId": "pf/ritchie-torres/dollar-decline-currency-foreign-exchange",
+        "label": "False",
+        "ms": 9108.564416999929,
+        "conclusion": "Sources indicate the dollar has decreased by approximately 10% since Donald Trump's inauguration, not 11%."
+      },
+      {
+        "caseId": "pf/us-trade-representative/ice-cream-trade-imports-exports-biden-trump",
+        "label": "False",
+        "ms": 9288.181625000201,
+        "conclusion": "The evidence indicates the claim about a trade surplus in ice cream in 2020 under Trump is false because trade gaps soared during his presidency."
+      },
+      {
+        "caseId": "pf/donald-trump/trump-cites-60-million-in-us-food-aid-to-gaza-but",
+        "label": "True",
+        "ms": 6303.257625000086,
+        "conclusion": "Sources confirm the US government provided $60 million for food aid to Gaza approximately two weeks prior to the statement."
+      },
+      {
+        "caseId": "pf/americans-prosperity/did-wisconsin-governors-did-evers-400-year-veto-lo",
+        "label": "True",
+        "ms": 9908.91945799999,
+        "conclusion": "Sources indicate a court ruling cemented a 400-year property tax levy limit increase for school districts due to Governor Evers' actions."
+      },
+      {
+        "caseId": "pf/robert-ortt/ortts-claim-about-rising-crime-needs-context",
+        "label": "Misleading",
+        "ms": 7476.910416999832,
+        "conclusion": "Sources present conflicting information; one suggests subway crime isn't statistically significant, while the other criticizes a policy decision."
+      },
+      {
+        "caseId": "pf/ken-martin/texas-illinois-flood-redistricting-hearings",
+        "label": "True",
+        "ms": 9921.747917000204,
+        "conclusion": "Sources indicate Texas Republicans held eight hearings on redistricting and one on flood response during the legislative session."
+      },
+      {
+        "caseId": "pf/gavin-newsom/california-texas-independent-redistricting",
+        "label": "Misleading",
+        "ms": 5766.908208000008,
+        "conclusion": "Democrats held fewer legislative trifectas than Republicans at the start of the redistricting cycle."
+      },
+      {
+        "caseId": "pf/kristi-noem/immigrant-population-drop-1-6-million",
+        "label": "True",
+        "ms": 6148.223166999873,
+        "conclusion": "The DHS source supports the claim that 1.6 million illegal aliens have voluntarily left the U.S."
+      },
+      {
+        "caseId": "pf/donald-trump/prices-energy-groceries-gasoline-inflation",
+        "label": "Unverified",
+        "ms": 5593.3656249996275,
+        "conclusion": "Without supporting evidence, the claim about decreased prices is unsupported."
+      },
+      {
+        "caseId": "pf/donald-trump/wage-increase-500-dollars-2025-workers",
+        "label": "False",
+        "ms": 11140.46016599983,
+        "conclusion": "Sources show wage growth varied significantly across different periods, but no source supports a $500 wage increase for the average American worker this year."
+      },
+      {
+        "caseId": "pf/chris-murphy/minneapolis-mass-shooting-school-2022-law",
+        "label": "Misleading",
+        "ms": 11023.63425000012,
+        "conclusion": "Sources indicate that mass shootings decreased after a similar law expired in 2004, but the 2022 law's impact is not definitively proven to have caused a drop."
+      },
+      {
+        "caseId": "pf/katherine-clark/aca-enhanced-subsidies-renewal-government-shutdown",
+        "label": "True",
+        "ms": 5261.979500000365,
+        "conclusion": "The source supports the claim that Republicans' actions will raise health insurance premiums if subsidies expire."
+      },
+      {
+        "caseId": "pf/amy-klobuchar/expiring-aca-subsidies-rural-areas-double",
+        "label": "Misleading",
+        "ms": 11003.074416999705,
+        "conclusion": "Sources indicate a substantial premium increase for ACA subscribers if subsidies aren't extended, with some suggesting a 75% average increase and disproportionate impact on rural areas."
+      },
+      {
+        "caseId": "pf/dan-koh/congress-gets-paid-during-a-government-shutdown-bu",
+        "label": "True",
+        "ms": 5587.4086250001565,
+        "conclusion": "The Constitution does indeed guarantee continued pay for members of Congress during a government shutdown, contrasting with the situation of essential workers like janitors."
+      },
+      {
+        "caseId": "pf/james-clyburn/trump-wic-budget-proposal-shutdown-food",
+        "label": "True",
+        "ms": 6739.47887500003,
+        "conclusion": "Sources confirm that Trump's FY26 budget proposed a $300 million decrease for the WIC program."
+      },
+      {
+        "caseId": "pf/darren-soto/florida-aca-cost-increase-uninsured-highest",
+        "label": "True",
+        "ms": 6759.146958000027,
+        "conclusion": "Sources indicate Florida will experience the most significant negative impact nationally if enhanced ACA subsidies expire."
+      },
+      {
+        "caseId": "pf/ron-desantis/desantis-property-tax-homestead-snowbirds-airbnbs",
+        "label": "False",
+        "ms": 6454.571958000306,
+        "conclusion": "The claim is unsupported by the provided source, which indicates second homes are treated as rentals for tax purposes."
+      },
+      {
+        "caseId": "pf/rand-paul/venezuela-drug-boats-coast-guard-florida",
+        "label": "Unverified",
+        "ms": 8726.65537500009,
+        "conclusion": "The sources do not provide a definitive rate of drug-free ship boardings, so the claim cannot be verified."
+      },
+      {
+        "caseId": "pf/scott-bessent/overall-inflation-decline-trump",
+        "label": "Unverified",
+        "ms": 4681.61641599983,
+        "conclusion": "Without supporting evidence, the claim cannot be verified."
+      },
+      {
+        "caseId": "pf/elise-stefanik/hochul-has-extended-higher-taxes-on-wealthy-indivi",
+        "label": "Unverified",
+        "ms": 7096.196917000227,
+        "conclusion": "Sources present conflicting information; Stefanik claims tax increases, while Hochul denies raising taxes."
+      },
+      {
+        "caseId": "pf/donald-trump/health-insurance-company-stock-price-1000-percent",
+        "label": "Misleading",
+        "ms": 9026.158958000131,
+        "conclusion": "While stock prices have increased significantly since 2010, the claim's timeframe of 'short period of time' is not supported by the provided evidence."
+      },
+      {
+        "caseId": "pf/pam-bondi/doj-minnesota-fraud-trump-biden-somalis",
+        "label": "True",
+        "ms": 5631.388375000097,
+        "conclusion": "Pam Bondi claims the Justice Department has been investigating fraud in Minnesota for months, resulting in 98 charges."
+      },
+      {
+        "caseId": "pf/josh-riley/investor-owned-single-family-homes-us",
+        "label": "Misleading",
+        "ms": 10319.480334000196,
+        "conclusion": "Sources indicate investors purchased a substantial portion of homes in 2025, but the exact percentage for the first quarter is not directly supported."
+      },
+      {
+        "caseId": "pf/mark-warner/ice-training-requirements-trump-minneapolis",
+        "label": "True",
+        "ms": 6757.966250000056,
+        "conclusion": "Sources indicate ICE agent training was shortened to 47 days due to a specific bill."
+      },
+      {
+        "caseId": "pf/claudia-tenney/chips-science-act-micron-semiconductor-new-york",
+        "label": "True",
+        "ms": 7646.570584000088,
+        "conclusion": "Sources indicate Claudia Tenney has been involved in efforts to attract Micron to build a facility near Syracuse."
+      },
+      {
+        "caseId": "pf/tom-omara/new-york-electricity-rates-utilities",
+        "label": "Unverified",
+        "ms": 4557.359833000228,
+        "conclusion": "Without sources, the claim cannot be verified or refuted."
+      },
+      {
+        "caseId": "pf/donald-trump/trump-says-the-us-leads-china-by-a-lot-in-ai-exper",
+        "label": "False",
+        "ms": 10594.322916999925,
+        "conclusion": "Sources indicate China is actively pursuing AI leadership and is rapidly catching up to, or even surpassing, the U.S. in certain areas."
+      },
+      {
+        "caseId": "pf/jared-moskowitz/fema-disaster-declaration-backlog-trump",
+        "label": "Unverified",
+        "ms": 9777.920708999969,
+        "conclusion": "Sources indicate a significant backlog of disaster assistance applications at FEMA, though the claim of 'largest in its history' is not definitively supported."
+      },
+      {
+        "caseId": "pf/donald-trump/factory-manufacturing-construction-record-high",
+        "label": "Unverified",
+        "ms": 4452.621584000066,
+        "conclusion": "Without supporting evidence, the claim cannot be verified."
+      },
+      {
+        "caseId": "pf/blake-gendebien/milk-prices-consumers-inflation-gallon-1980s",
+        "label": "Misleading",
+        "ms": 8832.320916999597,
+        "conclusion": "Current milk prices are lower than they were in the 1980s, according to the provided data."
+      },
+      {
+        "caseId": "pf/gretchen-whitmer/michigan-poverty-decline-affordability",
+        "label": "Unverified",
+        "ms": 8124.35020800028,
+        "conclusion": "The provided sources do not offer direct evidence to support or refute the claim about fewer families living in poverty under Gov. Whitmer compared to her predecessor."
+      },
+      {
+        "caseId": "pf/donald-trump/murder-crime-rate-lowest-125-years-fbi",
+        "label": "Unverified",
+        "ms": 4169.4917920003645,
+        "conclusion": "Without supporting evidence, the claim cannot be verified."
+      },
+      {
+        "caseId": "pf/marcus-molinaro/new-york-population-loss-lead-nation",
+        "label": "True",
+        "ms": 10501.322916999925,
+        "conclusion": "Sources indicate New York has experienced significant population decline, leading the nation in population loss in 2020 and projecting further decline."
+      },
+      {
+        "caseId": "pf/abigail-spanberger/trump-tariff-cost-families-1700",
+        "label": "Misleading",
+        "ms": 8381.175665999763,
+        "conclusion": "Sources indicate that Trump's proposed tariff policies would cost American families approximately $1,500-$1,700 annually."
+      },
+      {
+        "caseId": "pf/james-fishback/ai-data-centers-energy-water-florida-governor",
+        "label": "Unverified",
+        "ms": 6309.953791999724,
+        "conclusion": "The source does not provide evidence to support or refute the claims about electric bills and water consumption of AI data centers."
+      },
+      {
+        "caseId": "pf/chris-murphy/airstrikes-regime-change-ground-troops-iran",
+        "label": "True",
+        "ms": 6803.883707999717,
+        "conclusion": "The speaker claims no historical examples exist where air campaigns alone successfully brought about positive regime change in the US."
+      },
+      {
+        "caseId": "pf/elizabeth-warren/trump-military-strikes-iran-venezuela",
+        "label": "True",
+        "ms": 10160.662000000011,
+        "conclusion": "Sources indicate Donald Trump ordered a significant number of military strikes against many countries, potentially more than any other president in modern history."
+      },
+      {
+        "caseId": "pf/sam-sutton/hate-crimes-new-york-city-houses-worship",
+        "label": "False",
+        "ms": 11849.001792000141,
+        "conclusion": "The claim of a 152% increase in hate crimes in NYC from January 2025 to January 2026 is not supported by available data; the NYPD reported an increase, but January 2026 was not a high month for antisemitic hate crimes."
+      },
+      {
+        "caseId": "pf/chris-wright/us-iran-crude-oil-net-exporter-gas-prices",
+        "label": "True",
+        "ms": 6451.015916999895,
+        "conclusion": "The U.S. produces more oil than its refineries currently need, leading to net oil exports."
+      },
+      {
+        "caseId": "pf/charles-schumer/voter-registration-save-america-act-in-person",
+        "label": "Misleading",
+        "ms": 8003.045291000046,
+        "conclusion": "The sources do not confirm that the SAVE America Act would restrict voter registration to in-person methods."
+      },
+      {
+        "caseId": "pf/mark-kelly/reregister-vote-elections-save-america-act",
+        "label": "Misleading",
+        "ms": 10723.04012500029,
+        "conclusion": "The SAVE America Act requires citizenship proof and photo ID for voter registration, potentially impacting access for some citizens."
+      },
+      {
+        "caseId": "pf/tammy-duckworth/save-america-act-voter-id-drivers-licenses-real-id",
+        "label": "Misleading",
+        "ms": 9696.216791999992,
+        "conclusion": "The claim aligns with the statement that millions of Americans lack the specific ID required by the SAVE Act, but the exact percentage is not definitively established."
+      },
+      {
+        "caseId": "pf/seth-moulton/trump-bomb-civilian-infrastructure-war-crime",
+        "label": "True",
+        "ms": 11168.141834000126,
+        "conclusion": "Multiple sources indicate that bombing civilian power infrastructure *can* be a war crime, depending on the context and military objective."
+      },
+      {
+        "caseId": "pf/donald-trump/more-americans-working-today-employment",
+        "label": "True",
+        "ms": 5220.202958000358,
+        "conclusion": "The claim aligns with the data presented by the Trump White House Archives regarding employment during his administration."
+      },
+      {
+        "caseId": "pf/nicholas-langworthy/tax-refunds-11-percent-reduction-irs",
+        "label": "True",
+        "ms": 10984.361624999903,
+        "conclusion": "Sources indicate the average IRS tax refund increased by approximately 11% compared to the same period last year."
+      },
+      {
+        "caseId": "pf/democratic-national-committee/trump-defense-budget-ww2",
+        "label": "True",
+        "ms": 14579.2576659997,
+        "conclusion": "Sources confirm President Trump proposed a $1.5 trillion military budget for 2027."
+      },
+      {
+        "caseId": "pf/brandon-gill/dignity-act-amnesty-florida-immigrants-citizenship",
+        "label": "Misleading",
+        "ms": 5369.6990419998765,
+        "conclusion": "The Dignity Act provides legal status, but not citizenship, which is a specific aspect of amnesty."
+      },
+      {
+        "caseId": "pf/byron-donalds/iran-blockade-trump-strait-hormuz-barbary",
+        "label": "Unverified",
+        "ms": 5743.121625000145,
+        "conclusion": "There is no evidence to support the claim that the U.S. Navy was created solely to free international waters from Barbary pirates."
+      },
+      {
+        "caseId": "pf/restoration-of-america/save-america-act-voter-id-citizenship-poll",
+        "label": "True",
+        "ms": 6821.235541999806,
+        "conclusion": "Sources show 84% of U.S. adults support photo ID, aligning with the implied comparison to other nations."
+      },
+      {
+        "caseId": "pf/chris-wright/wind-solar-energy-oil-strait-hormuz-iran",
+        "label": "False",
+        "ms": 11691.667124999687,
+        "conclusion": "Sources indicate that solar and wind energy currently account for approximately 3% of global primary energy, contradicting the claim."
+      },
+      {
+        "caseId": "pf/robert-f-kennedy-jr/percentage-decreases-drug-prices-trump-math",
+        "label": "False",
+        "ms": 9715.149375000037,
+        "conclusion": "The claim that a $600 drug reducing to $10 is a 600% reduction is factually incorrect; it's a 98.33% reduction."
+      },
+      {
+        "caseId": "pf/donald-trump/oil-united-states-russia-saudi-arabia-hormuz-iran",
+        "label": "True",
+        "ms": 7399.554208999965,
+        "conclusion": "The US currently produces more oil than Saudi Arabia and Russia combined, according to multiple sources."
+      },
+      {
+        "caseId": "pf/pine-tree-results-pac/graham-platner-collins-maine-reddit-rape-senate",
+        "label": "Unverified",
+        "ms": 6179.36737500038,
+        "conclusion": "There is no evidence to support or refute the claim that Graham Platner blames Maine’s women for getting raped due to intoxication."
+      },
+      {
+        "caseId": "pf/ron-desantis/florida-redistricting-republican-democrat-majority",
+        "label": "True",
+        "ms": 12428.64616600005,
+        "conclusion": "Multiple sources confirm DeSantis's statement about Florida's shift in political advantage since the 2020 census."
+      },
+      {
+        "caseId": "pf/kathy-castor/kid-care-florida-desantis-health-insurance",
+        "label": "Unverified",
+        "ms": 5115.761167000048,
+        "conclusion": "Without sources, the claim cannot be verified or refuted."
+      },
+      {
+        "caseId": "pf/marcy-kaptur/white-house-trump-ballroom-east-wing-1-billion",
+        "label": "True",
+        "ms": 8277.175500000361,
+        "conclusion": "Sources confirm Republicans are proposing $1 billion for White House security upgrades, which include a ballroom."
+      },
+      {
+        "caseId": "pf/marco-rubio/cuba-us-oil-blockade-blackout-castro",
+        "label": "Misleading",
+        "ms": 10634.167541999836,
+        "conclusion": "Sources show Rubio denies the US oil blockade is the cause of Cuba's electricity problems, citing mismanagement instead."
+      },
+      {
+        "caseId": "pf/james-talarico/ken-paxton-adam-hoffman-plea-deal-texas-senate",
+        "label": "Misleading",
+        "ms": 10769.27083299961,
+        "conclusion": "Sources confirm Hoffman's abuse allegations and Paxton's office faced criticism for a plea deal, but do not definitively state Paxton 'let Hoffman off the hook'."
+      },
+      {
+        "caseId": "pf/mallory-mcmorrow/michigan-us-senate-soar-fund-jobs",
+        "label": "Misleading",
+        "ms": 15257.13291699998,
+        "conclusion": "The claim is partially false; while some jobs were created in 2025, the overall claim of zero jobs created since 2019 is not entirely accurate, and the statement about zero jobs is misleading."
+      },
+      {
+        "caseId": "pf/move-indigo/yes-new-yorkers-with-second-homes-in-the-empire-st",
+        "label": "True",
+        "ms": 6340.304874999914,
+        "conclusion": "Sources agree that New York state law permits voters with dual residences to select their preferred voting address."
+      },
+      {
+        "caseId": "pf/graham-platner/susan-collins-trump-vote-maine-senate-election",
+        "label": "Unverified",
+        "ms": 5337.761582999956,
+        "conclusion": "There is no evidence to support the claim that Sen. Susan Collins votes with Donald Trump 95% of the time."
+      },
+      {
+        "caseId": "pf/david-jolly/david-jolly-florida-hospital-cost-governor-race",
+        "label": "True",
+        "ms": 4785.470833000261,
+        "conclusion": "The source explicitly states Florida's 49th ranking in avoidable hospital costs."
+      },
+      {
+        "caseId": "pf/bernie-sanders/elon-musk-social-security-taxes-spacex",
+        "label": "Unverified",
+        "ms": 5409.732917000074,
+        "conclusion": "Without supporting evidence, the claim's factual accuracy cannot be determined."
+      },
+      {
+        "caseId": "pf/susan-collins/maine-senate-abortion-supreme-court-kavanaugh",
+        "label": "False",
+        "ms": 8979.694416000042,
+        "conclusion": "The sources contradict the claim, indicating Maine did not expand its abortion law after the Supreme Court ruling."
+      },
+      {
+        "caseId": "pf/abdul-el-sayed/mike-rogers-14-million-pharma-lobbyist-michigan",
+        "label": "Unverified",
+        "ms": 4472.370166999754,
+        "conclusion": "There is no evidence to confirm or deny Mike Rogers' alleged payout as a pharma lobbyist."
+      },
+      {
+        "caseId": "pf/josh-hokit/josh-hokit-ufc-white-house-michelle-obama",
+        "label": "False",
+        "ms": 4530.188000000082,
+        "conclusion": "Without evidence, the claim that Michelle Obama is a man is demonstrably false."
+      },
+      {
+        "caseId": "pf/jon-ossoff/did-mike-collins-help-double-health-insurance-prem",
+        "label": "True",
+        "ms": 7048.515124999918,
+        "conclusion": "The source confirms Ossoff stated Trump and Collins doubled premiums for over a million Georgians and removed 300,000 from insurance."
+      },
+      {
+        "caseId": "pf/donald-trump/transgender-sports-supreme-court-ruling-title-ix",
+        "label": "True",
+        "ms": 9647.85083300015,
+        "conclusion": "The Supreme Court ruled that states can exclude transgender athletes from women's sports."
+      },
+      {
+        "caseId": "pf/sherrod-brown/sherrod-brown-blames-hb-6-for-electric-bill-spike-experts-say-the-law-wasnt-the-main-cause",
+        "label": "True",
+        "ms": 7091.992874999996,
+        "conclusion": "Sources show a $663 annual increase in residential utility rates in Ohio since 2019, coinciding with the passage of HB 6 supported by Jon Husted."
+      },
+      {
+        "caseId": "pf/paul-renner/florida-ai-data-centers-tax-breaksgovernors-race",
+        "label": "Misleading",
+        "ms": 8233.743290999904,
+        "conclusion": "Jay Collins proposed a bill with safeguards, while Renner advocates for statewide incentives, and tax breaks exist for energy efficiency in data centers."
+      },
+      {
+        "caseId": "pf/republican-national-committee-republican/no-asking-people-to-voluntarily-limit-their-energy",
+        "label": "False",
+        "ms": 10157.634083000012,
+        "conclusion": "Sources contradict the claim that New York Democrats are communists, citing their democratic socialist leanings and election victories."
+      },
+      {
+        "caseId": "pf/byron-donalds/florida-data-centers-byron-donalds-governor-race",
+        "label": "True",
+        "ms": 6310.633833999746,
+        "conclusion": "Senate Bill 484 aims to shield residential and small business customers from utility rate increases related to data centers."
+      },
+      {
+        "caseId": "pf/alexander-vindman/ashley-moody-senate-hope-florida-medicaid",
+        "label": "Unverified",
+        "ms": 4653.940249999985,
+        "conclusion": "Without sources, the claim cannot be verified or refuted."
+      },
+      {
+        "caseId": "pf/united-democracy-project/el-sayed-uncommitted-michigan-2024-harris",
+        "label": "True",
+        "ms": 6544.009333000053,
+        "conclusion": "The UDP claims El-Sayed's 'uncommitted' support aided Donald Trump, aligning with Whitmer's warning."
+      },
+      {
+        "caseId": "pf/donald-trump/inflation-consumer-prices-groceries-gasoline-iran-war",
+        "label": "False",
+        "ms": 6130.456332999747,
+        "conclusion": "Sources indicate that grocery prices are currently rising, contradicting the claim that prices are coming down."
+      },
+      {
+        "caseId": "pf/abdul-el-sayed/mike-rogers-opioids-michigan-lobbying",
+        "label": "False",
+        "ms": 8540.597333000042,
+        "conclusion": "The sources contradict the claim that Mike Rogers 'architected' the opioid epidemic, suggesting he advocated for increased pain treatment, which inadvertently contributed to the crisis."
+      },
+      {
+        "caseId": "pf/mike-rogers/abdul-el-sayed-9-11-hasan-piker-michigan",
+        "label": "True",
+        "ms": 5149.601290999912,
+        "conclusion": "The source directly quotes Abdul El-Sayed as stating America deserved 9/11."
+      },
+      {
+        "caseId": "pf/seth-moulton/jeffrey-epstein-ed-markey-senate-massachusetts",
+        "label": "Unverified",
+        "ms": 8364.484375,
+        "conclusion": "The sources indicate Senator Markey had contact with lobbyists connected to Jeffrey Epstein, but whether he was 'part of a lobbying effort' is not definitively proven."
+      },
+      {
+        "caseId": "pf/byron-donalds/david-jolly-trans-youth-surgeries-florida-governor",
+        "label": "Unverified",
+        "ms": 4555.131583999842,
+        "conclusion": "There is no evidence to confirm or deny David Jolly's statement."
+      },
+      {
+        "caseId": "pf/donald-trump/vaccine-soda-bottle-injection-children",
+        "label": "Misleading",
+        "ms": 8662.142750000115,
+        "conclusion": "The claim aligns with Trump's statement about a large vaccine, but the context suggests he is advocating for fewer vaccines and spacing out shots."
+      },
+      {
+        "caseId": "pf/ron-johnson/covid-19-vaccine-pregnancy-miscarriage-dr-fauci",
+        "label": "Unverified",
+        "ms": 5499.59987499984,
+        "conclusion": "Without supporting evidence, the claim cannot be verified or refuted."
+      },
+      {
+        "caseId": "pf/jon-ossoff/collins-crypto-georgia-trading",
+        "label": "Misleading",
+        "ms": 8305.682249999605,
+        "conclusion": "Sources show Collins engaged in crypto transactions, but not necessarily that he is 'one of the most active' in Congress."
+      },
+      {
+        "caseId": "pf/randy-fine/mamdani-id-new-york-city-grocery-stores-save-voter",
+        "label": "True",
+        "ms": 8968.625541999936,
+        "conclusion": "Sources confirm that Mayor Mamdani does not require ID to shop at city-run grocery stores."
+      },
+      {
+        "caseId": "pf/zach-lahn/rob-sand-7500-tax-increase-iowa-governor",
+        "label": "True",
+        "ms": 7439.36458399985,
+        "conclusion": "The sources show Rob Sand intends to raise taxes by $7,500 annually, but the specifics of how this will be achieved are not detailed."
+      },
+      {
+        "caseId": "pf/byron-donalds/us-measles-illegal-immigration-mmr-vaccine-fl",
+        "label": "False",
+        "ms": 9273.558291999623,
+        "conclusion": "Sources show the speaker claims a causal link between illegal immigration and measles outbreaks, though the link is not supported by evidence."
+      },
+      {
+        "caseId": "pf/kelly-ayotte/warmington-opioid-purdue-pharma-new-hampshire",
+        "label": "True",
+        "ms": 10163.805374999996,
+        "conclusion": "Sources confirm Cinde Warmington was a Purdue Pharma lobbyist who stated OxyContin was a miracle drug."
+      },
+      {
+        "caseId": "pf/byron-donalds/fl-governor-tax-tips-social-security-income-tax",
+        "label": "True",
+        "ms": 5241.878000000026,
+        "conclusion": "The claim aligns with Byron Donalds' statement that David Jolly opposed tax relief on overtime, Social Security, and tips."
+      },
+      {
+        "caseId": "pf/jd-vance/maine-fentanyl-drug-overdoses-decline-border",
+        "label": "Misleading",
+        "ms": 6317.697124999948,
+        "conclusion": "The source indicates increased drug trafficking during the Trump administration, but doesn't directly link it to decreased overdoses in Maine."
+      },
+      {
+        "caseId": "pf/rob-sand/iowa-school-ranking-best-bottom-half",
+        "label": "True",
+        "ms": 9628.956917000003,
+        "conclusion": "Sources indicate a decline in Iowa's education ranking and quality, supporting the claim that it is now in the bottom half."
+      },
+      {
+        "caseId": "pf/roy-cooper/cooper-says-north-carolina-officials-removed-an-hbcu-early-voting-site-ahead-of-the-midterm-elections",
+        "label": "Unverified",
+        "ms": 4734.2831250000745,
+        "conclusion": "Without evidence, the claim about the removal of an early-voting site is unsupported."
+      },
+      {
+        "caseId": "pf/david-jolly/ai-data-centers-florida-poll-governor-race",
+        "label": "Misleading",
+        "ms": 5972.9235840002075,
+        "conclusion": "A Gallup poll indicates a majority of Americans oppose AI data centers, but it doesn't specify Florida."
+      },
+      {
+        "caseId": "pf/troy-jackson/susan-collins-maine-trump-tariffs-canada",
+        "label": "Unverified",
+        "ms": 5334.957167000044,
+        "conclusion": "There is no evidence to verify or refute the claim about Susan Collins' vote on Trump's tariffs."
+      },
+      {
+        "caseId": "pf/abdul-el-sayed/senate-candidate-abdul-el-sayed-overstates-michiganders-cost-for-trumps-tariffs",
+        "label": "Unverified",
+        "ms": 5035.578000000212,
+        "conclusion": "There is no evidence to support or refute the claim about the cost of Trump's tariffs on Michigan households."
+      },
+      {
+        "caseId": "pf/sam-altman/chatgpt-almonds-ai-california-water-useage",
+        "label": "Unverified",
+        "ms": 5262.789958000183,
+        "conclusion": "Without supporting evidence, the claim cannot be verified or refuted."
+      },
+      {
+        "caseId": "pf/ashley-hinson/josh-turek-iowa-senate-house-votes",
+        "label": "Misleading",
+        "ms": 9105.07779100025,
+        "conclusion": "Fox News provides evidence that Josh Turek missed a significant number of votes, but other sources do not corroborate this specific figure."
+      },
+      {
+        "caseId": "pf/jon-ossoff/social-security-georgia-mike-collins-retirement",
+        "label": "True",
+        "ms": 5411.594000000041,
+        "conclusion": "The source confirms Mike Collins stated he wants people to leave Social Security and Medicaid to work."
+      },
+      {
+        "caseId": "pf/republican-national-committee-republican/rnc-falsely-says-54-of-ncs-commercial-driver-licenses-were-issued-illegally-to-noncitizens",
+        "label": "True",
+        "ms": 6182.60387500003,
+        "conclusion": "The evidence suggests that over half of North Carolina's trucking licenses were issued illegally to foreign nationals, aligning with the claim's percentage."
+      },
+      {
+        "caseId": "pf/sherrod-brown/jon-husted-pushed-for-data-centers-and-tax-incentives-in-ohio-as-sherrod-brown-ads-say",
+        "label": "True",
+        "ms": 7275.741541999858,
+        "conclusion": "Sources show Jon Husted supported data centers and provided significant tax breaks, aligning with the claim."
+      },
+      {
+        "caseId": "pf/john-e-sununu/chris-pappas-raise-taxes-68-new-hampshire-senate",
+        "label": "Misleading",
+        "ms": 7500.586249999702,
+        "conclusion": "Sources show Pappas voted to raise taxes 68 times, implying consistent support for tax increases."
+      },
+      {
+        "caseId": "pf/zach-nunn/zach-nunn-said-republicans-passed-the-largest-tax-cut-in-u-s-history-this-is-mostly-false",
+        "label": "Misleading",
+        "ms": 13670.277083999943,
+        "conclusion": "Sources indicate that the 2017 tax cuts were the largest corporate tax cut since 1918, but the claim of 'largest taxes in U.S. history' is debatable and not definitively supported by all sources."
+      },
+      {
+        "caseId": "pf/robert-f-kennedy-jr/children-health-history-midterm-convention",
+        "label": "True",
+        "ms": 10090.716542000417,
+        "conclusion": "Sources support the claim that the U.S. has a high child mortality rate and concerning health issues compared to other wealthy nations."
+      },
+      {
+        "caseId": "pf/texas-pac/talarico-transgender-texas-paxton-senate",
+        "label": "Misleading",
+        "ms": 9378.304375000298,
+        "conclusion": "Sources show Talarico previously supported taxpayer funding for gender-affirming surgeries for minors, but now opposes them."
+      },
+      {
+        "caseId": "pf/abdul-el-sayed/mike-rogers-9-11-first-responders-healthcare",
+        "label": "False",
+        "ms": 8081.489291999955,
+        "conclusion": "The sources show Mike Rogers voted against healthcare for 9/11 first responders twice, not nine times."
+      },
+      {
+        "caseId": "pf/club-growth-action/kathy-castor-insider-trading",
+        "label": "Unverified",
+        "ms": 8070.472916000057,
+        "conclusion": "The sources confirm the existence of a law (STOCK Act) designed to prevent insider trading by Congress members, but do not specify if Rep. Castor violated it repeatedly."
+      },
+      {
+        "caseId": "pf/chris-pappas/sununu-social-security-privatization-new-hampshire",
+        "label": "True",
+        "ms": 4883.588417000137,
+        "conclusion": "Chris Pappas claims John Sununu spearheaded privatization efforts regarding Social Security."
+      },
+      {
+        "caseId": "pf/senate-leadership-fund/no-ohio-senate-candidate-sherrod-brown-does-not-support-forcing-childhood-sex-change-surgery",
+        "label": "False",
+        "ms": 5498.135708000045,
+        "conclusion": "The Senate Leadership Fund claims Sherrod Brown supports forcing childhood sex change surgery."
+      },
+      {
+        "caseId": "pf/sherrod-brown/jon-husted-health-insurance-490000-ohio-senate",
+        "label": "Misleading",
+        "ms": 8555.111000000034,
+        "conclusion": "The sources show Husted voted for healthcare funding cuts that will result in 490,000 Ohioans losing coverage, but also show he voted to increase premiums."
+      },
+      {
+        "caseId": "pf/amy-acton/ramaswamy-alzheimers-drug-intepirdine-ohio",
+        "label": "Misleading",
+        "ms": 7151.807749999687,
+        "conclusion": "The source indicates Vivek Ramaswamy was associated with a company promoting a questionable Alzheimer's drug, but doesn't explicitly state he knew it didn't work."
+      },
+      {
+        "caseId": "pf/donald-trump/fact-check-where-was-cooper-when-hurricane-helene-hit-nc",
+        "label": "Unverified",
+        "ms": 5743.638540999964,
+        "conclusion": "There is no evidence to confirm or deny the claim about Roy Cooper's location during Hurricane Helene."
+      },
+      {
+        "caseId": "pf/donald-trump/united-nations-artificial-intelligence-hoax-russia",
+        "label": "Misleading",
+        "ms": 10999.52754200017,
+        "conclusion": "Sources show Trump equates AI concerns to past warnings he dismissed as hoaxes, implying a pattern of unfounded alarmism."
+      },
+      {
+        "caseId": "pf/senate-leadership-fund/fact-checking-gop-ad-in-iowa-senate-race-does-josh-turek-support-amnesty-for-immigrants",
+        "label": "Unverified",
+        "ms": 5605.370209000073,
+        "conclusion": "There is no evidence to confirm or deny that Josh Turek supports amnesty for undocumented immigrants."
+      },
+      {
+        "caseId": "pf/mike-rogers/mostly-false-mike-rogers-says-abdul-el-sayed-supports-defunding-police-and-emptying-prisons",
+        "label": "Misleading",
+        "ms": 9383.649458000436,
+        "conclusion": "Sources show El-Sayed has nuanced views on defunding police, but the claim implies current support for defunding police and emptying prisons."
+      },
+      {
+        "caseId": "pf/mike-rogers/abdul-el-sayed-temple-israel-condemn",
+        "label": "True",
+        "ms": 5559.732582999859,
+        "conclusion": "The sources show Abdul El-Sayed did condemn the attack on Temple Israel."
+      },
+      {
+        "caseId": "pf/winsenate/susan-collins-jeffrey-epstein-files-pac-donor",
+        "label": "True",
+        "ms": 5158.403791000135,
+        "conclusion": "The source confirms Sen. Collins accepted campaign donations from individuals associated with Jeffrey Epstein."
+      },
+      {
+        "caseId": "pf/winsenate/ashley-hinson-votes-epstein-files",
+        "label": "Unverified",
+        "ms": 4928.229458000045,
+        "conclusion": "There is no evidence to support or refute the claim that Rep. Ashley Hinson voted against releasing the Jeffrey Epstein files."
+      },
+      {
+        "caseId": "pf/byron-donalds/florida-governor-offshore-oil-drilling-lobbying",
+        "label": "True",
+        "ms": 8807.217750000302,
+        "conclusion": "Sources indicate David Jolly did lobby Congress for expanded drilling shortly after the Deepwater Horizon oil spill, aligning with the claim's timeframe."
+      },
+      {
+        "caseId": "pf/senate-leadership-fund/sherrod-brown-soren-aldaco-transition-ohio-texas",
+        "label": "Unverified",
+        "ms": 5193.73470800044,
+        "conclusion": "There is no evidence to support the claim that Sherrod Brown supports sex changes for minors."
+      },
+      {
+        "caseId": "pf/donald-trump/iran-war-four-six-weeks-nuclear-timeline-midterms",
+        "label": "True",
+        "ms": 6268.544708999805,
+        "conclusion": "The source supports Trump's claim that he stated a 4-6 week timeframe for eliminating the Iran nuclear threat."
+      },
+      {
+        "caseId": "pf/markwayne-mullin/trump-wealth-financial-gain-crypto",
+        "label": "False",
+        "ms": 10194.79045900004,
+        "conclusion": "Sources show Trump's financial gains are substantial, contradicting the claim that he has financially lost from being in office."
+      },
+      {
+        "caseId": "pf/senate-leadership-fund/new-hampshire-senate-amazon-lobbyist-vann-bentley",
+        "label": "Misleading",
+        "ms": 10884.035000000149,
+        "conclusion": "Sources indicate Chris Pappas admitted to a relationship with an Amazon lobbyist and voted on bills the lobbyist supported, but the claim of knowing misrepresentation is disputed."
+      },
+      {
+        "caseId": "pf/donald-trump/james-talarico-texas-paxton-vegan-meat-vomit",
+        "label": "False",
+        "ms": 5031.1829169997945,
+        "conclusion": "Sources show the claim about James Talarico being a vegan is false."
+      },
+      {
+        "caseId": "pf/mariannette-miller-meeks/iowa-house-individual-stock-holdings",
+        "label": "True",
+        "ms": 5612.507249999791,
+        "conclusion": "The source directly supports Miller-Meeks' claim of not owning individual stocks."
+      },
+      {
+        "caseId": "pf/angie-nixon/cubans-deportation-immigration-trump-nixon",
+        "label": "Misleading",
+        "ms": 13199.782541000284,
+        "conclusion": "Sources indicate that the Trump administration deported nearly 13,000 Cubans, but the claim's phrasing about 'since he has been in office, his first term and his second term' is misleading."
+      },
+      {
+        "caseId": "pf/donald-trump/no-brazils-fast-vote-counting-is-not-proof-of-us-election-cheating-despite-trumps-claim",
+        "label": "Unverified",
+        "ms": 5790.409791000187,
+        "conclusion": "There is no evidence to support the claim that Brazil's election results prove Detroit, Philadelphia, and California elections are rigged."
+      },
+      {
+        "caseId": "pf/ashley-moody/moodys-fl-diner-ad-mischaracterizes-nixons-position-on-obbba-as-support-for-4-trillion-tax-hike",
+        "label": "Unverified",
+        "ms": 6725.8146250001155,
+        "conclusion": "There is no evidence to support or refute the claim about Angie Nixon's stance on a $4 trillion tax hike."
+      },
+      {
+        "caseId": "pf/james-talarico/ken-paxton-puppy-abusers-vote-texas-research",
+        "label": "Unverified",
+        "ms": 4630.116457999684,
+        "conclusion": "There is no evidence to support or refute the claim that Ken Paxton voted \"to protect puppy abusers.\""
+      },
+      {
+        "caseId": "pf/chris-pappas/john-sununu-pharma-lobbying-new-hampshire-senate",
+        "label": "Misleading",
+        "ms": 6428.214499999769,
+        "conclusion": "The source indicates Sununu's net worth increased by up to $35 million, but doesn't specify the source of the funds."
+      },
+      {
+        "caseId": "pf/mike-collins/collins-ossoff-abortion-georgia-roevwade",
+        "label": "False",
+        "ms": 8687.068500000052,
+        "conclusion": "The evidence shows Ossoff opposes abortion, contradicting Mike Collins' claim that he is 'all for abortion up until and past birth.'"
+      },
+      {
+        "caseId": "pf/roger-marshall/adam-hamilton-kansas-beef-climate-change-cows",
+        "label": "Misleading",
+        "ms": 7915.237042000052,
+        "conclusion": "Sources show Hamilton has criticized beef consumption and the beef industry, but not explicitly stated a desire to 'shut it down'."
+      },
+      {
+        "caseId": "pf/jd-vance/biden-gasoline-prices-refineries-cbs-town-hall",
+        "label": "Unverified",
+        "ms": 5678.0913749998435,
+        "conclusion": "Without sources, it's impossible to determine if the claim about refining capacity under Biden's presidency is accurate or directly linked to current gas prices."
+      },
+      {
+        "caseId": "pf/mike-rogers/el-sayed-muslim-brotherhood-michigan-senate",
+        "label": "Unverified",
+        "ms": 5458.770791999996,
+        "conclusion": "There is no evidence to confirm or deny the claim that Abdul El-Sayed 'didn’t disavow' the Muslim Brotherhood."
+      },
+      {
+        "caseId": "pf/winsenate/ashley-hinson-8-million-richer-iowa-senate",
+        "label": "Misleading",
+        "ms": 7684.1839169999585,
+        "conclusion": "The source indicates Ashley Hinson's wealth includes at least $1 million from financial activities, but does not state her total earnings over five years."
+      },
+      {
+        "caseId": "pf/david-jolly/donalds-fl-governor-midterms-jim-crow-black-family",
+        "label": "Misleading",
+        "ms": 10000.81037500035,
+        "conclusion": "Sources show Byron Donalds made a controversial statement about Jim Crow, which has been disputed."
+      },
+      {
+        "caseId": "pf/josh-stein/fact-checking-steins-claims-about-mail-in-ballot-rejections-in-north-carolina",
+        "label": "Unverified",
+        "ms": 5088.036290999968,
+        "conclusion": "There is no evidence to support or refute the claim about ballot rejections."
+      }
+    ]
+  ]
+}

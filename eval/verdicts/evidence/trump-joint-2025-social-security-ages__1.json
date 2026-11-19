@@ -1,0 +1,106 @@
+{
+  "case_id": "trump-joint-2025-social-security-ages#1",
+  "queries": {
+    "A": "government databases list 4.7 million social security members from people aged 100 to 109 years old 3.6 million 110 to 119 3.47 million 120 to 129, 3.9 million 130 to 139 Trump",
+    "B": "Social Security numbers of people over 100 with no recorded date of death in SSA database"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 2,
+      "title": "Elon Musk says millions in Social Security database are between ages of 100 and 159",
+      "url": "https://www.foxnews.com/politics/elon-musk-says-millions-social-security-database-between-ages-100-159",
+      "domain": "foxnews.com",
+      "published": "2025-02-17",
+      "snippet": "His post features a chart indicating there are more than 20 million listed with ages 100 and higher, including more than 3.9 million in the 130-139 age range, more than 3.5 million in the 140-149 range and more than 1.3 million in the 150-159 range.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 4,
+      "title": "Elon Musk misreads Social Security data, millions of dead people not getting benefits, experts say | abc7news.com",
+      "url": "https://abc7news.com/amp/post/new-social-security-chief-contradicts-claims-millions-dead-people-are-getting-payouts/15933337/",
+      "domain": "abc7news.com",
+      "published": "2025-02-19",
+      "snippet": "It started in the Oval Office last week when Musk -- facing reporters for the first time since the Department of Government Efficiency began its aggressive overhaul of the federal government -- said he found \"crazy things\" in the Social Security system, including, he said, people who are \"150 years old.\"",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 5,
+      "title": "Elon Musk misreads Social Security data, millions of dead people not getting benefits, experts say | abc13.com",
+      "url": "https://abc13.com/amp/post/new-social-security-chief-contradicts-claims-millions-dead-people-are-getting-payouts/15933337/",
+      "domain": "abc13.com",
+      "published": "2025-02-19",
+      "snippet": "It started in the Oval Office last week when Musk -- facing reporters for the first time since the Department of Government Efficiency began its aggressive overhaul of the federal government -- said he found \"crazy things\" in the Social Security system, including, he said, people who are \"150 years old.\"",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 6,
+      "title": "Elon Musk misreads Social Security data, millions of dead people not getting benefits, experts say | abc11.com",
+      "url": "https://abc11.com/amp/post/new-social-security-chief-contradicts-claims-millions-dead-people-are-getting-payouts/15933337/",
+      "domain": "abc11.com",
+      "published": "2025-02-19",
+      "snippet": "It started in the Oval Office last week when Musk -- facing reporters for the first time since the Department of Government Efficiency began its aggressive overhaul of the federal government -- said he found \"crazy things\" in the Social Security system, including, he said, people who are \"150 years old.\"",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "SSA marked millions aged 120+ 'deceased' to clean up records. This may help prevent fraud",
+      "url": "https://www.yahoo.com/news/ssa-marked-millions-aged-120-110000635.html",
+      "domain": "yahoo.com",
+      "published": "2025-04-02",
+      "snippet": "Audits in 2015 and 2023 found millions of people over 100 years old in the SSA's database without death information, with a small percentage receiving social security payments, leading to concerns about fraud and improper payments.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 5,
+      "title": "Millions Of Active Social Security Numbers Belong To People Over 112 Years Old",
+      "url": "https://www.everplans.com/articles/millions-of-active-social-security-numbers-belong-to-people-over-112-years-old",
+      "domain": "everplans.com",
+      "published": null,
+      "snippet": "As of 2015, about 6.5 million social security numbers registered to people who would have been at least 112 years old had no death date recorded in the SSA’s database, known as Numident.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://tribune.com.pk/story/2529469/elon-musk-claims-millions-of-130-year-olds-defrauding-social-security-in-bizarre-vampire-fraud-claim",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "A",
+      "url": "https://www.foxnews.com/politics/elon-musk-says-millions-social-security-database-between-ages-100-159.print",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://oig.ssa.gov/assets/uploads/a-06-21-51022summary.pdf",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "B",
+      "url": "https://credit.com/blog/?p=111518",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch -- URL resolves to a blog index; article text not retrievable"
+    },
+    {
+      "q": "B",
+      "url": "https://concordcoalition.org/?p=17598",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "B",
+      "url": "https://oig-files.ssa.gov/audits/summary/Summary%2034030_0.pdf",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "B",
+      "url": "https://oig-files.ssa.gov/audits/summary/A-06-17-50190_summary.pdf",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    }
+  ]
+}

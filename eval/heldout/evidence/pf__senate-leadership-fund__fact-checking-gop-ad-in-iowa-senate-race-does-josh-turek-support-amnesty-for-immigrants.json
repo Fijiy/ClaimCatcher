@@ -1,0 +1,235 @@
+{
+  "frozenAt": "2026-10-27T03:24:41.273Z",
+  "refilteredAt": "2026-10-27T03:37:53.449Z",
+  "id": "pf/senate-leadership-fund/fact-checking-gop-ad-in-iowa-senate-race-does-josh-turek-support-amnesty-for-immigrants",
+  "said": "2026-09-22",
+  "queries": {
+    "fact": "Iowa U.S. Senate Democratic candidate Josh Turek supports amnesty for illegals.",
+    "claim": "Iowa U.S. Senate Democratic candidate Josh Turek supports amnesty for illegals. Senate Leadership Fund"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 3156.554417000152,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1404.1808339999989,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Does Josh Turek support 'amnesty' for immigrants?",
+      "url": "https://politifact.com/factchecks/2026/oct/07/senate-leadership-fund/fact-checking-gop-ad-in-iowa-senate-race-does-josh-turek-support-amnesty-for-immigrants/",
+      "domain": "politifact.com",
+      "published": "2026-10-07",
+      "publishedAsGiven": "Oct 7, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "A GOP group says Iowa U.S. Senate candidate Josh Turek ...",
+      "url": "https://www.facebook.com/politifact/posts/a-gop-group-says-iowa-us-senate-candidate-josh-turek-supports-amnesty-for-illega/1577123687782062/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Josh Turek on Illegal Immigration: Not Immediate Deportation",
+      "url": "https://www.facebook.com/AshleyHinsonIowa/videos/if-you-come-to-this-country-illegally-should-you-be-deportedjosh-turek-not-immed/1812189453424886/",
+      "domain": "facebook.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "New Ad: Liberal Josh Turek Only Shows Up For Illegals",
+      "url": "https://senateleadershipfund.org/press-releases/new-ad-liberal-josh-turek-only-shows-up-for-illegals/",
+      "domain": "senateleadershipfund.org",
+      "published": "2026-10-07",
+      "publishedAsGiven": "Oct 7, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Fact Checking Liberal Josh Turek's Immigration & Border ...",
+      "url": "https://iowagop.org/fact-checking-liberal-josh-tureks-immigration-border-security-record/",
+      "domain": "iowagop.org",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Fact-checking Ashley Hinson and Josh Turek in first Iowa ...",
+      "url": "https://www.kcci.com/article/iowa-politics-fact-check-ashley-hinson-and-josh-turek-iowa-us-senate-debate-politifact/74084653",
+      "domain": "kcci.com",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Josh Turek for Iowa",
+      "url": "https://turek4iowa.com/",
+      "domain": "turek4iowa.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Josh Turek is a liberal on illegal immigration, and he's too ...",
+      "url": "https://www.facebook.com/AshleyHinsonIowa/posts/josh-turek-is-a-liberal-on-illegal-immigration-and-hes-too-liberal-for-iowa/1692010965877836/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Two competing ads take on Democrat Josh Turek's voting ...",
+      "url": "https://www.facebook.com/kcrgtv9/posts/two-competing-ads-take-on-democrat-josh-tureks-voting-record-on-immigration-enfo/1660301365462163/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Fact check: Dueling ads on Turek's immigration record",
+      "url": "https://www.kcrg.com/2026/10/07/fact-check-dueling-ads-tureks-immigration-record/",
+      "domain": "kcrg.com",
+      "published": "2026-10-07",
+      "publishedAsGiven": "Oct 7, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Does Josh Turek support 'amnesty' for immigrants?",
+      "url": "https://politifact.com/factchecks/2026/oct/07/senate-leadership-fund/fact-checking-gop-ad-in-iowa-senate-race-does-josh-turek-support-amnesty-for-immigrants/",
+      "domain": "politifact.com",
+      "published": "2026-10-07",
+      "publishedAsGiven": "Oct 7, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "This election presents a very clear choice. I will fund law ...",
+      "url": "https://www.facebook.com/AshleyHinsonIowa/posts/this-election-presents-a-very-clear-choicei-will-fund-law-enforcement-and-border/1691962782549321/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Fact check: Dueling ads on Turek's immigration record",
+      "url": "https://www.kcrg.com/2026/10/07/fact-check-dueling-ads-tureks-immigration-record/",
+      "domain": "kcrg.com",
+      "published": "2026-10-07",
+      "publishedAsGiven": "Oct 7, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Josh Turek would support illegal immigrants over Iowans. ...",
+      "url": "https://www.facebook.com/AshleyHinsonIowa/posts/josh-turek-would-support-illegal-immigrants-over-iowansi-will-always-put-iowans-/1686295123116087/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Fact-checking Hinson, Turek in first Iowa US Senate debate",
+      "url": "https://politifact.com/article/2026/oct/08/ashley-hinson-josh-turek-iowa-immigration-iran/",
+      "domain": "politifact.com",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "FACT CHECK: dueling ads target Turek's immigration record",
+      "url": "https://www.youtube.com/watch?v=w3AcXeVrmV8",
+      "domain": "youtube.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Fact Checking Liberal Josh Turek's Immigration & Border ...",
+      "url": "https://iowagop.org/fact-checking-liberal-josh-tureks-immigration-border-security-record/",
+      "domain": "iowagop.org",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "A GOP group says Iowa US Senate candidate Josh Turek ...",
+      "url": "https://www.facebook.com/politifact/posts/a-gop-group-says-iowa-us-senate-candidate-josh-turek-supports-amnesty-for-illega/1574492724711825/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Josh Turek is a liberal on illegal immigration, and he's too ...",
+      "url": "https://www.facebook.com/AshleyHinsonIowa/posts/josh-turek-is-a-liberal-on-illegal-immigration-and-hes-too-liberal-for-iowa/1692010965877836/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Turek supports amnesty for immigrants? Why that's Half True",
+      "url": "https://chamberlight.com/articles/politi-fact-turek-supports-amnesty-for-immigrants-why-thats-half-true-k88b/joshua-turek-ia-senate-00298",
+      "domain": "chamberlight.com",
+      "published": "2026-10-07",
+      "publishedAsGiven": "Oct 7, 2026",
+      "dropped": "fact-check-words"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 10,
+    "after-said": 6,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:24:36.711Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

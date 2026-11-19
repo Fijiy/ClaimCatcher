@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Fixture: YouTube watch page</title>
+    <style>
+      #movie_player { position: relative; width: 480px; height: 270px; background: #000; color: #fff; }
+      #movie_player video { width: 100%; height: 100%; }
+      .ytp-caption-window-container { position: absolute; inset: auto 0 40px 0; text-align: center; }
+      .caption-visual-line { display: block; }
+      .ytp-caption-segment { background: rgba(8, 8, 8, 0.75); padding: 0 4px; }
+      .ytp-live-badge { display: none; }
+      .ytp-live .ytp-live-badge { display: inline-block; }
+    </style>
+  </head>
+  <body>
+    <!--
+      Copies the YouTube player's caption DOM and behaviour from
+      task/site-capture-test (FINDINGS.md, results/chrome/yt-*.json):
+      - captions are `.ytp-caption-segment` spans, one per visual line, inside
+        `#ytp-caption-window-container`; the window is rebuilt on most updates;
+      - they show only while `.ytp-subtitles-button` is aria-pressed="true";
+      - the <video> has no textTracks;
+      - `?v=recorded`: auto captions as a rolling two-line window that grows a
+        word at a time and drops its top line (yt-recorded-cbs-vp-debate),
+        re-based so the first word shows at 0:01;
+      - `?v=live`: the player has the `ytp-live` class, and live auto captions
+        replace a phrase at a time (yt-live-livenowfox), one shown at 0:07,
+        0:09.6 and 0:12.2.
+    -->
+    <div id="movie_player" class="html5-video-player">
+      <div class="html5-video-container">
+        <video class="video-stream html5-main-video" src="/media/tone.wav"></video>
+      </div>
+      <div id="ytp-caption-window-container" class="ytp-caption-window-container"></div>
+      <div class="ytp-chrome-bottom">
+        <div class="ytp-chrome-controls">
+          <button class="ytp-live-badge ytp-button" disabled>Live</button>
+          <button
+            class="ytp-subtitles-button ytp-button"
+            aria-keyshortcuts="c"
+            aria-pressed="false"
+            title="Subtitles/closed captions (c)"
+          >CC</button>
+        </div>
+      </div>
+    </div>
+    <script>
+      const RECORDED = [
+        [135.05, 'Stack those up and the conversion benefit is often wiped out before the'],
+        [135.14, 'Stack those up and the conversion benefit is often wiped out before the longevity'],
+        [135.58, 'benefit is often wiped out before the longevity'],
+        [135.69, 'benefit is often wiped out before the longevity bet'],
+        [136.3, 'benefit is often wiped out before the longevity bet is'],
+        [136.5, 'benefit is often wiped out before the longevity bet is even'],
+        [136.7, 'benefit is often wiped out before the longevity bet is even in'],
+        [136.82, 'benefit is often wiped out before the longevity bet is even in play.'],
+        [137.15, "benefit is often wiped out before the longevity bet is even in play. There's"],
+        [137.43, "benefit is often wiped out before the longevity bet is even in play. There's one"],
+        [137.83, "benefit is often wiped out before the longevity bet is even in play. There's one real"],
+        [137.89, "longevity bet is even in play. There's one real"],
+        [138.06, "longevity bet is even in play. There's one real exception"],
+        [138.63, "longevity bet is even in play. There's one real exception worth"],
+        [138.87, "longevity bet is even in play. There's one real exception worth naming."],
+        [139.26, "longevity bet is even in play. There's one real exception worth naming. If"],
+        [139.46, "longevity bet is even in play. There's one real exception worth naming. If you"],
+        [139.59, "longevity bet is even in play. There's one real exception worth naming. If you have"],
+        [139.83, "longevity bet is even in play. There's one real exception worth naming. If you have more"],
+        [139.99, "longevity bet is even in play. There's one real exception worth naming. If you have more than"],
+        [140.05, 'one real exception worth naming. If you have more than'],
+        [140.18, 'one real exception worth naming. If you have more than $4'],
+        [140.75, 'one real exception worth naming. If you have more than $4 million'],
+        [141.15, 'one real exception worth naming. If you have more than $4 million and'],
+        [141.3, 'one real exception worth naming. If you have more than $4 million and your'],
+        [141.46, 'one real exception worth naming. If you have more than $4 million and your goal'],
+        [141.71, 'one real exception worth naming. If you have more than $4 million and your goal is'],
+        [141.86, 'one real exception worth naming. If you have more than $4 million and your goal is pure'],
+        [142.1, 'one real exception worth naming. If you have more than $4 million and your goal is pure inheritance'],
+        [142.16, 'have more than $4 million and your goal is pure inheritance'],
+        [143.4, ''], // the speaker pauses; YouTube clears the window
+      ].map(([t, text]) => [Math.round((t - 134.05) * 100) / 100, text]);
+
+      const LIVE = [
+        [7.0, 'powerful He now owns as one man more wealth than the bottom'],
+        [9.6, 'bottom 53% of American households'],
+        [12.2, "households and what we are seeing and again we don't"],
+        [16.0, ''],
+      ];
+
+      const live = new URLSearchParams(location.search).get('v') === 'live';
+      const player = document.getElementById('movie_player');
+      const video = player.querySelector('video');
+      const container = document.getElementById('ytp-caption-window-container');
+      const ccButton = player.querySelector('.ytp-subtitles-button');
+      if (live) player.classList.add('ytp-live');
+      const timeline = live ? LIVE : RECORDED;
+
+      ccButton.addEventListener('click', () => {
+        ccButton.setAttribute('aria-pressed', String(ccButton.getAttribute('aria-pressed') !== 'true'));
+        shown = undefined;
+        render();
+      });
+
+      // The text on screen now: the last update at or before the media time.
+      function current() {
+        let text = '';
+        for (const [t, value] of timeline) if (t <= video.currentTime) text = value;
+        return text;
+      }
+
+      let shown;
+      function render() {
+        const text = ccButton.getAttribute('aria-pressed') === 'true' ? current() : '';
+        if (text === shown) return;
+        shown = text;
+        if (!text) return void container.replaceChildren();
+        // Two visual lines, split at a word near the middle, rebuilt each time.
+        const words = text.split(' ');
+        const half = words.length > 6 ? Math.ceil(words.length / 2) : words.length;
+        const lines = [words.slice(0, half), words.slice(half)].filter((l) => l.length);
+        const window = document.createElement('div');
+        window.className = 'caption-window ytp-caption-window-bottom';
+        window.id = 'caption-window-1';
+        const captionsText = document.createElement('span');
+        captionsText.className = 'captions-text';
+        for (const line of lines) {
+          const visual = document.createElement('span');
+          visual.className = 'caption-visual-line';
+          const segment = document.createElement('span');
+          segment.className = 'ytp-caption-segment';
+          segment.textContent = line.join(' ');
+          visual.append(segment);
+          captionsText.append(visual);
+        }
+        window.append(captionsText);
+        container.replaceChildren(window);
+      }
+      setInterval(render, 30);
+    </script>
+  </body>
+</html>

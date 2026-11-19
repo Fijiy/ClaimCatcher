@@ -1,0 +1,543 @@
+{
+  "gate": "verdicts",
+  "variant": "local",
+  "started": "2026-10-27T05:00:14.909Z",
+  "environment": {
+    "chrome": "151.0.7922.138",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+    "platform": "darwin arm64",
+    "note": "Gemini Nano model version: see chrome://on-device-internals in this profile"
+  },
+  "models": [
+    {
+      "model": "gemini-nano",
+      "score": {
+        "runs": [
+          {
+            "balanced": 0.5555555555555555,
+            "opposite": {
+              "trueAsFalse": 1,
+              "falseAsTrue": 0
+            },
+            "unverified": {
+              "n": 29,
+              "hits": 1,
+              "rate": 0.034482758620689655
+            },
+            "failed": 0,
+            "confusion": {
+              "Misleading": {
+                "False": 5,
+                "Misleading": 5,
+                "True": 2
+              },
+              "False": {
+                "Misleading": 3,
+                "False": 5,
+                "Unverified": 1
+              },
+              "True": {
+                "True": 3,
+                "Misleading": 4,
+                "False": 1
+              }
+            },
+            "exact": {
+              "n": 29,
+              "hits": 16,
+              "rate": 0.5517241379310345
+            },
+            "adjacent": {
+              "n": 29,
+              "hits": 22,
+              "rate": 0.7586206896551724
+            },
+            "firm": {
+              "exact": {
+                "n": 12,
+                "hits": 6,
+                "rate": 0.5
+              },
+              "adjacent": {
+                "n": 12,
+                "hits": 9,
+                "rate": 0.75
+              }
+            },
+            "judgment": {
+              "exact": {
+                "n": 17,
+                "hits": 10,
+                "rate": 0.5882352941176471
+              },
+              "adjacent": {
+                "n": 17,
+                "hits": 13,
+                "rate": 0.7647058823529411
+              }
+            }
+          },
+          {
+            "balanced": 0.5555555555555555,
+            "opposite": {
+              "trueAsFalse": 1,
+              "falseAsTrue": 0
+            },
+            "unverified": {
+              "n": 29,
+              "hits": 1,
+              "rate": 0.034482758620689655
+            },
+            "failed": 0,
+            "confusion": {
+              "Misleading": {
+                "False": 5,
+                "Misleading": 5,
+                "True": 2
+              },
+              "False": {
+                "Misleading": 3,
+                "False": 5,
+                "Unverified": 1
+              },
+              "True": {
+                "True": 3,
+                "Misleading": 4,
+                "False": 1
+              }
+            },
+            "exact": {
+              "n": 29,
+              "hits": 16,
+              "rate": 0.5517241379310345
+            },
+            "adjacent": {
+              "n": 29,
+              "hits": 22,
+              "rate": 0.7586206896551724
+            },
+            "firm": {
+              "exact": {
+                "n": 12,
+                "hits": 6,
+                "rate": 0.5
+              },
+              "adjacent": {
+                "n": 12,
+                "hits": 9,
+                "rate": 0.75
+              }
+            },
+            "judgment": {
+              "exact": {
+                "n": 17,
+                "hits": 10,
+                "rate": 0.5882352941176471
+              },
+              "adjacent": {
+                "n": 17,
+                "hits": 13,
+                "rate": 0.7647058823529411
+              }
+            }
+          }
+        ],
+        "repeat": 1,
+        "medianMs": 10751.072875000042,
+        "p90Ms": 13381.01192059997,
+        "checks": [
+          {
+            "id": "opposite",
+            "name": "True↔False errors (hard)",
+            "value": "1",
+            "target": "0",
+            "pass": false
+          },
+          {
+            "id": "balanced",
+            "name": "Balanced accuracy",
+            "value": "55.6%",
+            "target": "≥ 60.0%",
+            "pass": false
+          },
+          {
+            "id": "unverified",
+            "name": "Unverified",
+            "value": "3.4%",
+            "target": "≤ 25.0%",
+            "pass": true
+          },
+          {
+            "id": "repeat",
+            "name": "Same label on a repeat run",
+            "value": "100.0%",
+            "target": "≥ 90.0%",
+            "pass": true
+          },
+          {
+            "id": "median",
+            "name": "Median time per verdict",
+            "value": "10.8 s",
+            "target": "≤ 9.0 s",
+            "pass": false
+          }
+        ],
+        "pass": false
+      },
+      "runs": [
+        [
+          {
+            "caseId": "cnn-2024-biden-opening-economy#4",
+            "label": "False",
+            "ms": 20312.296292,
+            "conclusion": "Sources indicate that Medicare insulin costs are capped at $35 per month, not $15, and this cap began in 2021, not a reduction to $15 from $400."
+          },
+          {
+            "caseId": "cnn-2024-trump-greatest-economy#0",
+            "label": "Misleading",
+            "ms": 12619.888708000002,
+            "conclusion": "Sources show economic growth was positive, unemployment was low, and employment was high, but do not definitively prove it was the 'greatest' economy in U.S. history."
+          },
+          {
+            "caseId": "cnn-2024-trump-greatest-economy#2",
+            "label": "False",
+            "ms": 10091.905707999998,
+            "conclusion": "Sources indicate Trump's claim is false because it's not supported by available data, despite an increase in foreign-born workers."
+          },
+          {
+            "caseId": "abc-2024-trump-springfield-pets#1",
+            "label": "False",
+            "ms": 9027.462832999998,
+            "conclusion": "Sources contradict the claim that immigrants in Springfield are eating pets, indicating the statement is false."
+          },
+          {
+            "caseId": "abc-2024-harris-afghanistan-camp-david#2",
+            "label": "False",
+            "ms": 6119.373541999994,
+            "conclusion": "The claim that there are no US military members in active duty in a combat zone is false because operations continue."
+          },
+          {
+            "caseId": "abc-2024-harris-afghanistan-camp-david#6",
+            "label": "True",
+            "ms": 8506.280874999997,
+            "conclusion": "Sources confirm the president planned to invite the Taliban to Camp David, though the invitation was cancelled."
+          },
+          {
+            "caseId": "cbs-2024-walz-iran-tbi-headaches#3",
+            "label": "Misleading",
+            "ms": 9468.692875000008,
+            "conclusion": "Sources show that Donald Trump initially downplayed the severity of traumatic brain injuries sustained by U.S. troops during an Iranian missile strike."
+          },
+          {
+            "caseId": "cbs-2024-vance-cbp-one-mic-cut#1",
+            "label": "Misleading",
+            "ms": 8749.150167,
+            "conclusion": "The CBP One app facilitates asylum and parole applications, potentially leading to legal status, but it does not inherently facilitate illegal immigration."
+          },
+          {
+            "caseId": "biden-sotu-2024-economy#1",
+            "label": "True",
+            "ms": 10912.625166000013,
+            "conclusion": "Sources confirm that 15 million jobs have been created since Biden took office, with 303,000 jobs created in March."
+          },
+          {
+            "caseId": "biden-sotu-2024-economy#2",
+            "label": "Misleading",
+            "ms": 10402.32633299999,
+            "conclusion": "The sources confirm the unemployment rate is currently at a 50-year low, but the claim implies a consistent low over a long period which is not entirely accurate."
+          },
+          {
+            "caseId": "biden-sotu-2024-economy#4",
+            "label": "Misleading",
+            "ms": 10370.821125000002,
+            "conclusion": "Sources indicate approximately 800,000 manufacturing jobs were added nationwide, but the timeframe and Biden's direct role are debated."
+          },
+          {
+            "caseId": "biden-sotu-2024-economy#6",
+            "label": "False",
+            "ms": 9634.862916999991,
+            "conclusion": "Sources contradict Biden's claim that the racial wealth gap is the smallest in 20 years, indicating it has actually increased recently."
+          },
+          {
+            "caseId": "biden-sotu-2024-economy#7",
+            "label": "Misleading",
+            "ms": 15767.939874999996,
+            "conclusion": "Wages have increased, but inflation has also risen significantly during Biden's presidency, making the overall picture complex."
+          },
+          {
+            "caseId": "biden-sotu-2024-economy#8",
+            "label": "Misleading",
+            "ms": 12574.511291000003,
+            "conclusion": "The claim is misleading because while U.S. inflation is low, it is not definitively the lowest globally, and the context of other countries' inflation rates is missing."
+          },
+          {
+            "caseId": "trump-joint-2025-social-security-ages#0",
+            "label": "Misleading",
+            "ms": 10949.607916999987,
+            "conclusion": "The GAO estimates federal government fraud losses to be between $233 billion and $521 billion annually."
+          },
+          {
+            "caseId": "trump-joint-2025-social-security-ages#1",
+            "label": "True",
+            "ms": 12759.74766600001,
+            "conclusion": "Sources indicate that government databases contain a large number of social security numbers for individuals aged 100 and older, aligning with the claim's numerical estimates."
+          },
+          {
+            "caseId": "trump-joint-2025-social-security-ages#2",
+            "label": "False",
+            "ms": 12308.812208999996,
+            "conclusion": "Sources contradict the claim that 3.5 million people aged 140-149 are receiving Social Security benefits; the actual number is significantly lower, and payments after death are due to errors."
+          },
+          {
+            "caseId": "trump-joint-2025-inflation-eggs-energy#0",
+            "label": "False",
+            "ms": 9952.559500000003,
+            "conclusion": "Sources indicate a generally positive economic trend in 2024 and projections for 2025, contradicting the claim of an inherited economic catastrophe and inflation nightmare."
+          },
+          {
+            "caseId": "trump-joint-2025-inflation-eggs-energy#2",
+            "label": "Misleading",
+            "ms": 13015.176791999984,
+            "conclusion": "Sources confirm inflation reached a 41-year high in 2022, with some suggesting it was the highest in US history."
+          },
+          {
+            "caseId": "trump-joint-2025-inflation-eggs-energy#3",
+            "label": "False",
+            "ms": 9015.901458000008,
+            "conclusion": "The sources indicate that the increase in egg prices is due to external factors (avian influenza) and not directly attributable to President Biden's actions."
+          },
+          {
+            "caseId": "trump-joint-2025-inflation-eggs-energy#6",
+            "label": "Misleading",
+            "ms": 11832.20091699998,
+            "conclusion": "The evidence suggests fewer than 100 power plants were closed, and the claim is likely an exaggeration."
+          },
+          {
+            "caseId": "booker-senate-floor-2025-consumer-confidence#2",
+            "label": "True",
+            "ms": 8487.647499999992,
+            "conclusion": "Sources indicate consumer confidence declined in March 2025, continuing a downward trend."
+          },
+          {
+            "caseId": "johnson-speaker-acceptance-2023-prices-debt#1",
+            "label": "Misleading",
+            "ms": 12637.534542000009,
+            "conclusion": "The evidence indicates that prices increased by approximately 17% annually over the last six years, but the claim specifies 'last 2 years' which is not supported by the provided data."
+          },
+          {
+            "caseId": "johnson-speaker-acceptance-2023-prices-debt#5",
+            "label": "False",
+            "ms": 6929.201334000012,
+            "conclusion": "The claim that the national debt will increase by $20 million during the speech is demonstrably false based on the provided information."
+          },
+          {
+            "caseId": "murray-senate-floor-2025-tax-cuts-debt#0",
+            "label": "True",
+            "ms": 11080.379625000001,
+            "conclusion": "Sources indicate that Republican tax cuts, particularly those enacted during the Bush administration, have significantly contributed to the national debt since 2001."
+          },
+          {
+            "caseId": "uk-pmqs-2025-09-03-badenoch-unemployment#4",
+            "label": "False",
+            "ms": 10636.996416999958,
+            "conclusion": "The claim that unemployment has risen every month under the Labour government is false, as evidence indicates a slight increase in one period but not every month."
+          },
+          {
+            "caseId": "uk-pmqs-2026-03-04-starmer-defence-270bn#3",
+            "label": "Misleading",
+            "ms": 13101.770583999984,
+            "conclusion": "Sources indicate Labour intends to increase defence spending significantly, though the exact figure of £270 billion is not directly supported."
+          },
+          {
+            "caseId": "us-khanna-tiktok-2025-02-20-telehealth#0",
+            "label": "False",
+            "ms": 8622.718832999992,
+            "conclusion": "Sources indicate Medicare telehealth flexibilities were extended through March 2025, contradicting the claim of a April 1st cutoff by the Trump administration."
+          },
+          {
+            "caseId": "us-vance-peachtree-city-2025-08-21-biggest-tax-cut#1",
+            "label": "Unverified",
+            "ms": 5191.379499999981,
+            "conclusion": "Without sources, the claim cannot be verified or refuted."
+          }
+        ],
+        [
+          {
+            "caseId": "cnn-2024-biden-opening-economy#4",
+            "label": "False",
+            "ms": 12583.543375000008,
+            "conclusion": "Sources indicate that Medicare insulin costs are capped at $35 per month, not $15, and this cap began in 2021, not a reduction to $15 from $400."
+          },
+          {
+            "caseId": "cnn-2024-trump-greatest-economy#0",
+            "label": "Misleading",
+            "ms": 13439.344915999973,
+            "conclusion": "Sources show economic growth was positive, unemployment was low, and employment was high, but do not definitively prove it was the 'greatest' economy in U.S. history."
+          },
+          {
+            "caseId": "cnn-2024-trump-greatest-economy#2",
+            "label": "False",
+            "ms": 10834.96770800004,
+            "conclusion": "Sources indicate Trump's claim is false because it's not supported by available data, despite an increase in foreign-born workers."
+          },
+          {
+            "caseId": "abc-2024-trump-springfield-pets#1",
+            "label": "False",
+            "ms": 9690.84479100001,
+            "conclusion": "Sources contradict the claim that immigrants in Springfield are eating pets, indicating the statement is false."
+          },
+          {
+            "caseId": "abc-2024-harris-afghanistan-camp-david#2",
+            "label": "False",
+            "ms": 6561.630790999974,
+            "conclusion": "The claim that there are no US military members in active duty in a combat zone is false because operations continue."
+          },
+          {
+            "caseId": "abc-2024-harris-afghanistan-camp-david#6",
+            "label": "True",
+            "ms": 9124.883749999979,
+            "conclusion": "Sources confirm the president planned to invite the Taliban to Camp David, though the invitation was cancelled."
+          },
+          {
+            "caseId": "cbs-2024-walz-iran-tbi-headaches#3",
+            "label": "Misleading",
+            "ms": 10112.019499999995,
+            "conclusion": "Sources show that Donald Trump initially downplayed the severity of traumatic brain injuries sustained by U.S. troops during an Iranian missile strike."
+          },
+          {
+            "caseId": "cbs-2024-vance-cbp-one-mic-cut#1",
+            "label": "Misleading",
+            "ms": 9282.76883299998,
+            "conclusion": "The CBP One app facilitates asylum and parole applications, potentially leading to legal status, but it does not inherently facilitate illegal immigration."
+          },
+          {
+            "caseId": "biden-sotu-2024-economy#1",
+            "label": "True",
+            "ms": 11565.68741699995,
+            "conclusion": "Sources confirm that 15 million jobs have been created since Biden took office, with 303,000 jobs created in March."
+          },
+          {
+            "caseId": "biden-sotu-2024-economy#2",
+            "label": "Misleading",
+            "ms": 11081.269834000035,
+            "conclusion": "The sources confirm the unemployment rate is currently at a 50-year low, but the claim implies a consistent low over a long period which is not entirely accurate."
+          },
+          {
+            "caseId": "biden-sotu-2024-economy#4",
+            "label": "Misleading",
+            "ms": 11047.502457999974,
+            "conclusion": "Sources indicate approximately 800,000 manufacturing jobs were added nationwide, but the timeframe and Biden's direct role are debated."
+          },
+          {
+            "caseId": "biden-sotu-2024-economy#6",
+            "label": "False",
+            "ms": 10209.048999999999,
+            "conclusion": "Sources contradict Biden's claim that the racial wealth gap is the smallest in 20 years, indicating it has actually increased recently."
+          },
+          {
+            "caseId": "biden-sotu-2024-economy#7",
+            "label": "Misleading",
+            "ms": 16708.236334000016,
+            "conclusion": "Wages have increased, but inflation has also risen significantly during Biden's presidency, making the overall picture complex."
+          },
+          {
+            "caseId": "biden-sotu-2024-economy#8",
+            "label": "Misleading",
+            "ms": 13358.468707999971,
+            "conclusion": "The claim is misleading because while U.S. inflation is low, it is not definitively the lowest globally, and the context of other countries' inflation rates is missing."
+          },
+          {
+            "caseId": "trump-joint-2025-social-security-ages#0",
+            "label": "Misleading",
+            "ms": 11669.206375000009,
+            "conclusion": "The GAO estimates federal government fraud losses to be between $233 billion and $521 billion annually."
+          },
+          {
+            "caseId": "trump-joint-2025-social-security-ages#1",
+            "label": "True",
+            "ms": 13642.472750000015,
+            "conclusion": "Sources indicate that government databases contain a large number of social security numbers for individuals aged 100 and older, aligning with the claim's numerical estimates."
+          },
+          {
+            "caseId": "trump-joint-2025-social-security-ages#2",
+            "label": "False",
+            "ms": 13212.678542000009,
+            "conclusion": "Sources contradict the claim that 3.5 million people aged 140-149 are receiving Social Security benefits; the actual number is significantly lower, and payments after death are due to errors."
+          },
+          {
+            "caseId": "trump-joint-2025-inflation-eggs-energy#0",
+            "label": "False",
+            "ms": 10667.178042000043,
+            "conclusion": "Sources indicate a generally positive economic trend in 2024 and projections for 2025, contradicting the claim of an inherited economic catastrophe and inflation nightmare."
+          },
+          {
+            "caseId": "trump-joint-2025-inflation-eggs-energy#2",
+            "label": "Misleading",
+            "ms": 13433.612749999971,
+            "conclusion": "Sources confirm inflation reached a 41-year high in 2022, with some suggesting it was the highest in US history."
+          },
+          {
+            "caseId": "trump-joint-2025-inflation-eggs-energy#3",
+            "label": "False",
+            "ms": 8919.620166999986,
+            "conclusion": "The sources indicate that the increase in egg prices is due to external factors (avian influenza) and not directly attributable to President Biden's actions."
+          },
+          {
+            "caseId": "trump-joint-2025-inflation-eggs-energy#6",
+            "label": "Misleading",
+            "ms": 11727.518500000006,
+            "conclusion": "The evidence suggests fewer than 100 power plants were closed, and the claim is likely an exaggeration."
+          },
+          {
+            "caseId": "booker-senate-floor-2025-consumer-confidence#2",
+            "label": "True",
+            "ms": 8437.223750000005,
+            "conclusion": "Sources indicate consumer confidence declined in March 2025, continuing a downward trend."
+          },
+          {
+            "caseId": "johnson-speaker-acceptance-2023-prices-debt#1",
+            "label": "Misleading",
+            "ms": 12567.11020799994,
+            "conclusion": "The evidence indicates that prices increased by approximately 17% annually over the last six years, but the claim specifies 'last 2 years' which is not supported by the provided data."
+          },
+          {
+            "caseId": "johnson-speaker-acceptance-2023-prices-debt#5",
+            "label": "False",
+            "ms": 6892.046541000018,
+            "conclusion": "The claim that the national debt will increase by $20 million during the speech is demonstrably false based on the provided information."
+          },
+          {
+            "caseId": "murray-senate-floor-2025-tax-cuts-debt#0",
+            "label": "True",
+            "ms": 10939.289332999964,
+            "conclusion": "Sources indicate that Republican tax cuts, particularly those enacted during the Bush administration, have significantly contributed to the national debt since 2001."
+          },
+          {
+            "caseId": "uk-pmqs-2025-09-03-badenoch-unemployment#4",
+            "label": "False",
+            "ms": 9804.232874999987,
+            "conclusion": "The claim that unemployment has risen every month under the Labour government is false, as evidence indicates a slight increase in one period but not every month."
+          },
+          {
+            "caseId": "uk-pmqs-2026-03-04-starmer-defence-270bn#3",
+            "label": "Misleading",
+            "ms": 12117.505084000062,
+            "conclusion": "Sources indicate Labour intends to increase defence spending significantly, though the exact figure of £270 billion is not directly supported."
+          },
+          {
+            "caseId": "us-khanna-tiktok-2025-02-20-telehealth#0",
+            "label": "False",
+            "ms": 7910.268457999919,
+            "conclusion": "Sources indicate Medicare telehealth flexibilities were extended through March 2025, contradicting the claim of a April 1st cutoff by the Trump administration."
+          },
+          {
+            "caseId": "us-vance-peachtree-city-2025-08-21-biggest-tax-cut#1",
+            "label": "Unverified",
+            "ms": 4728.20291699993,
+            "conclusion": "Without sources, the claim cannot be verified or refuted."
+          }
+        ]
+      ]
+    }
+  ]
+}

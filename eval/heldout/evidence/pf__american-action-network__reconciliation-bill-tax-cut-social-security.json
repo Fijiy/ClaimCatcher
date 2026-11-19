@@ -1,0 +1,223 @@
+{
+  "frozenAt": "2026-10-27T03:04:02.892Z",
+  "refilteredAt": "2026-10-27T03:32:50.676Z",
+  "id": "pf/american-action-network/reconciliation-bill-tax-cut-social-security",
+  "said": "2025-06-04",
+  "queries": {
+    "fact": "The Republican tax and spending bill will provide a tax cut for Social Security recipients.",
+    "claim": "The Republican tax and spending bill will provide a tax cut for Social Security recipients. American Action Network"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1705.783209000001,
+      "results": 9
+    },
+    {
+      "query": "claim",
+      "ms": 2657.6773749999847,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "The Truth About Trump's Tax Bill—and Your Social Security",
+      "url": "https://clyburn.house.gov/the-truth-about-trumps-tax-bill-and-your-social-security/",
+      "domain": "clyburn.house.gov",
+      "published": "2025-07-15",
+      "publishedAsGiven": "Jul 15, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Social Security Applauds Passage of Legislation Providing ...",
+      "url": "https://www.ssa.gov/blog/en/posts/2025-07-03.html",
+      "domain": "ssa.gov",
+      "published": "2025-07-03",
+      "publishedAsGiven": "Jul 3, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Mike Johnson Says Republicans Plan to Cut Social Security ...",
+      "url": "https://www.facebook.com/retiredamericans/videos/mike-johnson-announced-that-republicans-plan-to-cut-social-security-and-medicar/1658755825757949/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Trump says the Republican mega bill will eliminate taxes ...",
+      "url": "https://www.pbs.org/newshour/politics/trump-says-the-republican-mega-bill-will-eliminate-taxes-on-social-security-it-does-not",
+      "domain": "pbs.org",
+      "published": "2025-07-02",
+      "publishedAsGiven": "Jul 2, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "H.R.904 - 119th Congress (2025-2026): No Tax on Social ...",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/904",
+      "domain": "congress.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Correcting the Social Security Administration About The ...",
+      "url": "https://taxpolicycenter.org/taxvox/correcting-social-security-administration-about-big-budget-bill",
+      "domain": "taxpolicycenter.org",
+      "published": "2025-07-09",
+      "publishedAsGiven": "Jul 9, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "New Tax Break for Seniors - Center for Retirement Research",
+      "url": "https://crr.bc.edu/new-tax-break-for-seniors/",
+      "domain": "crr.bc.edu",
+      "published": "2026-01-22",
+      "publishedAsGiven": "Jan 22, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "The 2025 Tax Bill: Additional $6000 Deduction for Seniors ...",
+      "url": "https://bipartisanpolicy.org/explainer/the-2025-tax-bill-additional-6000-deduction-for-seniors-simplified/",
+      "domain": "bipartisanpolicy.org",
+      "published": "2025-06-12",
+      "publishedAsGiven": "Jun 12, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Despite Republicans' promises, the Republican budget bill ...",
+      "url": "https://www.facebook.com/RepAngieCraig/posts/despite-republicans-promises-the-republican-budget-bill-does-not-repeal-taxes-on/1126497715968134/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Will the reconciliation bill give a tax cut to Social Security ...",
+      "url": "https://politifact.com/factchecks/2025/jun/24/american-action-network/reconciliation-bill-tax-cut-social-security/",
+      "domain": "politifact.com",
+      "published": "2025-06-24",
+      "publishedAsGiven": "Jun 24, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact check: Will GOP bill give a tax cut to Social Security ...",
+      "url": "https://www.wral.com/archive/22065801/",
+      "domain": "wral.com",
+      "published": "2025-06-26",
+      "publishedAsGiven": "Jun 26, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "American Action Network: Home",
+      "url": "https://www.americanactionnetwork.org/",
+      "domain": "americanactionnetwork.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Press Archive - American Action Network",
+      "url": "https://www.americanactionnetwork.org/press/",
+      "domain": "americanactionnetwork.org",
+      "published": "2026-08-13",
+      "publishedAsGiven": "Aug 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Trump says the Republican mega bill will eliminate taxes ...",
+      "url": "https://www.pbs.org/newshour/politics/trump-says-the-republican-mega-bill-will-eliminate-taxes-on-social-security-it-does-not",
+      "domain": "pbs.org",
+      "published": "2025-07-02",
+      "publishedAsGiven": "Jul 2, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "The Truth About Trump's Tax Bill—and Your Social Security",
+      "url": "https://clyburn.house.gov/the-truth-about-trumps-tax-bill-and-your-social-security/",
+      "domain": "clyburn.house.gov",
+      "published": "2025-07-15",
+      "publishedAsGiven": "Jul 15, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "H.R.904 - 119th Congress (2025-2026): No Tax on Social ...",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/904",
+      "domain": "congress.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "AAN extends its summer advocacy campaign highlighting ...",
+      "url": "https://www.americanactionnetwork.org/press/aan-extends-its-summer-advocacy-campaign-highlighting-working-families-tax-cut/",
+      "domain": "americanactionnetwork.org",
+      "published": "2025-09-08",
+      "publishedAsGiven": "Sep 8, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "The Implementation Timeline of the One Big Beautiful Bill Act",
+      "url": "https://www.americanprogress.org/article/the-implementation-timeline-of-the-one-big-beautiful-bill-act/",
+      "domain": "americanprogress.org",
+      "published": "2025-07-29",
+      "publishedAsGiven": "Jul 29, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "The Republican Budget Bill Puts Your Social Security At Risk",
+      "url": "https://www.finance.senate.gov/ranking-members-news/the-republican-budget-bill-puts-your-social-security-at-risk",
+      "domain": "finance.senate.gov",
+      "published": "2025-08-05",
+      "publishedAsGiven": "Aug 5, 2025",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 19,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 1,
+    "after-said": 12,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 5
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:03:58.528Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Fixture: a video with no captions</title>
+  </head>
+  <body>
+    <h1>Inaugural address (fixture)</h1>
+    <!-- Same-origin media and no <track>, like a native X or TikTok video:
+         the only way to read it is the on-device transcript. The audio is
+         speech (fixture-server.ts, SPEECH). -->
+    <video id="video" src="/media/speech.wav" controls width="320"></video>
+  </body>
+</html>

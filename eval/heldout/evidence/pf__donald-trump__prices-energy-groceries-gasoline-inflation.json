@@ -1,0 +1,228 @@
+{
+  "frozenAt": "2026-10-27T03:06:35.048Z",
+  "refilteredAt": "2026-10-27T03:33:25.061Z",
+  "id": "pf/donald-trump/prices-energy-groceries-gasoline-inflation",
+  "said": "2025-08-26",
+  "queries": {
+    "fact": "Groceries are down. Energy is way down. … Was $4 and $5 for a gallon of gas.",
+    "claim": "Groceries are down. Energy is way down. … Was $4 and $5 for a gallon of gas. Donald Trump"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1393.732416999992,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2413.057749999978,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Trump promised lower gas and grocery prices. Here's what ...",
+      "url": "https://www.nbcnews.com/business/economy/trump-affordability-promises-gas-grocery-prices-taxes-rcna597789",
+      "domain": "nbcnews.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "President Trump likes to talk about breaking records, but ...",
+      "url": "https://www.facebook.com/CongressmanBennieGThompson/posts/president-trump-likes-to-talk-about-breaking-records-but-164-days-of-gas-prices-/1670240944472224/",
+      "domain": "facebook.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Fact check: Trump says food and gas prices are down",
+      "url": "https://www.wral.com/archive/22164880/",
+      "domain": "wral.com",
+      "published": "2025-09-18",
+      "publishedAsGiven": "Sep 18, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "U.S. inflation accelerated last month as gas prices spiked, ...",
+      "url": "https://www.pbs.org/newshour/economy/u-s-inflation-accelerated-last-month-as-gas-prices-spiked-squeezing-americans-finances",
+      "domain": "pbs.org",
+      "published": "2026-09-11",
+      "publishedAsGiven": "Sep 11, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "President Trump: 'Groceries are down, energy is ...",
+      "url": "https://www.youtube.com/shorts/OsNNBh5rXOs",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "President Donald Trump weighed in on gas prices, saying ...",
+      "url": "https://www.facebook.com/WYFF4/videos/president-donald-trump-weighed-in-on-gas-prices-saying-theyre-not-very-high-here/1634952764295007/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Gas Prices Hit Four-Year Low Under President Trump",
+      "url": "https://www.whitehouse.gov/releases/2025/10/gas-prices-hit-four-year-low-under-trump/",
+      "domain": "whitehouse.gov",
+      "published": "2025-10-20",
+      "publishedAsGiven": "Oct 20, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Donald Trump says grocery, energy prices are down. In ...",
+      "url": "https://www.poynter.org/fact-checking/2025/inflation-data-this-week-cost-food-energy-up-down/",
+      "domain": "poynter.org",
+      "published": "2025-09-09",
+      "publishedAsGiven": "Sep 9, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Poynter Institute's Post",
+      "url": "https://www.linkedin.com/posts/poynter_donald-trump-says-grocery-energy-prices-activity-7371197538554576896-nSFW",
+      "domain": "linkedin.com",
+      "published": "2025-09-09",
+      "publishedAsGiven": "Sep 9, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Fact check: Trump says food and gas prices are down",
+      "url": "https://www.youtube.com/watch?v=8piDPpXI43s",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Warren Presses Trump on False Assertions that Grocery and ...",
+      "url": "https://www.banking.senate.gov/newsroom/minority/warren-presses-trump-on-false-assertions-that-grocery-and-energy-costs-are-down-for-americans",
+      "domain": "banking.senate.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Trump promised lower gas and grocery prices. Here's what ...",
+      "url": "https://www.nbcnews.com/business/economy/trump-affordability-promises-gas-grocery-prices-taxes-rcna597789",
+      "domain": "nbcnews.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "President Donald Trump said “Groceries are down. Energy is ...",
+      "url": "https://www.facebook.com/Poynter/posts/president-donald-trump-said-groceries-are-down-energy-is-way-down-was-4-and-5-fo/1310880627295282/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Donald Trump said prices are 'all coming down now ... - PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/aug/10/donald-trump/inflation-consumer-prices-groceries-gasoline-iran-war/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "President Trump: 'Groceries are down, energy is ... - YouTube",
+      "url": "https://www.youtube.com/shorts/OsNNBh5rXOs",
+      "domain": "youtube.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Donald Trump says grocery, energy prices are down. In reality ...",
+      "url": "https://www.poynter.org/fact-checking/2025/inflation-data-this-week-cost-food-energy-up-down/",
+      "domain": "poynter.org",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Trump's Economic Promises Timeline",
+      "url": "https://doggett.house.gov/issues/trumps-economic-promises-timeline",
+      "domain": "doggett.house.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Trump claims he's lowered prices, but is this true? - YouTube",
+      "url": "https://www.youtube.com/watch?v=Q9pQ1dsZTWk",
+      "domain": "youtube.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Fact check: Trump says food and gas prices are down - WRAL",
+      "url": "https://www.wral.com/archive/22164880/",
+      "domain": "wral.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "President Trump said prices are 'all coming down now.' They're ...",
+      "url": "https://www.kcra.com/article/president-trump-prices-fact-check/73395442",
+      "domain": "kcra.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 6,
+    "after-said": 6,
+    "maybe-after-said": 1,
+    "after-said-link-date": 0,
+    "undated": 6
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:06:29.456Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

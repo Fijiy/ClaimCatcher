@@ -1,0 +1,261 @@
+{
+  "frozenAt": "2026-10-27T03:27:16.434Z",
+  "refilteredAt": "2026-10-27T03:38:34.667Z",
+  "id": "pf/chris-pappas/john-sununu-pharma-lobbying-new-hampshire-senate",
+  "said": "2026-10-13",
+  "queries": {
+    "fact": "New Hampshire U.S. Senate candidate John E. Sununu cashed in with Big Pharma, earning up to $35 million.",
+    "claim": "New Hampshire U.S. Senate candidate John E. Sununu cashed in with Big Pharma, earning up to $35 million. Chris Pappas"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 3026.3838329999708,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2649.4259160000365,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "In NH Senate race, Chris Pappas said John E. Sununu ...",
+      "url": "https://politifact.com/factchecks/2026/oct/26/chris-pappas/john-sununu-pharma-lobbying-new-hampshire-senate/",
+      "domain": "politifact.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "5 hours ago",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "New Ad: John Sununu Cashed in While Chris Pappas ...",
+      "url": "https://senatemajority.com/news/new-ad-john-sununu-cashed-in-while-chris-pappas-fought-for-new-hampshire/",
+      "domain": "senatemajority.com",
+      "published": "2026-10-15",
+      "publishedAsGiven": "Oct 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "John Sununu owns up to $425000 in pharmaceutical ...",
+      "url": "https://www.facebook.com/NHDems/posts/john-sununu-owns-up-to-425000-in-pharmaceutical-stocks-and-bonds-such-as-pfizer-/1715695306578979/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Scott Brown's going after John Sununu for cozying up to ...",
+      "url": "https://www.facebook.com/NHDems/posts/scott-browns-going-after-john-sununu-for-cozying-up-to-corporate-special-interes/1651510659664111/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "snippet": "Scott Brown criticizes John Sununu's significant increase in net worth from $850,000 to $36 million after leaving office."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "“I'll Never Sell Out New Hampshire”: New TV, Digital Ads ...",
+      "url": "http://chrispappas.org/2026/08/ill-never-sell-out-new-hampshire-new-tv-digital-ads-contrast-pappass-record-of-taking-on-corruption-with-sununus-record-of-selling-out-to-corporate-speci/",
+      "domain": "chrispappas.org",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "snippet": "Senator John Sununu's record of selling out New Hampshire to corporate special interests. adding up to $35 million to his net worth."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Chris Pappas vs John Sununu - Local Candidates",
+      "url": "https://www.localcandidates.org/elections/2026-us-senate-nh/compare/chris-pappas-vs-john-sununu",
+      "domain": "localcandidates.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Pappas, Sununu trade jabs in first debate of general election",
+      "url": "https://www.wmur.com/article/pappas-sununu-senate-debate-101326/74124795",
+      "domain": "wmur.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "Oct 13, 2026",
+      "snippet": "Chris Pappas and John E. Sununu engaged in a testy first debate Tuesday that was heavy on policy and pointed disagreements."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "John Sununu represents everything that's wrong with ...",
+      "url": "https://www.instagram.com/reel/DecF6H2jSOT/",
+      "domain": "instagram.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "After John Sununu sold Granite Staters out to corporate ...",
+      "url": "https://www.facebook.com/NHDems/posts/after-john-sununu-sold-granite-staters-out-to-corporate-special-interests-like-b/1644194087062435/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "snippet": "After John Sununu sold Granite Staters out to corporate special interests like Big Pharma, Big Oil, and Wall Street, he cashed in on his ..."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "John E. Sununu",
+      "url": "https://ballotpedia.org/John_E._Sununu",
+      "domain": "ballotpedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "In NH Senate race, Chris Pappas said John E. Sununu ...",
+      "url": "https://politifact.com/factchecks/2026/oct/26/chris-pappas/john-sununu-pharma-lobbying-new-hampshire-senate/",
+      "domain": "politifact.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "5 hours ago",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "New Ad: John Sununu Cashed in While Chris Pappas ...",
+      "url": "https://senatemajority.com/news/new-ad-john-sununu-cashed-in-while-chris-pappas-fought-for-new-hampshire/",
+      "domain": "senatemajority.com",
+      "published": "2026-10-15",
+      "publishedAsGiven": "Oct 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Chris Pappas says 'desperation' fuels Sununu's attempts to ...",
+      "url": "https://www.wmur.com/article/close-up-chris-pappas-campaign-10262026/74247247",
+      "domain": "wmur.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "14 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "John Sununu owns up to $425000 in pharmaceutical ...",
+      "url": "https://www.facebook.com/NHDems/posts/john-sununu-owns-up-to-425000-in-pharmaceutical-stocks-and-bonds-such-as-pfizer-/1715695306578979/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Letter: Why to choose Pappas over Sununu",
+      "url": "https://ledgertranscript.com/2026/10/25/pappas-vs-sununu-nh-senate/",
+      "domain": "ledgertranscript.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "1 day ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "New Hampshire is sick of Sununus selling us out for profit. We ...",
+      "url": "https://www.facebook.com/pappasfornh/posts/new-hampshire-is-sick-of-sununus-selling-us-out-for-profit-we-wont-send-john-sun/1442438048071173/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "John Sununu represents everything that's wrong with ...",
+      "url": "https://www.instagram.com/reel/DecF6H2jSOT/",
+      "domain": "instagram.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "'Chris Is Lying': Sununu Fires Back At Pappas In First ...",
+      "url": "https://patch.com/new-hampshire/across-nh/chris-lying-sununu-fires-back-pappas-first-senate-debate",
+      "domain": "patch.com",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "“I'll Never Sell Out New Hampshire”: New TV, Digital Ads ...",
+      "url": "http://chrispappas.org/2026/08/ill-never-sell-out-new-hampshire-new-tv-digital-ads-contrast-pappass-record-of-taking-on-corruption-with-sununus-record-of-selling-out-to-corporate-speci/",
+      "domain": "chrispappas.org",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "snippet": "The ads highlight how Sununu was first elected to Congress in 1996 and spent his time in Washington selling out New Hampshire to corporate ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "New Hampshire is sick of Sununus selling us out for profit. We ...",
+      "url": "https://www.facebook.com/pappasfornh/videos/new-hampshire-is-sick-of-sununus-selling-us-out-for-profit-we-wont-send-john-sun/1660150402369068/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "maybe-after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 0,
+    "after-said": 5,
+    "maybe-after-said": 6,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:27:10.758Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "“I'll Never Sell Out New Hampshire”: New TV, Digital Ads ...",
+      "url": "http://chrispappas.org/2026/08/ill-never-sell-out-new-hampshire-new-tv-digital-ads-contrast-pappass-record-of-taking-on-corruption-with-sununus-record-of-selling-out-to-corporate-speci/",
+      "domain": "chrispappas.org",
+      "snippet": "Senator John Sununu's record of selling out New Hampshire to corporate special interests. adding up to $35 million to his net worth.",
+      "published": "2026-08-11",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "Pappas, Sununu trade jabs in first debate of general election",
+      "url": "https://www.wmur.com/article/pappas-sununu-senate-debate-101326/74124795",
+      "domain": "wmur.com",
+      "snippet": "Chris Pappas and John E. Sununu engaged in a testy first debate Tuesday that was heavy on policy and pointed disagreements.",
+      "published": "2026-10-13",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    }
+  ]
+}

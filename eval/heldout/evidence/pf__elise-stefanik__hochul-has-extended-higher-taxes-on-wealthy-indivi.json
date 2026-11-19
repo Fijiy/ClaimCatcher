@@ -1,0 +1,259 @@
+{
+  "frozenAt": "2026-10-27T03:08:36.963Z",
+  "refilteredAt": "2026-10-27T03:33:53.284Z",
+  "id": "pf/elise-stefanik/hochul-has-extended-higher-taxes-on-wealthy-indivi",
+  "said": "2025-11-07",
+  "queries": {
+    "fact": "Gov. Kathy Hochul has raised taxes.",
+    "claim": "Gov. Kathy Hochul has raised taxes. Elise Stefanik"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1733.0314160000416,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2350.605375000043,
+      "results": 8
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "FACT: Hochul has raised taxes for New Yorkers by $8 billion ...",
+      "url": "https://www.facebook.com/BruceBlakemanNewYorkFirst/posts/fact-hochul-has-raised-taxes-for-new-yorkers-by-8-billion-since-she-has-been-gov/1761881339277674/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "I call Kathy Hochul “America's biggest pickpocket.” Her tax ...",
+      "url": "https://www.facebook.com/BruceBlakemanNewYorkFirst/posts/i-call-kathy-hochul-americas-biggest-pickpocket-her-tax-record-deserves-serious-/1775498521249289/",
+      "domain": "facebook.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "1 day ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "The New York Legislature's Budget Includes Multiple Tax ...",
+      "url": "https://www.multistate.us/insider/2024/3/28/the-new-york-legislatures-budget-includes-multiple-tax-hikes-heres-whats-in-it",
+      "domain": "multistate.us",
+      "published": "2024-03-28",
+      "publishedAsGiven": "Mar 28, 2024",
+      "snippet": "Governor Hochul was clear that she did not want to raise taxes this year to address the state's deficit, but the legislature is seeking to raise ..."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Hochul, Blakeman make tax relief pitches as election nears",
+      "url": "https://spectrumlocalnews.com/nys/central-ny/politics/2026/09/29/hochul-blakeman-tax-relief",
+      "domain": "spectrumlocalnews.com",
+      "published": "2026-09-29",
+      "publishedAsGiven": "Sep 29, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "New York Post: Hochul's taxes are hammering New Yorkers",
+      "url": "https://lawler.house.gov/news/documentsingle.aspx?DocumentID=3633",
+      "domain": "lawler.house.gov",
+      "published": "2025-01-13",
+      "publishedAsGiven": "Jan 13, 2025",
+      "snippet": "Since 2015, when Kathy Hochul first took statewide office, New York's state spending has increased by almost $90 billion. Yes, you read that ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Bruce Blakeman Reacts to Hochul's $8B Tax Hike Claim for ...",
+      "url": "https://www.facebook.com/BruceBlakemanNewYorkFirst/videos/fact-hochul-has-raised-taxes-for-new-yorkers-by-8-billion-since-she-has-been-gov/1570573461778006/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Hochul says new taxes could drive wealthy out of N.Y.",
+      "url": "https://ny1.com/nyc/all-boroughs/news/2026/03/11/hochul-says-new-taxes-could-drive-wealthy-out-of-n-y-",
+      "domain": "ny1.com",
+      "published": "2026-03-11",
+      "publishedAsGiven": "Mar 11, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Kathy Hochul blames Trump for high costs in New York yet ...",
+      "url": "https://www.facebook.com/BruceBlakemanNewYorkFirst/posts/kathy-hochul-blames-trump-for-high-costs-in-new-york-yet-she-is-the-one-raising/1761799612619180/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Hochul proposes new tax on second homes worth more ...",
+      "url": "https://abc7ny.com/post/new-york-gov-kathy-hochul-flips-position-pushing-tax-nyc-second-homes-worth-5m-close-spending-deficit/18889910/",
+      "domain": "abc7ny.com",
+      "published": "2026-04-15",
+      "publishedAsGiven": "Apr 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Mamdani wants to raise taxes, but Hochul says she won't",
+      "url": "https://www.youtube.com/shorts/n53JxmvXO48",
+      "domain": "youtube.com",
+      "published": "2025-11-27",
+      "publishedAsGiven": "11 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Elise Stefanik says Hochul is raising the commuter tax. ...",
+      "url": "https://www.cityandstateny.com/politics/2025/10/elise-stefanik-says-hochul-raising-commuter-tax-shes-wrong-now/408934/",
+      "domain": "cityandstateny.com",
+      "published": "2025-10-20",
+      "publishedAsGiven": "Oct 20, 2025",
+      "snippet": "Stefanik falsely accused Gov. Kathy Hochul of expanding the MTA payroll tax to the Capital Region after Hochul announced a Metro-North train ..."
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "ICYMI: Stefanik Joins the Patriot with Assemblyman David ...",
+      "url": "https://stefanik.house.gov/2025/7/icymi-stefanik-joins-the-patriot-with-assemblyman-david-dipietro-on-saving-new-york-from-kathy-hochul-and-how-the-big-beautiful-bill-benefits-new-yorkers",
+      "domain": "stefanik.house.gov",
+      "published": "2025-07-12",
+      "publishedAsGiven": "Jul 12, 2025",
+      "snippet": "New Yorkers should know that Kathy Hochul supported the largest tax increase in our nation's history because she opposed the extension of the ..."
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Kathy Hochul Has a Record of Raising New Yorkers' Taxes",
+      "url": "https://www.youtube.com/watch?v=_-P7rUvo3DQ",
+      "domain": "youtube.com",
+      "published": "2025-11-27",
+      "publishedAsGiven": "11 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Hochul has extended higher taxes on wealthy individuals ...",
+      "url": "https://politifact.com/factchecks/2025/dec/11/elise-stefanik/hochul-has-extended-higher-taxes-on-wealthy-indivi/",
+      "domain": "politifact.com",
+      "published": "2025-12-11",
+      "publishedAsGiven": "Dec 11, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Hochul juggles taxes, child care phase in, shifting finances",
+      "url": "https://spectrumlocalnews.com/nys/central-ny/politics/2025/11/18/hochul-on-potential-tax-increase",
+      "domain": "spectrumlocalnews.com",
+      "published": "2025-11-17",
+      "publishedAsGiven": "Nov 17, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Female rivals for New York governor plan to tackle ...",
+      "url": "https://cbsaustin.com/news/nation-world/elise-stefanik-vs-kathy-hochul-ny-state-governor-race-affordability-gun-safety-zohran-mamdani-new-york-city-mayor?photo=2",
+      "domain": "cbsaustin.com",
+      "published": "2025-11-07",
+      "publishedAsGiven": "Nov 7, 2025",
+      "snippet": "Stefanik argued that high taxes and high costs are due to Hochul's leadership and her goal is to make the state more affordable. “When New ..."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Stefanik: Hochul Has a Record of Raising Taxes & She ...",
+      "url": "https://www.youtube.com/watch?v=QGCGVJn3rK0",
+      "domain": "youtube.com",
+      "published": "2025-11-27",
+      "publishedAsGiven": "11 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Kathy Hochul has delivered historic middle class tax relief.",
+      "url": "https://www.facebook.com/eriecountydemocraticcommittee/posts/kathy-hochul-has-delivered-historic-middle-class-tax-relief/1529968215832585/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 18,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 0,
+    "after-said": 9,
+    "maybe-after-said": 3,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:08:32.879Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Elise Stefanik says Hochul is raising the commuter tax. ...",
+      "url": "https://www.cityandstateny.com/politics/2025/10/elise-stefanik-says-hochul-raising-commuter-tax-shes-wrong-now/408934/",
+      "domain": "cityandstateny.com",
+      "snippet": "Stefanik falsely accused Gov. Kathy Hochul of expanding the MTA payroll tax to the Capital Region after Hochul announced a Metro-North train ...",
+      "published": "2025-10-20",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "City and State New York",
+        "page": "https://mediabiasfactcheck.com/city-and-state-new-york/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "The New York Legislature's Budget Includes Multiple Tax ...",
+      "url": "https://www.multistate.us/insider/2024/3/28/the-new-york-legislatures-budget-includes-multiple-tax-hikes-heres-whats-in-it",
+      "domain": "multistate.us",
+      "snippet": "Governor Hochul was clear that she did not want to raise taxes this year to address the state's deficit, but the legislature is seeking to raise ...",
+      "published": "2024-03-28",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    },
+    {
+      "title": "Female rivals for New York governor plan to tackle ...",
+      "url": "https://cbsaustin.com/news/nation-world/elise-stefanik-vs-kathy-hochul-ny-state-governor-race-affordability-gun-safety-zohran-mamdani-new-york-city-mayor?photo=2",
+      "domain": "cbsaustin.com",
+      "snippet": "Stefanik argued that high taxes and high costs are due to Hochul's leadership and her goal is to make the state more affordable. “When New ...",
+      "published": "2025-11-07",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "frozenAt": "2026-10-27T03:26:37.409Z",
+  "refilteredAt": "2026-10-27T03:38:24.658Z",
+  "id": "pf/angie-nixon/cubans-deportation-immigration-trump-nixon",
+  "said": "2026-10-04",
+  "queries": {
+    "fact": "President Donald Trump has deported over 13,000 Cubans since he has been in office, his first term and his second term.",
+    "claim": "President Donald Trump has deported over 13,000 Cubans since he has been in office, his first term and his second term. Angie Nixon"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1194.9164579999633,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1687.7273750000168,
+      "results": 9
+    },
+    {
+      "query": "balance",
+      "ms": 441.52725000004284,
+      "results": 8
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "PolitiFact FL: Angie Nixon said Trump has deported 'over ...",
+      "url": "https://www.wlrn.org/immigration/2026-10-13/angie-nixon-trump-deporte-cubans",
+      "domain": "wlrn.org",
+      "published": "2026-10-13",
+      "publishedAsGiven": "Oct 13, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Fact-checking Angie Nixon on Trump's deportation of Cubans",
+      "url": "https://politifact.com/factchecks/2026/oct/09/angie-nixon/cubans-deportation-immigration-trump-nixon/",
+      "domain": "politifact.com",
+      "published": "2026-10-09",
+      "publishedAsGiven": "Oct 9, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Has Trump deported more than 13000 Cubans across his ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-has-trump-deported-more-than-13000-cubans-across-his-two-terms/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-10-12",
+      "publishedAsGiven": "Oct 12, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Trump has already deported nearly 12000 Cubans during ...",
+      "url": "https://en.cibercuba.com/noticias/2026-10-09-u1-e135253-s27061-nid342445-trump-acumula-cerca-12-mil-deportaciones-cubanos-sus",
+      "domain": "en.cibercuba.com",
+      "published": "2026-10-09",
+      "publishedAsGiven": "Oct 9, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Florida state Rep. Angie Nixon, seeking to become the ...",
+      "url": "https://www.facebook.com/politifact/posts/florida-state-rep-angie-nixon-seeking-to-become-the-states-next-us-senator-said-/1577632881064476/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Angie Nixon says Trump deported over 13000 Cubans",
+      "url": "https://www.thefloridapress.com/news/angie-nixon-says-trump-deported-over-13000-cubans-available-data-puts-the-total-",
+      "domain": "thefloridapress.com",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "US has deported thousands of Cubans and Venezuelans ...",
+      "url": "https://www.washingtonpost.com/world/2026/05/27/mexico-cubans-deported-venezuelans-human-rights-trump/1dee1478-5993-11f1-8a9d-afb1148204e1_story.html",
+      "domain": "washingtonpost.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "May 27, 2026",
+      "snippet": "The Trump administration has deported nearly 13,000 Cubans, Venezuelans and others to Mexico, where they face cartel violence and limited legal ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Cubans, Many in the US for Decades, Deported to Mexico",
+      "url": "https://www.hrw.org/news/2026/05/27/cubans-many-in-the-us-for-decades-deported-to-mexico",
+      "domain": "hrw.org",
+      "published": "2026-05-27",
+      "publishedAsGiven": "May 27, 2026",
+      "snippet": "The Trump administration has deported over 4,300 Cubans to Mexico, many of whom are older people with serious health conditions who had been ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Democratic Candidate in Florida Estimates That ...",
+      "url": "https://translatingcuba.com/democratic-candidate-in-florida-estimates-that-13000-cubans-were-deported-during-trumps-two-terms/",
+      "domain": "translatingcuba.com",
+      "published": "2026-10-15",
+      "publishedAsGiven": "Oct 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Nearly 12000 Cubans Deported Under Trump's Two Terms",
+      "url": "https://www.cubaheadlines.com/articles/342445",
+      "domain": "cubaheadlines.com",
+      "published": "2026-10-09",
+      "publishedAsGiven": "Oct 9, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "PolitiFact FL: Angie Nixon said Trump has deported 'over ...",
+      "url": "https://www.wlrn.org/immigration/2026-10-13/angie-nixon-trump-deporte-cubans",
+      "domain": "wlrn.org",
+      "published": "2026-10-13",
+      "publishedAsGiven": "Oct 13, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact-checking Angie Nixon on Trump's deportation of Cubans",
+      "url": "https://politifact.com/factchecks/2026/oct/09/angie-nixon/cubans-deportation-immigration-trump-nixon/",
+      "domain": "politifact.com",
+      "published": "2026-10-09",
+      "publishedAsGiven": "Oct 9, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Florida state Rep. Angie Nixon, seeking to become the ...",
+      "url": "https://www.facebook.com/politifact/posts/florida-state-rep-angie-nixon-seeking-to-become-the-states-next-us-senator-said-/1577632881064476/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Has Trump deported more than 13000 Cubans across his ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-has-trump-deported-more-than-13000-cubans-across-his-two-terms/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-10-12",
+      "publishedAsGiven": "Oct 12, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Angie Nixon says Trump deported over 13000 Cubans",
+      "url": "https://www.thefloridapress.com/news/angie-nixon-says-trump-deported-over-13000-cubans-available-data-puts-the-total-",
+      "domain": "thefloridapress.com",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Democratic Candidate in Florida Estimates That ...",
+      "url": "https://translatingcuba.com/democratic-candidate-in-florida-estimates-that-13000-cubans-were-deported-during-trumps-two-terms/",
+      "domain": "translatingcuba.com",
+      "published": "2026-10-15",
+      "publishedAsGiven": "Oct 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Fact-checking Angie Nixon on Trump's deportation of Cubans",
+      "url": "https://us.headtopics.com/news/fact-checking-angie-nixon-on-trump-s-deportation-of-cubans-88645342",
+      "domain": "us.headtopics.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Trump has already deported nearly 12000 Cubans during ...",
+      "url": "https://en.cibercuba.com/noticias/2026-10-09-u1-e135253-s27061-nid342445-trump-acumula-cerca-12-mil-deportaciones-cubanos-sus",
+      "domain": "en.cibercuba.com",
+      "published": "2026-10-09",
+      "publishedAsGiven": "Oct 9, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "As she courted South Florida voters, Democratic US ...",
+      "url": "https://www.facebook.com/politifact/posts/as-she-courted-south-florida-voters-democratic-us-senate-candidate-angie-nixon-s/1578672677627163/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "US has deported thousands to danger in Mexico, Human ...",
+      "url": "https://apnews.com/article/mexico-cubans-deported-venezuelans-human-rights-trump-9a3bbf41ad33384675983cbf748c330a",
+      "domain": "apnews.com",
+      "published": "2026-05-26",
+      "publishedAsGiven": "May 26, 2026",
+      "snippet": "The Trump administration has deported nearly 13000 Cubans, Venezuelans and others to Mexico, where they face cartel violence and limited ..."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Immigrants seeking asylum are ordered to countries they' ...",
+      "url": "https://apnews.com/article/trump-immigration-deportation-57084b48328548fbfda3355aa933913b",
+      "domain": "apnews.com",
+      "published": "2026-04-02",
+      "publishedAsGiven": "Apr 2, 2026",
+      "snippet": "More than 13,000 migrants have been ordered deported to so-called “safe third countries” after their asylum cases were canceled, according to ..."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "The US said it had no choice but to deport them to a third ...",
+      "url": "https://www.reuters.com/world/americas/us-said-it-had-no-choice-deport-them-third-country-then-it-sent-them-home-2025-08-02/",
+      "domain": "reuters.com",
+      "published": "2025-08-02",
+      "publishedAsGiven": "Aug 2, 2025",
+      "snippet": "President Donald Trump aims to deport millions of immigrants in the U.S. illegally and his administration has sought to ramp up removals to ..."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "US sanctions Cuba's President Miguel Díaz-Canel",
+      "url": "https://apnews.com/live/trump-administration-updates-06-04-2026",
+      "domain": "apnews.com",
+      "published": "2026-06-04",
+      "publishedAsGiven": "Jun 4, 2026",
+      "snippet": "The sanctions come after U.S. President Donald Trump signed an executive order expanding sanctions against the island. The new sanctions boost ..."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Cuba accuses US of letting terrorists operate with impunity ...",
+      "url": "https://www.reuters.com/world/americas/cuba-accuses-us-letting-terrorists-operate-with-impunity-after-speedboat-raid-2026-10-20/",
+      "domain": "reuters.com",
+      "published": "2026-10-19",
+      "publishedAsGiven": "8 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "Trump ends deployment of 2000 National Guard troops in LA",
+      "url": "https://apnews.com/live/donald-trump-news-updates-7-15-2025",
+      "domain": "apnews.com",
+      "published": "2025-07-15",
+      "publishedAsGiven": "Jul 15, 2025",
+      "snippet": "President Donald Trump's administration is ending the deployment of 2,000 National Guard troops sent to Los Angeles to support immigration ..."
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Migrant camps overflow as Mexico cracks down after ...",
+      "url": "https://www.reuters.com/article/world/migrant-camps-overflow-as-mexico-cracks-down-after-trump-threats-idUSKCN1RT20U/",
+      "domain": "reuters.com",
+      "published": "2019-04-17",
+      "publishedAsGiven": "Apr 17, 2019",
+      "snippet": "Unreleased INM data, reviewed by Reuters, showed that it detained 12,746 undocumented migrants for registration in March, up by nearly one-third ..."
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Cuba says attacking speedboat had nearly ...",
+      "url": "https://www.reuters.com/world/americas/cuba-says-attacking-speedboat-had-nearly-13000-rounds-ammunition-2026-02-28/",
+      "domain": "reuters.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "Feb 27, 2026",
+      "snippet": "A commando of Cuban exiles who intended to infiltrate Cuba on a speedboat was armed with nearly 13000 rounds of ammunition, 13 rifles and 11 ..."
+    }
+  ],
+  "returned": 27,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 9,
+    "after-said": 7,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:26:33.323Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "US has deported thousands of Cubans and Venezuelans ...",
+      "url": "https://www.washingtonpost.com/world/2026/05/27/mexico-cubans-deported-venezuelans-human-rights-trump/1dee1478-5993-11f1-8a9d-afb1148204e1_story.html",
+      "domain": "washingtonpost.com",
+      "snippet": "The Trump administration has deported nearly 13,000 Cubans, Venezuelans and others to Mexico, where they face cartel violence and limited legal ...",
+      "published": "2026-05-27",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Washington Post",
+        "page": "https://mediabiasfactcheck.com/washington-post/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "US has deported thousands to danger in Mexico, Human ...",
+      "url": "https://apnews.com/article/mexico-cubans-deported-venezuelans-human-rights-trump-9a3bbf41ad33384675983cbf748c330a",
+      "domain": "apnews.com",
+      "snippet": "The Trump administration has deported nearly 13000 Cubans, Venezuelans and others to Mexico, where they face cartel violence and limited ...",
+      "published": "2026-05-26",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Associated Press",
+        "page": "https://mediabiasfactcheck.com/associated-press/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Cubans, Many in the US for Decades, Deported to Mexico",
+      "url": "https://www.hrw.org/news/2026/05/27/cubans-many-in-the-us-for-decades-deported-to-mexico",
+      "domain": "hrw.org",
+      "snippet": "The Trump administration has deported over 4,300 Cubans to Mexico, many of whom are older people with serious health conditions who had been ...",
+      "published": "2026-05-27",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Human Rights Watch",
+        "page": "https://mediabiasfactcheck.com/human-rights-watch/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Immigrants seeking asylum are ordered to countries they' ...",
+      "url": "https://apnews.com/article/trump-immigration-deportation-57084b48328548fbfda3355aa933913b",
+      "domain": "apnews.com",
+      "snippet": "More than 13,000 migrants have been ordered deported to so-called “safe third countries” after their asylum cases were canceled, according to ...",
+      "published": "2026-04-02",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Associated Press",
+        "page": "https://mediabiasfactcheck.com/associated-press/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "The US said it had no choice but to deport them to a third ...",
+      "url": "https://www.reuters.com/world/americas/us-said-it-had-no-choice-deport-them-third-country-then-it-sent-them-home-2025-08-02/",
+      "domain": "reuters.com",
+      "snippet": "President Donald Trump aims to deport millions of immigrants in the U.S. illegally and his administration has sought to ramp up removals to ...",
+      "published": "2025-08-02",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

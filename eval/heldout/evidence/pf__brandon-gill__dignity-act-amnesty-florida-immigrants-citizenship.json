@@ -1,0 +1,247 @@
+{
+  "frozenAt": "2026-10-27T03:13:15.614Z",
+  "refilteredAt": "2026-10-27T03:35:07.774Z",
+  "id": "pf/brandon-gill/dignity-act-amnesty-florida-immigrants-citizenship",
+  "said": "2026-04-07",
+  "queries": {
+    "fact": "The Dignity Act is mass amnesty.",
+    "claim": "The Dignity Act is mass amnesty. Brandon Gill"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1108.1841669999994,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1238.0223749999423,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "The DIGNIDAD (Dignity) Act as 'Rage Bait' for Those Who ...",
+      "url": "https://cis.org/Arthur/DIGNIDAD-Dignity-Act-Rage-Bait-Those-Who-Want-More-Enforcement",
+      "domain": "cis.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "DIGNIDAD (Dignity) Act of 2025 - 119th Congress",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/4393",
+      "domain": "congress.gov",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "DIGNITY Act in the News: 250+ Stories Leading the National ...",
+      "url": "http://salazar.house.gov/media/press-releases/dignity-act-news-250-stories-leading-national-conversation-immigration-reform",
+      "domain": "salazar.house.gov",
+      "published": "2026-07-08",
+      "publishedAsGiven": "Jul 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "The Dignity Act of 2025: An Outdated and Harmful ...",
+      "url": "https://www.nilc.org/resources/the-dignity-act-of-2025-an-outdated-and-harmful-approach-to-immigration-reform/",
+      "domain": "nilc.org",
+      "published": "2026-04-28",
+      "publishedAsGiven": "Apr 28, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "The Dignity Act, introduced in Congress by (R) Rep. Maria ...",
+      "url": "https://www.facebook.com/lulac.national.dc/posts/the-dignity-act-introduced-in-congress-by-r-rep-maria-elvira-salazar-is-bringing/1370991398396075/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "The Dignity Act | Representative Maria Salazar - House.gov",
+      "url": "http://salazar.house.gov/dignity-act",
+      "domain": "salazar.house.gov",
+      "published": "2025-07-15",
+      "publishedAsGiven": "Jul 15, 2025",
+      "snippet": "The Dignity Act is based on the biblical principles of Dignity. It will restore law and order to our immigration system and support American ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "PolitiFact FL: Would Florida US Rep. Maria Salazar's ' ...",
+      "url": "https://www.wlrn.org/government-politics/2026-04-14/politifact-fl-would-florida-us-rep-maria-salazars-dignity-act-grant-mass-amnesty-to-immigrants",
+      "domain": "wlrn.org",
+      "published": "2026-04-14",
+      "publishedAsGiven": "Apr 14, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "DIGNITY Act EXPLAINED: Tough, Fair, No Amnesty",
+      "url": "https://www.youtube.com/watch?v=KLlnYH_TfKI",
+      "domain": "youtube.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "The Dignity Act of 2025: Bill Summary",
+      "url": "https://forumtogether.org/article/the-dignity-act-of-2025-bill-summary/",
+      "domain": "forumtogether.org",
+      "published": "2025-07-15",
+      "publishedAsGiven": "Jul 15, 2025",
+      "snippet": "It also establishes the Dignity Program, which allows undocumented immigrants to obtain legal status – with no path to citizenship – if they ..."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "FAIR Lays Out the Flaws in the Dignity Act's Push for Amnesty",
+      "url": "https://www.fairus.org/legislation/congress/flaws-in-dignity-act-push-for-amnesty",
+      "domain": "fairus.org",
+      "published": "2025-11-05",
+      "publishedAsGiven": "Nov 5, 2025",
+      "snippet": "Title III of Division B of the bill would establish the Dignity Program to grant amnesty to an estimated 10.5 million illegal aliens by ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Rep. Brandon Gill Blasts 'Mass Amnesty' Bill",
+      "url": "https://texasscorecard.com/federal/rep-brandon-gill-blasts-mass-amnesty-bill/",
+      "domain": "texasscorecard.com",
+      "published": "2026-04-08",
+      "publishedAsGiven": "Apr 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Would Florida US Rep. Maria Salazar's 'Dignity Act' grant ...",
+      "url": "https://www.wlrn.org/light/government-politics/2026-04-14/politifact-fl-would-florida-us-rep-maria-salazars-dignity-act-grant-mass-amnesty-to-immigrants",
+      "domain": "wlrn.org",
+      "published": "2026-04-14",
+      "publishedAsGiven": "Apr 14, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Would the Dignity Act grant 'mass amnesty'?",
+      "url": "https://politifact.com/factchecks/2026/apr/13/brandon-gill/dignity-act-amnesty-florida-immigrants-citizenship/",
+      "domain": "politifact.com",
+      "published": "2026-04-13",
+      "publishedAsGiven": "Apr 13, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "What The Dignity Act REALLY Is - Feat. Rep Brandon Gill ...",
+      "url": "https://mcmullencounty.org/video/?vid=S4RT8I8XM9q",
+      "domain": "mcmullencounty.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Is the Dignity Act a Form of Mass Amnesty for Immigrants?",
+      "url": "https://mediabiasfactcheck.com/fact-check-is-the-dignity-act-a-form-of-mass-amnesty-for-immigrants/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-04-20",
+      "publishedAsGiven": "Apr 20, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "GOP battle over Salazar's Dignity Act immigration bill has ...",
+      "url": "https://www.facebook.com/WJBFNewsChannel6/posts/gop-battle-over-salazars-dignity-act-immigration-bill-has-republicans-lashing-ou/1365521308938364/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "MAGA erupts as Republican pushes to offer path ...",
+      "url": "https://www.newsweek.com/maga-erupts-republican-pushes-legalize-undocumented-migrants-11801468",
+      "domain": "newsweek.com",
+      "published": "2026-04-08",
+      "publishedAsGiven": "Apr 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "U.S. Rep Veronica Escobar's bipartisan immigration bill draws ...",
+      "url": "https://escobar.house.gov/news/documentsingle.aspx?DocumentID=3172",
+      "domain": "escobar.house.gov",
+      "published": "2026-05-11",
+      "publishedAsGiven": "May 11, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "The DIGNIDAD (Dignity) Act as 'Rage Bait' for Those Who ...",
+      "url": "https://cis.org/Arthur/DIGNIDAD-Dignity-Act-Rage-Bait-Those-Who-Want-More-Enforcement",
+      "domain": "cis.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Maria Elvira Salazar Fires Back at Brandon Gill Over ...",
+      "url": "https://floridianpress.com/2026/04/maria-elvira-salazar-fires-back-at-brandon-gill-over-dignity-act/",
+      "domain": "floridianpress.com",
+      "published": "2026-04-08",
+      "publishedAsGiven": "Apr 8, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 3,
+    "after-said": 7,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 4
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:13:13.267Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "The Dignity Act of 2025: Bill Summary",
+      "url": "https://forumtogether.org/article/the-dignity-act-of-2025-bill-summary/",
+      "domain": "forumtogether.org",
+      "snippet": "It also establishes the Dignity Program, which allows undocumented immigrants to obtain legal status – with no path to citizenship – if they ...",
+      "published": "2025-07-15",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

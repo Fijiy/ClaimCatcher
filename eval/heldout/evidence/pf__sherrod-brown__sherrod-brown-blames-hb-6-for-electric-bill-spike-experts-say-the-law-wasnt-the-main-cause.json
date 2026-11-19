@@ -1,0 +1,248 @@
+{
+  "frozenAt": "2026-10-27T03:17:06.356Z",
+  "refilteredAt": "2026-10-27T03:36:03.186Z",
+  "id": "pf/sherrod-brown/sherrod-brown-blames-hb-6-for-electric-bill-spike-experts-say-the-law-wasnt-the-main-cause",
+  "said": "2026-07-01",
+  "queries": {
+    "fact": "Since the passage of the Jon Husted-backed HB 6, Ohioans’ residential utility rates have gone up $663 a year.",
+    "claim": "Since the passage of the Jon Husted-backed HB 6, Ohioans’ residential utility rates have gone up $663 a year. Sherrod Brown"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1337.6990409999853,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2294.8374170000898,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Jon Husted tied to bribery scheme as Ohio bills rise $663",
+      "url": "https://tiffinohio.net/posts/husted-helped-pass-hb-6-for-a-company-paying-him-now-ohioans-pay-663-more-a-year-for-electricity/",
+      "domain": "tiffinohio.net",
+      "published": "2026-02-26",
+      "publishedAsGiven": "Feb 26, 2026",
+      "snippet": "Since HB 6 took effect in 2019, average Ohio residential electric bills have risen from $1,070 to $1,734 annually — an increase of $663 per year ..."
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Ohioans Call Out Jon Husted For Record of Jacking Up ...",
+      "url": "https://ohiodems.org/ohioans-call-out-jon-husted-for-record-of-jacking-up-energy-rates/",
+      "domain": "ohiodems.org",
+      "published": "2026-08-04",
+      "publishedAsGiven": "Aug 4, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Sherrod Brown blames HB 6 for electric bill spike. Experts ...",
+      "url": "https://politifact.com/factchecks/2026/jul/20/sherrod-brown/sherrod-brown-blames-hb-6-for-electric-bill-spike-experts-say-the-law-wasnt-the-main-cause/",
+      "domain": "politifact.com",
+      "published": "2026-07-20",
+      "publishedAsGiven": "Jul 20, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Is HB 6 to blame for Ohio's electric bill hike?",
+      "url": "https://us.headtopics.com/news/is-hb-6-to-blame-for-ohio-s-electric-bill-hike-85774871",
+      "domain": "us.headtopics.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Since the passage of the corrupt, Jon Husted-backed HB6 ...",
+      "url": "https://www.facebook.com/sherrod/posts/since-the-passage-of-the-corrupt-jon-husted-backed-hb6-bailout-your-utility-rate/1564795168336456/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Ohio families are paying the price for the government ...",
+      "url": "https://www.newsfromthestates.com/article/ohio-families-are-paying-price-government-induced-energy-crisis",
+      "domain": "newsfromthestates.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Protecting Ohioans from high energy costs",
+      "url": "https://www.husted.senate.gov/contact/newsletters/protecting-ohioans-from-high-energy-costs/",
+      "domain": "husted.senate.gov",
+      "published": "2026-10-05",
+      "publishedAsGiven": "Oct 5, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Ohioans Call Out Jon Husted Over Data Center Costs and ...",
+      "url": "https://www.facebook.com/OHDems/videos/jon-husted-brought-hundreds-of-data-centers-to-ohio-and-said-we-were-the-reason-/2173371960270515/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "WHAT OHIOANS ARE READING: 'Electric bills hit new ...",
+      "url": "https://ohiodems.org/what-ohioans-are-reading-electric-bills-hit-new-highs-across-ohio-state-data-shows/",
+      "domain": "ohiodems.org",
+      "published": "2026-08-06",
+      "publishedAsGiven": "Aug 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Fact-checks (188)",
+      "url": "https://politifact.com/search/factcheck/?q=testify",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Sherrod Brown blames HB 6 for electric bill spike. Experts ...",
+      "url": "https://politifact.com/factchecks/2026/jul/20/sherrod-brown/sherrod-brown-blames-hb-6-for-electric-bill-spike-experts-say-the-law-wasnt-the-main-cause/",
+      "domain": "politifact.com",
+      "published": "2026-07-20",
+      "publishedAsGiven": "Jul 20, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Jon Husted tied to bribery scheme as Ohio bills rise $663",
+      "url": "https://tiffinohio.net/posts/husted-helped-pass-hb-6-for-a-company-paying-him-now-ohioans-pay-663-more-a-year-for-electricity/",
+      "domain": "tiffinohio.net",
+      "published": "2026-02-26",
+      "publishedAsGiven": "Feb 26, 2026",
+      "snippet": "Since HB 6 took effect in 2019, average Ohio residential electric bills have risen from $1,070 to $1,734 annually — an increase of $663 per year ..."
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "ICYMI: Ohioans Call Out Jon Husted For Record of Jacking ...",
+      "url": "https://ohiodems.org/icymi-ohioans-call-out-jon-husted-for-record-of-jacking-up-utility-rates/",
+      "domain": "ohiodems.org",
+      "published": "2026-08-05",
+      "publishedAsGiven": "Aug 5, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Ohio Democratic Ads Connect Husted to Bribery Scandal ...",
+      "url": "https://www.factcheck.org/2026/09/ohio-democratic-ads-connect-husted-to-bribery-scandal-despite-no-charges-of-wrongdoing/",
+      "domain": "factcheck.org",
+      "published": "2026-09-09",
+      "publishedAsGiven": "Sep 9, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Ohioans are paying more for utility bills than ever this ...",
+      "url": "https://www.facebook.com/sherrod/posts/ohioans-are-paying-more-for-utility-bills-than-ever-this-summer-and-jon-husted-h/1581154860033820/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Latest Fact-Checks On Sherrod Brown",
+      "url": "https://politifact.com/factchecks/list/?speaker=sherrod-brown",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "In Newark, Sherrod Brown Meets With Ohioans Who Are Fed ...",
+      "url": "https://www.sherrodbrown.com/2026/09/21/in-newark-sherrod-brown-meets-with-ohioans-who-are-fed-up-with-jon-husteds-high-prices/",
+      "domain": "sherrodbrown.com",
+      "published": "2026-09-21",
+      "publishedAsGiven": "Sep 21, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "As energy prices soar, Ohio FirstEnergy scandal gets new ...",
+      "url": "https://www.dispatch.com/story/news/politics/elections/2026/08/10/sherrod-brown-jon-husted-spar-over-energy-costs-in-ohio-senate-race/90783891007/",
+      "domain": "dispatch.com",
+      "published": "2026-08-10",
+      "publishedAsGiven": "Aug 10, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Ohio Resident Slams Utility Bill Spike and Third-Party Contracts",
+      "url": "https://www.facebook.com/sherrod/videos/ohio-cant-afford-jon-hustedutility-costs-continue-to-climb-and-jon-husted-has-on/996136423212861/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Is HB 6 to blame for Ohio's electric bill hike?",
+      "url": "https://ng.headtopics.com/news/is-hb-6-to-blame-for-ohio-s-electric-bill-hike-85774871",
+      "domain": "ng.headtopics.com",
+      "published": "2026-07-20",
+      "publishedAsGiven": "Jul 20, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 5,
+    "fact-check-words": 0,
+    "after-said": 9,
+    "maybe-after-said": 3,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:17:02.722Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Jon Husted tied to bribery scheme as Ohio bills rise $663",
+      "url": "https://tiffinohio.net/posts/husted-helped-pass-hb-6-for-a-company-paying-him-now-ohioans-pay-663-more-a-year-for-electricity/",
+      "domain": "tiffinohio.net",
+      "snippet": "Since HB 6 took effect in 2019, average Ohio residential electric bills have risen from $1,070 to $1,734 annually — an increase of $663 per year ...",
+      "published": "2026-02-26",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

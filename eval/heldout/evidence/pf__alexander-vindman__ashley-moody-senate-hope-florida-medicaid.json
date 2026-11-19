@@ -1,0 +1,193 @@
+{
+  "frozenAt": "2026-10-27T03:17:49.708Z",
+  "refilteredAt": "2026-10-27T03:36:13.436Z",
+  "id": "pf/alexander-vindman/ashley-moody-senate-hope-florida-medicaid",
+  "said": "2026-07-27",
+  "queries": {
+    "fact": "Then-Florida Attorney General Ashley Moody transferred $10 million in taxpayer money meant for children’s health care to a campaign fund.",
+    "claim": "Then-Florida Attorney General Ashley Moody transferred $10 million in taxpayer money meant for children’s health care to a campaign fund. Alexander Vindman"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2111.2099999999627,
+      "results": 8
+    },
+    {
+      "query": "claim",
+      "ms": 2488.6415419999976,
+      "results": 8
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Grand jury finds DeSantis administration \"misappropriated\" ...",
+      "url": "https://www.cbsnews.com/miami/news/grand-jury-report-hope-florida/",
+      "domain": "cbsnews.com",
+      "published": "2026-08-26",
+      "publishedAsGiven": "Aug 26, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Angie Nixon keeps hammering on Hope Florida. ...",
+      "url": "https://www.wlrn.org/light/government-politics/2026-10-26/angie-nixon-keeps-hammering-on-hope-florida-what-happened-what-was-ashley-moodys-involvement",
+      "domain": "wlrn.org",
+      "published": "2026-10-26",
+      "publishedAsGiven": "15 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Following new reports showing Florida Senator Ashley ...",
+      "url": "https://www.facebook.com/angieforfl/posts/following-new-reports-showing-florida-senator-ashley-moody-yet-again-dodging-que/1510378850901377/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Leaked Grand Jury Report on $10M Medicaid Diversion ...",
+      "url": "https://www.usnews.com/news/national-news/articles/2026-10-19/leaked-grand-jury-report-on-10m-medicaid-diversion-jolts-florida-campaigns",
+      "domain": "usnews.com",
+      "published": "2026-10-19",
+      "publishedAsGiven": "8 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Angie Nixon keeps hammering on Hope Florida. What ...",
+      "url": "https://politifact.com/article/2026/oct/22/hope-florida-angie-nixon-ashley-moody-10-million/",
+      "domain": "politifact.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Florida Democrats ad ties Ashley Moody, James Uthmeier ...",
+      "url": "https://floridapolitics.com/archives/826134-fladem-hope-florida-ad/",
+      "domain": "floridapolitics.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Hope Florida scandal",
+      "url": "https://en.wikipedia.org/wiki/Hope_Florida_scandal",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Alexander Vindman overstates what is known about Ashley ...",
+      "url": "https://www.wlrn.org/light/education/2026-08-13/alexander-vindman-overstates-what-is-known-about-ashley-moodys-role-in-hope-florida-scandal",
+      "domain": "wlrn.org",
+      "published": "2026-08-13",
+      "publishedAsGiven": "Aug 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Alexander Vindman overstates what is known about Ashley ...",
+      "url": "https://www.wlrn.org/light/education/2026-08-13/alexander-vindman-overstates-what-is-known-about-ashley-moodys-role-in-hope-florida-scandal",
+      "domain": "wlrn.org",
+      "published": "2026-08-13",
+      "publishedAsGiven": "Aug 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact-checking Ashley Moody's role in Hope Florida scandal",
+      "url": "https://politifact.com/factchecks/2026/aug/13/alexander-vindman/ashley-moody-senate-hope-florida-medicaid/",
+      "domain": "politifact.com",
+      "published": "2026-08-13",
+      "publishedAsGiven": "Aug 13, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Following new reports showing Florida Senator Ashley ...",
+      "url": "https://www.facebook.com/angieforfl/posts/following-new-reports-showing-florida-senator-ashley-moody-yet-again-dodging-que/1510378850901377/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Sen. Ashley Moody faces more scrutiny over $10M Hope ...",
+      "url": "https://www.floridatoday.com/story/news/politics/2026/07/28/senator-ashley-moody-faces-more-scrutiny-hope-florida-scandal/91066525007/",
+      "domain": "floridatoday.com",
+      "published": "2026-07-28",
+      "publishedAsGiven": "Jul 28, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Imagine taking $10 million meant to help poor kids get health ...",
+      "url": "https://www.facebook.com/angieforfl/posts/imagine-taking-10-million-meant-to-help-poor-kids-get-health-care-and-letting-it/1473263231279606/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "\"Ashley Moody transferred $10 million of YOUR dollars ...",
+      "url": "https://x.com/AVindman/status/2081526216994001035",
+      "domain": "x.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Angie Nixon keeps hammering on Hope Florida. What ...",
+      "url": "https://politifact.com/article/2026/oct/22/hope-florida-angie-nixon-ashley-moody-10-million/",
+      "domain": "politifact.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Florida Democratic chair calls on Ashley Moody to release ...",
+      "url": "https://floridaphoenix.com/2026/07/29/florida-democratic-chair-calls-on-ashley-moody-to-release-grand-jury-report-on-hope-florida/",
+      "domain": "floridaphoenix.com",
+      "published": "2026-07-29",
+      "publishedAsGiven": "Jul 29, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 16,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 0,
+    "after-said": 8,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 5
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:17:42.824Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

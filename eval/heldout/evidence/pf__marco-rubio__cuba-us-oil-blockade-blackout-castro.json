@@ -1,0 +1,314 @@
+{
+  "frozenAt": "2026-10-27T03:15:04.026Z",
+  "refilteredAt": "2026-10-27T03:35:33.176Z",
+  "id": "pf/marco-rubio/cuba-us-oil-blockade-blackout-castro",
+  "said": "2026-05-20",
+  "queries": {
+    "fact": "The reason (people in Cuba) are forced to survive 22 hours a day without electricity is not due to an oil ‘blockade’ by the US.",
+    "claim": "The reason (people in Cuba) are forced to survive 22 hours a day without electricity is not due to an oil ‘blockade’ by the US. Marco Rubio"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2864.780291999923,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1580.889458999969,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Are Cuba's 22-hour blackouts and a US oil blockade ...",
+      "url": "https://www.wlrn.org/americas/2026-05-26/are-cubas-22-hour-blackouts-and-a-us-oil-blockade-unrelated-as-marco-rubio-said",
+      "domain": "wlrn.org",
+      "published": "2026-05-26",
+      "publishedAsGiven": "May 26, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "People in Cuba have been living through near-constant ...",
+      "url": "https://www.facebook.com/NPRCodeSwitch/posts/people-in-cuba-have-been-living-through-near-constant-blackouts-for-months-ever-/1462336672430364/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Cuba's blackouts in charts: More hours without power than ...",
+      "url": "https://english.elpais.com/international/2026-05-22/cubas-blackout-in-charts-more-hours-without-power-than-with-it-as-trumps-pressure-intensifies.html",
+      "domain": "english.elpais.com",
+      "published": "2026-05-22",
+      "publishedAsGiven": "May 22, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Cuba restores power after 29-hour blackout amid US oil ...",
+      "url": "https://www.facebook.com/aljazeera/posts/cuba-restores-power-after-29-hour-blackout-amid-us-oil-blockade/1389031943271156/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "snippet": "Cubans see the long-standing US embargo as the main reason for their hardships. The tightening … a US oil blockade"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "2026 United States fuel blockade on Cuba",
+      "url": "https://en.wikipedia.org/wiki/2026_United_States_fuel_blockade_on_Cuba",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Is the US Oil Blockade of Cuba 'An Act of War'? Analyst Explains",
+      "url": "https://www.facebook.com/cgtnamerica/videos/cubas-economic-and-energy-crisis-is-deepening-with-millions-facing-blackouts-ana/1405345167839497/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Protests flare across Havana as power cuts deepen amid ...",
+      "url": "https://www.reuters.com/business/energy/cuba-has-run-out-diesel-fuel-oil-amid-us-oil-blockade-minister-says-2026-05-14/",
+      "domain": "reuters.com",
+      "published": "2026-05-14",
+      "publishedAsGiven": "May 14, 2026",
+      "snippet": "Blackouts have increased dramatically ​this week, with many districts of Havana ​without light for 20 to 22 ⁠hours a day, the minister said, ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Cuba's Health Care Buckles Under Fuel Blockade",
+      "url": "https://www.thinkglobalhealth.org/article/cubas-health-care-buckles-under-fuel-blockade",
+      "domain": "thinkglobalhealth.org",
+      "published": "2026-05-19",
+      "publishedAsGiven": "May 19, 2026",
+      "snippet": "The 2026 U.S. oil blockade on Cuba has demonstrated how fuel holds the island's health system together. Cuba produces only about 40% of the ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Cuba Blackout Crisis: U.S. Oil Blockade Explained",
+      "url": "https://www.youtube.com/watch?v=vXUgUg4n8aE",
+      "domain": "youtube.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Opinion: The U.S.-imposed fuel crisis in Cuba is inhumane ...",
+      "url": "https://ctmirror.org/2026/07/30/the-u-s-imposed-fuel-crisis-in-cuba-is-inhumane-and-immoral/",
+      "domain": "ctmirror.org",
+      "published": "2026-07-30",
+      "publishedAsGiven": "Jul 30, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Are Cuba's 22-hour blackouts and a US oil blockade ...",
+      "url": "https://www.wlrn.org/americas/2026-05-26/are-cubas-22-hour-blackouts-and-a-us-oil-blockade-unrelated-as-marco-rubio-said",
+      "domain": "wlrn.org",
+      "published": "2026-05-26",
+      "publishedAsGiven": "May 26, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Are Cuba's 22-hour blackouts and a US oil blockade ...",
+      "url": "https://politifact.com/factchecks/2026/may/22/marco-rubio/cuba-us-oil-blockade-blackout-castro/",
+      "domain": "politifact.com",
+      "published": "2026-05-22",
+      "publishedAsGiven": "May 22, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Rubio offers Cuban people 'new relationship' in Spanish- ...",
+      "url": "https://nypost.com/2026/05/20/us-news/rubio-offers-cuban-people-new-relationship-in-spanish-language-message/",
+      "domain": "nypost.com",
+      "published": "2026-05-20",
+      "publishedAsGiven": "May 20, 2026",
+      "snippet": "“The reason you are forced to survive 22 hours a day without electricity is not due to an oil blockade by the US,” Rubio said in the Spanish- ..."
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Marco Rubio's message to the Cuban people",
+      "url": "https://www.newsnationnow.com/world/text-marco-rubios-message-to-cuban-people/",
+      "domain": "newsnationnow.com",
+      "published": "2026-05-20",
+      "publishedAsGiven": "May 20, 2026",
+      "snippet": "The real reason you don't have electricity, fuel, or food is because those who control your country have plundered billions of dollars, but ..."
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Marco Rubio message to Cubans blames communist ...",
+      "url": "https://thehill.com/homenews/5886889-cuban-independence-rubio-video-message/",
+      "domain": "thehill.com",
+      "published": "2026-05-20",
+      "publishedAsGiven": "May 20, 2026",
+      "snippet": "“The real reason you don't have electricity, fuel or food is because those who control your country have plundered billions of dollars, but ..."
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "SECRETARY RUBIO: The blackouts in Cuba have nothing to ...",
+      "url": "https://www.facebook.com/statedept/videos/secretary-rubio-the-blackouts-in-cuba-have-nothing-to-do-with-ustheyre-having-bl/1676307173821765/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "snippet": "They're having blackouts because they have equipment from the 1950s in their grid that has never been maintained or upgraded because their ..."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Rubio Says There's No Oil Blockade on Cuba. Cubans Disagree",
+      "url": "https://www.bellyofthebeastcuba.com/rubio-says-theres-no-oil-blockade-cubans-disagree",
+      "domain": "bellyofthebeastcuba.com",
+      "published": "2026-05-22",
+      "publishedAsGiven": "May 22, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Marco Rubio: This Is Why Cuba Is Stuck In Devestating Energy ...",
+      "url": "https://www.youtube.com/watch?v=TPnb7yQr4oM",
+      "domain": "youtube.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Rubio offers Cubans \"new path\" in video address as U.S. ...",
+      "url": "https://www.cbsnews.com/news/cuba-marco-rubio-video-us-prepares-indict-raul-castro/",
+      "domain": "cbsnews.com",
+      "published": "2026-05-20",
+      "publishedAsGiven": "May 20, 2026",
+      "snippet": "\"The real reason you don't have electricity, fuel, or food is because those who control your country have plundered billions of dollars, but ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Rubio, in Video, Urges Cubans to Align With Trump ...",
+      "url": "https://www.nytimes.com/2026/05/20/us/politics/rubio-cuba-us-trump.html",
+      "domain": "nytimes.com",
+      "published": "2026-05-20",
+      "publishedAsGiven": "May 20, 2026",
+      "snippet": "“The reason you are forced to survive 22 hours a day without electricity is not due to an oil blockade by the U.S.,” Mr. Rubio said in Spanish."
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 0,
+    "after-said": 9,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:14:59.580Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Protests flare across Havana as power cuts deepen amid ...",
+      "url": "https://www.reuters.com/business/energy/cuba-has-run-out-diesel-fuel-oil-amid-us-oil-blockade-minister-says-2026-05-14/",
+      "domain": "reuters.com",
+      "snippet": "Blackouts have increased dramatically ​this week, with many districts of Havana ​without light for 20 to 22 ⁠hours a day, the minister said, ...",
+      "published": "2026-05-14",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Rubio offers Cubans \"new path\" in video address as U.S. ...",
+      "url": "https://www.cbsnews.com/news/cuba-marco-rubio-video-us-prepares-indict-raul-castro/",
+      "domain": "cbsnews.com",
+      "snippet": "\"The real reason you don't have electricity, fuel, or food is because those who control your country have plundered billions of dollars, but ...",
+      "published": "2026-05-20",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "CBS News",
+        "page": "https://mediabiasfactcheck.com/cbs-news/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Rubio, in Video, Urges Cubans to Align With Trump ...",
+      "url": "https://www.nytimes.com/2026/05/20/us/politics/rubio-cuba-us-trump.html",
+      "domain": "nytimes.com",
+      "snippet": "“The reason you are forced to survive 22 hours a day without electricity is not due to an oil blockade by the U.S.,” Mr. Rubio said in Spanish.",
+      "published": "2026-05-20",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "New York Times",
+        "page": "https://mediabiasfactcheck.com/new-york-times/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Cuba's Health Care Buckles Under Fuel Blockade",
+      "url": "https://www.thinkglobalhealth.org/article/cubas-health-care-buckles-under-fuel-blockade",
+      "domain": "thinkglobalhealth.org",
+      "snippet": "The 2026 U.S. oil blockade on Cuba has demonstrated how fuel holds the island's health system together. Cuba produces only about 40% of the ...",
+      "published": "2026-05-19",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 4
+    },
+    {
+      "title": "Rubio offers Cuban people 'new relationship' in Spanish- ...",
+      "url": "https://nypost.com/2026/05/20/us-news/rubio-offers-cuban-people-new-relationship-in-spanish-language-message/",
+      "domain": "nypost.com",
+      "snippet": "“The reason you are forced to survive 22 hours a day without electricity is not due to an oil blockade by the US,” Rubio said in the Spanish- ...",
+      "published": "2026-05-20",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "mixed",
+        "name": "New York Post",
+        "page": "https://mediabiasfactcheck.com/new-york-post/"
+      },
+      "weight": "reduced",
+      "n": 5
+    }
+  ]
+}

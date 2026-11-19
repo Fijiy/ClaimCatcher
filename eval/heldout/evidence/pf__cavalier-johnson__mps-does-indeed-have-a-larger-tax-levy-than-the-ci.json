@@ -1,0 +1,271 @@
+{
+  "frozenAt": "2026-10-27T03:02:15.542Z",
+  "refilteredAt": "2026-10-27T03:32:24.616Z",
+  "id": "pf/cavalier-johnson/mps-does-indeed-have-a-larger-tax-levy-than-the-ci",
+  "said": "2025-01-19",
+  "queries": {
+    "fact": "After the referendum, Milwaukee Public Schools has a larger tax levy than the City of Milwaukee.",
+    "claim": "After the referendum, Milwaukee Public Schools has a larger tax levy than the City of Milwaukee. Cavalier Johnson"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1616.3259580000013,
+      "results": 9
+    },
+    {
+      "query": "claim",
+      "ms": 1604.1309580000016,
+      "results": 9
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Report raises questions about MPS case for $252 million ...",
+      "url": "https://www.wuwm.com/2024-03-20/report-raises-questions-about-mps-case-for-252-million-referendum",
+      "domain": "wuwm.com",
+      "published": "2024-03-20",
+      "publishedAsGiven": "Mar 20, 2024",
+      "snippet": "Mar 20, 2024 — In April, voters will decide on a referendum that would provide an additional $252 million for Milwaukee Public Schools . Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "During a town hall Thursday night to discuss next week's ...",
+      "url": "https://www.facebook.com/CBS58/posts/during-a-town-hall-thursday-night-to-discuss-next-weeks-vote-on-a-252-million-re/804745118352963/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Get the Facts: Milwaukee Public Schools $252 million ...",
+      "url": "https://www.wisn.com/article/get-the-facts-milwaukee-public-schools-dollar252-million-referendum-on-april-ballot/46775695",
+      "domain": "wisn.com",
+      "published": "2024-02-14",
+      "publishedAsGiven": "Feb 14, 2024",
+      "snippet": "Feb 14, 2024 — $252 million referendum on April. If passed, owners of an average home in Milwaukee , which is around $200,000, would see an extra $432 on their ..."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Wisconsin voters are more concerned with reducing their ...",
+      "url": "https://www.facebook.com/wisconsinpublicradio/posts/wisconsin-voters-are-more-concerned-with-reducing-their-property-taxes-than-incr/1375869144554226/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "The Feb. 16 MPS Referendum",
+      "url": "https://rethinkingschools.org/articles/the-mps-referendum-what-went-wrong/",
+      "domain": "rethinkingschools.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Over 60 Wisconsin school districts pass referendums ...",
+      "url": "https://www.bondbuyer.com/news/milwaukee-other-wisconsin-school-districts-pass-referendums",
+      "domain": "bondbuyer.com",
+      "published": "2024-04-08",
+      "publishedAsGiven": "Apr 8, 2024",
+      "snippet": "Apr 8, 2024 — Milwaukee Public Schools District passed a referendum Tuesday that would raise property taxes to fund $252 million of additional spending."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Wow. Need an example of why every vote counts?? A ...",
+      "url": "https://www.facebook.com/carldeffenbaughtv/posts/wow-need-an-example-of-why-every-vote-counts-a-referendum-giving-racine-unified-/753076955096199/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Milwaukee voters overwhelmingly approved an $87 million ...",
+      "url": "https://www.facebook.com/journalsentinel/posts/milwaukee-voters-overwhelmingly-approved-an-87-million-referendum-to-support-the/10158404353748816/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Milwaukee sees largest local government tax levy increase ...",
+      "url": "https://www.facebook.com/journalsentinel/posts/local-government-tax-levies-will-see-their-largest-increase-since-2018-including/1273448044818666/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Mayor Cavalier Johnson says MPS has larger tax levy than ...",
+      "url": "https://www.jsonline.com/story/news/politics/politifactwisconsin/2025/03/03/mayor-cavalier-johnson-says-fact-check-yes-mps-does-indeed-have-a-larger-tax-levy-than-the-city-of-m/80753908007/",
+      "domain": "jsonline.com",
+      "published": "2025-03-03",
+      "publishedAsGiven": "Mar 3, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "MPS does indeed have a larger tax levy than the City of ...",
+      "url": "https://api.politifact.com/factchecks/2025/mar/03/cavalier-johnson/mps-does-indeed-have-a-larger-tax-levy-than-the-ci/",
+      "domain": "api.politifact.com",
+      "published": "2025-03-03",
+      "publishedAsGiven": "Mar 3, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Mayor on MPS Money Scandal: No City Takeover, Offers Help",
+      "url": "https://www.facebook.com/KendallKeysTV/videos/milwaukee-mayor-cavalier-johnson-said-the-city-is-stepping-in-to-offer-mps-some-/353736050744581/",
+      "domain": "facebook.com",
+      "published": "2024-10-27",
+      "publishedAsGiven": "2 years ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Milwaukee Public Schools asking voters to approve $252M",
+      "url": "https://www.wpr.org/news/milwaukee-public-schools-asking-voters-to-approve-252m",
+      "domain": "wpr.org",
+      "published": "2024-03-15",
+      "publishedAsGiven": "Mar 15, 2024",
+      "snippet": "Milwaukee voters approved an $87 million referendum for MPS. This ask, nearly triple the 2020 request, would mean a $432 tax increase for the ..."
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "🚨 Milwaukee Mayor Cavalier Johnson has proposed a ...",
+      "url": "https://www.facebook.com/milwaukeemainstay/posts/milwaukee-mayor-cavalier-johnson-has-proposed-a-roughly-226-billion-2027-city-b/122317163996213786/",
+      "domain": "facebook.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Milwaukee Mayor Cavalier Johnson presented his $2.26 ...",
+      "url": "https://www.facebook.com/wisn12/posts/milwaukee-mayor-cavalier-johnson-presented-his-226-billion-budget-proposal-for-2/1658366902996254/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "The ABCs of the 2024 MPS Referendum",
+      "url": "https://wispolicyforum.org/research/the-abcs-of-the-2024-mps-referendum/",
+      "domain": "wispolicyforum.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Mayor Cavalier Johnson on Milwaukee's 2% Sales Tax Increase",
+      "url": "https://www.pbs.org/video/mayor-cavalier-johnson-on-milwaukees-2-sales-tax-increase-rx/",
+      "domain": "pbs.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Survey of Milwaukee Voters on MPS Financial Turmoil & ...",
+      "url": "https://urbanmilwaukee.com/pressrelease/fw-survey-of-milwaukee-voters-on-mps-financial-turmoil-school-board-recalls/",
+      "domain": "urbanmilwaukee.com",
+      "published": "2024-07-23",
+      "publishedAsGiven": "Jul 23, 2024",
+      "snippet": "The stakes are high for Milwaukee's taxpayers, as well. As a result of the April 2024 referendum, local property taxes for MPS will increase by ..."
+    }
+  ],
+  "returned": 18,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 2,
+    "after-said": 2,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 8
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:02:10.988Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Report raises questions about MPS case for $252 million ...",
+      "url": "https://www.wuwm.com/2024-03-20/report-raises-questions-about-mps-case-for-252-million-referendum",
+      "domain": "wuwm.com",
+      "snippet": "Mar 20, 2024 — In April, voters will decide on a referendum that would provide an additional $252 million for Milwaukee Public Schools . Read more",
+      "published": "2024-03-20",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "Milwaukee Public Schools asking voters to approve $252M",
+      "url": "https://www.wpr.org/news/milwaukee-public-schools-asking-voters-to-approve-252m",
+      "domain": "wpr.org",
+      "snippet": "Milwaukee voters approved an $87 million referendum for MPS. This ask, nearly triple the 2020 request, would mean a $432 tax increase for the ...",
+      "published": "2024-03-15",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    },
+    {
+      "title": "Get the Facts: Milwaukee Public Schools $252 million ...",
+      "url": "https://www.wisn.com/article/get-the-facts-milwaukee-public-schools-dollar252-million-referendum-on-april-ballot/46775695",
+      "domain": "wisn.com",
+      "snippet": "Feb 14, 2024 — $252 million referendum on April. If passed, owners of an average home in Milwaukee , which is around $200,000, would see an extra $432 on their ...",
+      "published": "2024-02-14",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    },
+    {
+      "title": "Survey of Milwaukee Voters on MPS Financial Turmoil & ...",
+      "url": "https://urbanmilwaukee.com/pressrelease/fw-survey-of-milwaukee-voters-on-mps-financial-turmoil-school-board-recalls/",
+      "domain": "urbanmilwaukee.com",
+      "snippet": "The stakes are high for Milwaukee's taxpayers, as well. As a result of the April 2024 referendum, local property taxes for MPS will increase by ...",
+      "published": "2024-07-23",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 4
+    },
+    {
+      "title": "Over 60 Wisconsin school districts pass referendums ...",
+      "url": "https://www.bondbuyer.com/news/milwaukee-other-wisconsin-school-districts-pass-referendums",
+      "domain": "bondbuyer.com",
+      "snippet": "Apr 8, 2024 — Milwaukee Public Schools District passed a referendum Tuesday that would raise property taxes to fund $252 million of additional spending.",
+      "published": "2024-04-08",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 5
+    }
+  ]
+}

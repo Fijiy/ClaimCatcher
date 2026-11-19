@@ -1,0 +1,420 @@
+{
+  "frozenAt": "2026-10-27T03:28:23.826Z",
+  "refilteredAt": "2026-10-27T03:38:50.149Z",
+  "id": "pf/david-jolly/donalds-fl-governor-midterms-jim-crow-black-family",
+  "said": "2026-10-20",
+  "queries": {
+    "fact": "U.S. Rep. Byron Donalds suggests there were good parts of Jim Crow.",
+    "claim": "U.S. Rep. Byron Donalds suggests there were good parts of Jim Crow. David Jolly"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2214.985624999972,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1333.9957500000019,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 175.9941669999971,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Rep. Byron Donalds defends comments about Jim Crow",
+      "url": "https://www.nbcnews.com/politics/congress/byron-donalds-defends-comments-jim-crow-fiery-exchange-joy-reid-rcna155969",
+      "domain": "nbcnews.com",
+      "published": "2024-06-06",
+      "publishedAsGiven": "Jun 6, 2024",
+      "snippet": "\"I never said that it was better for Black people in Jim Crow,\" Donalds, a Florida Republican, told MSNBC's Joy Reid during an interview with \" ..."
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Rep. Byron Donalds responded to criticism over comments ...",
+      "url": "https://www.facebook.com/NBCNews/posts/rep-byron-donalds-responded-to-criticism-over-comments-he-made-at-a-campaign-eve/846914607300406/",
+      "domain": "facebook.com",
+      "published": "2024-10-27",
+      "publishedAsGiven": "2 years ago",
+      "snippet": "Rep. Byron Donalds responded to criticism over comments he made at a campaign event for former President Trump this week suggesting that fewer Black ..."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Stephen A. Smith says FL Gubernatorial Nominee Byron ...",
+      "url": "https://www.facebook.com/MyViewFNC/posts/stephen-a-smith-says-fl-gubernatorial-nominee-byron-donalds-may-be-the-only-pers/122187425444779497/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "snippet": "US Representative Byron Donalds discusses his political identity and how it contrasts with Florida Governor Ron DeSantis. He addresses the ..."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Biography | U.S. Congressman Byron Donalds - House.gov",
+      "url": "https://donalds.house.gov/about/",
+      "domain": "donalds.house.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Byron Donalds discusses past arrest, policy priorities and ...",
+      "url": "https://www.youtube.com/watch?v=y3zJADWs_A4",
+      "domain": "youtube.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "snippet": "In a wide-ranging interview with CBS News Miami, Republican Rep. Byron Donalds discussed his past legal troubles, political rise and ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Byron Donalds is running for governor. With Trump's ...",
+      "url": "https://floridaphoenix.com/2025/02/26/byron-donalds-is-running-for-governor-with-trumps-backing-can-anyone-stop-him/",
+      "domain": "floridaphoenix.com",
+      "published": "2025-02-26",
+      "publishedAsGiven": "Feb 26, 2025",
+      "snippet": "Democratic House Leader Hakeem Jeffries suggested Donalds believes Blacks “were better off during Jim Crow,” which Donalds insisted was a ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "GOP Rep. Donalds clarifies past comments on Jim Crow",
+      "url": "https://www.nbcnews.com/video/gop-rep-donalds-clarifies-past-comments-on-jim-crow-213884485921",
+      "domain": "nbcnews.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Fact-checking David Jolly's claim that Byron Donalds ...",
+      "url": "https://politifact.com/factchecks/2026/oct/26/david-jolly/donalds-fl-governor-midterms-jim-crow-black-family/",
+      "domain": "politifact.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "6 hours ago",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Rep. Hakeem Jeffries Responds to Rep. Byron Donalds' Jim ...",
+      "url": "https://www.facebook.com/CSPAN/videos/rep-hakeem-jeffries-d-ny-on-rep-byron-donalds-r-fl-it-has-come-to-my-attention-t/1109976900080869/",
+      "domain": "facebook.com",
+      "published": "2024-10-27",
+      "publishedAsGiven": "2 years ago",
+      "snippet": "Rep. Hakeem Jeffries Responds to Rep. Byron Donalds' Jim Crow Comment on House Floor. Summarized by AI from the post below."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Byron Donalds explains why he took Donald Trump references ...",
+      "url": "https://www.youtube.com/watch?v=8MBNyTu6E-k",
+      "domain": "youtube.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "snippet": "Byron Donalds explains why he took Donald Trump references off campaign website. @WPLGLocal10483 likes100K views1 month ago"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact-checking David Jolly's claim that Byron Donalds ...",
+      "url": "https://politifact.com/factchecks/2026/oct/26/david-jolly/donalds-fl-governor-midterms-jim-crow-black-family/",
+      "domain": "politifact.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "6 hours ago",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Florida governor's race may come down to a sliver of ...",
+      "url": "https://www.ms.now/news/florida-governors-race-donalds-jolly-black-voters",
+      "domain": "ms.now",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "David Jolly Slams Byron Donalds' Crazy Jim Crow Takes",
+      "url": "https://www.youtube.com/watch?v=KtM8g08gXLU",
+      "domain": "youtube.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "snippet": "Former Congressman and Florida Democratic gubernatorial candidate David Jolly joins Joy Reid to discuss his fight against Byron Donalds, ..."
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Byron Donald's Shameful Moment Exposed | The Joy Reid ...",
+      "url": "https://www.youtube.com/shorts/J1P4-4cqN3I",
+      "domain": "youtube.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "snippet": "Byron Donald's Shameful Moment Exposed | The Joy Reid Show. David Jolly Slams Byron Donalds' Crazy Jim Crow Takes | The Joy Reid Show. 1.4K."
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Byron Donalds shakes off Hakeem Jeffries backing David ...",
+      "url": "https://floridapolitics.com/archives/819718-jeffries-jolly/",
+      "domain": "floridapolitics.com",
+      "published": "2026-09-13",
+      "publishedAsGiven": "Sep 13, 2026",
+      "snippet": "The Democrat claimed Donalds said “Black folks were better off during Jim Crow” at a Trump campaign event in 2024."
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Angie Nixon Says Black Republican Byron Donalds “ ...",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/angie-nixon-byron-donalds-criticism-polls-ahead-running-1236734130/",
+      "domain": "hollywoodreporter.com",
+      "published": "2026-10-16",
+      "publishedAsGiven": "Oct 16, 2026",
+      "snippet": "Democrat David Jolly is ... Nixon replies, “I mean, he is someone who said that Black people were better off during the Jim Crow era."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Politifact FL: Fact-checking Byron Donalds' 'Jim Crow' ...",
+      "url": "https://www.wlrn.org/government-politics/2024-06-11/politifact-florida-byron-donalds-jim-crow-donald-trump",
+      "domain": "wlrn.org",
+      "published": "2024-06-11",
+      "publishedAsGiven": "Jun 11, 2024",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "David Jolly Exposes Byron Donalds' Shameful Rhetoric on ...",
+      "url": "https://www.facebook.com/joyreidofficial/videos/byron-donalds-shameful-moment-exposed-the-joy-reid-show-former-us-representative/1552033896729839/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "snippet": "Joy Reid and David Jolly discuss controversial comments made by Representative Byron Donalds regarding the Black family structure during the Jim ..."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Florida gubernatorial rivals battle for Black voter support",
+      "url": "https://www.wfla.com/news/florida/florida-gubernatorial-rivals-battle-for-black-voter-support/",
+      "domain": "wfla.com",
+      "published": "2026-10-07",
+      "publishedAsGiven": "Oct 7, 2026",
+      "snippet": "“I think Byron Donalds has an anti-black agenda. He said that the family was stronger under Jim crow. He voted against the voting rights act."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Fact-checking Byron Donalds' 'Jim Crow' comments on ...",
+      "url": "https://www.tampabay.com/news/florida-politics/2024/06/10/fact-checking-byron-donalds-jim-crow-comments-black-families/",
+      "domain": "tampabay.com",
+      "published": "2024-06-10",
+      "publishedAsGiven": "Jun 10, 2024",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "The Sliming of Byron Donalds",
+      "url": "https://www.wsj.com/opinion/the-sliming-of-byron-donalds-trump-vp-twisting-his-words-jim-crow-057c6570",
+      "domain": "wsj.com",
+      "published": "2024-06-10",
+      "publishedAsGiven": "Jun 10, 2024",
+      "snippet": "“During Jim Crow, the black family was together. During Jim Crow, more black people were not just conservative—because black people have always ..."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Hakeem Jeffries decries Byron Donalds 'outlandish' Jim ...",
+      "url": "https://www.washingtonexaminer.com/news/house/3029355/hakeem-jeffries-byron-donalds-jim-crow-black-families/?srsltid=AYCX9vJ_7NJPr0fR_u2GY4rpWNSIWm2-cUapyVvazsEYEZ9Qu4c3CgNu",
+      "domain": "washingtonexaminer.com",
+      "published": "2024-06-05",
+      "publishedAsGiven": "Jun 5, 2024",
+      "snippet": "Rep. Byron Donalds (R-FL) suggesting black people were better off during the Jim Crow era. “That's an outlandish, outrageous, and out-of-pocket ..."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Rep. Byron Donalds vs. Joy Reid: I Never Said Jim Crow ...",
+      "url": "https://www.realclearpolitics.com/video/2024/06/06/rep_byron_donalds_vs_joy_reid_i_never_said_jim_crow_was_the_golden_era_youre_gaslighting_your_audience.html",
+      "domain": "realclearpolitics.com",
+      "published": "2024-06-06",
+      "publishedAsGiven": "Jun 6, 2024",
+      "snippet": "The stuff that comes up about Jim Crow and twisting my words, saying I was being nostalgic or saying that Jim Crow was good for black people, ..."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "CNN's Abby Phillip vs. Byron Donalds: Do You Regret ...",
+      "url": "https://www.realclearpolitics.com/video/2024/06/06/cnns_abby_phillip_vs_byron_donalds_do_you_regret_saying_you_were_nostalgic_for_jim_crow.html",
+      "domain": "realclearpolitics.com",
+      "published": "2024-06-06",
+      "publishedAsGiven": "Jun 6, 2024",
+      "snippet": "You see, during Jim Crow, during Jim Crow, the black family was together. That's right. During Jim Crow, more black people were not just ..."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Byron Donalds | RCP Story Stream",
+      "url": "https://orig.realclearpolitics.com/stream/?topic=Byron_Donalds",
+      "domain": "orig.realclearpolitics.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "Byron Donalds: Biden Campaign Twisting My Words To ...",
+      "url": "https://www.realclearpolitics.com/video/2024/06/06/byron_donalds_biden_campaign_twisting_my_words_to_avoid_empirical_fact_that_black_families_were_better_off_before_great_society.html",
+      "domain": "realclearpolitics.com",
+      "published": "2024-06-06",
+      "publishedAsGiven": "Jun 6, 2024",
+      "snippet": "Byron Donalds about comments he made that drew criticism from Democrats where he said the \"black family was together\" during the Jim Crow era."
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Chicago's Slavery Reparations",
+      "url": "https://www.wsj.com/opinion/brandon-johnson-chicago-slavery-reparations-fad1e6fa",
+      "domain": "wsj.com",
+      "published": "2024-06-24",
+      "publishedAsGiven": "Jun 24, 2024",
+      "snippet": "Chicago “perpetuated, condoned, profited and benefitted from the system of chattel slavery,” as well as the Jim Crow laws that followed. of ..."
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Americans have elected only 3 Black governors. This year ...",
+      "url": "https://apnews.com/article/black-governor-donalds-moore-demuth-bottoms-ford-33e123ecc14b623abed4fa0906942614",
+      "domain": "apnews.com",
+      "published": "2026-08-19",
+      "publishedAsGiven": "Aug 19, 2026",
+      "snippet": "Americans have elected only 3 Black governors. Florida Republicans have settled on Representative Byron Donalds as their candidate for governor."
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "Voter Id | RCP Story Stream",
+      "url": "https://orig.realclearpolitics.com/stream/?topic=voter_id",
+      "domain": "orig.realclearpolitics.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "Would Rubio or Donalds have to move if Trump picks ...",
+      "url": "https://apnews.com/article/trump-vice-president-florida-rubio-donalds-constitution-da837d4dcbc49dcf4fb98f41015368c7",
+      "domain": "apnews.com",
+      "published": "2024-06-29",
+      "publishedAsGiven": "Jun 29, 2024",
+      "snippet": "He could help bolster Trump's appeal with Black voters, especially the younger Black men that the campaign has been courting."
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 2,
+    "after-said": 1,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 4
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:28:18.153Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Rep. Byron Donalds defends comments about Jim Crow",
+      "url": "https://www.nbcnews.com/politics/congress/byron-donalds-defends-comments-jim-crow-fiery-exchange-joy-reid-rcna155969",
+      "domain": "nbcnews.com",
+      "snippet": "\"I never said that it was better for Black people in Jim Crow,\" Donalds, a Florida Republican, told MSNBC's Joy Reid during an interview with \" ...",
+      "published": "2024-06-06",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "NBC News",
+        "page": "https://mediabiasfactcheck.com/nbc-news/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Angie Nixon Says Black Republican Byron Donalds “ ...",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/angie-nixon-byron-donalds-criticism-polls-ahead-running-1236734130/",
+      "domain": "hollywoodreporter.com",
+      "snippet": "Democrat David Jolly is ... Nixon replies, “I mean, he is someone who said that Black people were better off during the Jim Crow era.",
+      "published": "2026-10-16",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Hollywood Reporter",
+        "page": "https://mediabiasfactcheck.com/hollywood-reporter/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "The Sliming of Byron Donalds",
+      "url": "https://www.wsj.com/opinion/the-sliming-of-byron-donalds-trump-vp-twisting-his-words-jim-crow-057c6570",
+      "domain": "wsj.com",
+      "snippet": "“During Jim Crow, the black family was together. During Jim Crow, more black people were not just conservative—because black people have always ...",
+      "published": "2024-06-10",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Wall Street Journal",
+        "page": "https://mediabiasfactcheck.com/wall-street-journal/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Hakeem Jeffries decries Byron Donalds 'outlandish' Jim ...",
+      "url": "https://www.washingtonexaminer.com/news/house/3029355/hakeem-jeffries-byron-donalds-jim-crow-black-families/?srsltid=AYCX9vJ_7NJPr0fR_u2GY4rpWNSIWm2-cUapyVvazsEYEZ9Qu4c3CgNu",
+      "domain": "washingtonexaminer.com",
+      "snippet": "Rep. Byron Donalds (R-FL) suggesting black people were better off during the Jim Crow era. “That's an outlandish, outrageous, and out-of-pocket ...",
+      "published": "2024-06-05",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Washington Examiner",
+        "page": "https://mediabiasfactcheck.com/washington-examiner/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Rep. Byron Donalds vs. Joy Reid: I Never Said Jim Crow ...",
+      "url": "https://www.realclearpolitics.com/video/2024/06/06/rep_byron_donalds_vs_joy_reid_i_never_said_jim_crow_was_the_golden_era_youre_gaslighting_your_audience.html",
+      "domain": "realclearpolitics.com",
+      "snippet": "The stuff that comes up about Jim Crow and twisting my words, saying I was being nostalgic or saying that Jim Crow was good for black people, ...",
+      "published": "2024-06-06",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Real Clear Politics",
+        "page": "https://mediabiasfactcheck.com/real-clear-politics/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

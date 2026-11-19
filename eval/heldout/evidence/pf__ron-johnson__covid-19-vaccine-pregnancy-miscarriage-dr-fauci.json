@@ -1,0 +1,222 @@
+{
+  "frozenAt": "2026-10-27T03:19:16.793Z",
+  "refilteredAt": "2026-10-27T03:36:33.759Z",
+  "id": "pf/ron-johnson/covid-19-vaccine-pregnancy-miscarriage-dr-fauci",
+  "said": "2026-08-10",
+  "queries": {
+    "fact": "There is an 82% miscarriage rate with women who got the (COVID-19 vaccine) injection in the first or second trimester.",
+    "claim": "There is an 82% miscarriage rate with women who got the (COVID-19 vaccine) injection in the first or second trimester. Ron Johnson"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1630.7857079999521,
+      "results": 9
+    },
+    {
+      "query": "claim",
+      "ms": 2200.265458000009,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Do COVID-19 vaccines cause an 82% miscarriage rate?",
+      "url": "https://www.kcra.com/article/covid-19-vaccines-miscarriage-rates/73439724",
+      "domain": "kcra.com",
+      "published": "2026-08-14",
+      "publishedAsGiven": "Aug 14, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "The risk of miscarriage following COVID-19 vaccination - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10152171/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "No, COVID-19 vaccines don't increase miscarriage rates",
+      "url": "https://19thnews.org/2026/08/covid-vaccine-pregnancy-miscarriage-fauci/",
+      "domain": "19thnews.org",
+      "published": "2026-08-13",
+      "publishedAsGiven": "Aug 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "René Najera's Post",
+      "url": "https://www.linkedin.com/posts/renenajera_82-of-women-who-got-the-vaccine-in-their-activity-7493699482455388160-p2gA",
+      "domain": "linkedin.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Studies Do NOT Show an 81% or 82% Miscarriage Rate ...",
+      "url": "https://health.yahoo.com/your-body/womens-health/pregnancy-fertility/articles/fact-check-studies-not-show-054858979.html",
+      "domain": "health.yahoo.com",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Fact check: COVID vaccines are not linked to miscarriages",
+      "url": "https://geneticliteracyproject.org/2026/08/20/fact-check-covid-vaccines-are-not-linked-to-miscarriages/",
+      "domain": "geneticliteracyproject.org",
+      "published": "2026-08-20",
+      "publishedAsGiven": "Aug 20, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Controversies around the statistical presentation of data on ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8894688/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Data from a study does not conclude that over 80% of ...",
+      "url": "https://www.reuters.com/jp/article/factcheck-vaccine-pregnancy/fact-check-data-from-a-study-does-not-conclude-that-over-80-of-pregnancies-end-in-miscarriage-after-covid-19-vaccinations-figures-taken-out-of-context-idUSL1N2OX1WL/",
+      "domain": "reuters.com",
+      "published": "2021-07-21",
+      "publishedAsGiven": "Jul 21, 2021",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Newly released texts from Dr. Anthony Fauci offer a rare ...",
+      "url": "https://www.facebook.com/CBSEveningNews/posts/newly-released-texts-from-dr-anthony-fauci-offer-a-rare-look-at-private-discussi/1564169052416803/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "The risk of miscarriage following COVID-19 vaccination - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10152171/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Do COVID-19 vaccines cause an 82% miscarriage rate?",
+      "url": "https://www.kcra.com/article/covid-19-vaccines-miscarriage-rates/73439724",
+      "domain": "kcra.com",
+      "published": "2026-08-14",
+      "publishedAsGiven": "Aug 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "No, COVID-19 vaccines don't increase miscarriage rates",
+      "url": "https://19thnews.org/2026/08/covid-vaccine-pregnancy-miscarriage-fauci/",
+      "domain": "19thnews.org",
+      "published": "2026-08-13",
+      "publishedAsGiven": "Aug 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Fact check: COVID vaccines are not linked to miscarriages",
+      "url": "https://geneticliteracyproject.org/2026/08/20/fact-check-covid-vaccines-are-not-linked-to-miscarriages/",
+      "domain": "geneticliteracyproject.org",
+      "published": "2026-08-20",
+      "publishedAsGiven": "Aug 20, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Senators Johnson, Paul Release Initial Texts from Dr. Fauci's ...",
+      "url": "https://www.ronjohnson.senate.gov/2026/08/10/senators-johnson-paul-release-initial-texts-from-dr-faucis-government-iphone-2/",
+      "domain": "ronjohnson.senate.gov",
+      "published": null,
+      "snippet": "... Dr. Fauci's Government iPhone. August 10, 2026. Dr. Fauci in Jan. 2021: second dose of covid vaccine “theoretically could be associated with miscarriage ..."
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "U.S. Sen. Ron Johnson, R-Wis., has revived a years-old ...",
+      "url": "https://www.facebook.com/wmur9/posts/us-sen-ron-johnson-r-wis-has-revived-a-years-old-inaccurate-theory-that-covid-19/1105812428613137/",
+      "domain": "facebook.com",
+      "published": "2026-08-15",
+      "publishedAsGiven": "Aug 15, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "82% COVID vaccine miscarriage claim is false; broken ...",
+      "url": "https://www.yourvalley.net/phoenix-independent/stories/82-covid-vaccine-miscarriage-claim-is-false-broken-promise-to-pregnant-women-isnt,711485",
+      "domain": "yourvalley.net",
+      "published": "2026-08-13",
+      "publishedAsGiven": "Aug 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "The 82% Miscarriage Claim: How COVID Vaccine ...",
+      "url": "https://www.facebook.com/jeffpatrickkrasno/videos/joe-rogans-80-miscarriage-claim-where-the-number-came-from/1090320720406091/",
+      "domain": "facebook.com",
+      "published": "2026-09-29",
+      "publishedAsGiven": "4 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Studies Do NOT Show an 81% or 82% Miscarriage Rate ...",
+      "url": "https://health.yahoo.com/your-body/womens-health/pregnancy-fertility/articles/fact-check-studies-not-show-054858979.html",
+      "domain": "health.yahoo.com",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "No, COVID-19 vaccines don't cause an 82% miscarriage ...",
+      "url": "https://www.reddit.com/r/politics/comments/1vnwedc/no_covid19_vaccines_dont_cause_an_82_miscarriage/",
+      "domain": "reddit.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    }
+  ],
+  "returned": 19,
+  "dropped": {
+    "fact-checker": 0,
+    "fact-check-words": 7,
+    "after-said": 5,
+    "maybe-after-said": 1,
+    "after-said-link-date": 0,
+    "undated": 5
+  },
+  "linkDatedKept": 1,
+  "searchedAt": "2026-10-27T03:19:12.961Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

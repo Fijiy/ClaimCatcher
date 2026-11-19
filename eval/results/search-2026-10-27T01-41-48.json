@@ -1,0 +1,982 @@
+{
+  "gate": "search",
+  "started": "2026-10-27T01:41:48.723Z",
+  "environment": {
+    "platform": "darwin arm64",
+    "cpu": "Apple M4",
+    "memoryGb": "16",
+    "node": "v22.23.2",
+    "chrome": "151.0.7922.138",
+    "pauseMsBetweenClaims": "20000"
+  },
+  "skipped": {},
+  "searches": {
+    "duckduckgo": {
+      "summary": {
+        "provider": "duckduckgo",
+        "claims": 29,
+        "requests": 58,
+        "failedRequests": 58,
+        "failures": {
+          "DuckDuckGo refused the search: it asked to confirm a person was searching": 31,
+          "DuckDuckGo refused the search: it is turning away searches from this connection for now": 27
+        },
+        "resultsPerQuery": 0,
+        "emptyQueries": 0,
+        "usable": 0,
+        "usableFull": 0,
+        "pool": 0,
+        "claimsWithFive": 0,
+        "claimsWithNone": 29,
+        "spread": {
+          "L": 0,
+          "LC": 0,
+          "C": 0,
+          "RC": 0,
+          "R": 0,
+          "Primary": 0,
+          "pro-science": 0,
+          "unrated": 0
+        },
+        "balancedClaims": 0,
+        "latencyMs": {
+          "median": 0,
+          "p90": 0,
+          "max": 0
+        },
+        "overlapDomains": 0,
+        "overlapUrls": 0
+      },
+      "claims": [
+        {
+          "id": "cnn-2024-biden-opening-economy#4",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 509.8268330000001,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 311.6987079999999,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 3
+          }
+        },
+        {
+          "id": "cnn-2024-trump-greatest-economy#0",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 323.50020900000163,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 170.5590830000001,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "cnn-2024-trump-greatest-economy#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 340.13637500000186,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 168.75720799999544,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "abc-2024-trump-springfield-pets#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 233.01724999999715,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 206.89058300000033,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "abc-2024-harris-afghanistan-camp-david#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 286.7818750000006,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 392.12820799999463,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 1
+          }
+        },
+        {
+          "id": "abc-2024-harris-afghanistan-camp-david#6",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 581.2562089999992,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 176.47966700000688,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "cbs-2024-walz-iran-tbi-headaches#3",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 251.77812500001164,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 168.84075000000303,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "cbs-2024-vance-cbp-one-mic-cut#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 501.52416600001743,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 140.15995800000383,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 3
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 307.11162499999045,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 189.12870800000383,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 210.12366700000712,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 130.07137499999953,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#4",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 237.57604099999298,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 127.89758399999118,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#6",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 266.60050000000047,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 140.64600000000792,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#7",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 616.6289579999866,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 649.9914580000041,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#8",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1220.5409169999766,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            },
+            {
+              "query": "claim",
+              "ms": 1200.5267920000479,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "trump-joint-2025-social-security-ages#0",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1272.9172499999986,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            },
+            {
+              "query": "claim",
+              "ms": 1206.6371250000084,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "trump-joint-2025-social-security-ages#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1234.4900830000406,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            },
+            {
+              "query": "claim",
+              "ms": 1223.4919999999693,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "trump-joint-2025-social-security-ages#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1262.9830000000075,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            },
+            {
+              "query": "claim",
+              "ms": 1320.7820000000065,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "trump-joint-2025-inflation-eggs-energy#0",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1462.0320000000065,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            },
+            {
+              "query": "claim",
+              "ms": 1128.1907500000088,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 3
+          }
+        },
+        {
+          "id": "trump-joint-2025-inflation-eggs-energy#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1328.5135830000509,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            },
+            {
+              "query": "claim",
+              "ms": 1146.524167000025,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "trump-joint-2025-inflation-eggs-energy#3",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1230.1798749999725,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            },
+            {
+              "query": "claim",
+              "ms": 1148.5393330000225,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "trump-joint-2025-inflation-eggs-energy#6",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 2361.288125000021,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            },
+            {
+              "query": "claim",
+              "ms": 1195.1270830000285,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "booker-senate-floor-2025-consumer-confidence#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1343.5892079999903,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            },
+            {
+              "query": "claim",
+              "ms": 1250.2245410000323,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "johnson-speaker-acceptance-2023-prices-debt#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1462.6875,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            },
+            {
+              "query": "claim",
+              "ms": 1405.6110000000335,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "johnson-speaker-acceptance-2023-prices-debt#5",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1419.944542000012,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            },
+            {
+              "query": "claim",
+              "ms": 1278.9488339999807,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 1
+          }
+        },
+        {
+          "id": "murray-senate-floor-2025-tax-cuts-debt#0",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1358.394042,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            },
+            {
+              "query": "claim",
+              "ms": 1158.3197500000242,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 3
+          }
+        },
+        {
+          "id": "uk-pmqs-2025-09-03-badenoch-unemployment#4",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1292.6535409999778,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            },
+            {
+              "query": "claim",
+              "ms": 1245.6671670000069,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it is turning away searches from this connection for now"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "uk-pmqs-2026-03-04-starmer-defence-270bn#3",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 285.18358300009277,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 150.59354099992197,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "us-khanna-tiktok-2025-02-20-telehealth#0",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 279.1005000000587,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 153.61095800006296,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 3
+          }
+        },
+        {
+          "id": "us-vance-peachtree-city-2025-08-21-biggest-tax-cut#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 319.13891700003296,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 174.17949999996927,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 0
+          }
+        }
+      ]
+    }
+  }
+}

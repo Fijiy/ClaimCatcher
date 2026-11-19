@@ -1,0 +1,255 @@
+{
+  "frozenAt": "2026-10-27T03:18:34.961Z",
+  "refilteredAt": "2026-10-27T03:36:23.445Z",
+  "id": "pf/mike-rogers/abdul-el-sayed-9-11-hasan-piker-michigan",
+  "said": "2026-08-05",
+  "queries": {
+    "fact": "Abdul El-Sayed believes America deserved 9/11.",
+    "claim": "Abdul El-Sayed believes America deserved 9/11. Mike Rogers"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2285.428541000001,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1821.8503339999588,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Michigan Senate candidate Abdul El-Sayed faces backlash ...",
+      "url": "https://abcnews4.com/news/nation-world/michigan-senate-candidate-abdul-el-sayed-faces-backlash-over-hasan-piker-ties-911-stance-michigan-america",
+      "domain": "abcnews4.com",
+      "published": "2026-09-14",
+      "publishedAsGiven": "Sep 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "U.S. President Donald Trump has urged voters in Michigan ...",
+      "url": "https://www.facebook.com/8am.media/posts/us-president-donald-trump-has-urged-voters-in-michigan-not-to-vote-for-abdul-el-/1610425811127129/",
+      "domain": "facebook.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "19 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "U.S. Senate candidate Abdul El-Sayed (D-MI) held a ...",
+      "url": "https://www.facebook.com/CSPAN/posts/us-senate-candidate-abdul-el-sayed-d-mi-held-a-moment-of-silence-while-speaking-/1609220797913617/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "User Clip: America deserved 9 11 | Video",
+      "url": "https://www.c-span.org/clip/washington-journal/user-clip-america-deserved-9-11/5083636",
+      "domain": "c-span.org",
+      "published": "2023-09-11",
+      "publishedAsGiven": "Sep 11, 2023",
+      "snippet": "U.S. Senate candidate Abdul El-Sayed (D-MI) holds a town hall with Rep. Alexandria Ocasio-Cortez (D-NY) in Escanaba, Michigan."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "US senator's 9/11 statements taken out of context online",
+      "url": "https://factcheck.afp.com/doc.afp.com.D2NH3WE",
+      "domain": "factcheck.afp.com",
+      "published": "2026-10-09",
+      "publishedAsGiven": "Oct 9, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "President Trump repeatedly called Democratic Senate ...",
+      "url": "https://www.facebook.com/washingtonpost/posts/president-trump-repeatedly-called-democratic-senate-nominee-abdul-el-sayed-a-jih/1491256559532881/",
+      "domain": "facebook.com",
+      "published": "2026-10-27",
+      "publishedAsGiven": "3 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Michigan Senate candidates battle over their records on 9 ...",
+      "url": "https://www.cbsnews.com/news/michigan-senate-candidates-25-years-9-11-el-sayed-rogers/",
+      "domain": "cbsnews.com",
+      "published": "2026-09-11",
+      "publishedAsGiven": "Sep 11, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Michigan Senate candidate Abdul El Sayed faces backlash ...",
+      "url": "https://www.youtube.com/watch?v=K7FjXDj4ZMk",
+      "domain": "youtube.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "ICYMI: 9/11 HEROES CALL OUT ABDUL EL-SAYED",
+      "url": "https://rogersforsenate.com/news/icymi-911-heroes-call-out-abdul-el-sayed",
+      "domain": "rogersforsenate.com",
+      "published": "2026-09-10",
+      "publishedAsGiven": "Sep 10, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Hassan Piker explains his \"America deserved 9/11 ...",
+      "url": "https://www.facebook.com/bbcnews/posts/hassan-piker-explains-his-america-deserved-911-comment-the-us-political-commenta/1634798865350766/",
+      "domain": "facebook.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Michigan Republican Mike Rogers, the former ...",
+      "url": "https://www.facebook.com/NBCMontana/posts/michigan-republican-mike-rogers-the-former-congressman-running-for-senate-denied/1732254081602651/",
+      "domain": "facebook.com",
+      "published": "2026-10-27",
+      "publishedAsGiven": "33 minutes ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Rogers Makes False 9/11 Claim About El-Sayed",
+      "url": "https://www.factcheck.org/2026/08/rogers-makes-false-9-11-claim-about-el-sayed/",
+      "domain": "factcheck.org",
+      "published": "2026-08-10",
+      "publishedAsGiven": "Aug 10, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Michigan Senate candidates battle over their records on 9 ...",
+      "url": "https://www.cbsnews.com/news/michigan-senate-candidates-25-years-9-11-el-sayed-rogers/",
+      "domain": "cbsnews.com",
+      "published": "2026-09-11",
+      "publishedAsGiven": "Sep 11, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "ICYMI: 9/11 HEROES CALL OUT ABDUL EL-SAYED",
+      "url": "https://rogersforsenate.com/news/icymi-911-heroes-call-out-abdul-el-sayed",
+      "domain": "rogersforsenate.com",
+      "published": "2026-09-10",
+      "publishedAsGiven": "Sep 10, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Hasan Piker 9/11 remark misattributed to Michigan's El- ...",
+      "url": "https://www.reuters.com/fact-check/hasan-piker-911-remark-misattributed-michigans-el-sayed-2026-08-14/",
+      "domain": "reuters.com",
+      "published": "2026-08-17",
+      "publishedAsGiven": "Aug 17, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Republican seeking to implicate Abdul El-Sayed over 9/11 ...",
+      "url": "https://www.theguardian.com/us-news/2026/sep/10/mike-rogers-911-first-responders-votes-abdul-el-sayed",
+      "domain": "theguardian.com",
+      "published": "2026-09-10",
+      "publishedAsGiven": "Sep 10, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Mike Rogers Links Abdul El-Sayed to Hasan Piker Over 9/11",
+      "url": "https://www.wsj.com/livecoverage/trump-vance-midterm-elections-2026-rnc/card/mike-rogers-links-abdul-el-sayed-to-hasan-piker-over-9-11-MkCN4RL04z6iEN2dPZUa",
+      "domain": "wsj.com",
+      "published": "2026-09-10",
+      "publishedAsGiven": "Sep 10, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Michigan Senate candidates Republican Mike Rogers and ...",
+      "url": "https://www.facebook.com/cnnpolitics/posts/michigan-senate-candidates-republican-mike-rogers-and-democrat-abdul-el-sayed-ha/1469074061745740/",
+      "domain": "facebook.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Michigan Senate candidate Abdul El-Sayed faces backlash ...",
+      "url": "https://abcnews4.com/news/nation-world/michigan-senate-candidate-abdul-el-sayed-faces-backlash-over-hasan-piker-ties-911-stance-michigan-america",
+      "domain": "abcnews4.com",
+      "published": "2026-09-14",
+      "publishedAsGiven": "Sep 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Fact-Checking 3 Competitive Senate Races in Maine, ...",
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html",
+      "domain": "nytimes.com",
+      "published": "2026-08-08",
+      "publishedAsGiven": "Aug 8, 2026",
+      "dropped": "fact-check-words"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 1,
+    "after-said": 15,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:18:30.853Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "User Clip: America deserved 9 11 | Video",
+      "url": "https://www.c-span.org/clip/washington-journal/user-clip-america-deserved-9-11/5083636",
+      "domain": "c-span.org",
+      "snippet": "U.S. Senate candidate Abdul El-Sayed (D-MI) holds a town hall with Rep. Alexandria Ocasio-Cortez (D-NY) in Escanaba, Michigan.",
+      "published": "2023-09-11",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Washington Journal",
+        "page": "https://mediabiasfactcheck.com/washington-journal/"
+      },
+      "weight": "full",
+      "n": 1
+    }
+  ]
+}

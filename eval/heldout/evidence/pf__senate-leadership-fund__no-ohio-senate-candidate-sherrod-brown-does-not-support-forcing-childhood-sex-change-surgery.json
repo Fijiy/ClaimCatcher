@@ -1,0 +1,251 @@
+{
+  "frozenAt": "2026-10-27T03:23:43.289Z",
+  "refilteredAt": "2026-10-27T03:37:40.937Z",
+  "id": "pf/senate-leadership-fund/no-ohio-senate-candidate-sherrod-brown-does-not-support-forcing-childhood-sex-change-surgery",
+  "said": "2026-09-16",
+  "queries": {
+    "fact": "Sherrod Brown supports forcing childhood sex change surgery.",
+    "claim": "Sherrod Brown supports forcing childhood sex change surgery. Senate Leadership Fund"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1970.2462500000838,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2499.718707999913,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "No, Ohio Senate candidate Sherrod Brown does not ...",
+      "url": "https://politifact.com/factchecks/2026/oct/01/senate-leadership-fund/no-ohio-senate-candidate-sherrod-brown-does-not-support-forcing-childhood-sex-change-surgery/",
+      "domain": "politifact.com",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Woman accusing Sherrod Brown of forcing trans surgeries ...",
+      "url": "https://ohiocapitaljournal.com/2026/10/06/woman-accusing-sherrod-brown-of-forcing-transgender-surgeries-isnt-from-ohio-didnt-have-procedure-as-minor/",
+      "domain": "ohiocapitaljournal.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "Oct 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "New Ad: Sherrod Brown is More Extreme Than Ever",
+      "url": "https://senateleadershipfund.org/press-releases/new-ad-sherrod-brown-is-more-extreme-than-ever/",
+      "domain": "senateleadershipfund.org",
+      "published": "2026-09-16",
+      "publishedAsGiven": "Sep 16, 2026",
+      "snippet": "WASHINGTON, DC — Senate Leadership Fund released a new ad in Ohio as part of its campaign to re-elect Senator Jon Husted and permanently ..."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Woman in Anti-Brown Trans Ad Wasn't From Ohio ...",
+      "url": "https://www.youtube.com/watch?v=3NBsLHMR0H4",
+      "domain": "youtube.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "PolitiFact: Senate Republicans stretch Sherrod Brown's ...",
+      "url": "https://www.wosu.org/politics-government/2024-10-16/politifact-senate-republicans-stretch-sherrod-browns-comments-on-gender-affirming-care",
+      "domain": "wosu.org",
+      "published": "2024-10-16",
+      "publishedAsGiven": "Oct 16, 2024",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "A political attack ad says \"Sherrod Brown supports sex ...",
+      "url": "https://www.facebook.com/clevelandcom/posts/a-political-attack-ad-says-sherrod-brown-supports-sex-change-surgery-for-minors-/1581013500726507/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Truth Test: Ad targeting Brown on sex change surgeries for ...",
+      "url": "https://www.13abc.com/2026/10/09/truth-test-ad-targeting-brown-sex-change-surgeries-minors/",
+      "domain": "13abc.com",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Fact check: Republicans' deceptive ads on key Democratic ...",
+      "url": "https://www.cnn.com/2026/10/08/politics/fact-check-republicans-deceptive-ads-on-key-democratic-candidates-stances-on-gender-surgery-for-children",
+      "domain": "cnn.com",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Fact check: Woman in anti-Brown trans ad wasn't from Ohio ...",
+      "url": "https://www.news5cleveland.com/news/politics/ohio-politics/woman-accusing-sherrod-brown-of-forcing-transgender-surgeries-isnt-from-ohio-didnt-have-procedure-as-minor",
+      "domain": "news5cleveland.com",
+      "published": "2026-10-02",
+      "publishedAsGiven": "Oct 2, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Facts about Soren Aldaco's gender-affirming surgery and ...",
+      "url": "https://www.facebook.com/groups/701426013209102/posts/29155675354024121/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Woman accusing Sherrod Brown of forcing trans surgeries ...",
+      "url": "https://ohiocapitaljournal.com/2026/10/06/woman-accusing-sherrod-brown-of-forcing-transgender-surgeries-isnt-from-ohio-didnt-have-procedure-as-minor/",
+      "domain": "ohiocapitaljournal.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "Oct 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Republican Ads Distort the Facts in Claiming Democratic ...",
+      "url": "https://www.factcheck.org/2026/10/republican-ads-distort-the-facts-in-claiming-democratic-support-for-sex-changes-for-kids/",
+      "domain": "factcheck.org",
+      "published": "2026-10-12",
+      "publishedAsGiven": "Oct 12, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "A political attack ad says \"Sherrod Brown supports sex ...",
+      "url": "https://www.facebook.com/clevelandcom/videos/a-political-attack-ad-says-sherrod-brown-supports-sex-change-surgery-for-minors-/2226358511479743/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "No, Ohio Senate candidate Sherrod Brown does not ...",
+      "url": "https://politifact.com/factchecks/2026/oct/01/senate-leadership-fund/no-ohio-senate-candidate-sherrod-brown-does-not-support-forcing-childhood-sex-change-surgery/",
+      "domain": "politifact.com",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Truth Test: Ad targeting Brown on sex change surgeries for ...",
+      "url": "https://www.13abc.com/2026/10/09/truth-test-ad-targeting-brown-sex-change-surgeries-minors/",
+      "domain": "13abc.com",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Woman in anti-Brown trans ad wasn't from Ohio, had ...",
+      "url": "https://www.youtube.com/shorts/5G_ufDInl1E",
+      "domain": "youtube.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "A Republican-aligned group is running an ad that says ...",
+      "url": "https://www.facebook.com/politifact/posts/a-republican-aligned-group-is-running-an-ad-that-says-ohio-democratic-us-senate-/1569754295185668/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Fact check: Republicans' deceptive ads on key Democratic ...",
+      "url": "https://www.cnn.com/2026/10/08/politics/fact-check-republicans-deceptive-ads-on-key-democratic-candidates-stances-on-gender-surgery-for-children",
+      "domain": "cnn.com",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "The Senate Leadership Fund, a major group supporting ...",
+      "url": "https://www.facebook.com/News5Cleveland/posts/the-senate-leadership-fund-a-major-group-supporting-republicans-has-produced-mul/1628086229363739/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "No, Ohio Senate candidate Sherrod Brown does not ...",
+      "url": "https://www.reddit.com/r/Ohio/comments/1wxps6o/rightwing_senate_leadership_fund_lies_about/",
+      "domain": "reddit.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 5,
+    "fact-check-words": 3,
+    "after-said": 11,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:23:38.818Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "New Ad: Sherrod Brown is More Extreme Than Ever",
+      "url": "https://senateleadershipfund.org/press-releases/new-ad-sherrod-brown-is-more-extreme-than-ever/",
+      "domain": "senateleadershipfund.org",
+      "snippet": "WASHINGTON, DC — Senate Leadership Fund released a new ad in Ohio as part of its campaign to re-elect Senator Jon Husted and permanently ...",
+      "published": "2026-09-16",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

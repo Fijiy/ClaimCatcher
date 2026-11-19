@@ -1,0 +1,248 @@
+{
+  "frozenAt": "2026-10-27T03:16:47.589Z",
+  "refilteredAt": "2026-10-27T03:35:58.180Z",
+  "id": "pf/jon-ossoff/did-mike-collins-help-double-health-insurance-prem",
+  "said": "2026-06-27",
+  "queries": {
+    "fact": "President Donald Trump and U.S. Rep. Mike Collins doubled health insurance premiums for more than a million Georgians and threw 300,000 Georgians off their insurance altogether.",
+    "claim": "President Donald Trump and U.S. Rep. Mike Collins doubled health insurance premiums for more than a million Georgians and threw 300,000 Georgians off their insurance altogether. Jon Ossoff"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1295.1499169999734,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2157.340582999983,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Politifact: GOP U.S. Senate Nominee Mike Collins Voted to ...",
+      "url": "https://georgiademocrat.org/politifact-gop-u-s-senate-nominee-mike-collins-voted-to-more-than-double-health-insurance-premiums-and-throw-at-least-300000-georgians-off-of-their-health-insurance/",
+      "domain": "georgiademocrat.org",
+      "published": "2026-08-05",
+      "publishedAsGiven": "Aug 5, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Health Insurance Premiums Set to Rise Again in 2027 After ...",
+      "url": "https://electjon.com/new-report-health-insurance-premiums-set-to-rise-again-in-2027-after-mike-collins-voted-to-double-premiums/",
+      "domain": "electjon.com",
+      "published": "2026-08-31",
+      "publishedAsGiven": "Aug 31, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Fact-checks (1601)",
+      "url": "https://politifact.com/search/factcheck/?q=mike",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "300000 Georgians Lost Coverage. A Million Premiums ...",
+      "url": "https://www.youtube.com/shorts/ga56reYTros",
+      "domain": "youtube.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Did Trump and Mike Collins double health insurance ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-trump-and-mike-collins-double-health-insurance-premiums-for-more-than-1-million-georgians-and-cause-300000-to-lose-coverage/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-08-01",
+      "publishedAsGiven": "Aug 1, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Sen. Ossoff: Donald Trump and Mike Collins decided to double ...",
+      "url": "https://www.facebook.com/ProtectOurCare/videos/sen-ossoff-donald-trump-and-mike-collins-decided-to-double-health-insurance-prem/2455952998241710/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "At First Rally of General Election, Ossoff Goes on Offense ...",
+      "url": "https://electjon.com/at-first-rally-of-general-election-ossoff-goes-on-offense-against-mike-collins-health-care-cuts-scandals-and-extremism/",
+      "domain": "electjon.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "Jun 27, 2026",
+      "snippet": "Ossoff: “Donald Trump and his puppet Mike Collins, they doubled health insurance premiums for more than a million Georgians and threw 300,000 ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Sen. Jon Ossoff Sounds Off on Trump and Mike Collins Over ...",
+      "url": "https://www.facebook.com/ProtectOurCare/videos/st-marys-sacred-heart-in-lavonia-georgia-closed-its-maternity-unit-in-its-own-st/1663736588811002/",
+      "domain": "facebook.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Ossoff Ad Takes Collins' Quote Out of Context",
+      "url": "https://www.factcheck.org/2026/09/ossoff-ad-takes-collins-quote-out-of-context/",
+      "domain": "factcheck.org",
+      "published": "2026-09-04",
+      "publishedAsGiven": "Sep 4, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Did Mike Collins help double health insurance premiums ...",
+      "url": "https://politifact.com/factchecks/2026/jul/16/jon-ossoff/did-mike-collins-help-double-health-insurance-prem/",
+      "domain": "politifact.com",
+      "published": "2026-07-16",
+      "publishedAsGiven": "Jul 16, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact-checks (1601)",
+      "url": "https://politifact.com/search/factcheck/?q=mike",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Health Insurance Premiums Set to Rise Again in 2027 After ...",
+      "url": "https://electjon.com/new-report-health-insurance-premiums-set-to-rise-again-in-2027-after-mike-collins-voted-to-double-premiums/",
+      "domain": "electjon.com",
+      "published": "2026-08-31",
+      "publishedAsGiven": "Aug 31, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Ossoff Ad Takes Collins' Quote Out of Context",
+      "url": "https://www.factcheck.org/2026/09/ossoff-ad-takes-collins-quote-out-of-context/",
+      "domain": "factcheck.org",
+      "published": "2026-09-04",
+      "publishedAsGiven": "Sep 4, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Jon Ossoff: Mike Collins and Donald Trump Doubled Health ...",
+      "url": "https://www.facebook.com/DSCC/videos/mike-collins-and-donald-trump-doubled-health-insurance-premiums-for-more-than-a-/2779937909065974/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Politifact: GOP U.S. Senate Nominee Mike Collins Voted to ...",
+      "url": "https://georgiademocrat.org/politifact-gop-u-s-senate-nominee-mike-collins-voted-to-more-than-double-health-insurance-premiums-and-throw-at-least-300000-georgians-off-of-their-health-insurance/",
+      "domain": "georgiademocrat.org",
+      "published": "2026-08-05",
+      "publishedAsGiven": "Aug 5, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Did Trump and Mike Collins double health insurance ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-trump-and-mike-collins-double-health-insurance-premiums-for-more-than-1-million-georgians-and-cause-300000-to-lose-coverage/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-08-01",
+      "publishedAsGiven": "Aug 1, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Mike Collins and Donald Trump doubled health insurance ...",
+      "url": "https://www.facebook.com/DSCC/posts/mike-collins-and-donald-trump-doubled-health-insurance-premiums-for-more-than-a-/1478459264317478/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Post",
+      "url": "https://x.com/PolitiFact/status/2077892031762858363",
+      "domain": "x.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "At First Rally of General Election, Ossoff Goes on Offense ...",
+      "url": "https://electjon.com/at-first-rally-of-general-election-ossoff-goes-on-offense-against-mike-collins-health-care-cuts-scandals-and-extremism/",
+      "domain": "electjon.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "Jun 27, 2026",
+      "snippet": "Ossoff: “Donald Trump and his puppet Mike Collins, they doubled health insurance premiums for more than a million Georgians and threw 300,000 ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Did Mike Collins help double health insurance premiums ...",
+      "url": "https://politifact.com/factchecks/2026/jul/16/jon-ossoff/did-mike-collins-help-double-health-insurance-prem/",
+      "domain": "politifact.com",
+      "published": "2026-07-16",
+      "publishedAsGiven": "Jul 16, 2026",
+      "dropped": "fact-checker"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 6,
+    "fact-check-words": 5,
+    "after-said": 4,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:16:44.135Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "At First Rally of General Election, Ossoff Goes on Offense ...",
+      "url": "https://electjon.com/at-first-rally-of-general-election-ossoff-goes-on-offense-against-mike-collins-health-care-cuts-scandals-and-extremism/",
+      "domain": "electjon.com",
+      "snippet": "Ossoff: “Donald Trump and his puppet Mike Collins, they doubled health insurance premiums for more than a million Georgians and threw 300,000 ...",
+      "published": "2026-06-27",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

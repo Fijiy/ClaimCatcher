@@ -1,0 +1,282 @@
+{
+  "frozenAt": "2026-10-27T03:22:15.771Z",
+  "refilteredAt": "2026-10-27T03:37:20.347Z",
+  "id": "pf/sherrod-brown/jon-husted-pushed-for-data-centers-and-tax-incentives-in-ohio-as-sherrod-brown-ads-say",
+  "said": "2026-09-03",
+  "queries": {
+    "fact": "Sen. Jon Husted led the push to bring data centers to Ohio and gave billions of tax dollars to make it happen.",
+    "claim": "Sen. Jon Husted led the push to bring data centers to Ohio and gave billions of tax dollars to make it happen. Sherrod Brown"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2193.866541999858,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1469.183791999938,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Husted Gave Data Centers $2.5B Tax Breaks While Ohio Bills ...",
+      "url": "https://www.facebook.com/sherrod/videos/jon-husted-gave-data-centers-25-billion-in-out-of-control-tax-breaks-ohioans-got/4716230448702427/",
+      "domain": "facebook.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Jon Husted gave data center corporations $2.5 billion in ...",
+      "url": "https://www.facebook.com/sherrod/posts/jon-husted-gave-data-center-corporations-25-billion-in-sweetheart-tax-breaks-to-/1664678558348116/",
+      "domain": "facebook.com",
+      "published": "2026-10-25",
+      "publishedAsGiven": "2 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Ohio Democratic Ads Connect Husted to Bribery Scandal ...",
+      "url": "https://www.factcheck.org/2026/09/ohio-democratic-ads-connect-husted-to-bribery-scandal-despite-no-charges-of-wrongdoing/",
+      "domain": "factcheck.org",
+      "published": "2026-09-09",
+      "publishedAsGiven": "Sep 9, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Jon Husted recklessly gave away billions of dollars to bring ...",
+      "url": "https://www.instagram.com/reel/DeaP9T0TI2l/",
+      "domain": "instagram.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Jon Husted pushed for data centers and tax incentives ...",
+      "url": "https://politifact.com/factchecks/2026/sep/23/sherrod-brown/jon-husted-pushed-for-data-centers-and-tax-incentives-in-ohio-as-sherrod-brown-ads-say/",
+      "domain": "politifact.com",
+      "published": "2026-09-23",
+      "publishedAsGiven": "Sep 23, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Husted commemorates one year of Working Families Tax ...",
+      "url": "https://www.husted.senate.gov/media/press-releases/husted-commemorates-one-year-of-working-families-tax-cuts-act/",
+      "domain": "husted.senate.gov",
+      "published": "2026-07-01",
+      "publishedAsGiven": "Jul 1, 2026",
+      "snippet": "Jon Husted (R-Ohio) today recognized one year since the Senate passed the Working Families Tax Cuts Act. Husted cast the deciding vote to pass ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Sen. Jon Husted calls Ohio a data center state. But all Ohioans ...",
+      "url": "https://www.facebook.com/sherrod/posts/sen-jon-husted-calls-ohio-a-data-center-state-but-all-ohioans-got-was-higher-bil/1663013165181322/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "The vulnerable Republican being squeezed on data centers",
+      "url": "https://www.politico.com/news/2026/09/16/jon-husted-data-centers-senate-01078885",
+      "domain": "politico.com",
+      "published": "2026-09-16",
+      "publishedAsGiven": "Sep 16, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Senator Jon Husted gave billions in tax breaks to Big Tech ...",
+      "url": "https://www.instagram.com/reel/DeAswLBTSyL/",
+      "domain": "instagram.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Former Ohio Sen. Sherrod Brown, who is running against ...",
+      "url": "https://www.facebook.com/CBSNews/posts/former-ohio-sen-sherrod-brown-who-is-running-against-incumbent-sen-jon-husted-r-/1533276231997549/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Jon Husted led the charge to force data centers on Ohio, ...",
+      "url": "https://www.facebook.com/sherrod/videos/jon-husted-led-the-charge-to-force-data-centers-on-ohio-and-were-all-paying-the-/1760603348587602/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Jon Husted pushed for data centers and tax incentives ...",
+      "url": "https://politifact.com/factchecks/2026/sep/23/sherrod-brown/jon-husted-pushed-for-data-centers-and-tax-incentives-in-ohio-as-sherrod-brown-ads-say/",
+      "domain": "politifact.com",
+      "published": "2026-09-23",
+      "publishedAsGiven": "Sep 23, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Jon Husted gave out billions of dollars in sweetheart tax ...",
+      "url": "https://www.facebook.com/sherrod/posts/jon-husted-gave-out-billions-of-dollars-in-sweetheart-tax-cuts-to-bring-data-cen/1626970768785562/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Ohio Democratic Ads Connect Husted to Bribery Scandal ...",
+      "url": "https://www.factcheck.org/2026/09/ohio-democratic-ads-connect-husted-to-bribery-scandal-despite-no-charges-of-wrongdoing/",
+      "domain": "factcheck.org",
+      "published": "2026-09-09",
+      "publishedAsGiven": "Sep 9, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Jon Husted recklessly gave away billions of dollars to bring ...",
+      "url": "https://www.facebook.com/sherrod/posts/jon-husted-recklessly-gave-away-billions-of-dollars-to-bring-data-centers-to-our/1653615349454437/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Sherrod Brown attacks Husted over Ohio data centers",
+      "url": "https://signalohio.org/hes-trying-to-win-this-election-sherrod-brown-attacks-jon-husted-support-of-data-centers-in-break-with-labor-construction-unions/",
+      "domain": "signalohio.org",
+      "published": "2026-07-08",
+      "publishedAsGiven": "Jul 8, 2026",
+      "snippet": "“Jon Husted led the charge to bring data centers to Ohio, forcing Ohioans to pay thousands more in higher electric bills and giving giant out- ..."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Jon Husted gave data centers $2.5 billion in tax cuts to be ...",
+      "url": "https://www.instagram.com/reel/DeqGUXgzUi6/?hl=en",
+      "domain": "instagram.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Sen. Jon Husted on NRSC Memo About Data Centers",
+      "url": "https://www.c-span.org/clip/campaign-2026/sen-jon-husted-on-nrsc-memo-about-data-centers/5205178",
+      "domain": "c-span.org",
+      "published": "2026-08-27",
+      "publishedAsGiven": "Aug 27, 2026",
+      "snippet": "Sen. Jon Husted (R-OH) responded to a question about a recent NRSC memo that said his support for data centers while in the state government ..."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Former Ohio Sen. Sherrod Brown, who is running against ...",
+      "url": "https://www.facebook.com/CBSNews/posts/former-ohio-sen-sherrod-brown-who-is-running-against-incumbent-sen-jon-husted-r-/1533276231997549/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Ties to data centers could cost Ohio Sen. Jon Husted his ...",
+      "url": "https://www.washingtonpost.com/politics/2026/08/19/gop-memo-warns-ohio-sen-john-husted-is-being-dragged-down-by-data-centers/",
+      "domain": "washingtonpost.com",
+      "published": "2026-08-19",
+      "publishedAsGiven": "Aug 19, 2026",
+      "snippet": "Husted forced “the massive energy-sucking facilities on the state, giving corporations over $2.5 billion in out-of-control tax breaks and ..."
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 4,
+    "fact-check-words": 0,
+    "after-said": 9,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:22:12.108Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Sen. Jon Husted on NRSC Memo About Data Centers",
+      "url": "https://www.c-span.org/clip/campaign-2026/sen-jon-husted-on-nrsc-memo-about-data-centers/5205178",
+      "domain": "c-span.org",
+      "snippet": "Sen. Jon Husted (R-OH) responded to a question about a recent NRSC memo that said his support for data centers while in the state government ...",
+      "published": "2026-08-27",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Washington Journal",
+        "page": "https://mediabiasfactcheck.com/washington-journal/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Ties to data centers could cost Ohio Sen. Jon Husted his ...",
+      "url": "https://www.washingtonpost.com/politics/2026/08/19/gop-memo-warns-ohio-sen-john-husted-is-being-dragged-down-by-data-centers/",
+      "domain": "washingtonpost.com",
+      "snippet": "Husted forced “the massive energy-sucking facilities on the state, giving corporations over $2.5 billion in out-of-control tax breaks and ...",
+      "published": "2026-08-19",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Washington Post",
+        "page": "https://mediabiasfactcheck.com/washington-post/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Sherrod Brown attacks Husted over Ohio data centers",
+      "url": "https://signalohio.org/hes-trying-to-win-this-election-sherrod-brown-attacks-jon-husted-support-of-data-centers-in-break-with-labor-construction-unions/",
+      "domain": "signalohio.org",
+      "snippet": "“Jon Husted led the charge to bring data centers to Ohio, forcing Ohioans to pay thousands more in higher electric bills and giving giant out- ...",
+      "published": "2026-07-08",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    }
+  ]
+}

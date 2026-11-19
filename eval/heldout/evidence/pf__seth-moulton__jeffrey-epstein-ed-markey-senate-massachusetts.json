@@ -1,0 +1,274 @@
+{
+  "frozenAt": "2026-10-27T03:18:45.778Z",
+  "refilteredAt": "2026-10-27T03:36:25.948Z",
+  "id": "pf/seth-moulton/jeffrey-epstein-ed-markey-senate-massachusetts",
+  "said": "2026-08-05",
+  "queries": {
+    "fact": "DOJ Epstein files reveal Senator Ed Markey was part of Epstein lobbying effort.",
+    "claim": "DOJ Epstein files reveal Senator Ed Markey was part of Epstein lobbying effort. Seth Moulton"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2272.7530829999596,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2541.5912920000264,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "DOJ EPSTEIN FILES REVEAL SENATOR ED MARKEY ...",
+      "url": "https://sethmoulton.com/doj-epstein-files-reveal-senator-ed-markey-was-part-of-epstein-lobbying-effort/",
+      "domain": "sethmoulton.com",
+      "published": "2026-08-04",
+      "publishedAsGiven": "Aug 4, 2026",
+      "snippet": "DOJ Epstein files reveal Markey met with lobbyists hired by Epstein post-conviction to free an imprisoned associate; Moulton campaign ..."
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Do DOJ Epstein files show Sen. Ed Markey was part of an ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-do-doj-epstein-files-show-sen-ed-markey-was-part-of-an-epstein-lobbying-effort/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Why Epstein appears in Texas, Ohio, Georgia, MA Senate ...",
+      "url": "https://www.wbaltv.com/article/epstein-midterms-ads/73446634",
+      "domain": "wbaltv.com",
+      "published": "2026-08-16",
+      "publishedAsGiven": "Aug 16, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Moulton cherrypicks Epstein files to turn tenuous ...",
+      "url": "https://politifact.com/factchecks/2026/aug/06/seth-moulton/jeffrey-epstein-ed-markey-senate-massachusetts/",
+      "domain": "politifact.com",
+      "published": "2026-08-06",
+      "publishedAsGiven": "Aug 6, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Senator Markey's Role in the Epstein Files",
+      "url": "https://sethmoulton.com/markeys-role-in-the-epstein-files-release/",
+      "domain": "sethmoulton.com",
+      "published": "2026-08-03",
+      "publishedAsGiven": "Aug 3, 2026",
+      "snippet": "The timeline below outlines Senator Ed Markey's contact and involvement with a lobbying firm connected to Jeffrey Epstein and their efforts ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Is Ed Markey in the Epstein files? A 2015 email says ...",
+      "url": "https://www.facebook.com/politifact/posts/is-ed-markey-in-the-epstein-files-a-2015-email-says-a-lobbyist-tied-to-epstein-b/1512331460927952/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Epstein Library | United States Department of Justice",
+      "url": "https://www.justice.gov/epstein",
+      "domain": "justice.gov",
+      "published": "2026-09-11",
+      "publishedAsGiven": "Sep 11, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "'Pages Are Missing': Merkley Calls Out DOJ Over Alleged ...",
+      "url": "https://www.youtube.com/watch?v=1Fotb3oUrkM",
+      "domain": "youtube.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "snippet": "At a Senate Democratic press briefing on Thursday, Sen. Jeff Merkley (D-OR) spoke about reports that the DOJ has not released Epstein files ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Moulton accuses Markey of having ties to Epstein. Is it true?",
+      "url": "https://www.telegram.com/story/news/politics/2026/08/04/is-markey-in-the-epstein-files-fact-checking-moultons-accusation/91163127007/",
+      "domain": "telegram.com",
+      "published": "2026-08-04",
+      "publishedAsGiven": "Aug 4, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Merkley, Luján Demand Public Release of Epstein Files",
+      "url": "https://www.merkley.senate.gov/merkley-lujan-demand-public-release-of-epstein-files/",
+      "domain": "merkley.senate.gov",
+      "published": "2025-07-30",
+      "publishedAsGiven": "Jul 30, 2025",
+      "snippet": "Washington, D.C. – Oregon's U.S. Senator Jeff Merkley and New Mexico's U.S. Senator Ben Ray Luján launched an effort to direct the U.S. ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "DOJ EPSTEIN FILES REVEAL SENATOR ED MARKEY ...",
+      "url": "https://sethmoulton.com/doj-epstein-files-reveal-senator-ed-markey-was-part-of-epstein-lobbying-effort/",
+      "domain": "sethmoulton.com",
+      "published": "2026-08-04",
+      "publishedAsGiven": "Aug 4, 2026",
+      "snippet": "DOJ Epstein files reveal Markey met with lobbyists hired by Epstein post-conviction to free an imprisoned associate; Moulton campaign ..."
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Why Epstein appears in Texas, Ohio, Georgia, MA Senate ...",
+      "url": "https://www.wbaltv.com/article/epstein-midterms-ads/73446634",
+      "domain": "wbaltv.com",
+      "published": "2026-08-16",
+      "publishedAsGiven": "Aug 16, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Markey tears into Moulton over Epstein claims | GBH",
+      "url": "https://www.wgbh.org/news/politics/2026-08-05/desperate-and-absolutely-inaccurate-markey-tears-into-moulton-over-epstein-claims",
+      "domain": "wgbh.org",
+      "published": "2026-08-05",
+      "publishedAsGiven": "Aug 5, 2026",
+      "snippet": "Markey's campaign staff says they've checked the calendars of the senator and his staff, and dispute the claim of a 2015 meeting that serves ..."
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Rep. Moulton launched allegations about Sen. Markey ...",
+      "url": "https://www.facebook.com/wcvb5/posts/rep-moulton-launched-allegations-about-sen-markey-appearing-in-the-epstein-files/1614143780741704/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "The facts don't support Moulton's Markey-Epstein claims",
+      "url": "https://www.bostonglobe.com/2026/08/18/nation/moulton-markey-epstein/",
+      "domain": "bostonglobe.com",
+      "published": "2026-08-18",
+      "publishedAsGiven": "Aug 18, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Moulton accuses Markey of having ties to Epstein. Is it true?",
+      "url": "https://www.telegram.com/story/news/politics/2026/08/04/is-markey-in-the-epstein-files-fact-checking-moultons-accusation/91163127007/",
+      "domain": "telegram.com",
+      "published": "2026-08-04",
+      "publishedAsGiven": "Aug 4, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Senator Markey's Role in the Epstein Files",
+      "url": "https://sethmoulton.com/markeys-role-in-the-epstein-files/",
+      "domain": "sethmoulton.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Seth Moulton's campaign lied about their Epstein attack on ...",
+      "url": "https://www.reddit.com/r/massachusetts/comments/1vhkh97/seth_moultons_campaign_lied_about_their_epstein/",
+      "domain": "reddit.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Rep. Moulton defends claims tying Sen. Ed Markey to ...",
+      "url": "https://www.youtube.com/watch?v=2cZsewubqSk",
+      "domain": "youtube.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Do DOJ Epstein files show Sen. Ed Markey was part of an ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-do-doj-epstein-files-show-sen-ed-markey-was-part-of-an-epstein-lobbying-effort/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "fact-check-words"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 6,
+    "after-said": 4,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:18:40.963Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "DOJ EPSTEIN FILES REVEAL SENATOR ED MARKEY ...",
+      "url": "https://sethmoulton.com/doj-epstein-files-reveal-senator-ed-markey-was-part-of-epstein-lobbying-effort/",
+      "domain": "sethmoulton.com",
+      "snippet": "DOJ Epstein files reveal Markey met with lobbyists hired by Epstein post-conviction to free an imprisoned associate; Moulton campaign ...",
+      "published": "2026-08-04",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "Markey tears into Moulton over Epstein claims | GBH",
+      "url": "https://www.wgbh.org/news/politics/2026-08-05/desperate-and-absolutely-inaccurate-markey-tears-into-moulton-over-epstein-claims",
+      "domain": "wgbh.org",
+      "snippet": "Markey's campaign staff says they've checked the calendars of the senator and his staff, and dispute the claim of a 2015 meeting that serves ...",
+      "published": "2026-08-05",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    },
+    {
+      "title": "Senator Markey's Role in the Epstein Files",
+      "url": "https://sethmoulton.com/markeys-role-in-the-epstein-files-release/",
+      "domain": "sethmoulton.com",
+      "snippet": "The timeline below outlines Senator Ed Markey's contact and involvement with a lobbying firm connected to Jeffrey Epstein and their efforts ...",
+      "published": "2026-08-03",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "frozenAt": "2026-10-27T03:10:35.190Z",
+  "refilteredAt": "2026-10-27T03:34:24.646Z",
+  "id": "pf/gretchen-whitmer/michigan-poverty-decline-affordability",
+  "said": "2026-02-02",
+  "queries": {
+    "fact": "Under Michigan Gov. Gretchen Whitmer, there are fewer families living in poverty than under her predecessor.",
+    "claim": "Under Michigan Gov. Gretchen Whitmer, there are fewer families living in poverty than under her predecessor. Gretchen Whitmer"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1381.2068749999744,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1923.3516250000102,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 1752.5970000000088,
+      "results": 0
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Michigan Gov. Gretchen Whitmer said fewer families are ...",
+      "url": "https://politifact.com/factchecks/2026/feb/06/gretchen-whitmer/michigan-poverty-decline-affordability/",
+      "domain": "politifact.com",
+      "published": "2026-02-06",
+      "publishedAsGiven": "Feb 6, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Gov. Whitmer unveils new anti-poverty strategies and ...",
+      "url": "https://www.michigan.gov/leo/news/2026/06/03/gov-whitmer-unveils-new-anti-poverty-strategies-and-policy-recommendations",
+      "domain": "michigan.gov",
+      "published": "2026-06-03",
+      "publishedAsGiven": "Jun 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Fact-checks (158)",
+      "url": "https://politifact.com/search/factcheck/?q=predecessors",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Governor Unveils Poverty Task Force Report",
+      "url": "https://mlcmi.com/governor-unveils-poverty-task-force-report/",
+      "domain": "mlcmi.com",
+      "published": "2026-06-05",
+      "publishedAsGiven": "Jun 5, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Gov. Gretchen Whitmer is unveiling a new strategy aimed ...",
+      "url": "https://www.facebook.com/woodtv/posts/gov-gretchen-whitmer-is-unveiling-a-new-strategy-aimed-at-reducing-poverty-after/1520900396736467/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "The Whitmer agenda is a sop to the rich",
+      "url": "https://www.mackinac.org/30751",
+      "domain": "mackinac.org",
+      "published": "2023-03-21",
+      "publishedAsGiven": "Mar 21, 2023",
+      "snippet": "Whitmer proposes to have state taxpayers pay more so that all students, regardless of household income or need, get free lunches. Since the ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Gov. Whitmer Creates Task Force Focused on Lifting ...",
+      "url": "https://www.nasw-michigan.org/news/484160/Gov.-Whitmer-Creates-Task-Force-Focused-on-Lifting-Michiganders-Out-of-Poverty-.htm",
+      "domain": "nasw-michigan.org",
+      "published": "2020-01-10",
+      "publishedAsGiven": "Jan 10, 2020",
+      "snippet": "According to the United Way's ALICE Report, 43 percent of Michigan households struggle to afford necessities like housing, childcare, food, ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Gov. Gretchen Whitmer delivered her eighth and final State of ...",
+      "url": "https://www.facebook.com/BridgeMichigan/posts/gov-gretchen-whitmer-delivered-her-eighth-and-final-state-of-the-state-address-w/1376261121181993/",
+      "domain": "facebook.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "LEO - Michigan Poverty Task Force",
+      "url": "https://www.michigan.gov/leo/initiatives/poverty-task-force",
+      "domain": "michigan.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "4 in 10 Michigan residents struggle to afford basic needs ...",
+      "url": "https://michiganindependent.com/economy/4-in-10-michigan-residents-struggle-to-afford-basic-needs-new-analysis-shows/",
+      "domain": "michiganindependent.com",
+      "published": "2026-08-21",
+      "publishedAsGiven": "Aug 21, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "2026 State of the State",
+      "url": "https://www.michigan.gov/whitmer/news/state-of-the-state/2026-state-of-the-state",
+      "domain": "michigan.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Governor Gretchen Whitmer",
+      "url": "https://www.michigan.gov/whitmer",
+      "domain": "michigan.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Gov. Gretchen Whitmer is unveiling a new strategy aimed ...",
+      "url": "https://www.facebook.com/woodtv/posts/gov-gretchen-whitmer-is-unveiling-a-new-strategy-aimed-at-reducing-poverty-after/1520900396736467/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Gretchen Whitmer",
+      "url": "https://ballotpedia.org/Gretchen_Whitmer",
+      "domain": "ballotpedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Accomplishments",
+      "url": "https://gretchenwhitmer.com/accomplishments/",
+      "domain": "gretchenwhitmer.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "About the Governor",
+      "url": "https://www.michigan.gov/whitmer/about/gov",
+      "domain": "michigan.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Michigan Gov. Gretchen Whitmer said fewer families are ...",
+      "url": "https://politifact.com/factchecks/2026/feb/06/gretchen-whitmer/michigan-poverty-decline-affordability/",
+      "domain": "politifact.com",
+      "published": "2026-02-06",
+      "publishedAsGiven": "Feb 6, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Gretchen Whitmer on Universal Pre-K and Support for Michigan ...",
+      "url": "https://www.facebook.com/GovGretchenWhitmer/videos/the-bottom-line-is-if-youre-working-and-building-your-family-in-our-state-you-de/1601851963811335/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "snippet": "Jocelyn Whitmer, the Governor of Michigan, posts a video to offer a message of support to the state's workers. make the state more affordable ..."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Gov. Gretchen Whitmer discusses her administration's ...",
+      "url": "https://www.youtube.com/watch?v=51WvTfLWl_k",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "snippet": "Michigan Gov. Gretchen Whitmer visits the @detroiteconomicclub to discuss her administration's approach to grow the economy, lower costs and ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Gretchen Whitmer",
+      "url": "https://en.wikipedia.org/wiki/Gretchen_Whitmer",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 0,
+    "after-said": 5,
+    "maybe-after-said": 1,
+    "after-said-link-date": 0,
+    "undated": 7
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:10:31.883Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "The Whitmer agenda is a sop to the rich",
+      "url": "https://www.mackinac.org/30751",
+      "domain": "mackinac.org",
+      "snippet": "Whitmer proposes to have state taxpayers pay more so that all students, regardless of household income or need, get free lunches. Since the ...",
+      "published": "2023-03-21",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Mackinac Center for Public Policy",
+        "page": "https://mediabiasfactcheck.com/mackinac-center-for-public-policy/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Gov. Whitmer Creates Task Force Focused on Lifting ...",
+      "url": "https://www.nasw-michigan.org/news/484160/Gov.-Whitmer-Creates-Task-Force-Focused-on-Lifting-Michiganders-Out-of-Poverty-.htm",
+      "domain": "nasw-michigan.org",
+      "snippet": "According to the United Way's ALICE Report, 43 percent of Michigan households struggle to afford necessities like housing, childcare, food, ...",
+      "published": "2020-01-10",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    }
+  ]
+}

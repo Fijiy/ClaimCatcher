@@ -1,0 +1,111 @@
+{
+  "case_id": "us-khanna-tiktok-2025-02-20-telehealth#0",
+  "queries": {
+    "A": "The Trump administration just announced that Medicare will stop covering telehealth starting April 1. Khanna",
+    "B": "Medicare telehealth flexibilities expiration date March 31 2025 extension"
+  },
+  "results": [
+    {
+      "q": "B",
+      "rank": 1,
+      "title": "Is the End Near? Medicare Telehealth Flexibilities Set to Expire at the End of the Year",
+      "url": "https://www.dinsmore.com/?p=57647",
+      "domain": "dinsmore.com",
+      "published": "2024-12-12",
+      "snippet": "A pending Congressional proposal, H.R. 7623 – Telehealth Modernization Act of 2024, would provide a partial fix by extending the expiration date by two years. While the measure was originally proposed to make the telehealth flexibilities permanent, the House Energy and Commerce Committee amended to only a two year extension citing cost considerations. H.R. 7623 is strongly supported by provider and patient advocacy groups but has not advanced out of committee. [1]",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "Medicare Telehealth Flexibilities: Countdown to September 30, 2025",
+      "url": "https://www.foley.com/insights/publications/2025/09/medicare-telehealth-flexibilities-countdown-to-september-30-2025/",
+      "domain": "foley.com",
+      "published": "2025-09-11",
+      "snippet": "In the final hours of 2024, Congress passed a six-month extension of the Medicare telehealth flexibilities through its 2025 funding bill , pushing the expiration date to September 30, 2025. Now, with that deadline quickly approaching, many telehealth providers are left wondering whether Congress will act in time.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 5,
+      "title": "The Expiration of Telehealth Extensions",
+      "url": "https://www.counseling.org/publications/media-center/article/2025/03/04/the-expiration-of-telehealth-extensions",
+      "domain": "counseling.org",
+      "published": null,
+      "snippet": "Many Medicare telehealth flexibilities established during the COVID-19 public health emergency have been extended through Monday, March 31, 2025. However, some behavioral health provisions have been made permanent:",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 6,
+      "title": "Medicare Telehealth Flexibilities Extended Through March 2025",
+      "url": "https://www.dinsmore.com/publications/medicare-telehealth-flexibilities-extended-through-march-2025/",
+      "domain": "dinsmore.com",
+      "published": "2024-12-30",
+      "snippet": "Earlier this month, Dinsmore provided a notice to clients that several telehealth flexibilities for Medicare beneficiaries were set to expire on December 31. However, on December 20, Congress passed the American Relief Act, 2025 [1] (the “Act”), a short-term spending bill that keeps the government open through March. The Act includes provisions that extend Medicare telehealth flexibilities, including:",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://www.wral.com/archive/21937721/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://kffhealthnews.org/MjAwMTM5OQ",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://kffhealthnews.org/republish/medicare/fact-check-democrat-ro-khanna-medicare-telehealth-coverage-blames-trump/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://kffhealthnews.org/medicare/fact-check-democrat-ro-khanna-medicare-telehealth-coverage-blames-trump/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://montanaindependent.substack.com/p/congressman-blames-trump-team-for",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://kffhealthnews.org/news/article/fact-check-democrat-ro-khanna-medicare-telehealth-coverage-blames-trump/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.yahoo.com/news/medicare-telehealth-coverage-ending-soon-130015483.html",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.politifact.com/factchecks/2025/mar/18/ro-khanna/congressman-blames-trump-team-for-ending-telehealt/",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "A",
+      "url": "https://katiecouric.com/?p=227824",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.yahoo.com/news/congressman-blames-trump-team-ending-175946264.html",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "B",
+      "url": "https://www.dinsmore.com/publications/is-the-end-near-medicare-telehealth-flexibilities-set-to-expire-at-the-end-of-the-year/",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://www.foley.com/?p=114958",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    }
+  ]
+}

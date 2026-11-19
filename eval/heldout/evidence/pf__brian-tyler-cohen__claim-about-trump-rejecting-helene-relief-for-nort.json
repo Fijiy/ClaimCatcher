@@ -1,0 +1,214 @@
+{
+  "frozenAt": "2026-10-27T03:02:56.816Z",
+  "refilteredAt": "2026-10-27T03:32:34.627Z",
+  "id": "pf/brian-tyler-cohen/claim-about-trump-rejecting-helene-relief-for-nort",
+  "said": "2025-04-12",
+  "queries": {
+    "fact": "Trump just denied North Carolina’s request for FEMA relief from Hurricane Helene.",
+    "claim": "Trump just denied North Carolina’s request for FEMA relief from Hurricane Helene. Brian Tyler Cohen"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1944.9486660000039,
+      "results": 8
+    },
+    {
+      "query": "claim",
+      "ms": 2193.9050419999985,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Trump administration denies North Carolina request for ...",
+      "url": "https://abcnews.com/Politics/fema-denies-north-carolina-request-100-cost-sharing/story?id=122270931",
+      "domain": "abcnews.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Fact check: Did Trump reject Helene relief for North ...",
+      "url": "https://www.wral.com/archive/21973922/",
+      "domain": "wral.com",
+      "published": "2025-04-23",
+      "publishedAsGiven": "Apr 23, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Trump Denies Disaster Aid, Tells States To Do More",
+      "url": "https://www.floods.org/news-views/fema-news/trump-denies-disaster-aid-tells-states-to-do-more/",
+      "domain": "floods.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "April 25, 2025: Letter from Governor Stein Appealing FEMA ...",
+      "url": "https://governor.nc.gov/april-25-2025-letter-governor-stein-appealing-fema-decision",
+      "domain": "governor.nc.gov",
+      "published": "2025-04-25",
+      "publishedAsGiven": "Apr 25, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Did Trump deny all FEMA Helene relief for North Carolina?",
+      "url": "https://www.wfae.org/politics/2025-04-29/fact-check-did-trump-deny-all-fema-helene-relief-for-north-carolina",
+      "domain": "wfae.org",
+      "published": "2025-04-29",
+      "publishedAsGiven": "Apr 29, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Trump just denied North Carolina's request for FEMA relief ...",
+      "url": "https://www.facebook.com/attorneygriggs/posts/trump-just-denied-north-carolinas-request-for-fema-relief-from-hurricane-helene-/1252244326258628/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Trump's FEMA Denies North Carolina's Request for ...",
+      "url": "https://www.yahoo.com/news/trump-fema-denies-north-carolina-213737402.html",
+      "domain": "yahoo.com",
+      "published": "2025-05-23",
+      "publishedAsGiven": "May 23, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Trump suggests eliminating FEMA during North Carolina visit ...",
+      "url": "https://youngkim.house.gov/2025/01/24/trump-suggests-eliminating-fema-during-north-carolina-visit-as-he-attacks-disaster-response/",
+      "domain": "youngkim.house.gov",
+      "published": "2025-01-24",
+      "publishedAsGiven": "Jan 24, 2025",
+      "snippet": "Jan 24, 2025 — ... Hurricane Helene flooding in North Carolina , a state he's said “has been abandoned by the Democrats.” Trump's comments came as he's also ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact check: Did Trump reject Helene relief for North ...",
+      "url": "https://www.wral.com/archive/21973922/",
+      "domain": "wral.com",
+      "published": "2025-04-23",
+      "publishedAsGiven": "Apr 23, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Did Trump deny all FEMA Helene relief for North Carolina?",
+      "url": "https://www.wfae.org/politics/2025-04-29/fact-check-did-trump-deny-all-fema-helene-relief-for-north-carolina",
+      "domain": "wfae.org",
+      "published": "2025-04-29",
+      "publishedAsGiven": "Apr 29, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Trump's FEMA denies North Carolina's request for ...",
+      "url": "https://www.youtube.com/watch?v=O-GVdML8Nf0",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "The Federal Emergency Management Agency denied ...",
+      "url": "https://www.facebook.com/ABCNews/posts/the-federal-emergency-management-agency-denied-north-carolinas-request-for-the-a/1115031887150357/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Claim about Trump rejecting Helene relief for North ...",
+      "url": "https://politifact.com/factchecks/2025/apr/24/brian-tyler-cohen/claim-about-trump-rejecting-helene-relief-for-nort/",
+      "domain": "politifact.com",
+      "published": "2025-04-24",
+      "publishedAsGiven": "Apr 24, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Trump administration denies North Carolina request for ...",
+      "url": "https://abcnews.com/Politics/fema-denies-north-carolina-request-100-cost-sharing/story?id=122270931",
+      "domain": "abcnews.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "No Lie with Brian Tyler Cohen on ...",
+      "url": "https://x.com/NoLieWithBTC/status/1926005046170296765",
+      "domain": "x.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Trump Denies FEMA Relief to North Carolina After ...",
+      "url": "https://www.facebook.com/groups/1077620615994293/posts/2240434416379568/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "April 25, 2025: Letter from Governor Stein Appealing FEMA ...",
+      "url": "https://governor.nc.gov/april-25-2025-letter-governor-stein-appealing-fema-decision",
+      "domain": "governor.nc.gov",
+      "published": "2025-04-25",
+      "publishedAsGiven": "Apr 25, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Did Trump reject Helene relief for North Carolina?",
+      "url": "https://www.youtube.com/watch?v=_KJGscZ8PYg",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    }
+  ],
+  "returned": 18,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 4,
+    "after-said": 3,
+    "maybe-after-said": 5,
+    "after-said-link-date": 0,
+    "undated": 4
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:02:52.674Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

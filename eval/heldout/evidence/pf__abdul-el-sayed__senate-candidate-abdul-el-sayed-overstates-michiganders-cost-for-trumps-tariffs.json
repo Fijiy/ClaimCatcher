@@ -1,0 +1,236 @@
+{
+  "frozenAt": "2026-10-27T03:21:22.637Z",
+  "refilteredAt": "2026-10-27T03:37:07.676Z",
+  "id": "pf/abdul-el-sayed/senate-candidate-abdul-el-sayed-overstates-michiganders-cost-for-trumps-tariffs",
+  "said": "2026-09-01",
+  "queries": {
+    "fact": "President Donald Trump’s tariffs cost each Michigan household $5,619.",
+    "claim": "President Donald Trump’s tariffs cost each Michigan household $5,619. Abdul El-Sayed"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1630.6102499999106,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1432.1957499999553,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Did Trump's tariffs cost each Michigan household $5619?",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-trumps-tariffs-cost-each-michigan-household-5619/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-09-19",
+      "publishedAsGiven": "Sep 19, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Trump's tariffs are hitting Michigan households harder than ...",
+      "url": "https://www.metrotimes.com/news/trumps-tariffs-are-hitting-michigan-households-harder-than-anywhere-else-study-finds/",
+      "domain": "metrotimes.com",
+      "published": "2026-09-03",
+      "publishedAsGiven": "Sep 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Trump started a trade war with Canada. GOP candidates ...",
+      "url": "https://www.washingtonpost.com/politics/2026/10/25/how-trumps-trade-war-with-canada-has-hurt-gop-candidates-key-races/",
+      "domain": "washingtonpost.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "21 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Abdul El-Sayed said President Trump's tariffs cost ...",
+      "url": "https://www.facebook.com/politifact/posts/abdul-el-sayed-said-president-trumps-tariffs-cost-michigan-families-5619-thats-b/1588933789934385/",
+      "domain": "facebook.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Michigan households pay $5619 in tariffs",
+      "url": "https://www.michigancapitolconfidential.com/news/michigan-households-pay-5619-in-tariffs",
+      "domain": "michigancapitolconfidential.com",
+      "published": "2026-09-14",
+      "publishedAsGiven": "Sep 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Republicans' tariff war has cost an estimated $5619 per ...",
+      "url": "https://www.facebook.com/MIHouseDems/posts/republicans-tariff-war-has-cost-an-estimated-5619-per-household-in-michigan-the-/1436808025272009/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Tariffs cost Michigan households $5600 since January ⬇️",
+      "url": "https://www.facebook.com/WNEMTV5/posts/study-tariffs-cost-michigan-households-5600-since-january-%EF%B8%8F/1557474446419272/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "In Michigan, we're paying $5600 a year on average for Trump ...",
+      "url": "https://www.facebook.com/DrAbdulElSayed/posts/in-michigan-were-paying-5600-a-year-on-average-for-trump-and-mike-rogers-tariffs/1641533034010638/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Senate candidate Abdul El-Sayed overstates Michiganders ...",
+      "url": "https://politifact.com/factchecks/2026/sep/17/abdul-el-sayed/senate-candidate-abdul-el-sayed-overstates-michiganders-cost-for-trumps-tariffs/",
+      "domain": "politifact.com",
+      "published": "2026-09-17",
+      "publishedAsGiven": "Sep 17, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Republicans' tariff war has cost an estimated ...",
+      "url": "https://www.facebook.com/MIHouseDems/videos/republicans-tariff-war-has-cost-an-estimated-5619-per-household-in-michigan-the-/1793438598499755/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Abdul El-Sayed said President Trump's tariffs cost ...",
+      "url": "https://www.facebook.com/politifact/posts/abdul-el-sayed-said-president-trumps-tariffs-cost-michigan-families-5619-thats-b/1588933789934385/",
+      "domain": "facebook.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "In Michigan, we're paying $5600 a year on average for Trump ...",
+      "url": "https://www.facebook.com/DrAbdulElSayed/posts/in-michigan-were-paying-5600-a-year-on-average-for-trump-and-mike-rogers-tariffs/1641533034010638/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Did Trump's tariffs cost each Michigan household $5619?",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-trumps-tariffs-cost-each-michigan-household-5619/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-09-19",
+      "publishedAsGiven": "Sep 19, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Abdul El-Sayed BLASTS Trump Tariffs and Mike Rogers",
+      "url": "https://www.youtube.com/shorts/j2fJJJlCKcU",
+      "domain": "youtube.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Senate candidate Abdul El-Sayed overstates Michiganders ...",
+      "url": "https://politifact.com/factchecks/2026/sep/17/abdul-el-sayed/senate-candidate-abdul-el-sayed-overstates-michiganders-cost-for-trumps-tariffs/",
+      "domain": "politifact.com",
+      "published": "2026-09-17",
+      "publishedAsGiven": "Sep 17, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "NEW VIDEO: The Price is Wrong!",
+      "url": "https://abdulforsenate.com/2026/09/new-video-the-price-is-wrong/",
+      "domain": "abdulforsenate.com",
+      "published": "2026-09-08",
+      "publishedAsGiven": "Sep 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Trump started a trade war with Canada. GOP candidates ...",
+      "url": "https://www.washingtonpost.com/politics/2026/10/25/how-trumps-trade-war-with-canada-has-hurt-gop-candidates-key-races/",
+      "domain": "washingtonpost.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "21 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "In Michigan, we're paying for Trump's tariff war against Canada ...",
+      "url": "https://www.facebook.com/DrAbdulElSayed/posts/in-michigan-were-paying-for-trumps-tariff-war-against-canada-to-the-tune-of-5600/1646367106860564/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Dr. Abdul El-Sayed on X: \"Trump's tariffs have cost ...",
+      "url": "https://x.com/AbdulElSayed/status/2093138989087662097?lang=en",
+      "domain": "x.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Abdul El-Sayed on Trump Tariffs and Canada Impact in Michigan",
+      "url": "https://www.facebook.com/NewsNationNow/videos/what-do-trumps-latest-tariff-moves-mean-for-michigan-abdul-el-sayed-argues-the-b/944436275120722/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 4,
+    "after-said": 9,
+    "maybe-after-said": 3,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:21:19.574Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

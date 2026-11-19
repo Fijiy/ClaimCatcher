@@ -1,0 +1,255 @@
+{
+  "frozenAt": "2026-10-27T03:10:25.881Z",
+  "refilteredAt": "2026-10-27T03:34:20.391Z",
+  "id": "pf/blake-gendebien/milk-prices-consumers-inflation-gallon-1980s",
+  "said": "2026-01-30",
+  "queries": {
+    "fact": "Milk prices currently are no higher than they were in 1980’s.",
+    "claim": "Milk prices currently are no higher than they were in 1980’s. Blake Gendebien"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2179.5390829999815,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1271.2876659999602,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Milk Pricing - Past, Present, the 1980's",
+      "url": "https://www.journalofdairyscience.org/article/S0022-0302(81)82690-2/pdf",
+      "domain": "journalofdairyscience.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Record High Milk Prices: What Lies Ahead? - Purdue Agriculture",
+      "url": "https://ag.purdue.edu/commercialag/home/paer-article/record-high-milk-prices-what-lies-ahead/",
+      "domain": "ag.purdue.edu",
+      "published": "2021-11-16",
+      "publishedAsGiven": "Nov 16, 2021",
+      "snippet": "For the year, the U.S. all-farm milk price is expected to be $12.30 per hundredweight which is $1.00 lower than 1989 (slightly above milk ..."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "In 1983, farmers were getting $12.93 per hundredweight ...",
+      "url": "https://www.facebook.com/erica.d.429/posts/in-1983-farmers-were-getting-1293-per-hundredweight-of-milk-and-everyone-agreed-/1464148761736311/",
+      "domain": "facebook.com",
+      "published": "2025-12-27",
+      "publishedAsGiven": "10 months ago",
+      "snippet": "the average is around $20 to $25 cwt. cow's are producing more milk per cow than they did in 1983 … we don't get milk at the store for 1980 ..."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "price for class III is the current month's Basic Formula ...",
+      "url": "https://docs.legis.wisconsin.gov/1995/related/public_hearing_records/ac_agriculture/miscellaneous_misc/95hr_ac_ag_misc_pt15i.pdf",
+      "domain": "docs.legis.wisconsin.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "MILK PRODUCTION AND STOCKS OF DAIRY ... - farmdoc",
+      "url": "https://farmdoc.illinois.edu/assets/marketing/weekly/1980/1980-06-04.pdf",
+      "domain": "farmdoc.illinois.edu",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Milk Pricing – Past, Present, the 1980's",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022030281826902",
+      "domain": "sciencedirect.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Retail Dairy Prices Fluctuate With Farm Value of Milk",
+      "url": "http://www.ers.usda.gov/amber-waves/2009/december/data-feature-retail-dairy-prices-fluctuate-with-farm-value-of-milk",
+      "domain": "ers.usda.gov",
+      "published": "2009-12-01",
+      "publishedAsGiven": "Dec 1, 2009",
+      "snippet": "Between 1980 and 1999, the farm share of retail dairy prices fell from 52 to 32 percent as marketing costs rose, primarily reflecting consumer ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Milk price, diesel fuel, and the 1980s | Doing It Wrong Dairy",
+      "url": "https://www.facebook.com/100081672946246/videos/milk-price-diesel-fuel-and-the-1980s/873060465775632/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Does milk cost less than it did in the 1980s?",
+      "url": "https://politifact.com/factchecks/2026/mar/31/blake-gendebien/milk-prices-consumers-inflation-gallon-1980s/",
+      "domain": "politifact.com",
+      "published": "2026-03-31",
+      "publishedAsGiven": "Mar 31, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "U.S. Milk Prices (1995-2026)",
+      "url": "https://www.macrotrends.net/3228/us-milk-prices",
+      "domain": "macrotrends.net",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Does milk cost less than it did in the 1980s?",
+      "url": "https://politifact.com/factchecks/2026/mar/31/blake-gendebien/milk-prices-consumers-inflation-gallon-1980s/",
+      "domain": "politifact.com",
+      "published": "2026-03-31",
+      "publishedAsGiven": "Mar 31, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Latest Fact-Checks On Blake Gendebien",
+      "url": "https://politifact.com/factchecks/list/?speaker=blake-gendebien",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Blake for the North Country",
+      "url": "https://x.com/BlakeGendebien/status/2017342383760019823",
+      "domain": "x.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "The $19 Milk Trap: How 2026 Prices Quietly Drain a 400‑ ...",
+      "url": "https://www.thebullvine.com/news/the-19-milk-trap-how-2026-prices-quietly-drain-a-400%E2%80%91cow-dairys-equity/",
+      "domain": "thebullvine.com",
+      "published": "2026-04-05",
+      "publishedAsGiven": "Apr 5, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Blake Gendebien – Does milk cost less than it did in the 1980s ...",
+      "url": "https://wnymedia.net/2026/04/01/blake-gendebien-does-milk-cost-less-than-it-did-in-the-1980s/",
+      "domain": "wnymedia.net",
+      "published": null,
+      "dropped": "after-said-link-date"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Blake Gendebien",
+      "url": "https://politifact.com/personalities/blake-gendebien/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "The Issues Fueling the Most Expensive Ad War in Midterm ...",
+      "url": "https://insideelections.com/the-issues-fueling-the-most-expensive-ad-war-in-midterm-history/",
+      "domain": "insideelections.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "8 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Price check on gallon of milk in 1990's vs now : r/Xennials",
+      "url": "https://www.reddit.com/r/Xennials/comments/1t0da5k/price_check_on_gallon_of_milk_in_1990s_vs_now/",
+      "domain": "reddit.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Chronicle interviews Anthony Constantino",
+      "url": "https://www.glensfallschronicle.com/chronicle-interviews-anthony-constantino/",
+      "domain": "glensfallschronicle.com",
+      "published": "2026-10-02",
+      "publishedAsGiven": "Oct 2, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Fuel prices are skyrocketing from bad decisions. Blake ...",
+      "url": "https://www.facebook.com/stlawrencedemocrats/posts/fuel-prices-are-skyrocketing-from-bad-decisions-blake-gendebien-knows-a-70-incre/1551633767005115/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 4,
+    "fact-check-words": 0,
+    "after-said": 6,
+    "maybe-after-said": 1,
+    "after-said-link-date": 1,
+    "undated": 5
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:10:22.428Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Record High Milk Prices: What Lies Ahead? - Purdue Agriculture",
+      "url": "https://ag.purdue.edu/commercialag/home/paer-article/record-high-milk-prices-what-lies-ahead/",
+      "domain": "ag.purdue.edu",
+      "snippet": "For the year, the U.S. all-farm milk price is expected to be $12.30 per hundredweight which is $1.00 lower than 1989 (slightly above milk ...",
+      "published": "2021-11-16",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Retail Dairy Prices Fluctuate With Farm Value of Milk",
+      "url": "http://www.ers.usda.gov/amber-waves/2009/december/data-feature-retail-dairy-prices-fluctuate-with-farm-value-of-milk",
+      "domain": "ers.usda.gov",
+      "snippet": "Between 1980 and 1999, the farm share of retail dairy prices fell from 52 to 32 percent as marketing costs rose, primarily reflecting consumer ...",
+      "published": "2009-12-01",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 2
+    }
+  ]
+}

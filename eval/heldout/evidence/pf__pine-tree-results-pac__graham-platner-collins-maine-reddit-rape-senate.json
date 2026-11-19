@@ -1,0 +1,200 @@
+{
+  "frozenAt": "2026-10-27T03:14:23.964Z",
+  "refilteredAt": "2026-10-27T03:35:23.167Z",
+  "id": "pf/pine-tree-results-pac/graham-platner-collins-maine-reddit-rape-senate",
+  "said": "2026-04-26",
+  "queries": {
+    "fact": "Graham Platner blames Maine’s women for getting raped because he says they get f—– up drunk",
+    "claim": "Graham Platner blames Maine’s women for getting raped because he says they get f—– up drunk Pine Tree Results PAC"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1891.4789170000004,
+      "results": 8
+    },
+    {
+      "query": "claim",
+      "ms": 2523.405167000019,
+      "results": 9
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Ad linked to Maine's Collins attacks Platner's 2013 rape ...",
+      "url": "https://www.wmtw.com/article/susan-collins-attack-ad-graham-platner-rape-comments-fact-check/71204651",
+      "domain": "wmtw.com",
+      "published": "2026-05-04",
+      "publishedAsGiven": "May 4, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Graham Platner Says Sexual Assault Victims Should “Take ...",
+      "url": "https://emilyslist.org/sound-the-alarm/sound-the-alarm-graham-platner-says-sexual-assault-victims-should-take-some-responsibility-in-now-deleted-reddit-posts/",
+      "domain": "emilyslist.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Exclusive: Woman who dated Graham Platner says he ...",
+      "url": "https://www.politico.com/news/2026/07/06/graham-platner-sexual-assault-allegation-00987737",
+      "domain": "politico.com",
+      "published": "2026-07-06",
+      "publishedAsGiven": "Jul 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Maine Senate candidate Platner says campaign is ...",
+      "url": "https://www.pbs.org/newshour/politics/maine-senate-candidate-platner-says-campaign-is-deciding-best-path-forward-after-new-sexual-assault-allegation",
+      "domain": "pbs.org",
+      "published": "2026-07-06",
+      "publishedAsGiven": "Jul 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Social media posts from Maine Candidate Graham Platner ...",
+      "url": "https://www.facebook.com/brutamerica/posts/social-media-posts-from-maine-candidate-graham-platner-that-blame-victims-for-se/1389881319851705/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Woman accuses Maine Senate candidate Graham Platner ...",
+      "url": "https://www.wagmtv.com/2026/07/06/woman-accuses-maine-senate-candidate-graham-platner-sexual-assault-report/",
+      "domain": "wagmtv.com",
+      "published": "2026-07-06",
+      "publishedAsGiven": "Jul 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Woman Accuses Graham Platner of Rape in 2021, He ...",
+      "url": "https://www.facebook.com/cnn/videos/in-an-exclusive-interview-with-cnns-jake-tapper-on-monday-jenny-racicot-said-tha/1058005743464043/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "r/Maine reacts to news that a woman has accused Graham ...",
+      "url": "https://www.reddit.com/r/SubredditDrama/comments/1upjymw/rmaine_reacts_to_news_that_a_woman_has_accused/",
+      "domain": "reddit.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Ad linked to Maine's Collins attacks Platner's 2013 rape ...",
+      "url": "https://www.wmtw.com/article/susan-collins-attack-ad-graham-platner-rape-comments-fact-check/71204651",
+      "domain": "wmtw.com",
+      "published": "2026-05-04",
+      "publishedAsGiven": "May 4, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Pine Tree Results PAC",
+      "url": "https://politifact.com/personalities/pine-tree-results-pac/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Woman accuses Senate candidate Graham Platner of ...",
+      "url": "https://wgme.com/news/local/report-woman-accuses-graham-platner-of-sexual-assault-platner-denies-claim-maine-politics-susan-collins",
+      "domain": "wgme.com",
+      "published": "2026-07-06",
+      "publishedAsGiven": "Jul 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Exclusive: Woman who dated Graham Platner says he ...",
+      "url": "https://www.politico.com/news/2026/07/06/graham-platner-sexual-assault-allegation-00987737",
+      "domain": "politico.com",
+      "published": "2026-07-06",
+      "publishedAsGiven": "Jul 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Ad linked to Maine's Susan Collins attacks Graham ...",
+      "url": "https://politifact.com/factchecks/2026/apr/29/pine-tree-results-pac/graham-platner-collins-maine-reddit-rape-senate/",
+      "domain": "politifact.com",
+      "published": "2026-04-29",
+      "publishedAsGiven": "Apr 29, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Woman Accuses Graham Platner of Rape in 2021, He ...",
+      "url": "https://www.facebook.com/cnn/videos/in-an-exclusive-interview-with-cnns-jake-tapper-on-monday-jenny-racicot-said-tha/1058005743464043/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Graham Platner still hangs over the Maine Senate race",
+      "url": "https://www.washingtonpost.com/politics/2026/07/29/graham-platner-still-hangs-over-maine-senate-race/",
+      "domain": "washingtonpost.com",
+      "published": "2026-07-29",
+      "publishedAsGiven": "Jul 29, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Graham Platner suspended his campaign on Wednesday ...",
+      "url": "https://www.facebook.com/katiecouric/posts/graham-platner-suspended-his-campaign-on-wednesday-after-a-woman-accused-him-of-/1590056819146669/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Graham Platner Says Sexual Assault Victims Should “Take ...",
+      "url": "https://emilyslist.org/sound-the-alarm/sound-the-alarm-graham-platner-says-sexual-assault-victims-should-take-some-responsibility-in-now-deleted-reddit-posts/",
+      "domain": "emilyslist.org",
+      "published": null,
+      "dropped": "undated"
+    }
+  ],
+  "returned": 17,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 2,
+    "after-said": 6,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 7
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:14:19.548Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

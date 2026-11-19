@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Fixture: live.house.gov floor player</title>
+    <style>
+      .bitmovinplayer-container { position: relative; width: 480px; height: 270px; background: #000; color: #fff; }
+      .bitmovinplayer-container video { width: 100%; height: 100%; }
+      .bmpui-ui-subtitle-overlay { position: absolute; inset: auto 0 40px 0; text-align: center; }
+      .bmpui-ui-subtitle-label { display: block; background: #000; }
+    </style>
+  </head>
+  <body>
+    <!--
+      Copies the House floor player (Bitmovin) from task/site-capture-test
+      (FINDINGS.md, results/chrome/house-floor-0915-cc1.json):
+      - the player handle is `floorcast.views.videoView.getPlayerInstance()`;
+        `subtitles.list()` gives `CC1` (English) and `CC3` (Spanish), both with
+        lang 'unknown'; CC3 only appears once the stream plays; captions are off
+        until enabled; `subtitles.enable(id, exclusive)`, `subtitles.disable(id)`;
+      - `cueenter` events `{start, end, text, subtitleId}` fire for every
+        enabled track; the <video> has no textTracks;
+      - captions roll up two lines: each roll re-enters the line above with the
+        new one, at the same start (the real CC1 cues from 14251.77 s, re-based
+        so the first roll is at 0:05);
+      - `.bmpui-ui-subtitle-overlay` shows the enabled tracks' lines, English
+        and Spanish interleaved when both are on;
+      - `?viewer=spanish`: the viewer switches CC3 on as soon as it appears.
+    -->
+    <div class="bitmovinplayer-container">
+      <video src="/media/tone.wav"></video>
+      <div class="bmpui-ui-uicontainer">
+        <div class="bmpui-ui-subtitle-overlay"></div>
+        <button class="bmpui-ui-hugeplaybacktogglebutton" aria-label="Play">Play</button>
+      </div>
+    </div>
+    <script>
+      const OFFSET = 14246.77;
+      const CC1_LINES = [
+        [14251.77, 'MEET THE MOMENT. I URGE ALL MY', 'COLLEAGUES TO SUPPORT H. RES.'],
+        [14253.9, 'COLLEAGUES TO SUPPORT H. RES.', '1530 AND THE UNDERLYING'],
+        [14255.73, '1530 AND THE UNDERLYING', 'LEGISLATION, AND I YIELD BACK.'],
+        [14257.53, 'LEGISLATION, AND I YIELD BACK.', 'SPEAKER 2: THE GENTLEMAN YIELDS'],
+        [14258.93, 'SPEAKER 2: THE GENTLEMAN YIELDS', 'BACK. GENTLEMAN. THE'],
+        [14260.77, 'BACK. GENTLEMAN. THE', 'GENTLEWOMAN RESERVES. THE'],
+      ].map(([t, a, b]) => [Math.round((t - OFFSET) * 100) / 100, a, b]);
+      const CC3_LINES = [
+        [1.5, 'EL CABALLERO DE TEXAS', 'TIENE LA PALABRA.'],
+        [3.2, 'TIENE LA PALABRA.', 'INSTO A MIS COLEGAS'],
+        [5.3, 'INSTO A MIS COLEGAS', 'A APOYAR LA RESOLUCION.'],
+        [7.4, 'A APOYAR LA RESOLUCION.', 'EL CABALLERO CEDE'],
+        [9.5, 'EL CABALLERO CEDE', 'EL TIEMPO. LA DAMA'],
+        [11.6, 'EL TIEMPO. LA DAMA', 'RESERVA. EL CABALLERO DE'],
+        [13.7, 'RESERVA. EL CABALLERO DE', 'TEXAS TIENE LA PALABRA.'],
+      ];
+      const ROLLS = { CC1: CC1_LINES, CC3: CC3_LINES };
+
+      const video = document.querySelector('video');
+      const overlay = document.querySelector('.bmpui-ui-subtitle-overlay');
+      const viewerPicksSpanish = new URLSearchParams(location.search).get('viewer') === 'spanish';
+      const tracks = [{ id: 'CC1', kind: 'captions', lang: 'unknown', label: 'Captions (CC1)', enabled: false }];
+      const listeners = {};
+      const fired = { CC1: 0, CC3: 0 };
+      const onScreen = { CC1: [], CC3: [] };
+
+      function emit(type, event) {
+        for (const fn of listeners[type] ?? []) fn({ type, timestamp: Date.now(), ...event });
+      }
+
+      const player = {
+        on(type, fn) {
+          (listeners[type] ??= []).push(fn);
+        },
+        off(type, fn) {
+          listeners[type] = (listeners[type] ?? []).filter((f) => f !== fn);
+        },
+        play: () => video.play(),
+        getCurrentTime: () => video.currentTime,
+        getDuration: () => video.duration,
+        subtitles: {
+          list: () => tracks.map((t) => ({ ...t })),
+          enable(id, exclusive = false) {
+            for (const t of tracks) {
+              if (t.id === id) t.enabled = true;
+              else if (exclusive && t.enabled) {
+                t.enabled = false;
+                onScreen[t.id] = [];
+              }
+            }
+            render();
+          },
+          disable(id) {
+            for (const t of tracks) if (t.id === id) t.enabled = false;
+            onScreen[id] = [];
+            render();
+          },
+        },
+      };
+      window.floorcast = { views: { videoView: { getPlayerInstance: () => player } } };
+
+      document.querySelector('.bmpui-ui-hugeplaybacktogglebutton').addEventListener('click', () => player.play());
+
+      // CC3 only shows up once the stream plays.
+      video.addEventListener('playing', () => {
+        if (tracks.some((t) => t.id === 'CC3')) return;
+        const cc3 = { id: 'CC3', kind: 'captions', lang: 'unknown', label: 'Captions (CC3)', enabled: false };
+        tracks.push(cc3);
+        emit('subtitleadded', { subtitle: { ...cc3 } });
+        if (viewerPicksSpanish) player.subtitles.enable('CC3');
+      });
+
+      function tick() {
+        for (const id of ['CC1', 'CC3']) {
+          const rolls = ROLLS[id];
+          while (fired[id] < rolls.length && rolls[fired[id]][0] <= video.currentTime) {
+            const [start, above, line] = rolls[fired[id]++];
+            const track = tracks.find((t) => t.id === id);
+            if (!track?.enabled) continue;
+            onScreen[id] = [above, line];
+            for (const text of [above, line]) emit('cueenter', { start, end: start + 3, text, html: text, subtitleId: id });
+          }
+        }
+        render();
+      }
+
+      function render() {
+        const lines = [];
+        for (let i = 0; i < 2; i++) for (const id of ['CC1', 'CC3']) if (onScreen[id][i]) lines.push(onScreen[id][i]);
+        const text = lines.join('\n');
+        if (overlay.dataset.text === text) return;
+        overlay.dataset.text = text;
+        overlay.replaceChildren(
+          ...lines.map((line) => {
+            const label = document.createElement('span');
+            label.className = 'bmpui-ui-subtitle-label';
+            const inner = document.createElement('span');
+            inner.textContent = line;
+            label.append(inner);
+            return label;
+          }),
+        );
+      }
+      setInterval(tick, 30);
+    </script>
+  </body>
+</html>

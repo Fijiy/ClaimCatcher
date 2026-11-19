@@ -1,0 +1,392 @@
+[
+ {
+  "case_id": "cnn-2024-biden-opening-economy#4",
+  "clip": "cnn-2024-biden-opening-economy",
+  "date": "2024-06-27",
+  "event": "CNN Presidential Debate, Atlanta",
+  "speakers": [
+   "Joe Biden (D)"
+  ],
+  "claim": "We brought down the price of prescription drugs ... to $15 for \u2013 for an insulin shot, as opposed to $400.",
+  "answer_urls": [
+   "https://www.politifact.com/article/2024/jun/28/2024-presidential-debate-fact-check-biden-trump/"
+  ]
+ },
+ {
+  "case_id": "cnn-2024-trump-greatest-economy#0",
+  "clip": "cnn-2024-trump-greatest-economy",
+  "date": "2024-06-27",
+  "event": "CNN Presidential Debate, Atlanta",
+  "speakers": [
+   "Donald Trump (R)"
+  ],
+  "claim": "We had the greatest economy in the history of our country.",
+  "answer_urls": [
+   "https://www.factcheck.org/2024/06/factchecking-the-biden-trump-debate/"
+  ]
+ },
+ {
+  "case_id": "cnn-2024-trump-greatest-economy#2",
+  "clip": "cnn-2024-trump-greatest-economy",
+  "date": "2024-06-27",
+  "event": "CNN Presidential Debate, Atlanta",
+  "speakers": [
+   "Donald Trump (R)"
+  ],
+  "claim": "The only jobs he created are for illegal immigrants and bounceback jobs; they're bounced back from the COVID.",
+  "answer_urls": [
+   "https://www.politifact.com/article/2024/jun/28/2024-presidential-debate-fact-check-biden-trump/",
+   "https://www.factcheck.org/2024/06/factchecking-the-biden-trump-debate/"
+  ]
+ },
+ {
+  "case_id": "abc-2024-trump-springfield-pets#1",
+  "clip": "abc-2024-trump-springfield-pets",
+  "date": "2024-09-10",
+  "event": "ABC News Presidential Debate, Philadelphia",
+  "speakers": [
+   "Donald Trump (R)"
+  ],
+  "claim": "In Springfield, they're eating the dogs. The people that came in. They're eating the cats. They're eating -- they're eating the pets of the people that live there.",
+  "answer_urls": [
+   "https://www.politifact.com/factchecks/2024/sep/11/donald-trump/trump-repeats-baseless-claims-that-haitian-immigra/",
+   "https://www.factcheck.org/2024/09/factchecking-the-harris-trump-debate/"
+  ]
+ },
+ {
+  "case_id": "abc-2024-harris-afghanistan-camp-david#2",
+  "clip": "abc-2024-harris-afghanistan-camp-david",
+  "date": "2024-09-10",
+  "event": "ABC News Presidential Debate, Philadelphia",
+  "speakers": [
+   "Kamala Harris (D)"
+  ],
+  "claim": "As of today, there is not one member of the United States military who is in active duty in a combat zone in any war zone around the world, the first time this century.",
+  "answer_urls": [
+   "https://www.politifact.com/factchecks/2024/sep/11/kamala-harris/why-harris-debate-remarks-about-us-military-in-com/"
+  ]
+ },
+ {
+  "case_id": "abc-2024-harris-afghanistan-camp-david#6",
+  "clip": "abc-2024-harris-afghanistan-camp-david",
+  "date": "2024-09-10",
+  "event": "ABC News Presidential Debate, Philadelphia",
+  "speakers": [
+   "Kamala Harris (D)"
+  ],
+  "claim": "The president at the time invited the Taliban to Camp David.",
+  "answer_urls": [
+   "https://www.politifact.com/article/2024/sep/11/2024-presidential-debate-fact-check-harris-trump/"
+  ]
+ },
+ {
+  "case_id": "cbs-2024-walz-iran-tbi-headaches#3",
+  "clip": "cbs-2024-walz-iran-tbi-headaches",
+  "date": "2024-10-01",
+  "event": "CBS News Vice Presidential Debate, New York",
+  "speakers": [
+   "Tim Walz (D)"
+  ],
+  "claim": "When Iranian missiles did fall near U.S. troops and they received traumatic brain injuries, Donald Trump wrote it off as headaches.",
+  "answer_urls": [
+   "https://www.politifact.com/article/2024/oct/02/vp-debate-fact-check-walz-vance-2024/"
+  ]
+ },
+ {
+  "case_id": "cbs-2024-vance-cbp-one-mic-cut#1",
+  "clip": "cbs-2024-vance-cbp-one-mic-cut",
+  "date": "2024-10-01",
+  "event": "CBS News Vice Presidential Debate, New York",
+  "speakers": [
+   "JD Vance (R)",
+   "Tim Walz (D)"
+  ],
+  "claim": "There's an application called the CBP One app where you can go on as an illegal migrant, apply for asylum or apply for parole and be granted legal status at the wave of a Kamala Harris open border wand. ... That is the facilitation of illegal immigration.",
+  "answer_urls": [
+   "https://www.politifact.com/article/2024/oct/02/vp-debate-fact-check-walz-vance-2024/"
+  ]
+ },
+ {
+  "case_id": "biden-sotu-2024-economy#1",
+  "clip": "biden-sotu-2024-economy",
+  "date": "2024-03-07",
+  "event": "State of the Union address to a joint session of Congress",
+  "speakers": [
+   "Joe Biden (D)"
+  ],
+  "claim": "15 million new jobs in just three years \u2013 a record!",
+  "answer_urls": [
+   "https://www.politifact.com/article/2024/mar/08/fact-checking-joe-biden-on-inflation-the-deficit-a/",
+   "https://www.factcheck.org/2024/03/factchecking-bidens-state-of-the-union/"
+  ]
+ },
+ {
+  "case_id": "biden-sotu-2024-economy#2",
+  "clip": "biden-sotu-2024-economy",
+  "date": "2024-03-07",
+  "event": "State of the Union address to a joint session of Congress",
+  "speakers": [
+   "Joe Biden (D)"
+  ],
+  "claim": "Unemployment at 50-year lows.",
+  "answer_urls": [
+   "https://www.politifact.com/article/2024/mar/08/fact-checking-joe-biden-on-inflation-the-deficit-a/"
+  ]
+ },
+ {
+  "case_id": "biden-sotu-2024-economy#4",
+  "clip": "biden-sotu-2024-economy",
+  "date": "2024-03-07",
+  "event": "State of the Union address to a joint session of Congress",
+  "speakers": [
+   "Joe Biden (D)"
+  ],
+  "claim": "800,000 new manufacturing jobs in America and counting.",
+  "answer_urls": [
+   "https://www.politifact.com/factchecks/2023/dec/13/joe-biden/fact-checking-joe-biden-on-manufacturing-jobs/"
+  ]
+ },
+ {
+  "case_id": "biden-sotu-2024-economy#6",
+  "clip": "biden-sotu-2024-economy",
+  "date": "2024-03-07",
+  "event": "State of the Union address to a joint session of Congress",
+  "speakers": [
+   "Joe Biden (D)"
+  ],
+  "claim": "The racial wealth gap is the smallest it\u2019s been in 20 years.",
+  "answer_urls": [
+   "https://www.politifact.com/article/2024/mar/08/fact-checking-joe-biden-on-inflation-the-deficit-a/"
+  ]
+ },
+ {
+  "case_id": "biden-sotu-2024-economy#7",
+  "clip": "biden-sotu-2024-economy",
+  "date": "2024-03-07",
+  "event": "State of the Union address to a joint session of Congress",
+  "speakers": [
+   "Joe Biden (D)"
+  ],
+  "claim": "Wages keep going up and inflation keeps coming down!",
+  "answer_urls": [
+   "https://www.politifact.com/article/2024/mar/08/fact-checking-joe-biden-on-inflation-the-deficit-a/",
+   "https://www.factcheck.org/2024/03/factchecking-bidens-state-of-the-union/"
+  ]
+ },
+ {
+  "case_id": "biden-sotu-2024-economy#8",
+  "clip": "biden-sotu-2024-economy",
+  "date": "2024-03-07",
+  "event": "State of the Union address to a joint session of Congress",
+  "speakers": [
+   "Joe Biden (D)"
+  ],
+  "claim": "Inflation has dropped from 9 percent to 3 percent \u2013 the lowest in the world!",
+  "answer_urls": [
+   "https://www.politifact.com/article/2024/mar/08/fact-checking-joe-biden-on-inflation-the-deficit-a/",
+   "https://www.factcheck.org/2024/03/factchecking-bidens-state-of-the-union/"
+  ]
+ },
+ {
+  "case_id": "trump-joint-2025-social-security-ages#0",
+  "clip": "trump-joint-2025-social-security-ages",
+  "date": "2025-03-04",
+  "event": "Address to a joint session of Congress",
+  "speakers": [
+   "Donald Trump (R)",
+   "Unidentified Members of Congress (heckling) (unknown (from the Democratic side per press reports; not verified))"
+  ],
+  "claim": "The government's accountability office ... has estimated annual fraud of over $500 billion in our nation",
+  "answer_urls": [
+   "https://www.factcheck.org/2025/03/factchecking-trumps-address-to-congress-2/"
+  ]
+ },
+ {
+  "case_id": "trump-joint-2025-social-security-ages#1",
+  "clip": "trump-joint-2025-social-security-ages",
+  "date": "2025-03-04",
+  "event": "Address to a joint session of Congress",
+  "speakers": [
+   "Donald Trump (R)",
+   "Unidentified Members of Congress (heckling) (unknown (from the Democratic side per press reports; not verified))"
+  ],
+  "claim": "government databases list 4.7 million social security members from people aged 100 to 109 years old ... 3.6 million ... 110 to 119 ... 3.47 million ... 120 to 129, 3.9 million ... 130 to 139",
+  "answer_urls": [
+   "https://www.factcheck.org/2025/03/factchecking-trumps-address-to-congress-2/",
+   "https://www.politifact.com/article/2025/mar/05/Trump-address-congress-fact-check-speech/"
+  ]
+ },
+ {
+  "case_id": "trump-joint-2025-social-security-ages#2",
+  "clip": "trump-joint-2025-social-security-ages",
+  "date": "2025-03-04",
+  "event": "Address to a joint session of Congress",
+  "speakers": [
+   "Donald Trump (R)",
+   "Unidentified Members of Congress (heckling) (unknown (from the Democratic side per press reports; not verified))"
+  ],
+  "claim": "3.5 million people from ages 140 to 149 ... and money is being paid to many of them",
+  "answer_urls": [
+   "https://www.politifact.com/article/2025/mar/05/Trump-address-congress-fact-check-speech/",
+   "https://www.factcheck.org/2025/03/factchecking-trumps-address-to-congress-2/"
+  ]
+ },
+ {
+  "case_id": "trump-joint-2025-inflation-eggs-energy#0",
+  "clip": "trump-joint-2025-inflation-eggs-energy",
+  "date": "2025-03-04",
+  "event": "Address to a joint session of Congress",
+  "speakers": [
+   "Donald Trump (R)"
+  ],
+  "claim": "we inherited from the last administration an economic catastrophe and an inflation nightmare",
+  "answer_urls": [
+   "https://www.factcheck.org/2025/03/factchecking-trumps-address-to-congress-2/"
+  ]
+ },
+ {
+  "case_id": "trump-joint-2025-inflation-eggs-energy#2",
+  "clip": "trump-joint-2025-inflation-eggs-energy",
+  "date": "2025-03-04",
+  "event": "Address to a joint session of Congress",
+  "speakers": [
+   "Donald Trump (R)"
+  ],
+  "claim": "We suffered the worst inflation in 48 years, but perhaps even in the history of our country",
+  "answer_urls": [
+   "https://www.politifact.com/article/2025/mar/05/Trump-address-congress-fact-check-speech/",
+   "https://www.factcheck.org/2025/03/factchecking-trumps-address-to-congress-2/"
+  ]
+ },
+ {
+  "case_id": "trump-joint-2025-inflation-eggs-energy#3",
+  "clip": "trump-joint-2025-inflation-eggs-energy",
+  "date": "2025-03-04",
+  "event": "Address to a joint session of Congress",
+  "speakers": [
+   "Donald Trump (R)"
+  ],
+  "claim": "Joe Biden especially let the price of eggs get out of control",
+  "answer_urls": [
+   "https://www.politifact.com/article/2025/mar/05/Trump-address-congress-fact-check-speech/"
+  ]
+ },
+ {
+  "case_id": "trump-joint-2025-inflation-eggs-energy#6",
+  "clip": "trump-joint-2025-inflation-eggs-energy",
+  "date": "2025-03-04",
+  "event": "Address to a joint session of Congress",
+  "speakers": [
+   "Donald Trump (R)"
+  ],
+  "claim": "and closed more than 100 power plants",
+  "answer_urls": [
+   "https://www.factcheck.org/2025/03/factchecking-trumps-address-to-congress-2/"
+  ]
+ },
+ {
+  "case_id": "booker-senate-floor-2025-consumer-confidence#2",
+  "clip": "booker-senate-floor-2025-consumer-confidence",
+  "date": "2025-04-01",
+  "event": "Senate floor speech (record 25-hour speech, colloquy with Sen. Ron Wyden)",
+  "speakers": [
+   "Cory Booker (D)"
+  ],
+  "claim": "the consumer confidence in this country has gone way down",
+  "answer_urls": [
+   "https://www.politifact.com/factchecks/2025/apr/03/cory-booker/has-consumer-confidence-fallen-as-cory-booker-said/"
+  ]
+ },
+ {
+  "case_id": "johnson-speaker-acceptance-2023-prices-debt#1",
+  "clip": "johnson-speaker-acceptance-2023-prices-debt",
+  "date": "2023-10-25",
+  "event": "House floor, address after election as Speaker",
+  "speakers": [
+   "Mike Johnson (R)"
+  ],
+  "claim": "Prices have increased over 17 percent in the last 2 years",
+  "answer_urls": [
+   "https://politifact.com/factchecks/2023/oct/26/mike-johnson/have-prices-increased-by-over-17-in-two-years/"
+  ]
+ },
+ {
+  "case_id": "johnson-speaker-acceptance-2023-prices-debt#5",
+  "clip": "johnson-speaker-acceptance-2023-prices-debt",
+  "date": "2023-10-25",
+  "event": "House floor, address after election as Speaker",
+  "speakers": [
+   "Mike Johnson (R)"
+  ],
+  "claim": "In the time that it is going to take me to deliver this speech, it will go up another $20 million in debt.",
+  "answer_urls": [
+   "https://politifact.com/factchecks/2023/oct/26/mike-johnson/fact-checking-new-house-speaker-mike-johnson-on-th/"
+  ]
+ },
+ {
+  "case_id": "murray-senate-floor-2025-tax-cuts-debt#0",
+  "clip": "murray-senate-floor-2025-tax-cuts-debt",
+  "date": "2025-02-20",
+  "event": "Senate floor debate on the Republican FY2025 budget resolution",
+  "speakers": [
+   "Patty Murray (D)"
+  ],
+  "claim": "the reality is that the single biggest driver of our national debt since 2001 has been Republican tax cuts",
+  "answer_urls": [
+   "https://www.politifact.com/factchecks/2025/feb/25/patty-murray/are-republican-tax-cuts-the-single-biggest-driver/"
+  ]
+ },
+ {
+  "case_id": "uk-pmqs-2025-09-03-badenoch-unemployment#4",
+  "clip": "uk-pmqs-2025-09-03-badenoch-unemployment",
+  "date": "2025-09-03",
+  "event": "Prime Minister's Questions, House of Commons",
+  "speakers": [
+   "Keir Starmer (Lab)",
+   "Kemi Badenoch (Con)"
+  ],
+  "claim": "Unemployment has gone up in every single month under this Labour Government.",
+  "answer_urls": [
+   "https://fullfact.org/economy/kemi-badenoch-unemployment-under-labour/"
+  ]
+ },
+ {
+  "case_id": "uk-pmqs-2026-03-04-starmer-defence-270bn#3",
+  "clip": "uk-pmqs-2026-03-04-starmer-defence-270bn",
+  "date": "2026-03-04",
+  "event": "Prime Minister's Questions, House of Commons",
+  "speakers": [
+   "Keir Starmer (Lab)"
+  ],
+  "claim": "Labour, by contrast, is delivering the biggest boost to defence spending since the cold war\u2014\u00a3270 billion over this Parliament",
+  "answer_urls": [
+   "https://fullfact.org/politics/defence-spending-increase-pmqs"
+  ]
+ },
+ {
+  "case_id": "us-khanna-tiktok-2025-02-20-telehealth#0",
+  "clip": "us-khanna-tiktok-2025-02-20-telehealth",
+  "date": "2025-02-20",
+  "event": "Self-posted TikTok video",
+  "speakers": [
+   "Ro Khanna (D)"
+  ],
+  "claim": "The Trump administration just announced that Medicare will stop covering telehealth starting April 1.",
+  "answer_urls": [
+   "https://politifact.com/factchecks/2025/mar/18/ro-khanna/congressman-blames-trump-team-for-ending-telehealt/"
+  ]
+ },
+ {
+  "case_id": "us-vance-peachtree-city-2025-08-21-biggest-tax-cut#1",
+  "clip": "us-vance-peachtree-city-2025-08-21-biggest-tax-cut",
+  "date": "2025-08-21",
+  "event": "Vice President's remarks at ALTA Refrigeration Inc., Peachtree City, Georgia",
+  "speakers": [
+   "JD Vance (R)"
+  ],
+  "claim": "And that's why we had the biggest tax cut for families that this country has ever seen.",
+  "answer_urls": [
+   "https://politifact.com/factchecks/2025/aug/22/jd-vance/big-beautiful-bill-biggest-tax-cut-history/"
+  ]
+ }
+]

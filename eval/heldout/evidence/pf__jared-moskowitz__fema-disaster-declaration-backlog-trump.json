@@ -1,0 +1,285 @@
+{
+  "frozenAt": "2026-10-27T03:10:06.369Z",
+  "refilteredAt": "2026-10-27T03:34:15.386Z",
+  "id": "pf/jared-moskowitz/fema-disaster-declaration-backlog-trump",
+  "said": "2026-01-22",
+  "queries": {
+    "fact": "The Federal Emergency Management Agency’s backlog of unanswered disaster assistance applications has exploded to the largest in its history.",
+    "claim": "The Federal Emergency Management Agency’s backlog of unanswered disaster assistance applications has exploded to the largest in its history. Jared Moskowitz"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 3697.5777920000255,
+      "results": 8
+    },
+    {
+      "query": "claim",
+      "ms": 2206.9753330000094,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Politifact FL: Under Trump, more FEMA disaster assistance ...",
+      "url": "https://www.wlrn.org/light/government-politics/2026-01-29/jared-moskowitz-fema-disaster-management",
+      "domain": "wlrn.org",
+      "published": "2026-01-29",
+      "publishedAsGiven": "Jan 29, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Under Trump, more FEMA disaster assistance applications ...",
+      "url": "https://politifact.com/factchecks/2026/jan/28/jared-moskowitz/fema-disaster-declaration-backlog-trump/",
+      "domain": "politifact.com",
+      "published": "2026-01-28",
+      "publishedAsGiven": "Jan 28, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "FEMA Staffing Shortages Could Mean Disaster for Future ...",
+      "url": "https://www.gao.gov/blog/fema-staffing-shortages-could-mean-disaster-future-response-efforts",
+      "domain": "gao.gov",
+      "published": "2025-09-17",
+      "publishedAsGiven": "Sep 17, 2025",
+      "snippet": "Sep 17, 2025 — As of December 2024, FEMA officials said the agency had a backlog of nearly 500,000 applications that had to be escalated."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "$17 Billion in FEMA Aid to States Held Up by Extra Scrutiny",
+      "url": "https://www.nytimes.com/2026/01/27/climate/fema-aid-kristi-noem.html",
+      "domain": "nytimes.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "Jan 27, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "FEMA faces backlog of emergency aid requests as ...",
+      "url": "https://www.washingtonpost.com/nation/2025/05/23/fema-disaster-declaration-delays/",
+      "domain": "washingtonpost.com",
+      "published": "2025-05-23",
+      "publishedAsGiven": "May 23, 2025",
+      "snippet": "May 23, 2025 — Eleven requests from states for federal aid are still pending , and governors and lawmakers have been pushing the agency to move faster. Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Administration's Arbitrary, Unlawful Cuts to FEMA Funding ...",
+      "url": "https://www.brennancenter.org/our-work/research-reports/administrations-arbitrary-unlawful-cuts-fema-funding-and-staff-threaten",
+      "domain": "brennancenter.org",
+      "published": "2026-09-23",
+      "publishedAsGiven": "Sep 23, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "The Backlog of Requests for Aid from the Federal Highway ...",
+      "url": "https://www.congress.gov/crs-product/R48297",
+      "domain": "congress.gov",
+      "published": "2024-12-10",
+      "publishedAsGiven": "Dec 10, 2024",
+      "snippet": "Dec 10, 2024 — Because of inflation, the annual authorization has diminished in value by approximately 91% through FY2023. At the same time, the number of ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "FEMA Faces $2B Backlog as Disaster Resilience Program ...",
+      "url": "https://legis1.com/news/fema-disaster-resilience-grants-delays-22b-in",
+      "domain": "legis1.com",
+      "published": "2026-09-29",
+      "publishedAsGiven": "Sep 29, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Politifact FL: Under Trump, more FEMA disaster assistance ...",
+      "url": "https://www.wlrn.org/light/government-politics/2026-01-29/jared-moskowitz-fema-disaster-management",
+      "domain": "wlrn.org",
+      "published": "2026-01-29",
+      "publishedAsGiven": "Jan 29, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Moskowitz Introduces Legislation to Replenish FEMA's ...",
+      "url": "https://moskowitz.house.gov/posts/disaster-relief-fund-replenishment-act",
+      "domain": "moskowitz.house.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Congressman Jared Moskowitz on ...",
+      "url": "https://x.com/RepMoskowitz/status/2014342825651953809",
+      "domain": "x.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Under Trump, more FEMA disaster assistance applications ...",
+      "url": "https://politifact.com/factchecks/2026/jan/28/jared-moskowitz/fema-disaster-declaration-backlog-trump/",
+      "domain": "politifact.com",
+      "published": "2026-01-28",
+      "publishedAsGiven": "Jan 28, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "After one year under Secretary Kristi Noem, FEMA has been ...",
+      "url": "https://www.facebook.com/RepMoskowitz/videos/after-one-year-under-secretary-kristi-noem-fema-has-been-completely-dismantled-l/1284489840263028/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Are states waiting longer than ever for FEMA disaster ...",
+      "url": "https://www.wral.com/archive/22315432/",
+      "domain": "wral.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Congressman says FEMA 'is going to fail' during storm ...",
+      "url": "https://www.sun-sentinel.com/2025/05/22/moskowitz-expert-in-disaster-management-warns-fema-is-going-to-fail-during-hurricane-season/",
+      "domain": "sun-sentinel.com",
+      "published": "2025-05-22",
+      "publishedAsGiven": "May 22, 2025",
+      "snippet": "The widely reported turmoil at FEMA, including staffing reductions, means needed “resources are going to come slower,” Moskowitz said. “Think ..."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Thank God we didn't have a major hurricane last year because ...",
+      "url": "https://www.facebook.com/RepMoskowitz/videos/thank-god-we-didnt-have-a-major-hurricane-last-year-because-fema-wouldve-fallen-/956156987355364/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Jared Moskowitz introduces bipartisan FEMA reform bills to ...",
+      "url": "https://floridapolitics.com/archives/737104-jared-moskowitz-introduces-bipartisan-fema-reform-bills-to-speed-disaster-aid-deployment/",
+      "domain": "floridapolitics.com",
+      "published": "2025-05-07",
+      "publishedAsGiven": "May 7, 2025",
+      "snippet": "“By allowing states to deploy this critical disaster assistance through block grants, we can get it to communities in need faster than is done ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "it is a blatant failure of leadership. Congress has ...",
+      "url": "https://www.instagram.com/p/DT0Oxm_FaXe/?hl=en",
+      "domain": "instagram.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "dropped": "maybe-after-said"
+    }
+  ],
+  "returned": 18,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 2,
+    "after-said": 5,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:10:00.463Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "FEMA Staffing Shortages Could Mean Disaster for Future ...",
+      "url": "https://www.gao.gov/blog/fema-staffing-shortages-could-mean-disaster-future-response-efforts",
+      "domain": "gao.gov",
+      "snippet": "Sep 17, 2025 — As of December 2024, FEMA officials said the agency had a backlog of nearly 500,000 applications that had to be escalated.",
+      "published": "2025-09-17",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Congressman says FEMA 'is going to fail' during storm ...",
+      "url": "https://www.sun-sentinel.com/2025/05/22/moskowitz-expert-in-disaster-management-warns-fema-is-going-to-fail-during-hurricane-season/",
+      "domain": "sun-sentinel.com",
+      "snippet": "The widely reported turmoil at FEMA, including staffing reductions, means needed “resources are going to come slower,” Moskowitz said. “Think ...",
+      "published": "2025-05-22",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "South Florida Sun-Sentinel",
+        "page": "https://mediabiasfactcheck.com/south-florida-sun-sentinel/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "FEMA faces backlog of emergency aid requests as ...",
+      "url": "https://www.washingtonpost.com/nation/2025/05/23/fema-disaster-declaration-delays/",
+      "domain": "washingtonpost.com",
+      "snippet": "May 23, 2025 — Eleven requests from states for federal aid are still pending , and governors and lawmakers have been pushing the agency to move faster. Read more",
+      "published": "2025-05-23",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Washington Post",
+        "page": "https://mediabiasfactcheck.com/washington-post/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "The Backlog of Requests for Aid from the Federal Highway ...",
+      "url": "https://www.congress.gov/crs-product/R48297",
+      "domain": "congress.gov",
+      "snippet": "Dec 10, 2024 — Because of inflation, the annual authorization has diminished in value by approximately 91% through FY2023. At the same time, the number of ...",
+      "published": "2024-12-10",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Jared Moskowitz introduces bipartisan FEMA reform bills to ...",
+      "url": "https://floridapolitics.com/archives/737104-jared-moskowitz-introduces-bipartisan-fema-reform-bills-to-speed-disaster-aid-deployment/",
+      "domain": "floridapolitics.com",
+      "snippet": "“By allowing states to deploy this critical disaster assistance through block grants, we can get it to communities in need faster than is done ...",
+      "published": "2025-05-07",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 5
+    }
+  ]
+}

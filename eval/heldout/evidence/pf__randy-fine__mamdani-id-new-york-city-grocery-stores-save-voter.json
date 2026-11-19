@@ -1,0 +1,422 @@
+{
+  "frozenAt": "2026-10-27T03:19:39.814Z",
+  "refilteredAt": "2026-10-27T03:36:39.119Z",
+  "id": "pf/randy-fine/mamdani-id-new-york-city-grocery-stores-save-voter",
+  "said": "2026-08-16",
+  "queries": {
+    "fact": "New York City Mayor Zohran Mamdani is requiring ID to shop at city-run grocery stores.",
+    "claim": "New York City Mayor Zohran Mamdani is requiring ID to shop at city-run grocery stores. Randy Fine"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1636.9310840000398,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1247.4575000000186,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 112.66658399999142,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "NYC's subsidized grocery stores will not require ID to shop",
+      "url": "https://www.reuters.com/fact-check/nycs-subsidized-grocery-stores-will-not-require-id-shop-2026-08-07/",
+      "domain": "reuters.com",
+      "published": "2026-08-09",
+      "publishedAsGiven": "Aug 9, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Mamdani's grocery giveaway hits ID snag as critics cry foul",
+      "url": "https://www.banks.senate.gov/news/in-the-news/mamdanis-grocery-giveaway-hits-id-snag-as-critics-cry-foul-make-it-make-sense/",
+      "domain": "banks.senate.gov",
+      "published": "2026-08-04",
+      "publishedAsGiven": "Aug 4, 2026",
+      "snippet": "Critics compare the proposed customer card for discounted groceries to voter ID laws the mayor opposes. New York City Mayor Zohran Mamdani's ..."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Bruce Blakeman Criticizes NYC Public Goods ID Rule for Milk ...",
+      "url": "https://www.facebook.com/BruceBlakemanNewYorkFirst/videos/mamdani-wants-your-id-to-buy-milk-but-not-to-cast-a-vote-his-real-fight-isnt-fai/1026904020165869/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Trump rips Mamdani's ID plan for govt-run stores in NYC",
+      "url": "https://www.youtube.com/watch?v=fijqpcIUHiI",
+      "domain": "youtube.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "New Yorkers will need to show some form of ID to access ...",
+      "url": "https://www.reddit.com/r/nyc/comments/1veb2ov/new_yorkers_will_need_to_show_some_form_of_id_to/",
+      "domain": "reddit.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "FACT FOCUS: No, you won't need an ID to shop at city- ...",
+      "url": "https://www.taylorvilledailynews.com/fact-focus-no-you-wont-need-an-id-to-shop-at-city-owned-grocery-stores-in-new-york-city/",
+      "domain": "taylorvilledailynews.com",
+      "published": "2026-08-04",
+      "publishedAsGiven": "Aug 4, 2026",
+      "snippet": "New York City Mayor Zohran Mamdani's plan to open five city-owned grocery stores is being misrepresented online in posts that claim ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "An ID to buy lettuce in Mamdani's Soviet Supermarket, but not ...",
+      "url": "https://www.facebook.com/RepYoungKim/posts/an-id-to-buy-lettuce-in-mamdanis-soviet-supermarket-but-not-to-vote-in-us-electi/1703164205151498/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Mamdani says no ID needed for city grocery stores, despite ...",
+      "url": "https://www.reddit.com/r/newyorkcity/comments/1vfjqb8/mamdani_says_no_id_needed_for_city_grocery_stores/",
+      "domain": "reddit.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "FACT FOCUS: No, You Won't Need an ID to Shop at City- ...",
+      "url": "https://www.usnews.com/news/us/articles/2026-08-04/fact-focus-no-you-wont-need-an-id-to-shop-at-city-owned-grocery-stores-in-new-york-city",
+      "domain": "usnews.com",
+      "published": "2026-08-04",
+      "publishedAsGiven": "Aug 4, 2026",
+      "snippet": "FACT FOCUS: No, You Won't Need an ID to Shop at City-Owned Grocery Stores in New York City. New York City Mayor Zohran Mamdani's plan to open ..."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "NYC's Proposed City-Run Grocery Stores Would Require ...",
+      "url": "https://www.facebook.com/OCPoliceBlotter/posts/nycs-proposed-city-run-grocery-stores-would-require-resident-id-to-buy-discounte/1636996905102773/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "NYC's subsidized grocery stores will not require ID to shop",
+      "url": "https://www.reuters.com/fact-check/nycs-subsidized-grocery-stores-will-not-require-id-shop-2026-08-07/",
+      "domain": "reuters.com",
+      "published": "2026-08-09",
+      "publishedAsGiven": "Aug 9, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Mamdani is not requiring ID to shop at NYC grocery stores",
+      "url": "https://politifact.com/factchecks/2026/aug/18/randy-fine/mamdani-id-new-york-city-grocery-stores-save-voter/",
+      "domain": "politifact.com",
+      "published": "2026-08-18",
+      "publishedAsGiven": "Aug 18, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Will Mamdani's city-run grocery stores require ID to shop? ...",
+      "url": "https://www.snopes.com/fact-check/mamdani-nyc-grocery-stores-id/",
+      "domain": "snopes.com",
+      "published": "2026-08-06",
+      "publishedAsGiven": "Aug 6, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "FACT FOCUS: No, you won't need an ID to shop at city- ...",
+      "url": "https://www.statesman.com/news/politics/article/fact-focus-no-you-won-t-need-an-id-to-shop-at-22373981.php",
+      "domain": "statesman.com",
+      "published": "2026-08-04",
+      "publishedAsGiven": "Aug 4, 2026",
+      "snippet": "No, you won't need an ID to shop at city-owned grocery stores. This is false. No one will be asked to show ID to shop at stores owned by the ..."
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "NO ID required to shop at CITY-RUN Grocery stores | RISING",
+      "url": "https://www.youtube.com/watch?v=9F_K7B1p3n8",
+      "domain": "youtube.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Is there a double standard? Critics are questioning New York ...",
+      "url": "https://www.facebook.com/TND/videos/is-there-a-double-standardcritics-are-questioning-new-york-city-mayor-zohran-mam/1023893217097655/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Mamdani is not requiring ID to shop at NYC grocery stores",
+      "url": "https://www.facebook.com/politifact/posts/new-york-city-mayor-zohran-mamdani-wants-to-open-city-owned-grocery-stores-but-a/1523582533136178/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "but, since they keep LYING about the topic, let's clear a few ...",
+      "url": "https://www.instagram.com/p/DdZ_-mSAlqk/",
+      "domain": "instagram.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "N.Y.C. Groceries",
+      "url": "https://edc.nyc/program/nyc-groceries",
+      "domain": "edc.nyc",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Mamdani: NO ID required to shop at CITY-RUN Grocery stores",
+      "url": "https://thehill.com/video/mamdani-no-id-required-to-shop-at-city-run-grocery-stores-rising/12034150/",
+      "domain": "thehill.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "NYC's subsidized grocery stores will not require ID to shop",
+      "url": "https://www.reuters.com/fact-check/nycs-subsidized-grocery-stores-will-not-require-id-shop-2026-08-07/",
+      "domain": "reuters.com",
+      "published": "2026-08-09",
+      "publishedAsGiven": "Aug 9, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Why shoppers will not need ID at city-owned grocery stores ...",
+      "url": "https://apnews.com/article/identification-new-york-grocery-stores-mamdani-a81f73db2db1752f3b4c75921272cd9f",
+      "domain": "apnews.com",
+      "published": "2026-08-04",
+      "publishedAsGiven": "Aug 4, 2026",
+      "snippet": "FACT FOCUS: No, you won't need an ID to shop at city-owned grocery stores in New York City ... New York City Mayor Zohran Mamdani's plan to open ..."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Republicans slam Mamdani's ID requirement for public ...",
+      "url": "https://www.washingtonexaminer.com/news/business/4672816/republicans-slam-mamdani-id-requirement-city-owned-grocery-stores/?srsltid=AYCX9vKzuNo_DAiu-98NMElqh475thREdU_nXHIokdAJtpn0g8CEIrVj",
+      "domain": "washingtonexaminer.com",
+      "published": "2026-08-03",
+      "publishedAsGiven": "Aug 3, 2026",
+      "snippet": "During the press conference, an official in the socialist mayor's administration revealed that a state ID requirement may be in order."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Mamdani says no ID needed for city grocery stores, despite ...",
+      "url": "https://www.usatoday.com/story/news/state/new-york/new-york-city/2026/08/04/will-you-need-id-for-nycs-grocery-stores-mamdanis-team-says-no-backlash-zohran/91162721007/",
+      "domain": "usatoday.com",
+      "published": "2026-08-04",
+      "publishedAsGiven": "Aug 4, 2026",
+      "snippet": "There will be no system to verify identity, residency or income, and no one will be asked to show ID to shop.\" \"This is the dumbest and fakest ..."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Mamdani's Jim Crow 2.0: How will women and minority ...",
+      "url": "https://www.washingtonexaminer.com/opinion/4673706/mamdani-city-run-grocery-store-identification-requirements-jim-crow/?srsltid=AYCX9vK_OGJWzRLAZzq40OcKIYOW1UgCRAz5WWwtuTxf2Rkf15nJFT5k",
+      "domain": "washingtonexaminer.com",
+      "published": "2026-08-04",
+      "publishedAsGiven": "Aug 4, 2026",
+      "snippet": "New York City Mayor Zohran Mamdani is an ardent supporter of identification requirements … government-run grocery markets in New York City,"
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "NYC immigrant-led coalition challenges Mamdani's ...",
+      "url": "https://www.washingtonexaminer.com/news/justice/4698219/nyc-immigrant-led-coalition-challenges-mamdani-government-grocery-stores/?srsltid=AYCX9vJMoqC5tmzuNReZZCx9ZEgk7L1ZJo7AJ8kjhTQjE2wUVsCd9C9U",
+      "domain": "washingtonexaminer.com",
+      "published": "2026-08-24",
+      "publishedAsGiven": "Aug 24, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Pratt rips Mamdani's grocery ID plan: 'Disingenuous lying ...",
+      "url": "https://www.washingtonexaminer.com/policy/infrastructure/4672502/spencer-pratt-mamdani-nyc-government-owned-grocery-store-id-plan/?srsltid=AYCX9vIk5m6mfzLb5pzQWF1tu8wDt_g6csdrgsE2XEIiyMrjhlSjfvoB",
+      "domain": "washingtonexaminer.com",
+      "published": "2026-08-03",
+      "publishedAsGiven": "Aug 3, 2026",
+      "snippet": "Spencer Pratt heavily criticized New York City Mayor Zohran Mamdani's grocery store ID plan, calling him a “disingenuous lying buffoon.”"
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Immigrant business group to sue over Mamdani's taxpayer ...",
+      "url": "https://www.washingtonexaminer.com/news/business/4666591/mbc-mamdani-taxpayer-funded-grocery-stores-lawsuit-competition-complaints/?srsltid=AYCX9vJODA8Y1iPzNArzBukliCGGXxfIaAfiwGhKJ54ffszRsJqRmm2J",
+      "domain": "washingtonexaminer.com",
+      "published": "2026-07-28",
+      "publishedAsGiven": "Jul 28, 2026",
+      "snippet": "Mamdani announces plan to open NYC's first city-run grocery store in 100-day... Republicans slam Mamdani's ID requirement for city-owned grocery ..."
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "Mamdani announces plan to open NYC's first city-run ...",
+      "url": "https://www.washingtonexaminer.com/news/4526221/zohran-mamdani-nyc-first-city-run-grocery-store-100-day-address/?srsltid=AYCX9vIyAoC-swg9Kfl5hBUCl0XBX1Y69O8jlJvi4yD30SP-gnxpdyBj",
+      "domain": "washingtonexaminer.com",
+      "published": "2026-04-13",
+      "publishedAsGiven": "Apr 13, 2026",
+      "snippet": "New York City Mayor Zohran Mamdani announced his plan to open the first city-run grocery store in East Harlem as he commemorated his first ..."
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "Mamdani offers 30% discounts for staple items in city ...",
+      "url": "https://www.washingtonexaminer.com/news/business/4664348/mamdani-offering-discounts-staple-items-city-owned-grocery-stores-affordability/?srsltid=AYCX9vK_TIa1zpR3S0UBWvYckFgL53WGC6RoFBdFUeAMzBK3JRGraRMF",
+      "domain": "washingtonexaminer.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "Jul 27, 2026",
+      "snippet": "The discount will apply to essential groceries such as produce, meat, seafood, pasta, bread, yogurt, butter, nuts, rice, and beans."
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 5,
+    "fact-check-words": 1,
+    "after-said": 2,
+    "maybe-after-said": 8,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:19:35.132Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "FACT FOCUS: No, You Won't Need an ID to Shop at City- ...",
+      "url": "https://www.usnews.com/news/us/articles/2026-08-04/fact-focus-no-you-wont-need-an-id-to-shop-at-city-owned-grocery-stores-in-new-york-city",
+      "domain": "usnews.com",
+      "snippet": "FACT FOCUS: No, You Won't Need an ID to Shop at City-Owned Grocery Stores in New York City. New York City Mayor Zohran Mamdani's plan to open ...",
+      "published": "2026-08-04",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "US News World Report",
+        "page": "https://mediabiasfactcheck.com/us-news-world-report/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "FACT FOCUS: No, you won't need an ID to shop at city- ...",
+      "url": "https://www.statesman.com/news/politics/article/fact-focus-no-you-won-t-need-an-id-to-shop-at-22373981.php",
+      "domain": "statesman.com",
+      "snippet": "No, you won't need an ID to shop at city-owned grocery stores. This is false. No one will be asked to show ID to shop at stores owned by the ...",
+      "published": "2026-08-04",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Austin American-Statesman",
+        "page": "https://mediabiasfactcheck.com/austin-american-statesman/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Why shoppers will not need ID at city-owned grocery stores ...",
+      "url": "https://apnews.com/article/identification-new-york-grocery-stores-mamdani-a81f73db2db1752f3b4c75921272cd9f",
+      "domain": "apnews.com",
+      "snippet": "FACT FOCUS: No, you won't need an ID to shop at city-owned grocery stores in New York City ... New York City Mayor Zohran Mamdani's plan to open ...",
+      "published": "2026-08-04",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Associated Press",
+        "page": "https://mediabiasfactcheck.com/associated-press/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Republicans slam Mamdani's ID requirement for public ...",
+      "url": "https://www.washingtonexaminer.com/news/business/4672816/republicans-slam-mamdani-id-requirement-city-owned-grocery-stores/?srsltid=AYCX9vKzuNo_DAiu-98NMElqh475thREdU_nXHIokdAJtpn0g8CEIrVj",
+      "domain": "washingtonexaminer.com",
+      "snippet": "During the press conference, an official in the socialist mayor's administration revealed that a state ID requirement may be in order.",
+      "published": "2026-08-03",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Washington Examiner",
+        "page": "https://mediabiasfactcheck.com/washington-examiner/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Mamdani says no ID needed for city grocery stores, despite ...",
+      "url": "https://www.usatoday.com/story/news/state/new-york/new-york-city/2026/08/04/will-you-need-id-for-nycs-grocery-stores-mamdanis-team-says-no-backlash-zohran/91162721007/",
+      "domain": "usatoday.com",
+      "snippet": "There will be no system to verify identity, residency or income, and no one will be asked to show ID to shop.\" \"This is the dumbest and fakest ...",
+      "published": "2026-08-04",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "USA Today",
+        "page": "https://mediabiasfactcheck.com/usa-today-2/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

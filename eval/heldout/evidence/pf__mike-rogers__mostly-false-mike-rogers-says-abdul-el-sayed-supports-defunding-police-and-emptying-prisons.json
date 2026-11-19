@@ -1,0 +1,393 @@
+{
+  "frozenAt": "2026-10-27T03:24:53.272Z",
+  "refilteredAt": "2026-10-27T03:37:56.217Z",
+  "id": "pf/mike-rogers/mostly-false-mike-rogers-says-abdul-el-sayed-supports-defunding-police-and-emptying-prisons",
+  "said": "2026-09-23",
+  "queries": {
+    "fact": "Abdul El-Sayed supports defunding the police and emptying prisons.",
+    "claim": "Abdul El-Sayed supports defunding the police and emptying prisons. Mike Rogers"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1639.9445840001572,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1165.8083750000224,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 264.45645800000057,
+      "results": 7
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Republican Ads Attack El-Sayed for Past Comments, ...",
+      "url": "https://www.factcheck.org/2026/10/republican-ads-attack-el-sayed-for-past-comments-positions-on-policing-and-prisons/",
+      "domain": "factcheck.org",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Abdul El-Sayed supports defunding the police and emptying ...",
+      "url": "https://www.facebook.com/MikeRogersForMI/posts/abdul-el-sayed-supports-defunding-the-police-and-emptying-prisons-michigan-famil/1610123553857175/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Abdul El-Sayed backed defunding police in 2020 and ...",
+      "url": "https://www.facebook.com/politifact/posts/abdul-el-sayed-backed-defunding-police-in-2020-and-urged-reducing-incarceration-/1588758679951896/",
+      "domain": "facebook.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Fact check: What Abdul El-Sayed said about prison ...",
+      "url": "https://bridgemi.com/michigan-government/fact-check-what-abdul-el-sayed-said-about-prison-sentences-freeing-inmates/",
+      "domain": "bridgemi.com",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Does Abdul El-Sayed support defunding police and ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-does-abdul-el-sayed-support-defunding-police-and-emptying-prisons/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Mike Rogers: Abdul El-Sayed's Pro-Crime Policies Hurt ...",
+      "url": "https://www.facebook.com/MikeRogersForMI/videos/abdul-el-sayed-supports-defunding-the-police-and-emptying-prisons-michigan-famil/1119457750509228/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Mostly False: Mike Rogers says Abdul El-Sayed supports ...",
+      "url": "https://politifact.com/factchecks/2026/sep/28/mike-rogers/mostly-false-mike-rogers-says-abdul-el-sayed-supports-defunding-police-and-emptying-prisons/",
+      "domain": "politifact.com",
+      "published": "2026-09-28",
+      "publishedAsGiven": "Sep 28, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Abdul El-Sayed addresses his past comments on \"Defund the ...",
+      "url": "https://www.youtube.com/shorts/ugRYrVHlQug",
+      "domain": "youtube.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "snippet": "Michigan Senate hopeful Abdul El-Sayed called “Defund the Police” — a phrase he used in 2020 — a “dumb and unnuanced slogan.”"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Mike Rogers keeps lying about Abdul El-Sayed. We ...",
+      "url": "https://www.metrotimes.com/news/mike-rogers-keeps-lying-about-abdul-el-sayed-we-counted-the-ways/",
+      "domain": "metrotimes.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Abdul El-Sayed calls for releasing prisoners in Michigan ...",
+      "url": "https://www.foxnews.com/politics/democratic-senate-candidate-called-mass-release-criminals-during-prison-abolition-webinar",
+      "domain": "foxnews.com",
+      "published": "2026-07-03",
+      "publishedAsGiven": "Jul 3, 2026",
+      "snippet": "Abdul El-Sayed, a Democrat in the Michigan Senate race, argued for investing in efforts to get people out of jails and prisons, according to ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Abdul El-Sayed supports defunding the police and emptying ...",
+      "url": "https://www.facebook.com/MikeRogersForMI/posts/abdul-el-sayed-supports-defunding-the-police-and-emptying-prisons-michigan-famil/1610123553857175/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Republican Ads Attack El-Sayed for Past Comments, ...",
+      "url": "https://www.factcheck.org/2026/10/republican-ads-attack-el-sayed-for-past-comments-positions-on-policing-and-prisons/",
+      "domain": "factcheck.org",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Mostly False: Mike Rogers says Abdul El-Sayed supports ...",
+      "url": "https://politifact.com/factchecks/2026/sep/28/mike-rogers/mostly-false-mike-rogers-says-abdul-el-sayed-supports-defunding-police-and-emptying-prisons/",
+      "domain": "politifact.com",
+      "published": "2026-09-28",
+      "publishedAsGiven": "Sep 28, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Mike Rogers: Abdul El-Sayed's Pro-Crime Policies Hurt ...",
+      "url": "https://www.facebook.com/MikeRogersForMI/videos/abdul-el-sayed-supports-defunding-the-police-and-emptying-prisons-michigan-famil/1119457750509228/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Fact check: What Abdul El-Sayed said about prison ...",
+      "url": "https://bridgemi.com/michigan-government/fact-check-what-abdul-el-sayed-said-about-prison-sentences-freeing-inmates/",
+      "domain": "bridgemi.com",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Abdul El-Sayed Worked Alongside Law Enforcement to ...",
+      "url": "https://abdulforsenate.com/2026/09/abdul-el-sayed-worked-alongside-law-enforcement-to-keep-our-communities-safe-mike-rogers-has-voted-to-cut-law-enforcement-funding/",
+      "domain": "abdulforsenate.com",
+      "published": "2026-09-30",
+      "publishedAsGiven": "Sep 30, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Mike Rogers said Abdul El-Sayed \"wants to defund the ...",
+      "url": "https://www.facebook.com/politifact/posts/mike-rogers-said-abdul-el-sayed-wants-to-defund-the-police-we-previously-rated-t/1588980293263068/",
+      "domain": "facebook.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Mike Rogers, Abdul El-Sayed spar over policing and public safety",
+      "url": "https://www.youtube.com/watch?v=4LmUh0HbTgg",
+      "domain": "youtube.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Does Abdul El-Sayed support defunding police and ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-does-abdul-el-sayed-support-defunding-police-and-emptying-prisons/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "ROGERS DROPS NEW ADS, CONTRASTS LAW ...",
+      "url": "https://rogersforsenate.com/news/rogers-drops-new-ads-contrasts-law-enforcement-background-with-abduls-soft-on-crime-agenda",
+      "domain": "rogersforsenate.com",
+      "published": "2026-09-24",
+      "publishedAsGiven": "Sep 24, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Insider: Abdul El-Sayed distances himself from past defund ...",
+      "url": "https://thefalconswire.usatoday.com/story/news/politics/2025/11/15/abdul-el-sayed-distances-himself-from-past-defund-the-police-rhetoric/87276996007/",
+      "domain": "thefalconswire.usatoday.com",
+      "published": "2025-11-15",
+      "publishedAsGiven": "Nov 15, 2025",
+      "snippet": "Democratic U.S. Senate hopeful Abdul El-Sayed is downplaying his past rhetoric around defunding the police, saying his approach to the issue has been influenced by his time helping run..."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Democratic candidates grapple with 'defund the police ...",
+      "url": "https://apnews.com/article/defund-police-democrats-mamdani-wisconsin-michigan-56aa19ac994d73900d7b7c25d9fc1092",
+      "domain": "apnews.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Abdul El-Sayed Deleted Old Posts and Videos Defending ‘Defund ...",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/abdul-el-sayed-fireworks-police-videos.html",
+      "domain": "nytimes.com",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "snippet": "Dr. El-Sayed has been unabashed about his progressive views during his campaign, including his belief that Immigration and Customs Enforcement should be abolished."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "What to know about Abdul El-Sayed - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/09/02/what-know-about-abdul-el-sayed/",
+      "domain": "washingtonpost.com",
+      "published": "2026-09-02",
+      "publishedAsGiven": "Sep 2, 2026",
+      "snippet": "El-Sayed supports Medicare-for-all and abolishing U.S. Immigration and Customs Enforcement. In the Democratic primary this summer, he beat a more traditional (yet still liberal) opponent..."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Democratic candidates grapple with past stances on defunding ...",
+      "url": "https://www.washingtonpost.com/politics/2026/07/31/defund-police-democrats-mamdani-wisconsin-michigan/b336bad8-8c94-11f1-8912-d71e69d679d7_story.html",
+      "domain": "washingtonpost.com",
+      "published": "2026-07-31",
+      "publishedAsGiven": "Jul 31, 2026",
+      "snippet": "Across the country, Democratic candidates are grappling with their previous positions calling to “defund the police” — a prominent demand during the protests that followed George Floyd's ..."
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "Abdul El-Sayed battles politics, Islamophobia in run for U.S ...",
+      "url": "https://www.usatoday.com/story/news/politics/2026/10/14/abdul-el-sayed-battles-politics-islamophobia-in-run-for-u-s-senate/92251066007/",
+      "domain": "usatoday.com",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "5 Things to Know About Abdul El-Sayed, Democratic Senate ...",
+      "url": "https://www.nytimes.com/2026/08/04/us/politics/abdul-el-sayed-democrat-michigan-senate.html",
+      "domain": "nytimes.com",
+      "published": "2026-08-04",
+      "publishedAsGiven": "Aug 4, 2026",
+      "snippet": "Dr. El-Sayed has generated a deep well of left-wing support. He supports universal health care, abolishing Immigration and Customs Enforcement and ending U.S. aid to Israel."
+    }
+  ],
+  "returned": 27,
+  "dropped": {
+    "fact-checker": 4,
+    "fact-check-words": 7,
+    "after-said": 4,
+    "maybe-after-said": 4,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:24:47.275Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Insider: Abdul El-Sayed distances himself from past defund ...",
+      "url": "https://thefalconswire.usatoday.com/story/news/politics/2025/11/15/abdul-el-sayed-distances-himself-from-past-defund-the-police-rhetoric/87276996007/",
+      "domain": "thefalconswire.usatoday.com",
+      "snippet": "Democratic U.S. Senate hopeful Abdul El-Sayed is downplaying his past rhetoric around defunding the police, saying his approach to the issue has been influenced by his time helping run...",
+      "published": "2025-11-15",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "USA Today",
+        "page": "https://mediabiasfactcheck.com/usa-today-2/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Abdul El-Sayed Deleted Old Posts and Videos Defending ‘Defund ...",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/abdul-el-sayed-fireworks-police-videos.html",
+      "domain": "nytimes.com",
+      "snippet": "Dr. El-Sayed has been unabashed about his progressive views during his campaign, including his belief that Immigration and Customs Enforcement should be abolished.",
+      "published": "2026-08-11",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "New York Times",
+        "page": "https://mediabiasfactcheck.com/new-york-times/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "What to know about Abdul El-Sayed - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/09/02/what-know-about-abdul-el-sayed/",
+      "domain": "washingtonpost.com",
+      "snippet": "El-Sayed supports Medicare-for-all and abolishing U.S. Immigration and Customs Enforcement. In the Democratic primary this summer, he beat a more traditional (yet still liberal) opponent...",
+      "published": "2026-09-02",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Washington Post",
+        "page": "https://mediabiasfactcheck.com/washington-post/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Democratic candidates grapple with past stances on defunding ...",
+      "url": "https://www.washingtonpost.com/politics/2026/07/31/defund-police-democrats-mamdani-wisconsin-michigan/b336bad8-8c94-11f1-8912-d71e69d679d7_story.html",
+      "domain": "washingtonpost.com",
+      "snippet": "Across the country, Democratic candidates are grappling with their previous positions calling to “defund the police” — a prominent demand during the protests that followed George Floyd's ...",
+      "published": "2026-07-31",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Washington Post",
+        "page": "https://mediabiasfactcheck.com/washington-post/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "5 Things to Know About Abdul El-Sayed, Democratic Senate ...",
+      "url": "https://www.nytimes.com/2026/08/04/us/politics/abdul-el-sayed-democrat-michigan-senate.html",
+      "domain": "nytimes.com",
+      "snippet": "Dr. El-Sayed has generated a deep well of left-wing support. He supports universal health care, abolishing Immigration and Customs Enforcement and ending U.S. aid to Israel.",
+      "published": "2026-08-04",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "New York Times",
+        "page": "https://mediabiasfactcheck.com/new-york-times/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

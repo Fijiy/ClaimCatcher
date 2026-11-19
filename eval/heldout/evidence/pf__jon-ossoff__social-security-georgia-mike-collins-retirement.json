@@ -1,0 +1,210 @@
+{
+  "frozenAt": "2026-10-27T03:21:56.645Z",
+  "refilteredAt": "2026-10-27T03:37:15.341Z",
+  "id": "pf/jon-ossoff/social-security-georgia-mike-collins-retirement",
+  "said": "2026-09-02",
+  "queries": {
+    "fact": "U.S. Rep. Mike Collins voted to gut Social Security and wants to push (older Americans) off Social Security and back to work.",
+    "claim": "U.S. Rep. Mike Collins voted to gut Social Security and wants to push (older Americans) off Social Security and back to work. Jon Ossoff"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 3015.454124999931,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 3243.138666999992,
+      "results": 7
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Ossoff Ad Takes Collins' Quote Out of Context - FactCheck.org",
+      "url": "https://www.factcheck.org/2026/09/ossoff-ad-takes-collins-quote-out-of-context/",
+      "domain": "factcheck.org",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Did Collins tell older Americans, 'get off' Social Security?",
+      "url": "https://politifact.com/factchecks/2026/sep/15/jon-ossoff/social-security-georgia-mike-collins-retirement/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "How would Mike Collins protect Social Security as U.S. Senator?",
+      "url": "https://www.facebook.com/groups/1315898065249754/posts/3498510256988513/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "The perils of running statewide as a House Republican",
+      "url": "https://punchbowl.news/article/campaigns/collins-faces-challenges-statewide/",
+      "domain": "punchbowl.news",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "GOP Rep. Mike Collins wants to end Social Security. That's why ...",
+      "url": "https://www.facebook.com/NationalCommittee/videos/gop-rep-mike-collins-wants-to-end-social-security-thats-why-weve-endorsed-his-op/29458822873721131/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Creative Alert - AdImpact",
+      "url": "https://host2.adimpact.com/admo/viewer/fff29945-5075-4ea7-92fa-cb9a66ed2d37",
+      "domain": "host2.adimpact.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Rep. Mike Collins Wants Retirees 'Off Social Security' and Back ...",
+      "url": "https://flagpole.com/news/city-dope/2025/06/11/rep-mike-collins-wants-retirees-off-social-security-and-back-at-work/",
+      "domain": "flagpole.com",
+      "published": null,
+      "snippet": "Democrats attacked U.S. Rep. Mike Collins last week for saying in a radio interview that he wants people to “get off” Medicaid and Social ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Rep. Mike Collins says that slashing Social Security is ...",
+      "url": "https://www.facebook.com/retiredamericans/videos/-rep-mike-collins-says-that-slashing-social-security-is-business-101we-say-no-wa/1408270747899146/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Did Mike Collins say he wants to push people off Social Security?",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-mike-collins-say-he-wants-to-push-people-off-social-security/",
+      "domain": "mediabiasfactcheck.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "U.S. Sen. Jon Ossoff, who is seeking to retain his Georgia seat ...",
+      "url": "https://www.instagram.com/p/DdbitZbF_kV/",
+      "domain": "instagram.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Did Collins tell older Americans, ‘get off’ Social Security?",
+      "url": "https://www.politifact.com/factchecks/2026/sep/15/jon-ossoff/social-security-georgia-mike-collins-retirement/",
+      "domain": "politifact.com",
+      "published": "2026-09-15",
+      "publishedAsGiven": "Sep 15, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Ossoff Ad Takes Collins' Quote Out of Context - FactCheck.org",
+      "url": "https://www.factcheck.org/2026/09/ossoff-ad-takes-collins-quote-out-of-context/",
+      "domain": "factcheck.org",
+      "published": "2026-09-04",
+      "publishedAsGiven": "Sep 4, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Fact Check: Did Mike Collins Say He Wants to Push Seniors Off ...",
+      "url": "https://whatsthescoopwithbroach.com/fact-check/fact-check-ossoff-ad-mike-collins-social-security-context",
+      "domain": "whatsthescoopwithbroach.com",
+      "published": "2026-09-05",
+      "publishedAsGiven": "Sep 5, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Fact-checkers say Ossoff campaign ads took Mike Collins ...",
+      "url": "https://byzacharybynum.substack.com/p/fact-checkers-say-ossoff-campaign",
+      "domain": "byzacharybynum.substack.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "Oct 20, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Campaign Ads Misquote Congressman Collins Over Social ...",
+      "url": "https://us.headtopics.com/news/campaign-ads-misquote-congressman-collins-over-social-87776879",
+      "domain": "us.headtopics.com",
+      "published": "2026-09-15",
+      "publishedAsGiven": "Sep 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "PolitiFact on X: \"U.S. Sen. Jon Ossoff’s TV ads show footage ...",
+      "url": "https://x.com/PolitiFact/status/2100624326928064903",
+      "domain": "x.com",
+      "published": "2026-09-17",
+      "publishedAsGiven": "Sep 17, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "PolitiFact | U.S. Sen. Jon Ossoff, who is seeking to retain ...",
+      "url": "https://www.instagram.com/p/DdbitZbF_kV/",
+      "domain": "instagram.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    }
+  ],
+  "returned": 17,
+  "dropped": {
+    "fact-checker": 4,
+    "fact-check-words": 5,
+    "after-said": 1,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 6
+  },
+  "linkDatedKept": 1,
+  "searchedAt": "2026-10-27T03:21:50.386Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Rep. Mike Collins Wants Retirees 'Off Social Security' and Back ...",
+      "url": "https://flagpole.com/news/city-dope/2025/06/11/rep-mike-collins-wants-retirees-off-social-security-and-back-at-work/",
+      "domain": "flagpole.com",
+      "snippet": "Democrats attacked U.S. Rep. Mike Collins last week for saying in a radio interview that he wants people to “get off” Medicaid and Social ...",
+      "published": null,
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

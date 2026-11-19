@@ -1,0 +1,372 @@
+{
+  "frozenAt": "2026-10-27T03:19:06.960Z",
+  "refilteredAt": "2026-10-27T03:36:31.256Z",
+  "id": "pf/donald-trump/vaccine-soda-bottle-injection-children",
+  "said": "2026-08-10",
+  "queries": {
+    "fact": "There are vaccines the size of a bottle of soda … poured into a little child’s body.",
+    "claim": "There are vaccines the size of a bottle of soda … poured into a little child’s body. Donald Trump"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2641.633541999967,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1228.5850830000127,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 303.6321670000034,
+      "results": 5
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Erin Burnett Debunks Trump's Soda Bottle Vaccine Claim",
+      "url": "https://www.facebook.com/cnn/videos/erin-burnett-examines-president-trumps-claim-that-he-has-seen-proof-of-a-vaccine/1084571667578591/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "CIDRAP Op-Ed: What the vaccine executive order gets wrong ...",
+      "url": "https://www.cidrap.umn.edu/childhood-vaccines/cidrap-op-ed-what-vaccine-executive-order-gets-wrong-and-what-it-will-cost-us",
+      "domain": "cidrap.umn.edu",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Fact-checking Trump's claims as he rolls back some ...",
+      "url": "https://www.bbc.com/news/articles/c9q9dzp97l4o",
+      "domain": "bbc.com",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Trump's False Claims During Childhood Vaccine Order ...",
+      "url": "https://www.medpagetoday.com/washington-watch/washington-watch/122569",
+      "domain": "medpagetoday.com",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "News Wrap: Trump signs order calling for MMR vaccine ...",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-trump-signs-order-calling-for-mmr-vaccine-split-into-3-shots",
+      "domain": "pbs.org",
+      "published": "2026-08-10",
+      "publishedAsGiven": "Aug 10, 2026",
+      "snippet": "In our news wrap Monday, President Trump signed an executive order calling for fewer childhood vaccines and spacing out shots across ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Doctors don't inject kids with soda bottle's worth of vaccines ...",
+      "url": "https://politifact.com/factchecks/2026/aug/11/donald-trump/vaccine-soda-bottle-injection-children/",
+      "domain": "politifact.com",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Erin Burnett examines President Trump's claim that he has ...",
+      "url": "https://www.facebook.com/cnn/posts/erin-burnett-examines-president-trumps-claim-that-he-has-seen-proof-of-a-vaccine/1438494681476512/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "News Wrap: Trump signs order on childhood vaccines",
+      "url": "https://www.pbs.org/video/news-wrap-1786398722/",
+      "domain": "pbs.org",
+      "published": "2026-08-10",
+      "publishedAsGiven": "Aug 10, 2026",
+      "snippet": "News Wrap: Trump signs order calling for MMR vaccine split into 3 shots."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Erin Burnett debunks Trump's claim that childhood vaccine ...",
+      "url": "https://www.cnn.com/2026/08/10/health/video/erin-burnett-debunks-trump-claim-that-a-kids-vaccine-is-size-of-a-bottle-of-soda-digvid",
+      "domain": "cnn.com",
+      "published": "2026-08-10",
+      "publishedAsGiven": "Aug 10, 2026",
+      "snippet": "Erin Burnett examines President Trump's claim that he's seen 'proof' of a vaccine for children that is 'the size of a bottle of a soda'."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Multiple Vaccines at Once",
+      "url": "https://www.cdc.gov/vaccine-safety/about/multiples.html",
+      "domain": "cdc.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "CIDRAP Op-Ed: What the vaccine executive order gets wrong ...",
+      "url": "https://www.cidrap.umn.edu/childhood-vaccines/cidrap-op-ed-what-vaccine-executive-order-gets-wrong-and-what-it-will-cost-us",
+      "domain": "cidrap.umn.edu",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact-checking Trump's claims as he rolls back some ...",
+      "url": "https://www.bbc.com/news/articles/c9q9dzp97l4o",
+      "domain": "bbc.com",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Trump signs order on childhood vaccines while making ...",
+      "url": "https://www.bmj.com/content/394/bmj-2026-100549",
+      "domain": "bmj.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Erin Burnett Debunks Trump's Soda Bottle Vaccine Claim",
+      "url": "https://www.facebook.com/cnn/videos/erin-burnett-examines-president-trumps-claim-that-he-has-seen-proof-of-a-vaccine/1084571667578591/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Trump Claims Childhood Vaccine is Like “Size of a Bottle ...",
+      "url": "https://www.cnn.com/audio/podcasts/erin-burnett-outfront/episodes/ef013ca8-b541-11f0-bcac-5fdb39b7d7c8",
+      "domain": "cnn.com",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "News Wrap: Trump signs order calling for MMR vaccine ...",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-trump-signs-order-calling-for-mmr-vaccine-split-into-3-shots",
+      "domain": "pbs.org",
+      "published": "2026-08-10",
+      "publishedAsGiven": "Aug 10, 2026",
+      "snippet": "In our news wrap Monday, President Trump signed an executive order calling for fewer childhood vaccines and spacing out shots across ..."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "FACT FOCUS: Trump Makes False Claims as He Signs ...",
+      "url": "https://www.usnews.com/news/politics/articles/2026-08-11/fact-focus-trump-makes-false-claims-as-he-signs-order-urging-revisions-around-childhood-vaccines",
+      "domain": "usnews.com",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "News Wrap: Trump signs order on childhood vaccines",
+      "url": "https://www.pbs.org/video/news-wrap-1786398722/",
+      "domain": "pbs.org",
+      "published": "2026-08-10",
+      "publishedAsGiven": "Aug 10, 2026",
+      "snippet": "News Wrap: Trump signs order calling for MMR vaccine split into 3 shots."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Anchor debunks Trump's vaccine claim",
+      "url": "https://www.youtube.com/shorts/PKDpudlJFag",
+      "domain": "youtube.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Trump and RFK Jr. Repeat False and Misleading Vaccine ...",
+      "url": "https://www.factcheck.org/2026/08/trump-and-rfk-jr-repeat-false-and-misleading-vaccine-claims/",
+      "domain": "factcheck.org",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Trump makes false claims as he signs order urging ...",
+      "url": "https://apnews.com/article/fact-check-trump-vaccines-schedule-executive-order-autism-287503e351b38ec01ac7377eadbc22c4",
+      "domain": "apnews.com",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Trump calls for new childhood vaccine recommendations",
+      "url": "https://apnews.com/live/trump-politics-news-08-10-2026",
+      "domain": "apnews.com",
+      "published": "2026-08-10",
+      "publishedAsGiven": "Aug 10, 2026",
+      "snippet": "“I've seen proof of it, where they have a vaccination that looks like the size of a bottle of soda poured into a little child's body, and bad ..."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Trump endorses study calling for slimming vaccine ...",
+      "url": "https://apnews.com/article/childhood-vaccine-schedule-trump-rfk-hhs-d04ba53d6820cc7194a4885e2418d132",
+      "domain": "apnews.com",
+      "published": "2026-05-29",
+      "publishedAsGiven": "May 29, 2026",
+      "snippet": "The study recommends vaccinating all children against 11 diseases. Several others would be recommended only for high-risk groups or when doctors ..."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "El-Sayed Calls Mike Rogers a \"Sock Puppet,\" Challenges ...",
+      "url": "https://www.realclearpolitics.com/video/2026/08/18/el-sayed_calls_mike_rogers_a_sock_puppet_challenges_him_to_five_debates.html",
+      "domain": "realclearpolitics.com",
+      "published": "2026-08-18",
+      "publishedAsGiven": "Aug 18, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "THE KENNEDY CULT",
+      "url": "https://www.nationalreview.com/wp-content/uploads/2013/11/20131125_0-2.pdf",
+      "domain": "nationalreview.com",
+      "published": "2013-11-25",
+      "publishedAsGiven": "Nov 25, 2013",
+      "snippet": "There was a mixture of Republicans in that body. Holds in up to 40% of body heat the head can lose! Special knit “gives” to comfortably fit any ..."
+    }
+  ],
+  "returned": 25,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 2,
+    "after-said": 6,
+    "maybe-after-said": 4,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:19:01.154Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "News Wrap: Trump signs order calling for MMR vaccine ...",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-trump-signs-order-calling-for-mmr-vaccine-split-into-3-shots",
+      "domain": "pbs.org",
+      "snippet": "In our news wrap Monday, President Trump signed an executive order calling for fewer childhood vaccines and spacing out shots across ...",
+      "published": "2026-08-10",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "PBS News Hour",
+        "page": "https://mediabiasfactcheck.com/pbs-news-hour/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "News Wrap: Trump signs order on childhood vaccines",
+      "url": "https://www.pbs.org/video/news-wrap-1786398722/",
+      "domain": "pbs.org",
+      "snippet": "News Wrap: Trump signs order calling for MMR vaccine split into 3 shots.",
+      "published": "2026-08-10",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "PBS News Hour",
+        "page": "https://mediabiasfactcheck.com/pbs-news-hour/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Trump calls for new childhood vaccine recommendations",
+      "url": "https://apnews.com/live/trump-politics-news-08-10-2026",
+      "domain": "apnews.com",
+      "snippet": "“I've seen proof of it, where they have a vaccination that looks like the size of a bottle of soda poured into a little child's body, and bad ...",
+      "published": "2026-08-10",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Associated Press",
+        "page": "https://mediabiasfactcheck.com/associated-press/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Trump endorses study calling for slimming vaccine ...",
+      "url": "https://apnews.com/article/childhood-vaccine-schedule-trump-rfk-hhs-d04ba53d6820cc7194a4885e2418d132",
+      "domain": "apnews.com",
+      "snippet": "The study recommends vaccinating all children against 11 diseases. Several others would be recommended only for high-risk groups or when doctors ...",
+      "published": "2026-05-29",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Associated Press",
+        "page": "https://mediabiasfactcheck.com/associated-press/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "THE KENNEDY CULT",
+      "url": "https://www.nationalreview.com/wp-content/uploads/2013/11/20131125_0-2.pdf",
+      "domain": "nationalreview.com",
+      "snippet": "There was a mixture of Republicans in that body. Holds in up to 40% of body heat the head can lose! Special knit “gives” to comfortably fit any ...",
+      "published": "2013-11-25",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "R",
+        "reliability": "high",
+        "name": "National Review",
+        "page": "https://mediabiasfactcheck.com/national-review/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

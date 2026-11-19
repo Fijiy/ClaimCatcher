@@ -1,0 +1,236 @@
+{
+  "frozenAt": "2026-10-27T03:10:16.427Z",
+  "refilteredAt": "2026-10-27T03:34:17.889Z",
+  "id": "pf/donald-trump/factory-manufacturing-construction-record-high",
+  "said": "2026-01-27",
+  "queries": {
+    "fact": "We right now have more factories and plants being built in our country than we’ve ever had before.",
+    "claim": "We right now have more factories and plants being built in our country than we’ve ever had before. Donald Trump"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2633.3102499999804,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1420.2972500000033,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Trump: U.S. Car and Truck Plant Construction Surges After 30- ...",
+      "url": "https://www.facebook.com/statedept/videos/president-trump-we-went-for-a-period-of-time-for-almost-30-years-with-barely-bui/1332891358989169/",
+      "domain": "facebook.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "President Donald Trump recently said the U.S. has “more ...",
+      "url": "https://www.facebook.com/politifact/posts/president-donald-trump-recently-said-the-us-has-more-factories-and-plants-being-/1352223383605428/",
+      "domain": "facebook.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "President Donald Trump said factories and plants are being ...",
+      "url": "https://www.facebook.com/Newsweek/posts/president-donald-trump-said-factories-and-plants-are-being-built-across-the-unit/1356401426360298/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Fact check: Is US factory construction at an all-time high, as ...",
+      "url": "https://www.yahoo.com/news/articles/fact-check-us-factory-construction-110000810.html",
+      "domain": "yahoo.com",
+      "published": "2026-02-16",
+      "publishedAsGiven": "Feb 16, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "'There's Never Been Manufacturing Plants Being Built': Trump ...",
+      "url": "https://www.youtube.com/watch?v=SfjFy0BgA8U",
+      "domain": "youtube.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Deforestation and Forest Degradation",
+      "url": "https://www.worldwildlife.org/our-work/forests/deforestation-and-forest-degradation/",
+      "domain": "worldwildlife.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Is it accurate for President Trump to say that 'there ...",
+      "url": "https://www.quora.com/Is-it-accurate-for-President-Trump-to-say-that-there-are-factories-and-plants-and-thousands-of-businesses-being-built-all-over-the-country",
+      "domain": "quora.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Global Warming 101 - Definition, Facts, Causes and Effects ...",
+      "url": "https://www.nrdc.org/stories/global-warming-101",
+      "domain": "nrdc.org",
+      "published": "2026-02-03",
+      "publishedAsGiven": "Feb 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Deforestation and Forest Loss",
+      "url": "https://ourworldindata.org/deforestation",
+      "domain": "ourworldindata.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "The choices we make about AI now are critical | Bill Gates",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "domain": "gatesnotes.com",
+      "published": "2026-08-26",
+      "publishedAsGiven": "Aug 26, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Factory construction falls 31% since Trump took office",
+      "url": "https://www.facebook.com/StevenLRattner/posts/trump-says-were-building-more-factories-and-plants-right-now-than-at-any-time-in/1615415110037419/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact check: Is US factory construction at an all-time high, as ...",
+      "url": "https://www.yahoo.com/news/articles/fact-check-us-factory-construction-110000810.html",
+      "domain": "yahoo.com",
+      "published": "2026-02-16",
+      "publishedAsGiven": "Feb 16, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "\"We have factories being built all over your State ...",
+      "url": "https://www.facebook.com/rsbnetwork/posts/we-have-factories-being-built-all-over-your-state-all-over-the-country-president/1619053740257097/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Trump says tariffs have brought more US auto factories. His ...",
+      "url": "https://apnews.com/article/trump-auto-manufacturing-facts-investment-vehicles-8ab7e9121940a7ea2d75f77dc2766bfd",
+      "domain": "apnews.com",
+      "published": "2026-10-09",
+      "publishedAsGiven": "Oct 9, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "FACT FOCUS: Trump Says Tariffs Have Brought More ...",
+      "url": "https://www.usnews.com/news/politics/articles/2026-10-09/fact-focus-trump-says-tariffs-have-brought-more-us-auto-factories-his-numbers-are-off",
+      "domain": "usnews.com",
+      "published": "2026-10-09",
+      "publishedAsGiven": "Oct 9, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "\"We're doing so well economically. We have numbers the likes ...",
+      "url": "https://www.facebook.com/KTARNews/videos/were-doing-so-well-economically-we-have-numbers-the-likes-of-which-our-country-h/1440481978010184/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "\"We right now have more factories and plants being built in ...",
+      "url": "https://www.facebook.com/houstonchronicle/posts/we-right-now-have-more-factories-and-plants-being-built-in-our-country-than-weve/1339156338228501/",
+      "domain": "facebook.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "How should we judge Trump's assertion that 'we right now ...",
+      "url": "https://www.quora.com/How-should-we-judge-Trump-s-assertion-that-we-right-now-have-more-factories-and-plants-being-built-in-our-country-than-weve-ever-had-before",
+      "domain": "quora.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Manufacturing sector shows mixed results under Trump's ...",
+      "url": "https://www.wbaltv.com/article/manufacturing-sector-shows-mixed-results-under-president-trumps-policies/73277099",
+      "domain": "wbaltv.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "Jul 27, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Trump: U.S. Car and Truck Plant Construction Surges After 30- ...",
+      "url": "https://www.facebook.com/statedept/videos/president-trump-we-went-for-a-period-of-time-for-almost-30-years-with-barely-bui/1332891358989169/",
+      "domain": "facebook.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 0,
+    "fact-check-words": 3,
+    "after-said": 12,
+    "maybe-after-said": 3,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:10:12.372Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

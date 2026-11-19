@@ -1,0 +1,239 @@
+{
+  "frozenAt": "2026-10-27T03:08:07.724Z",
+  "refilteredAt": "2026-10-27T03:33:45.777Z",
+  "id": "pf/ron-desantis/desantis-property-tax-homestead-snowbirds-airbnbs",
+  "said": "2025-10-15",
+  "queries": {
+    "fact": "In Florida, 68 to 70% of property tax revenue is from second homes, investment properties, commercial properties, Airbnb, not primary residences.",
+    "claim": "In Florida, 68 to 70% of property tax revenue is from second homes, investment properties, commercial properties, Airbnb, not primary residences. Ron DeSantis"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1355.908792000031,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 4017.3468749999884,
+      "results": 9
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Is DeSantis right that most Florida property tax dollars ...",
+      "url": "https://www.nbcmiami.com/news/politics/politifact/desantis-florida-property-tax-dollars-vacation-homes-businesses/3714461/",
+      "domain": "nbcmiami.com",
+      "published": "2025-10-30",
+      "publishedAsGiven": "Oct 30, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Florida Property Tax Revenue Breakdown: Primary Homes ...",
+      "url": "https://www.jmco.com/articles/real-estate/florida-property-tax-revenue-breakdown-primary-homes-vs-commercial-and-investment-properties/",
+      "domain": "jmco.com",
+      "published": "2026-01-07",
+      "publishedAsGiven": "Jan 7, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Property Tax Changes for Second Homes: How 3 States Are…",
+      "url": "https://kahnlitwin.com/blogs/tax-blog/property-tax-changes-for-second-homes-how-3-states-are-shifting-the-tax-burden",
+      "domain": "kahnlitwin.com",
+      "published": "2026-08-18",
+      "publishedAsGiven": "Aug 18, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Property Tax - Taxpayers - Exemptions",
+      "url": "https://floridarevenue.com/property/Pages/Taxpayers_Exemptions.aspx",
+      "domain": "floridarevenue.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Tax Implications of a Vacation Home or Rental",
+      "url": "https://www.schwab.com/learn/story/tax-implications-vacation-home-or-rental",
+      "domain": "schwab.com",
+      "published": "2024-10-10",
+      "publishedAsGiven": "Oct 10, 2024",
+      "snippet": "... property taxes you pay on your primary residence and second home combined. ... second home will likely be considered a rental and not a residence."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "They tax property that is non-homestead",
+      "url": "https://www.facebook.com/fastepo/posts/they-tax-property-that-is-non-homestead-residential-airbnb-canadian-snowbirds-co/1599321505570504/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Florida Property Tax Cuts: Pros and Cons for Homeowners",
+      "url": "https://www.midflorida.com/resources/insights-and-blogs/insights/mortgage/florida-property-tax-cuts",
+      "domain": "midflorida.com",
+      "published": "2026-03-17",
+      "publishedAsGiven": "Mar 17, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "How Florida Property Tax Law Changes Affect Investors",
+      "url": "https://www.sqaccounting.com/blog/florida-property-tax-law-changes-investors-october-2025",
+      "domain": "sqaccounting.com",
+      "published": "2025-10-17",
+      "publishedAsGiven": "Oct 17, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Understanding Florida's Property Tax System",
+      "url": "https://www.fl-counties.com/understanding-floridas-property-tax-system/",
+      "domain": "fl-counties.com",
+      "published": "2026-09-29",
+      "publishedAsGiven": "Sep 29, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Florida",
+      "url": "https://www.lincolninst.edu/app/uploads/legacy-files/fl_january_2022_0.pdf",
+      "domain": "lincolninst.edu",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Is DeSantis right that most Florida property tax dollars come from ...",
+      "url": "https://www.nbcmiami.com/news/politics/politifact/desantis-florida-property-tax-dollars-vacation-homes-businesses/3714461/",
+      "domain": "nbcmiami.com",
+      "published": "2025-10-30",
+      "publishedAsGiven": "Oct 30, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Is DeSantis right that most Florida property tax dollars come from ...",
+      "url": "https://politifact.com/factchecks/2025/oct/30/ron-desantis/desantis-property-tax-homestead-snowbirds-airbnbs/",
+      "domain": "politifact.com",
+      "published": "2025-10-30",
+      "publishedAsGiven": "Oct 30, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Florida Property Tax Revenue Breakdown: Primary Homes vs ...",
+      "url": "https://www.jmco.com/articles/real-estate/florida-property-tax-revenue-breakdown-primary-homes-vs-commercial-and-investment-properties/",
+      "domain": "jmco.com",
+      "published": "2026-01-07",
+      "publishedAsGiven": "Jan 7, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "DeSantis explains push to cut property taxes - Stet News",
+      "url": "https://stetnews.org/2025/10/17/desantis-explains-push-to-cut-property-taxes/",
+      "domain": "stetnews.org",
+      "published": "2025-10-17",
+      "publishedAsGiven": "Oct 17, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Governor DeSantis Holds Property Tax Relief Roundtable with ...",
+      "url": "https://www.facebook.com/GovRonDeSantis/videos/governor-desantis-holds-property-tax-relief-roundtable-with-officials-in-miami-d/1906244364082142/",
+      "domain": "facebook.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Florida Gov. Ron DeSantis Unveils His Plan To Eliminate Property ...",
+      "url": "https://www.realtor.com/news/real-estate-news/ron-desantis-florida-property-taxes-eliminate-ballot-proposal/",
+      "domain": "realtor.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "May 27, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "They tax property that is non-homestead - Facebook",
+      "url": "https://www.facebook.com/fastepo/posts/they-tax-property-that-is-non-homestead-residential-airbnb-canadian-snowbirds-co/1599321505570504/",
+      "domain": "facebook.com",
+      "published": "2026-10-07",
+      "publishedAsGiven": "Oct 7, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "DeSantis says Florida Republicans must deliver on property tax cuts",
+      "url": "https://www.palmbeachpost.com/story/news/state/2026/03/27/governor-ron-desantis-end-florida-property-tax-homeowners/89297683007/",
+      "domain": "palmbeachpost.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "Mar 27, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Fact-checking DeSantis: Would his plan exempt 60% of Florida ...",
+      "url": "https://www.wuft.org/politifact-florida/2026-06-01/fact-checking-desantis-would-his-plan-exempt-60-of-florida-homeowners-from-paying-property-taxes",
+      "domain": "wuft.org",
+      "published": "2026-06-01",
+      "publishedAsGiven": "Jun 1, 2026",
+      "dropped": "fact-check-words"
+    }
+  ],
+  "returned": 19,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 3,
+    "after-said": 12,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:08:02.350Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Tax Implications of a Vacation Home or Rental",
+      "url": "https://www.schwab.com/learn/story/tax-implications-vacation-home-or-rental",
+      "domain": "schwab.com",
+      "snippet": "... property taxes you pay on your primary residence and second home combined. ... second home will likely be considered a rental and not a residence.",
+      "published": "2024-10-10",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

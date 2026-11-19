@@ -1,0 +1,101 @@
+{
+  "case_id": "abc-2024-trump-springfield-pets#1",
+  "queries": {
+    "A": "In Springfield, they're eating the dogs. The people that came in. They're eating the cats. They're eating the pets of the people that live there. Trump",
+    "B": "Springfield Ohio police reports of pets being eaten by Haitian immigrants"
+  },
+  "results": [
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "Ohio police have 'no credible reports' of Haitian immigrants harming pets, contradicting JD Vance's claim",
+      "url": "https://www.nbcnews.com/tech/misinformation/jd-vance-ohio-police-no-reports-haitian-immigrants-harming-pets-rcna170271",
+      "domain": "nbcnews.com",
+      "published": "2024-09-09",
+      "snippet": "In his post on X, Vance attributed his information about pets to unspecified “reports” and suggested that Vice President Kamala Harris was to blame for Haitian immigrants’ “generally causing chaos all over Springfield, Ohio.” In 2021, President Joe Biden tasked Harris with tackling the “root causes” of migration .",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "Ohio police have ‘no credible reports' of Haitian immigrants harming pets, contradicting JD Vance's claim",
+      "url": "https://nbcmiami.com/news/national-international/ohio-police-have-no-credible-reports-of-haitian-immigrants-harming-pets-contradicting-jd-vances-claim",
+      "domain": "nbcmiami.com",
+      "published": "2024-09-10",
+      "snippet": "In his post on X, Vance attributed his information about pets to unspecified “reports” and suggested that Vice President Kamala Harris was to blame for Haitian immigrants’ “generally causing chaos all over Springfield, Ohio.” In 2021, President Joe Biden tasked Harris with tackling the “root causes” of migration .",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 4,
+      "title": "Police in Ohio push back on claim that Haitian migrants stealing, eating pets",
+      "url": "https://spectrumlocalnews.com/me/maine/politics/2024/09/10/springfield-ohio-police-baseless-claim-haitian-migrants-eating-pets-jd-vance-trump-campaign",
+      "domain": "spectrumlocalnews.com",
+      "published": "2024-09-10",
+      "snippet": "“Months ago, I raised the issue of Haitian illegal immigrants draining social services and generally causing chaos all over Springfield, Ohio,” Vance wrote on X , formerly Twitter. “Reports now show that people have had their pets abducted and eaten by people who shouldn't be in this country. Where is our border czar?”",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 5,
+      "title": "Police in Ohio push back on claim that Haitian migrants stealing, eating pets",
+      "url": "https://spectrumlocalnews.com/nc/coastal/politics/2024/09/10/springfield-ohio-police-baseless-claim-haitian-migrants-eating-pets-jd-vance-trump-campaign",
+      "domain": "spectrumlocalnews.com",
+      "published": "2024-09-10",
+      "snippet": "“Months ago, I raised the issue of Haitian illegal immigrants draining social services and generally causing chaos all over Springfield, Ohio,” Vance wrote on X , formerly Twitter. “Reports now show that people have had their pets abducted and eaten by people who shouldn't be in this country. Where is our border czar?”",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://www.forbes.com.au/?p=104267",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.forbes.com.au/news/world-news/presidential-debate-trump-claims-immigrants-are-eating-dogs/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://wtam.iheart.com/content/2024-09-10-donald-trump-brings-up-wild-claim-about-dogs-and-cats-during-debate",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.metabunk.org/goto/post?id=322767",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.metabunk.org/goto/post?id=322773",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.metabunk.org/goto/post?id=322796",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.metabunk.org/goto/post?id=322821",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.thepinknews.com/2024/09/11/trump-springfield-ohio/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://fox29.com/news/trump-false-claims-migrants-eating-pets",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "B",
+      "url": "https://daytondailynews.com/news/ohio/ohio-city-continues-to-knock-down-claims-about-pets-animals-being-eaten/AITQVATHEJFALANZZIUOTFJKJI",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    }
+  ]
+}

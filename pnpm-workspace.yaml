@@ -1,0 +1,11 @@
+minimumReleaseAgeExclude:
+  - wxt@0.21.5
+# Install scripts nobody needs:
+# - Transformers.js pulls in onnxruntime-node (Node only; the extension uses
+#   the bundled onnxruntime-web WASM), with protobufjs;
+# - tsx (the quality-gate scripts) pulls in esbuild, whose script only checks
+#   the platform binary pnpm installs anyway.
+allowBuilds:
+  esbuild: false
+  onnxruntime-node: false
+  protobufjs: false

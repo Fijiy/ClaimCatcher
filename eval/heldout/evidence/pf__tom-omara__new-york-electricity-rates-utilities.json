@@ -1,0 +1,225 @@
+{
+  "frozenAt": "2026-10-27T03:09:45.102Z",
+  "refilteredAt": "2026-10-27T03:34:10.380Z",
+  "id": "pf/tom-omara/new-york-electricity-rates-utilities",
+  "said": "2026-01-20",
+  "queries": {
+    "fact": "New Yorkers pay 49% more than the national average for electricity.",
+    "claim": "New Yorkers pay 49% more than the national average for electricity. Tom O'Mara"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1928.1193750000093,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2304.4869590000017,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Federal data show residential and commercial users pay ...",
+      "url": "https://www.facebook.com/TheBuffaloNews/posts/federal-data-show-residential-and-commercial-users-pay-49-more-for-electricity-t/1314409030720218/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Compare Electricity Rates by State",
+      "url": "https://www.chooseenergy.com/electricity-rates-by-state/",
+      "domain": "chooseenergy.com",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "New York's Electricity Prices Among the Highest in ...",
+      "url": "https://www.empirecenter.org/publications/new-yorks-electricity-prices-among-the-highest-in-the-country/",
+      "domain": "empirecenter.org",
+      "published": "2026-02-13",
+      "publishedAsGiven": "Feb 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Electricity Rates by State (October 2026)",
+      "url": "https://www.electricchoice.com/electricity-prices-by-state/",
+      "domain": "electricchoice.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Monthly Average Retail Price of Electricity - Residential",
+      "url": "https://www.nyserda.ny.gov/Energy-Prices/Electricity/Monthly-Avg-Electricity-Residential",
+      "domain": "nyserda.ny.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "NEW YORKERS ARE TAKING ACTION. (Not by choice. ...",
+      "url": "https://www.facebook.com/AARPNY/videos/new-yorkers-are-taking-action-not-by-choice-%EF%B8%8Fbecause-of-their-utility-costs56-ke/2240215306515850/",
+      "domain": "facebook.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "How much more do New Yorkers pay for electricity than ...",
+      "url": "https://politifact.com/factchecks/2026/feb/13/tom-omara/new-york-electricity-rates-utilities/",
+      "domain": "politifact.com",
+      "published": "2026-02-13",
+      "publishedAsGiven": "Feb 13, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "4th largest economy in the world has one of the highest ...",
+      "url": "https://www.facebook.com/AsmRepublicans/videos/4th-largest-economy-in-the-world-has-one-of-the-highest-electricity-rates-in-the/3534031893413312/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "The American Affordability Tracker",
+      "url": "https://www.urban.org/data-tools/american-affordability-tracker",
+      "domain": "urban.org",
+      "published": "by N Airi",
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Why Is Your Electric Bill So High? How to Read the Fine ...",
+      "url": "https://www.consumerreports.org/money/high-electric-bill-read-fine-print-a7792755573/",
+      "domain": "consumerreports.org",
+      "published": "2026-09-20",
+      "publishedAsGiven": "Sep 20, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Affordable Energy, Not Albany Mandates | NYSenate.gov",
+      "url": "https://www.nysenate.gov/affordable-energy-not-albany-mandates",
+      "domain": "nysenate.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "How much more do New Yorkers pay for electricity ... - PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/feb/13/tom-omara/new-york-electricity-rates-utilities/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "New Yorkers pay 70% MORE for electricity than the US ...",
+      "url": "https://www.facebook.com/BruceBlakemanNewYorkFirst/posts/new-yorkers-pay-70-more-for-electricity-than-the-us-average-i-will-cut-your-bill/1599671302165346/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "'New Yorkers need relief now,' O'Mara says (WATCH)",
+      "url": "https://www.nysenate.gov/newsroom/press-releases/2026/thomas-f-omara/omara-senate-republicans-champion-affordable-energy-not",
+      "domain": "nysenate.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "O'Mara on Senate Republican 'Affordable Energy' plan - YouTube",
+      "url": "https://www.youtube.com/watch?v=HbT0ic2EA0Q",
+      "domain": "youtube.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Energy Costs Are Skyrocketing in New York Because Albany ...",
+      "url": "https://tenney.house.gov/media/press-releases/congresswoman-tenney-energy-costs-are-skyrocketing-new-york-because-albany",
+      "domain": "tenney.house.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "New York pays 60% more than rest of country for electricity ...",
+      "url": "https://www.facebook.com/RepNicole/videos/new-york-pays-60-more-than-rest-of-country-for-electricity-malliotakis-lanza-tan/2058795455076556/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "What's Driving Up New York's Electricity Bills? - Third Way",
+      "url": "https://www.thirdway.org/blog/whats-driving-up-new-yorks-electricity-bills",
+      "domain": "thirdway.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Monthly Average Retail Price of Electricity - Residential - nyserda",
+      "url": "https://www.nyserda.ny.gov/Energy-Prices/Electricity/Monthly-Avg-Electricity-Residential",
+      "domain": "nyserda.ny.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Compare New York Electricity Rates (2026) | EnergySage",
+      "url": "https://www.energysage.com/local-data/electricity-cost/ny/",
+      "domain": "energysage.com",
+      "published": null,
+      "dropped": "undated"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 0,
+    "after-said": 6,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 12
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:09:40.869Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

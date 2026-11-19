@@ -1,0 +1,303 @@
+{
+  "frozenAt": "2026-10-27T03:14:53.577Z",
+  "refilteredAt": "2026-10-27T03:35:30.673Z",
+  "id": "pf/marcy-kaptur/white-house-trump-ballroom-east-wing-1-billion",
+  "said": "2026-05-05",
+  "queries": {
+    "fact": "Republicans want you to pay $1 Billion for a ballroom.",
+    "claim": "Republicans want you to pay $1 Billion for a ballroom. Marcy Kaptur"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2244.969041999895,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1094.3023749999702,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Are Republicans seeking $1 billion in taxpayer money to ...",
+      "url": "https://www.kcra.com/article/gop-1-billion-taxpayer-money-trumps-ballroom/71256966",
+      "domain": "kcra.com",
+      "published": "2026-05-08",
+      "publishedAsGiven": "May 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Republicans want $1 billion for Trump's ballroom security",
+      "url": "https://www.npr.org/2026/05/06/g-s1-120455/republicans-trump-ballroom-billion",
+      "domain": "npr.org",
+      "published": "2026-05-06",
+      "publishedAsGiven": "May 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Republicans propose $1 billion in taxpayer dollars to ...",
+      "url": "https://www.youtube.com/shorts/fn6fvCc1RnY",
+      "domain": "youtube.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Republicans propose $1 billion in taxpayer dollars to ...",
+      "url": "https://www.nbcnews.com/politics/white-house/republicans-propose-1-billion-taxpayer-dollars-secure-trump-ballroom-rcna343637",
+      "domain": "nbcnews.com",
+      "published": "2026-05-05",
+      "publishedAsGiven": "May 5, 2026",
+      "snippet": "President Donald Trump portrayed the big new ballroom he's building on White House grounds as a gift to the nation, courtesy of patriotic ..."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Reed: Americans Don't Want $1 Billion of Their Tax Dollars ...",
+      "url": "https://www.reed.senate.gov/news/releases/reed-americans-dont-want-1-billion-of-their-tax-dollars-spent-on-transforming-the-white-house-into-a-tacky-palace",
+      "domain": "reed.senate.gov",
+      "published": "2026-05-05",
+      "publishedAsGiven": "May 5, 2026",
+      "snippet": "U.S. Senator Jack Reed, who previously criticized President Trump for demolishing the East Wing of the White House without the proper permits ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Are Republicans seeking $1 billion in taxpayer money to ...",
+      "url": "https://www.facebook.com/wcvb5/posts/are-republicans-seeking-1-billion-in-taxpayer-money-to-pay-for-trumps-white-hous/1524986636324086/",
+      "domain": "facebook.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Senate Republicans are requesting $1 billion to fund ...",
+      "url": "https://www.facebook.com/newshour/videos/senate-republicans-are-requesting-1-billion-to-fund-security-improvements-for-pr/2019066085708766/",
+      "domain": "facebook.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Republicans propose using taxpayer dollars to fund ...",
+      "url": "https://www.youtube.com/watch?v=_SQ7_oPE-pw",
+      "domain": "youtube.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Republicans propose $1 billion for Trump ballroom",
+      "url": "https://www.nbcnews.com/video/shorts/republicans-propose-1-billion-for-trump-ballroom-262820933713",
+      "domain": "nbcnews.com",
+      "published": "2026-05-05",
+      "publishedAsGiven": "May 5, 2026",
+      "snippet": "Lead animator shares how 'Wildwood' came to life. 01:27."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Senate Republicans move ahead with $1B for White ...",
+      "url": "https://www.wbaltv.com/article/democrats-fight-white-house-ballroom-taxpayer/71266099",
+      "domain": "wbaltv.com",
+      "published": "2026-05-11",
+      "publishedAsGiven": "May 11, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Are Republicans seeking $1 billion in taxpayer money to ...",
+      "url": "https://www.wdsu.com/article/gop-1-billion-taxpayer-money-trumps-ballroom/71256966",
+      "domain": "wdsu.com",
+      "published": "2026-05-08",
+      "publishedAsGiven": "May 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Is GOP seeking $1 billion in taxpayer money for ballroom?",
+      "url": "https://politifact.com/factchecks/2026/may/08/marcy-kaptur/white-house-trump-ballroom-east-wing-1-billion/",
+      "domain": "politifact.com",
+      "published": "2026-05-08",
+      "publishedAsGiven": "May 8, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Are Republicans seeking $1 billion in taxpayer funds for ...",
+      "url": "https://www.wral.com/archive/22358180/",
+      "domain": "wral.com",
+      "published": "2026-05-14",
+      "publishedAsGiven": "May 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Senate Republicans Want Taxpayers to Cover $1B for ...",
+      "url": "https://www.military.com/1b-security-fight-grows-over-trump-white-house-ballroom",
+      "domain": "military.com",
+      "published": "2026-05-05",
+      "publishedAsGiven": "May 5, 2026",
+      "snippet": "Senate Republicans are pushing a $1 billion White House security plan after a recent assassination attempt on President Donald Trump at the ..."
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Are Republicans seeking $1 billion in taxpayer money to ...",
+      "url": "https://www.facebook.com/wcvb5/posts/are-republicans-seeking-1-billion-in-taxpayer-money-to-pay-for-trumps-white-hous/1524986636324086/",
+      "domain": "facebook.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Are Republicans Seeking $1 Billion in Taxpayer Money to ...",
+      "url": "https://ground.news/article/cnn-just-used-a-hilarious-poll-to-show-just-how-unpopular-trumps-ballroom-isand-were-cackling",
+      "domain": "ground.news",
+      "published": "2026-05-08",
+      "publishedAsGiven": "May 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Are Republicans seeking $1 billion… — Marcy Kaptur",
+      "url": "https://chamberlight.com/articles/wmtw-are-republicans-seeking-1-billion-in-taxpayer-money-to-pay-emu5/marcy-kaptur-ohio-house",
+      "domain": "chamberlight.com",
+      "published": "2026-05-08",
+      "publishedAsGiven": "May 8, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Should taxpayers fund President Trump's ballroom project? ...",
+      "url": "https://www.facebook.com/WJCLNews/posts/should-taxpayers-fund-president-trumps-ballroom-project-lawmakers-are-debating-i/1419774570169852/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "snippet": "How many times did POTUS say it was going to be privately funded. Was he not speaking truthfully then, or have his private donations dried up."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "GOP bill would fund $1B in White House security upgrades ...",
+      "url": "https://www.toledoblade.com/news/nation/2026/05/05/gop-bill-would-fund-1b-in-white-house-security-upgrades-for-trump-s-ballroom/stories/20260505099",
+      "domain": "toledoblade.com",
+      "published": "2026-05-05",
+      "publishedAsGiven": "May 5, 2026",
+      "snippet": "WASHINGTON — Senate Republicans have added $1 billion in White House security upgrades to legislation that would fund immigration ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Boyle Calls for Nonpartisan GAO Investigation into Trump's ...",
+      "url": "http://democrats-budget.house.gov/news/press-releases/boyle-calls-nonpartisan-gao-investigation-trumps-use-taxpayer-funds-ballroom",
+      "domain": "democrats-budget.house.gov",
+      "published": "2026-06-24",
+      "publishedAsGiven": "Jun 24, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 1,
+    "after-said": 7,
+    "maybe-after-said": 5,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:14:50.236Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Republicans propose $1 billion in taxpayer dollars to ...",
+      "url": "https://www.nbcnews.com/politics/white-house/republicans-propose-1-billion-taxpayer-dollars-secure-trump-ballroom-rcna343637",
+      "domain": "nbcnews.com",
+      "snippet": "President Donald Trump portrayed the big new ballroom he's building on White House grounds as a gift to the nation, courtesy of patriotic ...",
+      "published": "2026-05-05",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "NBC News",
+        "page": "https://mediabiasfactcheck.com/nbc-news/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Senate Republicans Want Taxpayers to Cover $1B for ...",
+      "url": "https://www.military.com/1b-security-fight-grows-over-trump-white-house-ballroom",
+      "domain": "military.com",
+      "snippet": "Senate Republicans are pushing a $1 billion White House security plan after a recent assassination attempt on President Donald Trump at the ...",
+      "published": "2026-05-05",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Military.com",
+        "page": "https://mediabiasfactcheck.com/military-com/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Republicans propose $1 billion for Trump ballroom",
+      "url": "https://www.nbcnews.com/video/shorts/republicans-propose-1-billion-for-trump-ballroom-262820933713",
+      "domain": "nbcnews.com",
+      "snippet": "Lead animator shares how 'Wildwood' came to life. 01:27.",
+      "published": "2026-05-05",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "NBC News",
+        "page": "https://mediabiasfactcheck.com/nbc-news/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "GOP bill would fund $1B in White House security upgrades ...",
+      "url": "https://www.toledoblade.com/news/nation/2026/05/05/gop-bill-would-fund-1b-in-white-house-security-upgrades-for-trump-s-ballroom/stories/20260505099",
+      "domain": "toledoblade.com",
+      "snippet": "WASHINGTON — Senate Republicans have added $1 billion in White House security upgrades to legislation that would fund immigration ...",
+      "published": "2026-05-05",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Toledo Blade",
+        "page": "https://mediabiasfactcheck.com/toledo-blade/"
+      },
+      "weight": "full",
+      "n": 4
+    }
+  ]
+}

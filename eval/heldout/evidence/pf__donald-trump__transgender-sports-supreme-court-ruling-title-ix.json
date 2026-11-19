@@ -1,0 +1,293 @@
+{
+  "frozenAt": "2026-10-27T03:16:56.720Z",
+  "refilteredAt": "2026-10-27T03:36:00.684Z",
+  "id": "pf/donald-trump/transgender-sports-supreme-court-ruling-title-ix",
+  "said": "2026-06-30",
+  "queries": {
+    "fact": "The United States Supreme Court just ruled against men playing in women’s sports.",
+    "claim": "The United States Supreme Court just ruled against men playing in women’s sports. Donald Trump"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1362.5562079999363,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1765.857333999942,
+      "results": 8
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Court rules that states can exclude transgender athletes ...",
+      "url": "https://www.scotusblog.com/2026/06/court-rules-that-states-can-exclude-transgender-athletes-from-girls-and-womens-sports-teams/",
+      "domain": "scotusblog.com",
+      "published": "2026-06-30",
+      "publishedAsGiven": "Jun 30, 2026",
+      "snippet": "The Supreme Court on Tuesday ruled that states can exclude transgender athletes from women's and girls' sports teams."
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Supreme Court upholds state bans on transgender girls in ...",
+      "url": "https://abcnews.com/Politics/supreme-court-upholds-state-bans-transgender-girls-girls/story?id=134318829",
+      "domain": "abcnews.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "FAQ: What does the Supreme Court ruling mean ...",
+      "url": "https://www.espn.com/espn/story/_/id/49229623/faq-supreme-court-transgender-athlete-ruling-title-ix-scope-states",
+      "domain": "espn.com",
+      "published": "2026-06-30",
+      "publishedAsGiven": "Jun 30, 2026",
+      "snippet": "The U.S. Supreme Court ruled Tuesday that states can lawfully prevent transgender girls and women from competing in girls' and women's ..."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Supreme Court rules states can bar transgender athletes from ...",
+      "url": "https://www.youtube.com/watch?v=lgC6QfctC3k",
+      "domain": "youtube.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Supreme Court allows state laws regulating transgender ...",
+      "url": "https://constitutioncenter.org/blog/supreme-court-allows-state-laws-regulating-transgender-athletes",
+      "domain": "constitutioncenter.org",
+      "published": "2026-07-01",
+      "publishedAsGiven": "Jul 1, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Supreme Court upholds bans on transgender athletes in ...",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-upholds-state-transgender-sports-bans-rcna261384",
+      "domain": "nbcnews.com",
+      "published": "2026-06-30",
+      "publishedAsGiven": "Jun 30, 2026",
+      "snippet": "Supreme Court on Tuesday upheld state laws that ban transgender athletes from participating in girls' and women's sports."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Supreme Court upholds laws banning trans athletes from ...",
+      "url": "https://www.politico.com/news/2026/06/30/transgender-athletes-supreme-court-ruling-00980446",
+      "domain": "politico.com",
+      "published": "2026-06-30",
+      "publishedAsGiven": "Jun 30, 2026",
+      "snippet": "The Supreme Court has upheld state laws prohibiting transgender athletes from participating in women's and girls sports, dealing a major ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Supreme Court upholds bans on trans athletes in women's sports",
+      "url": "https://www.facebook.com/NewsNationNow/videos/supreme-court-upholds-bans-on-trans-athletes-in-womens-sports/4332289687013250/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "US Supreme Court upholds bans on transgender athletes ...",
+      "url": "https://www.bbc.com/news/articles/cj40x888d9go",
+      "domain": "bbc.com",
+      "published": "2026-06-30",
+      "publishedAsGiven": "Jun 30, 2026",
+      "snippet": "The US Supreme Court has ruled that states can ban transgender women from competing in female school and college sports."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Supreme Court Concludes Oral Arguments in Historic ...",
+      "url": "https://www.aclu.org/press-releases/supreme-court-concludes-oral-arguments-in-historic-transgender-rights-hearing",
+      "domain": "aclu.org",
+      "published": "2026-01-13",
+      "publishedAsGiven": "Jan 13, 2026",
+      "snippet": "Attorneys for the two transgender athletes argued today that the bans violate the rights of transgender and cisgender female students under the ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Supreme Court upholds bans on transgender athletes in ...",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-upholds-state-transgender-sports-bans-rcna261384",
+      "domain": "nbcnews.com",
+      "published": "2026-06-30",
+      "publishedAsGiven": "Jun 30, 2026",
+      "snippet": "Jun 30, 2026 — “BIG WIN: The United States Supreme Court just RULED AGAINST MEN PLAYING IN WOMEN'S SPORTS ,” President Donald Trump , whose administration ... Read more"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Supreme Court upholds laws banning trans athletes from ...",
+      "url": "https://www.politico.com/news/2026/06/30/transgender-athletes-supreme-court-ruling-00980446",
+      "domain": "politico.com",
+      "published": "2026-06-30",
+      "publishedAsGiven": "Jun 30, 2026",
+      "snippet": "Jun 30, 2026 — The Supreme Court has upheld state laws prohibiting transgender athletes from participating in women's and girls sports ,"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "24-43 West Virginia v. B. P. J. (06/30/2026)",
+      "url": "https://www.supremecourt.gov/opinions/25pdf/24-43_2b35.pdf",
+      "domain": "supremecourt.gov",
+      "published": "2026-06-30",
+      "publishedAsGiven": "Jun 30, 2026",
+      "snippet": "Jun 30, 2026 — In 2021, West Virginia enacted the Save Women's Sports Act, which prohibits male students from playing on female teams. 77 pages"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Trump reacts to Supreme Court ruling on trans athletes",
+      "url": "https://www.foxnews.com/outkick-sports/trump-reacts-supreme-court-ruling-trans-athletes",
+      "domain": "foxnews.com",
+      "published": "2026-06-30",
+      "publishedAsGiven": "Jun 30, 2026",
+      "snippet": "Jun 30, 2026 — Trump signed the \"No Men In Women's Sports \" executive order on Feb. 5, 2025, prompting more restrictions on trans athletes and states to abide ... Read more"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "The Supreme Court on Tuesday upheld West Virginia and ...",
+      "url": "https://www.facebook.com/nytimes/posts/the-supreme-court-on-tuesday-upheld-west-virginia-and-idaho-state-laws-that-bar-/1416316023684190/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Supreme Court spurns Trump on birthright citizenship ...",
+      "url": "https://www.reuters.com/legal/government/supreme-court-spurns-trump-birthright-citizenship-allows-transgender-sports-bans-2026-06-30/",
+      "domain": "reuters.com",
+      "published": "2026-06-30",
+      "publishedAsGiven": "Jun 30, 2026",
+      "snippet": "Jun 30, 2026 — Supreme Court spurns Trump on birthright citizenship, allows transgender sports bans · Justices end nine-month term with three major rulings ... Read more"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "US Supreme Court upholds bans on transgender athletes ...",
+      "url": "https://www.bbc.com/news/articles/cj40x888d9go",
+      "domain": "bbc.com",
+      "published": "2026-06-30",
+      "publishedAsGiven": "Jun 30, 2026",
+      "snippet": "Jun 30, 2026 — The US Supreme Court has ruled that states can ban transgender women from competing in female school and college sports . Read more"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Supreme Court Bolsters President Trump's Push to ...",
+      "url": "https://www.whitehouse.gov/releases/2026/06/supreme-court-bolsters-president-trumps-push-to-eliminate-transgender-insanity/",
+      "domain": "whitehouse.gov",
+      "published": "2026-06-30",
+      "publishedAsGiven": "Jun 30, 2026",
+      "snippet": "Jun 30, 2026 — Trump's longstanding commitment to protect women and girls, ruling that states may reserve female athletic competition for biological females. Read more"
+    }
+  ],
+  "returned": 18,
+  "dropped": {
+    "fact-checker": 0,
+    "fact-check-words": 0,
+    "after-said": 1,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:16:53.590Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Court rules that states can exclude transgender athletes ...",
+      "url": "https://www.scotusblog.com/2026/06/court-rules-that-states-can-exclude-transgender-athletes-from-girls-and-womens-sports-teams/",
+      "domain": "scotusblog.com",
+      "snippet": "The Supreme Court on Tuesday ruled that states can exclude transgender athletes from women's and girls' sports teams.",
+      "published": "2026-06-30",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "SCOTUSblog",
+        "page": "https://mediabiasfactcheck.com/scotusblog/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Supreme Court upholds bans on transgender athletes in ...",
+      "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-upholds-state-transgender-sports-bans-rcna261384",
+      "domain": "nbcnews.com",
+      "snippet": "Jun 30, 2026 — “BIG WIN: The United States Supreme Court just RULED AGAINST MEN PLAYING IN WOMEN'S SPORTS ,” President Donald Trump , whose administration ... Read more",
+      "published": "2026-06-30",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "NBC News",
+        "page": "https://mediabiasfactcheck.com/nbc-news/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Supreme Court upholds laws banning trans athletes from ...",
+      "url": "https://www.politico.com/news/2026/06/30/transgender-athletes-supreme-court-ruling-00980446",
+      "domain": "politico.com",
+      "snippet": "The Supreme Court has upheld state laws prohibiting transgender athletes from participating in women's and girls sports, dealing a major ...",
+      "published": "2026-06-30",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Politico",
+        "page": "https://mediabiasfactcheck.com/politico/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "24-43 West Virginia v. B. P. J. (06/30/2026)",
+      "url": "https://www.supremecourt.gov/opinions/25pdf/24-43_2b35.pdf",
+      "domain": "supremecourt.gov",
+      "snippet": "Jun 30, 2026 — In 2021, West Virginia enacted the Save Women's Sports Act, which prohibits male students from playing on female teams. 77 pages",
+      "published": "2026-06-30",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "US Supreme Court upholds bans on transgender athletes ...",
+      "url": "https://www.bbc.com/news/articles/cj40x888d9go",
+      "domain": "bbc.com",
+      "snippet": "The US Supreme Court has ruled that states can ban transgender women from competing in female school and college sports.",
+      "published": "2026-06-30",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "very high",
+        "name": "BBC",
+        "page": "https://mediabiasfactcheck.com/bbc/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

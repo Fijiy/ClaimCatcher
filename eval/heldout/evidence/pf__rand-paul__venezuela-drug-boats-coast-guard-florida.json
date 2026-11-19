@@ -1,0 +1,274 @@
+{
+  "frozenAt": "2026-10-27T03:08:18.268Z",
+  "refilteredAt": "2026-10-27T03:33:48.280Z",
+  "id": "pf/rand-paul/venezuela-drug-boats-coast-guard-florida",
+  "said": "2025-10-19",
+  "queries": {
+    "fact": "About 25% of the time the Coast Guard boards a ship, there are no drugs.",
+    "claim": "About 25% of the time the Coast Guard boards a ship, there are no drugs. Rand Paul"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2247.470083000022,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2293.8574160000426,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "PolitiFact FL: Is Rand Paul right 25% of Coast Guard ...",
+      "url": "https://www.wlrn.org/light/government-politics/2025-10-27/politifact-fl-is-rand-paul-right-25-of-coast-guard-searches-of-suspected-drug-boats-come-up-empty",
+      "domain": "wlrn.org",
+      "published": "2025-10-27",
+      "publishedAsGiven": "Oct 27, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "The Coast Guard Faces Challenges Interdicting Non ...",
+      "url": "https://www.oig.dhs.gov/sites/default/files/assets/2025-02/OIG-25-17-Feb25.pdf",
+      "domain": "oig.dhs.gov",
+      "published": "2025-02-19",
+      "publishedAsGiven": "Feb 19, 2025",
+      "snippet": "The report contains four recommendations aimed at improving the Coast Guard's ability to interdict non-commercial vessels smuggling drugs ..."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Enforcing the Law at Sea — The Rise of Drug Smugglers",
+      "url": "https://www.mycg.uscg.mil/News/Article/4138215/enforcing-the-law-at-sea-the-rise-of-drug-smugglers/",
+      "domain": "mycg.uscg.mil",
+      "published": "2025-03-28",
+      "publishedAsGiven": "Mar 28, 2025",
+      "snippet": "The Coast Guard has been at the forefront of countering the shifting tactics of drug smugglers. ,"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Is Rand Paul right that a quarter of Coast Guard searches ...",
+      "url": "https://politifact.com/factchecks/2025/oct/22/rand-paul/venezuela-drug-boats-coast-guard-florida/",
+      "domain": "politifact.com",
+      "published": "2025-10-22",
+      "publishedAsGiven": "Oct 22, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "LIVE: Coast Guard & Homeland Security Testify On Drug Boat ...",
+      "url": "https://www.youtube.com/watch?v=85L48S0yZeA",
+      "domain": "youtube.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "U.S. Coast Guard Seizes $2.2 Billion in Drugs in 2025 Maritime ...",
+      "url": "https://www.facebook.com/DepartmentofWar/videos/2025-coast-guard-drug-interdiction-roundup/1926904741485029/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "80% of U.S.-bound drug seizures occur at sea versus land. ...",
+      "url": "https://www.facebook.com/UScoastguard/posts/80-of-us-bound-drug-seizures-occur-at-sea-versus-land-thats-the-power-of-maritim/1314161840759346/",
+      "domain": "facebook.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "United States Coast Guard (USCG) - State.gov",
+      "url": "https://2009-2017.state.gov/j/inl/rls/nrcrpt/2015/vol1/238926.htm",
+      "domain": "2009-2017.state.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Do a quarter of Coast Guard drug-boat searches find no ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-do-a-quarter-of-coast-guard-drug-boat-searches-find-no-drugs/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2025-11-05",
+      "publishedAsGiven": "Nov 5, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Can the Coast Guard stop and board boats suspected of ...",
+      "url": "https://www.quora.com/Can-the-Coast-Guard-stop-and-board-boats-suspected-of-carrying-drugs-to-the-US",
+      "domain": "quora.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "PolitiFact FL: Is Rand Paul right 25% of Coast Guard ...",
+      "url": "https://www.wlrn.org/light/government-politics/2025-10-27/politifact-fl-is-rand-paul-right-25-of-coast-guard-searches-of-suspected-drug-boats-come-up-empty",
+      "domain": "wlrn.org",
+      "published": "2025-10-27",
+      "publishedAsGiven": "Oct 27, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Is Rand Paul right that a quarter of Coast Guard searches ...",
+      "url": "https://politifact.com/factchecks/2025/oct/22/rand-paul/venezuela-drug-boats-coast-guard-florida/",
+      "domain": "politifact.com",
+      "published": "2025-10-22",
+      "publishedAsGiven": "Oct 22, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Stopped at Sea: FY26 Drug Interdiction Recap & Op Pacific Viper",
+      "url": "https://www.facebook.com/UScoastguard/videos/stopped-at-sea-fy26-drug-interdiction-recap-op-pacific-viper/2553864818431416/",
+      "domain": "facebook.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Coast Guard achieves historic milestone with offload over ...",
+      "url": "https://www.news.uscg.mil/Press-Releases/article/4285029/coast-guard-achieves-historic-milestone-with-offload-over-76140-lbs-in-illegal/",
+      "domain": "news.uscg.mil",
+      "published": "2025-08-25",
+      "publishedAsGiven": "Aug 25, 2025",
+      "snippet": "USS Minneapolis Saint-Paul's boarding team interdicted the vessel, seizing approximately 6,425 pounds of cocaine. On Aug 18, HNLMS ..."
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "The Coast Guard Faces Challenges Interdicting Non ...",
+      "url": "https://www.oig.dhs.gov/sites/default/files/assets/2025-02/OIG-25-17-Feb25.pdf",
+      "domain": "oig.dhs.gov",
+      "published": "2025-02-19",
+      "publishedAsGiven": "Feb 19, 2025",
+      "snippet": "The Coast. Guard's counterdrug mission aims to reduce the supply of illicit substances in the United States by disrupting the flow of cocaine ..."
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "LIVE: Coast Guard announces largest cocaine offload in U.S. ...",
+      "url": "https://www.youtube.com/watch?v=0qBnBqEY1Sc",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "The U.S. Coast Guard says the crew of USCGC Tampa ...",
+      "url": "https://www.facebook.com/AliBradleyTV/posts/us-coast-guard-seizes-25000-pounds-of-cocaine-the-us-coast-guard-says-the-crew-o/1646472470181858/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Coast Guard offloads over $228 million worth of drugs after sea ...",
+      "url": "https://www.facebook.com/wsbtv/videos/contraband-cargo-coast-guard-offloads-over-228-million-worth-of-drugs-after-sea-/293357665295346/",
+      "domain": "facebook.com",
+      "published": "2020-10-27",
+      "publishedAsGiven": "6 years ago",
+      "snippet": "The U.S. Coast Guard Cutter crew successfully interdicted two drug vessels, seizing 3,500 kg of cocaine and detaining 12 smugglers. The video ..."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Do a quarter of Coast Guard drug-boat searches find no ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-do-a-quarter-of-coast-guard-drug-boat-searches-find-no-drugs/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2025-11-05",
+      "publishedAsGiven": "Nov 5, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "20k+ lbs of cocaine seized in a single interdiction, the largest ...",
+      "url": "https://www.instagram.com/reel/DR5lJuiCT4d/?hl=en",
+      "domain": "instagram.com",
+      "published": "2025-12-27",
+      "publishedAsGiven": "10 months ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 4,
+    "after-said": 5,
+    "maybe-after-said": 3,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:08:13.725Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "The Coast Guard Faces Challenges Interdicting Non ...",
+      "url": "https://www.oig.dhs.gov/sites/default/files/assets/2025-02/OIG-25-17-Feb25.pdf",
+      "domain": "oig.dhs.gov",
+      "snippet": "The report contains four recommendations aimed at improving the Coast Guard's ability to interdict non-commercial vessels smuggling drugs ...",
+      "published": "2025-02-19",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "Coast Guard achieves historic milestone with offload over ...",
+      "url": "https://www.news.uscg.mil/Press-Releases/article/4285029/coast-guard-achieves-historic-milestone-with-offload-over-76140-lbs-in-illegal/",
+      "domain": "news.uscg.mil",
+      "snippet": "USS Minneapolis Saint-Paul's boarding team interdicted the vessel, seizing approximately 6,425 pounds of cocaine. On Aug 18, HNLMS ...",
+      "published": "2025-08-25",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    },
+    {
+      "title": "Enforcing the Law at Sea — The Rise of Drug Smugglers",
+      "url": "https://www.mycg.uscg.mil/News/Article/4138215/enforcing-the-law-at-sea-the-rise-of-drug-smugglers/",
+      "domain": "mycg.uscg.mil",
+      "snippet": "The Coast Guard has been at the forefront of countering the shifting tactics of drug smugglers. ,",
+      "published": "2025-03-28",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    }
+  ]
+}

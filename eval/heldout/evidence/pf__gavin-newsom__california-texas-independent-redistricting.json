@@ -1,0 +1,236 @@
+{
+  "frozenAt": "2026-10-27T03:06:13.362Z",
+  "refilteredAt": "2026-10-27T03:33:20.056Z",
+  "id": "pf/gavin-newsom/california-texas-independent-redistricting",
+  "said": "2025-08-17",
+  "queries": {
+    "fact": "Democrats have voted for national independent redistricting. Republicans have not.",
+    "claim": "Democrats have voted for national independent redistricting. Republicans have not. Gavin Newsom"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1560.3927909999911,
+      "results": 9
+    },
+    {
+      "query": "claim",
+      "ms": 1298.8036250000005,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Fact-check: Newsom says Republicans voted against ...",
+      "url": "https://www.wral.com/archive/22127727/",
+      "domain": "wral.com",
+      "published": "2025-08-22",
+      "publishedAsGiven": "Aug 22, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Republicans voted against independent redistricting in 2021",
+      "url": "https://politifact.com/factchecks/2025/aug/21/gavin-newsom/california-texas-independent-redistricting/",
+      "domain": "politifact.com",
+      "published": "2025-08-21",
+      "publishedAsGiven": "Aug 21, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Redistricting",
+      "url": "https://politifact.com/redistricting/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Let's be clear about who tried to END gerrymandering ❌ In ...",
+      "url": "https://www.facebook.com/christinaloreynews/posts/lets-be-clear-about-who-tried-to-end-gerrymandering-in-2021-democrats-introduced/1505610184719555/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Democrats Regret Creating Independent Redistricting ...",
+      "url": "https://www.nytimes.com/2026/04/30/us/politics/democrats-independent-redistricting-commissions.html",
+      "domain": "nytimes.com",
+      "published": "2026-04-30",
+      "publishedAsGiven": "Apr 30, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Who Controlled Redistricting in Every State",
+      "url": "https://www.brennancenter.org/our-work/research-reports/who-controlled-redistricting-every-state",
+      "domain": "brennancenter.org",
+      "published": "2022-10-05",
+      "publishedAsGiven": "Oct 5, 2022",
+      "snippet": "Oct 5, 2022 — Compared with Republicans , Democrats started the redistricting cycle in a much weaker position, initially holding legislative trifectas in ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Amid GOP's National Gerrymander, Democrats Push to ...",
+      "url": "https://www.democracydocket.com/news-alerts/amid-gops-national-gerrymander-democrats-push-to-require-fair-maps/",
+      "domain": "democracydocket.com",
+      "published": "2025-09-18",
+      "publishedAsGiven": "Sep 18, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Democrats lost their House majority due to Independent ...",
+      "url": "https://www.reddit.com/r/EndFPTP/comments/z87f8y/democrats_lost_their_house_majority_due_to/",
+      "domain": "reddit.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "What's next in the national redistricting fight after California ...",
+      "url": "https://www.pbs.org/newshour/politics/whats-next-in-the-national-redistricting-fight-after-california-approved-a-new-u-s-house-map",
+      "domain": "pbs.org",
+      "published": "2025-11-05",
+      "publishedAsGiven": "Nov 5, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact-check: Newsom says Republicans voted against ...",
+      "url": "https://www.wral.com/archive/22127727/",
+      "domain": "wral.com",
+      "published": "2025-08-22",
+      "publishedAsGiven": "Aug 22, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Republicans voted against independent redistricting in 2021",
+      "url": "https://politifact.com/factchecks/2025/aug/21/gavin-newsom/california-texas-independent-redistricting/",
+      "domain": "politifact.com",
+      "published": "2025-08-21",
+      "publishedAsGiven": "Aug 21, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "The Democrats have redrawn district lines in a bid to flip five ...",
+      "url": "https://www.facebook.com/aljazeera/posts/the-democrats-have-redrawn-district-lines-in-a-bid-to-flip-five-republican-held-/1612127297628285/",
+      "domain": "facebook.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "1 day ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "CA Gov. Gavin Newsom said Republicans didn't vote for ...",
+      "url": "https://www.facebook.com/politifact/posts/ca-gov-gavin-newsom-said-republicans-didnt-vote-for-national-independent-redistr/1211389364355498/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "California Prop 50 ballot measure passes, securing ...",
+      "url": "https://www.nbcnews.com/politics/elections/california-ballot-measure-election-act-redistricting-pass-rcna238907",
+      "domain": "nbcnews.com",
+      "published": "2025-11-04",
+      "publishedAsGiven": "Nov 4, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "California Voters Approve Redistricting to Counter GOP ...",
+      "url": "https://time.com/7331172/california-redistricting-proposition-50-result-newsom/",
+      "domain": "time.com",
+      "published": "2025-11-04",
+      "publishedAsGiven": "Nov 4, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "WATCH: California legislature approves special election on ...",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-california-legislature-meets-as-state-democrats-promise-response-to-texas-gop",
+      "domain": "pbs.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "YES on Prop 50: FAQ",
+      "url": "https://cadem.org/yes-on-proposition-50-faq/",
+      "domain": "cadem.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Proposition 50 passed in California. Here's what you missed",
+      "url": "https://calmatters.org/politics/2025/11/proposition-50-overnight-results/",
+      "domain": "calmatters.org",
+      "published": "2025-11-05",
+      "publishedAsGiven": "Nov 5, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "In Red State Redistricting Wars, Democrats Have Few ...",
+      "url": "https://vcresearch.berkeley.edu/news/red-state-redistricting-wars-democrats-have-few-good-options",
+      "domain": "vcresearch.berkeley.edu",
+      "published": "2025-09-15",
+      "publishedAsGiven": "Sep 15, 2025",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 19,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 3,
+    "after-said": 8,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 4
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:06:08.608Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Who Controlled Redistricting in Every State",
+      "url": "https://www.brennancenter.org/our-work/research-reports/who-controlled-redistricting-every-state",
+      "domain": "brennancenter.org",
+      "snippet": "Oct 5, 2022 — Compared with Republicans , Democrats started the redistricting cycle in a much weaker position, initially holding legislative trifectas in ... Read more",
+      "published": "2022-10-05",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

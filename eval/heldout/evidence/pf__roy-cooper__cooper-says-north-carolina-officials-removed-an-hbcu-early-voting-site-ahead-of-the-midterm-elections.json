@@ -1,0 +1,196 @@
+{
+  "frozenAt": "2026-10-27T03:20:53.899Z",
+  "refilteredAt": "2026-10-27T03:37:00.170Z",
+  "id": "pf/roy-cooper/cooper-says-north-carolina-officials-removed-an-hbcu-early-voting-site-ahead-of-the-midterm-elections",
+  "said": "2026-08-26",
+  "queries": {
+    "fact": "North Carolina officials removed an early-voting site from North Carolina A&T State University.",
+    "claim": "North Carolina officials removed an early-voting site from North Carolina A&T State University. Roy Cooper"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2071.5115410001017,
+      "results": 7
+    },
+    {
+      "query": "claim",
+      "ms": 2961.9249999998137,
+      "results": 9
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Denied a campus early voting site, NC A&T students again ...",
+      "url": "https://ncnewsline.com/2026/10/22/denied-a-campus-early-voting-site-nc-at-students-again-march-to-the-polls/",
+      "domain": "ncnewsline.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "After the State Board of Elections removed their campus ...",
+      "url": "https://www.facebook.com/ancbeo/posts/after-the-state-board-of-elections-removed-their-campus-voting-site-the-aggies-a/1440087124976405/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Did election officials remove early-voting site from North ...",
+      "url": "https://www.wfae.org/text/politics/2026-09-15/did-election-officials-remove-early-voting-site-from-north-carolinas-largest-hbcu",
+      "domain": "wfae.org",
+      "published": "2026-09-15",
+      "publishedAsGiven": "Sep 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Fact-check: Cooper says NC officials 'removed' an HBCU ...",
+      "url": "https://www.wral.com/news/state/fact-check-roy-cooper-nc-election-midterm-hbcu-early-voting-september-11/",
+      "domain": "wral.com",
+      "published": "2026-09-11",
+      "publishedAsGiven": "Sep 11, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Students from North Carolina A&T can be seen marching ...",
+      "url": "https://www.reddit.com/r/NorthCarolina/comments/1x87apm/students_from_north_carolina_at_can_be_seen/",
+      "domain": "reddit.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Greensboro, NC students protest the absence of early ...",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6006791/greensboro-nc-students-protest-the-absence-of-early-voting-sites-on-campus",
+      "domain": "npr.org",
+      "published": "2026-10-18",
+      "publishedAsGiven": "Oct 18, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "North Carolina: Early Voting on Campus",
+      "url": "https://fairelectionscenter.org/advocacy/north-carolina-early-voting-on-campus/",
+      "domain": "fairelectionscenter.org",
+      "published": "2026-09-24",
+      "publishedAsGiven": "Sep 24, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact-check: Cooper says NC officials 'removed' an HBCU ...",
+      "url": "https://www.wral.com/news/state/fact-check-roy-cooper-nc-election-midterm-hbcu-early-voting-september-11/",
+      "domain": "wral.com",
+      "published": "2026-09-11",
+      "publishedAsGiven": "Sep 11, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Did election officials remove early-voting site from North ...",
+      "url": "https://www.wfae.org/text/politics/2026-09-15/did-election-officials-remove-early-voting-site-from-north-carolinas-largest-hbcu",
+      "domain": "wfae.org",
+      "published": "2026-09-15",
+      "publishedAsGiven": "Sep 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "North Carolina U.S. Senate candidate Roy Cooper said ...",
+      "url": "https://www.facebook.com/WRALTV/posts/north-carolina-us-senate-candidate-roy-cooper-said-election-officials-removed-an/1697580245067434/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Cooper says North Carolina officials 'removed' an HBCU ...",
+      "url": "https://politifact.com/factchecks/2026/sep/11/roy-cooper/cooper-says-north-carolina-officials-removed-an-hbcu-early-voting-site-ahead-of-the-midterm-elections/",
+      "domain": "politifact.com",
+      "published": "2026-09-11",
+      "publishedAsGiven": "Sep 11, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Students at North Carolina A&T, the largest HBCU in ...",
+      "url": "https://www.reddit.com/r/NorthCarolina/comments/1xg3fie/students_at_north_carolina_at_the_largest_hbcu_in/",
+      "domain": "reddit.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "9 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "This video gives me all the proud/happy feels. These ...",
+      "url": "https://www.facebook.com/randall4chair/posts/this-video-gives-me-all-the-proudhappy-feels-%EF%B8%8F-these-young-people-realize-what-w/1544286167508283/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Vantage points: The view from where NC county election ...",
+      "url": "https://ncnewsline.com/2026/10/26/vantage-points-the-view-from-where-nc-county-election-directors-sit/",
+      "domain": "ncnewsline.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "6 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "While UNC-Chapel Hill students can vote early at ...",
+      "url": "https://www.instagram.com/p/De1wp5qF7ao/",
+      "domain": "instagram.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Early voting begins with North Carolina students targeted ...",
+      "url": "https://ncvoices.com/early-voting-begins-with-north-carolina-students-targeted-by-republican-suppression-efforts/",
+      "domain": "ncvoices.com",
+      "published": "2026-10-27",
+      "publishedAsGiven": "2 hours ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 16,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 2,
+    "after-said": 11,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:20:48.865Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

@@ -1,0 +1,268 @@
+{
+  "frozenAt": "2026-10-27T03:07:56.349Z",
+  "refilteredAt": "2026-10-27T03:33:43.275Z",
+  "id": "pf/darren-soto/florida-aca-cost-increase-uninsured-highest",
+  "said": "2025-10-13",
+  "queries": {
+    "fact": "Florida will be the hardest hit state in the country if enhanced Affordable Care Act subsidies expire.",
+    "claim": "Florida will be the hardest hit state in the country if enhanced Affordable Care Act subsidies expire. Darren Soto"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 3615.801458000031,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2686.2356250000303,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Fact-check: Florida's insurance hikes and uninsured rates ...",
+      "url": "https://www.nbcmiami.com/news/politics/politifact/florida-aca-credits-health-care-government-shutdown/3710336/",
+      "domain": "nbcmiami.com",
+      "published": "2025-10-22",
+      "publishedAsGiven": "Oct 22, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Floridians losing health coverage due to expired ACA tax ...",
+      "url": "https://www.facebook.com/USRepKathyCastor/posts/floridians-are-losing-health-coverage-faster-than-anyone-else-in-the-country-tha/1598617584975507/",
+      "domain": "facebook.com",
+      "published": "... Florida",
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Why Florida is ground zero for coming ObamaCare storm",
+      "url": "https://thehill.com/policy/healthcare/5640956-rising-healthcare-costs-florida-obamacare-subsidies/",
+      "domain": "thehill.com",
+      "published": "2025-12-15",
+      "publishedAsGiven": "Dec 15, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "FAQs About Expiration of Enhanced Subsidies Under ...",
+      "url": "https://www.ajmc.com/view/faqs-about-expiration-of-enhanced-subsidies-under-the-affordable-care-act",
+      "domain": "ajmc.com",
+      "published": "2026-04-16",
+      "publishedAsGiven": "Apr 16, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "About 440000 Floridians dropped their ACA plans this year ...",
+      "url": "https://www.facebook.com/WJXT4TheLocalStation/posts/about-440000-floridians-dropped-their-aca-plans-this-year-the-largest-decline-am/1494495716038179/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Florida Healthcare Struggles After ACA Subsidies Expire ...",
+      "url": "https://www.facebook.com/APNews/videos/after-republicans-in-congress-let-enhanced-federal-subsidies-for-affordable-care/848355181696239/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Inflation Reduction Act Health Insurance Subsidies: What is ...",
+      "url": "https://www.kff.org/affordable-care-act/inflation-reduction-act-health-insurance-subsidies-what-is-their-impact-and-what-would-happen-if-they-expire/",
+      "domain": "kff.org",
+      "published": "2024-07-26",
+      "publishedAsGiven": "Jul 26, 2024",
+      "snippet": "If the enhanced subsidies expire, almost all ACA Marketplace enrollees will experience steep increases in premium payments in 2026."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Stay covered with Marketplace insurance",
+      "url": "https://www.floridablue.com/health-insurance-education/aca-marketplace-changes",
+      "domain": "floridablue.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Affordable Care Act beneficiaries could pay more next year",
+      "url": "https://www.youtube.com/watch?v=n99VZ7dz2cA",
+      "domain": "youtube.com",
+      "published": "2025-12-27",
+      "publishedAsGiven": "10 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Florida is one of 'hardest hit' states if ACA credits expire",
+      "url": "https://politifact.com/factchecks/2025/oct/20/darren-soto/florida-aca-cost-increase-uninsured-highest/",
+      "domain": "politifact.com",
+      "published": "2025-10-20",
+      "publishedAsGiven": "Oct 20, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Enhanced ACA subsidies in Florida; Trump vs Colombia's ...",
+      "url": "https://mynews13.com/fl/orlando/political-connections/2025/10/20/enhanced-aca-subsidies-in-florida--trump-vs-colombia-s-petro",
+      "domain": "mynews13.com",
+      "published": "2025-10-20",
+      "publishedAsGiven": "Oct 20, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Florida is one of 'hardest hit' states if ACA credits expire",
+      "url": "https://politifact.com/factchecks/2025/oct/20/darren-soto/florida-aca-cost-increase-uninsured-highest/",
+      "domain": "politifact.com",
+      "published": "2025-10-20",
+      "publishedAsGiven": "Oct 20, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "We had an informative discussion with our Healthcare ...",
+      "url": "https://www.facebook.com/RepDarrenSoto/posts/we-had-an-informative-discussion-with-our-healthcare-advisory-board-about-the-se/1483842893112822/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Commentary: Florida hit hardest by Obamacare cuts",
+      "url": "https://www.orlandosentinel.com/2025/10/12/commentary-florida-hit-hardest-by-obamacare-cuts-rep-darren-soto/",
+      "domain": "orlandosentinel.com",
+      "published": "2025-10-12",
+      "publishedAsGiven": "Oct 12, 2025",
+      "snippet": "Florida will be hit the hardest in the nation by upcoming cuts to Affordable Care Act (ACA) plans, also known as Obamacare, on Nov. 1."
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Florida, hard-hit by Obamacare drop-off, feels the squeeze ...",
+      "url": "https://floridapolitics.com/archives/816739-florida-hard-hit-by-obamacare-drop-off-feels-the-squeeze-of-rising-healthcare-costs/",
+      "domain": "floridapolitics.com",
+      "published": "2026-08-25",
+      "publishedAsGiven": "Aug 25, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Soto Leads Florida Democrats in Urging Speaker Johnson to ...",
+      "url": "https://soto.house.gov/media/press-releases/soto-leads-florida-democrats-urging-speaker-johnson-reinstate-affordable-care",
+      "domain": "soto.house.gov",
+      "published": "2026-09-16",
+      "publishedAsGiven": "Sep 16, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Post",
+      "url": "https://x.com/RepDarrenSoto/status/1977730969323864310",
+      "domain": "x.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Over 4.6 million Floridians rely on Obamacare—including 275k ...",
+      "url": "https://www.facebook.com/RepDarrenSoto/posts/over-46-million-floridians-rely-on-obamacareincluding-275k-in-fl9-we-will-face-7/1359265762237203/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Florida has been hardest hit by ACA cuts. Over ...",
+      "url": "https://www.facebook.com/DarrenSotoFlorida/posts/florida-has-been-hardest-hit-by-aca-cuts-over-150000-of-our-constituents-have-lo/1434753241802223/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Healthcare - Congressman Darren Soto - House.gov",
+      "url": "http://soto.house.gov/issues/health",
+      "domain": "soto.house.gov",
+      "published": null,
+      "dropped": "undated"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 1,
+    "after-said": 10,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 3
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:07:50.047Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Inflation Reduction Act Health Insurance Subsidies: What is ...",
+      "url": "https://www.kff.org/affordable-care-act/inflation-reduction-act-health-insurance-subsidies-what-is-their-impact-and-what-would-happen-if-they-expire/",
+      "domain": "kff.org",
+      "snippet": "If the enhanced subsidies expire, almost all ACA Marketplace enrollees will experience steep increases in premium payments in 2026.",
+      "published": "2024-07-26",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Kaiser Family Foundation",
+        "page": "https://mediabiasfactcheck.com/kaiser-family-foundation/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Commentary: Florida hit hardest by Obamacare cuts",
+      "url": "https://www.orlandosentinel.com/2025/10/12/commentary-florida-hit-hardest-by-obamacare-cuts-rep-darren-soto/",
+      "domain": "orlandosentinel.com",
+      "snippet": "Florida will be hit the hardest in the nation by upcoming cuts to Affordable Care Act (ACA) plans, also known as Obamacare, on Nov. 1.",
+      "published": "2025-10-12",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Orlando Sentinel",
+        "page": "https://mediabiasfactcheck.com/orlando-sentinel/"
+      },
+      "weight": "full",
+      "n": 2
+    }
+  ]
+}

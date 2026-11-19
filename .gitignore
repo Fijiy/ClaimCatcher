@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+
+# Build output (WXT)
+.output/
+.wxt/
+stats.html
+*.zip
+
+# Test output (Playwright, Vitest)
+test-results/
+playwright-report/
+blob-report/
+coverage/
+
+# Downloaded or exported on-device models: fetched or built by script, never committed
+public/models/
+build/
+*.onnx
+
+# Clip media for the quality gates and any downloaded audio/video
+eval/media/
+*.mp4
+*.webm
+*.mkv
+*.m4a
+*.mp3
+*.wav
+*.opus
+*.ogg
+
+# Local tooling and OS files
+.claude/worktrees/
+.env
+.env.*
+.DS_Store
+*.log
+
+# MBFC ratings snapshot: fetched by scripts/mbfc-snapshot.ts at install/build time, never committed
+src/session/sources/mbfc-snapshot.json
+
+# The model export venv (scripts/models.ts)
+.cache/
+
+# API keys for the quality gates' cloud run: keep them outside the repo; these catch strays
+*.key
+venice-key*

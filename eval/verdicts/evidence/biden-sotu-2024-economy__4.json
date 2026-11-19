@@ -1,0 +1,116 @@
+{
+  "case_id": "biden-sotu-2024-economy#4",
+  "queries": {
+    "A": "800,000 new manufacturing jobs in America and counting. Biden",
+    "B": "US manufacturing jobs added since January 2021 BLS"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 3,
+      "title": "Biden repeats misleading jobs claim in State of the Union address",
+      "url": "https://www.foxnews.com/politics/biden-repeats-misleading-jobs-claim-state-union-address",
+      "domain": "foxnews.com",
+      "published": "2023-02-07",
+      "snippet": "Biden later again added that he had \"created 800,000 manufacturing jobs\" even before the bipartisan CHIPS and Science Act, legislation the White House has said will create thousands more manufacturing jobs, was enacted last year.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 4,
+      "title": "South, Mountain West see manufacturing boom under Biden",
+      "url": "https://www.axios.com/2023/07/23/south-mountain-west-manufacturing-boom-biden",
+      "domain": "axios.com",
+      "published": "2023-07-23",
+      "snippet": "Why it matters: The U.S. economy has added some 800,000 manufacturing jobs nationwide, a figure Biden hopes will boost his claim to have delivered on his promise to be a president — and create jobs — for all Americans.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 5,
+      "title": "Harris claims Trump lost manufacturing jobs. Is that true? Here's a fact check.",
+      "url": "https://www.cbsnews.com/amp/news/manufacturing-jobs-trump-harris-fact-check",
+      "domain": "cbsnews.com",
+      "published": "2024-10-21",
+      "snippet": "Specifically, Harris says that during the Trump administration, the U.S. lost almost 200,000 manufacturing jobs — and that almost 800,000 \"new\" manufacturing jobs have been added since President Biden took office.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 6,
+      "title": "Fact-Checking 4 Biden Claims About Economy and Manufacturing - The Daily Signal",
+      "url": "https://www.dailysignal.com/2023/04/03/fact-checking-4-biden-claims-about-economy-and-manufacturing/",
+      "domain": "dailysignal.com",
+      "published": "2023-04-03",
+      "snippet": "“Here’s what it looks like across the country, a record 12,400,000 brand new jobs, including 800,000 manufacturing jobs just since we came to office,” Biden told the Minnesota crowd. “That’s more jobs in two years than any president has created in four years.”",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 1,
+      "title": "States with the most manufacturing jobs added since January 2021",
+      "url": "https://datawrapper.dwcdn.net/Hh57n/1",
+      "domain": "datawrapper.dwcdn.net",
+      "published": null,
+      "snippet": "States with the most manufacturing jobs added since January 2021",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 5,
+      "title": "Manufacturing Nets Nominal Job Gains While Overall Economy Adds 467,000",
+      "url": "https://www.industryweek.com/talent/article/21216039/manufacturing-nets-nominal-job-gains-while-overall-economy-adds-467000",
+      "domain": "industryweek.com",
+      "published": "2022-02-04",
+      "snippet": "At the same time, jobs growth in industry slowed to a crawl: Preliminary labor data for January indicated that the manufacturing industry added only 13,000 new jobs last month, less than half the amount it gained in December.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 6,
+      "title": "Manufacturing Adds 13,000 Jobs in January",
+      "url": "https://www.sme.org/technologies/articles/2022/february/manufacturing-adds-13000-jobs-in-january/",
+      "domain": "sme.org",
+      "published": "2022-02-04",
+      "snippet": "The January figure also compares with 12.184 million in January 2021.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 7,
+      "title": "Manufacturing Job Losses by Sector (February 2021) - IndustrySelect®",
+      "url": "https://www.industryselect.com/blog/manufacturing-job-losses-by-sector-february-2021",
+      "domain": "industryselect.com",
+      "published": "2021-03-05",
+      "snippet": "Interestingly, durable goods manufacturing lost 17,000 jobs in January, while non-durable goods, which includes things like machinery, electronics and automobiles, added 7,000 job in January. This means that the non-durable goods sector, which includes industries such as food, textiles and paper manufacturing, has accounted for all manufacturing job gains so far in 2021.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://www.politifact.com/factchecks/2023/dec/13/joe-biden/fact-checking-joe-biden-on-manufacturing-jobs/",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "A",
+      "url": "https://business.mammothtimes.com/mammothtimes/news/read/43141801/biden_touts_manufacturing_jobs",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "B",
+      "url": "https://www.aol.com/fact-checking-joe-biden-creation-110807617.html",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "B",
+      "url": "https://www.mdm.com/article/featured/featured-blog/job-creation-soars-as-key-construction-and-manufacturing-indicators-rise/",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch -- URL redirects to a site homepage; article text not retrievable"
+    },
+    {
+      "q": "B",
+      "url": "https://factually.co/fact-checks/business/manufacturing-jobs-added-during-biden-presidency-c6b411",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    }
+  ]
+}

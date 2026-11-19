@@ -1,0 +1,413 @@
+{
+  "frozenAt": "2026-10-27T03:09:07.973Z",
+  "refilteredAt": "2026-10-27T03:34:02.641Z",
+  "id": "pf/josh-riley/investor-owned-single-family-homes-us",
+  "said": "2026-01-08",
+  "queries": {
+    "fact": "Nearly 27% of all homes sold in the first quarter of 2025 were bought by investors.",
+    "claim": "Nearly 27% of all homes sold in the first quarter of 2025 were bought by investors. Josh Riley"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2145.4275829999824,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2912.887624999974,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 100.42929100000765,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Investors make up highest share of buyers in 5 years",
+      "url": "https://www.cnbc.com/2025/10/07/home-sales-investors-make-up-highest-share-of-buyers-in-5-years.html",
+      "domain": "cnbc.com",
+      "published": "2025-10-07",
+      "publishedAsGiven": "Oct 7, 2025",
+      "snippet": "Investors accounted for 25.7% of residential home sales in 2024. While the share of sales is higher, the raw numbers are lower. Investors in the ..."
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Nearly 27% of all homes sold in the first three months ...",
+      "url": "https://www.facebook.com/2onyourside/posts/nearly-27-of-all-homes-sold-in-the-first-three-months-of-the-year-were-bought-by/1164597199039443/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "snippet": "Nearly 27% of all homes sold in the first three months of the year were bought by investors. Investors snap up growing share of US homes as ..."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "The first quarter of the year showed 27% of home ...",
+      "url": "https://www.facebook.com/ABC30/posts/the-first-quarter-of-the-year-showed-27-of-home-purchases-were-made-by-real-esta/1179370780887543/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "snippet": "Investors bought 18.7% of homes sold in the first quarter ... By comparison, investors were buying nearly 100,000 homes per quarter during the ..."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Real Estate Investor Activity 2025: Nationwide Market Trends",
+      "url": "https://batchdata.io/blog/real-estate-investor-activity-nationwide",
+      "domain": "batchdata.io",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Investors buying 27% of homes in Q1 2025, study shows",
+      "url": "https://www.reddit.com/r/realestateinvesting/comments/1luokfr/investors_buying_27_of_homes_in_q1_2025_study/",
+      "domain": "reddit.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "snippet": "In Q1 2025, investors bought 27% of all U.S. home sales—highest in at least five years, with 265,000 homes purchased by investors."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Investors snap up 27% of U.S. homes as buyers retreat",
+      "url": "https://virginiabusiness.com/real-estate-investors-home-sales-2025/",
+      "domain": "virginiabusiness.com",
+      "published": "2025-07-08",
+      "publishedAsGiven": "Jul 8, 2025",
+      "snippet": "Investors bought 27% of homes in Q1 2025, highest since 2019; Traditional buyers deterred by high prices and interest rates; Most investor ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "\"27% of homes sold in the first 3 months of 2025 were ...",
+      "url": "https://www.wegetaroundnetwork.com/topic/21009/27-of-homes-sold-in-the-first-3-months-of-2025-were-bought-by-investors/",
+      "domain": "wegetaroundnetwork.com",
+      "published": "2025-07-08",
+      "publishedAsGiven": "Jul 8, 2025",
+      "snippet": "27% of homes sold in Q1 2025 were bought by investors → Highest investor share in at least five years, showing a shift in market dynamics. 's ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Large Investors Sell More Houses While Buying Less",
+      "url": "https://nationalmortgageprofessional.com/news/large-investors-sell-more-houses-while-buying-less",
+      "domain": "nationalmortgageprofessional.com",
+      "published": "2026-03-31",
+      "publishedAsGiven": "Mar 31, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Investors Buy Nearly One-Third of Homes Across US",
+      "url": "https://www.cotality.com/press-releases/investors-buy-nearly-one-third-of-homes-across-us",
+      "domain": "cotality.com",
+      "published": "2025-08-28",
+      "publishedAsGiven": "Aug 28, 2025",
+      "snippet": "Investor purchase levels will likely remain steady through the end of 2025. This year, investors bought around 85,000 homes per month, which is ..."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "The Shrinking Institutional Investor Footprint",
+      "url": "https://www.realtor.com/research/corporate-investors-march-2026/",
+      "domain": "realtor.com",
+      "published": "2026-03-13",
+      "publishedAsGiven": "Mar 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Riley Introduces Bipartisan Bill to Stop Wall Street from Buying ...",
+      "url": "https://riley.house.gov/2026/01/08/riley-introduces-bipartisan-bill-to-stop-wall-street-from-buying-up-affordable-housing/",
+      "domain": "riley.house.gov",
+      "published": null,
+      "snippet": "Nearly 27% of all homes sold in the first quarter of 2025 were bought by investors, and Wall Street institutions are predicted to own as many ..."
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact check: Are investors buying more than a quarter of U.S. ...",
+      "url": "https://finance.yahoo.com/news/fact-check-investors-buying-more-100000700.html",
+      "domain": "finance.yahoo.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "How many U.S. single-family homes are investors buying?",
+      "url": "https://www.houstonchronicle.com/politics/texas/politifact/article/wall-street-home-investors-21959780.php",
+      "domain": "houstonchronicle.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Are investors buying more than a quarter of US homes?",
+      "url": "https://politifact.com/factchecks/2026/feb/25/josh-riley/investor-owned-single-family-homes-us/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Houston Chronicle on X: \"Rep. Josh Riley, D-N.Y. wrote that ...",
+      "url": "https://x.com/HoustonChron/status/2031071591791042956",
+      "domain": "x.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "The Truth Behind Investor Home Purchases in the U.S. | EverResi",
+      "url": "https://www.everresi.com/blog/the-truth-behind-investor-home-purchases-in-the-u.s",
+      "domain": "everresi.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Riley bill aims to stop Wall Street from buying affordable housing",
+      "url": "https://607newsnow.com/news/258852-riley-bill-aims-to-stop-wall-street-from-buying-affordable-housing/",
+      "domain": "607newsnow.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "and-his-plan-to-deal-with-housing-crisis or visit The Columbia ...",
+      "url": "https://www.facebook.com/thecolumbiapaper/posts/%F0%9D%97%A6%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%98%80%F0%9D%98%82%F0%9D%97%BD%F0%9D%97%BD%F0%9D%97%BC%F0%9D%97%BF%F0%9D%98%81%F0%9D%98%80-%F0%9D%97%A5%F0%9D%97%B6%F0%9D%97%B9%F0%9D%97%B2%F0%9D%98%86-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%B5%F0%9D%97%B6%F0%9D%98%80-%F0%9D%97%BD%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%98%81%F0%9D%97%BC-%F0%9D%97%B1%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%98%84%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B5-%F0%9D%97%B5%F0%9D%97%BC%F0%9D%98%82%F0%9D%98%80%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%B0%F0%9D%97%BF%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%B6%F0%9D%98%80affordable-housing-is/1743188764478596/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Housing - PolitiFact",
+      "url": "https://politifact.com/housing/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Are investors buying more than a quarter of US homes?",
+      "url": "https://dk.headtopics.com/news/are-investors-buying-more-than-a-quarter-of-us-homes-80299737",
+      "domain": "dk.headtopics.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Not just Wall Street. Corporations own 9% of residential ...",
+      "url": "https://www.usatoday.com/story/money/personalfinance/real-estate/2025/11/25/corporate-landlords-own-tenth-of-residential-land/87462427007/",
+      "domain": "usatoday.com",
+      "published": "2025-11-25",
+      "publishedAsGiven": "Nov 25, 2025",
+      "snippet": "investors made nearly one-third of the country's single-family home purchases in the first half of 2025 ‒ buying roughly 85,000 properties a ..."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "US existing home sales rise in September",
+      "url": "https://www.reuters.com/business/us-existing-home-sales-rise-september-higher-mortgage-rates-dim-outlook-2026-10-13/",
+      "domain": "reuters.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "Oct 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Microsoft's massive AI spending draws investor concerns ...",
+      "url": "https://www.reuters.com/business/microsofts-cloud-surge-lifts-revenue-above-expectations-2025-10-29/",
+      "domain": "reuters.com",
+      "published": "2025-10-29",
+      "publishedAsGiven": "Oct 29, 2025",
+      "snippet": "Microsoft's AI infrastructure spending to meet growing cloud services demand is outpacing Wall Street expectations, deepening investor fears ..."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Valuing AI: Extreme Bubble, New Golden Era, or Both",
+      "url": "https://trk.wsj.com/click/43920879.97682/aHR0cHM6Ly93d3cuZ21vLmNvbS9hbWVyaWNhcy9yZXNlYXJjaC1saWJyYXJ5L3ZhbHVpbmctYWktZXh0cmVtZS1idWJibGUtbmV3LWdvbGRlbi1lcmEtb3ItYm90aF92aWV3cG9pbnRzLz9tb2Q9ZGplbU1hcmtldHNBTQ/67364c72111e4b664c191a41C452e2228",
+      "domain": "trk.wsj.com",
+      "published": "2026-01-13",
+      "publishedAsGiven": "Jan 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Poland's Bank Pekao posts 27% drop in Q1 profit, but ...",
+      "url": "https://www.reuters.com/business/finance/polands-bank-pekao-posts-27-drop-first-quarter-profit-2026-04-30/",
+      "domain": "reuters.com",
+      "published": "2026-04-29",
+      "publishedAsGiven": "Apr 29, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "Builders' Cheap Mortgages Are a Bad Deal for Home Buyers",
+      "url": "https://www.wsj.com/economy/housing/builders-cheap-mortgages-are-a-bad-deal-for-home-buyers-e01bed75",
+      "domain": "wsj.com",
+      "published": "2025-11-13",
+      "publishedAsGiven": "Nov 13, 2025",
+      "snippet": "Between 2019 and 2024, prices for new homes bought from large builders, who as a group are more likely to use buydowns, increased 6% more ..."
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Blue Owl turmoil adds to strain in $2 trillion US private ...",
+      "url": "https://www.reuters.com/business/finance/blue-owl-turmoil-adds-strain-2-trillion-us-private-credit-sector-2026-02-27/",
+      "domain": "reuters.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "Feb 27, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Meme stocks pare gains as highly shorted Krispy Kreme ...",
+      "url": "https://www.reuters.com/business/retail-consumer/meme-stocks-pare-gains-highly-shorted-krispy-kreme-gopro-join-frenzy-2025-07-23/",
+      "domain": "reuters.com",
+      "published": "2025-07-23",
+      "publishedAsGiven": "Jul 23, 2025",
+      "snippet": "A short squeeze occurs when investors who had sold borrowed shares in the hopes of making money from a share price decline are forced to buy ..."
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "Loeb's Third Point plans to take aim at CoStar in new ...",
+      "url": "https://www.reuters.com/legal/transactional/loebs-third-point-plans-take-aim-costar-new-activist-campaign-sources-say-2026-01-27/",
+      "domain": "reuters.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "Jan 27, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "Southwest Airlines cuts profit forecast as fuel costs ...",
+      "url": "https://www.reuters.com/business/southwest-airlines-cuts-2026-profit-forecast-fuel-costs-spike-2026-10-21/",
+      "domain": "reuters.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 2,
+    "after-said": 8,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 6
+  },
+  "linkDatedKept": 1,
+  "searchedAt": "2026-10-27T03:09:01.957Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Investors make up highest share of buyers in 5 years",
+      "url": "https://www.cnbc.com/2025/10/07/home-sales-investors-make-up-highest-share-of-buyers-in-5-years.html",
+      "domain": "cnbc.com",
+      "snippet": "Investors accounted for 25.7% of residential home sales in 2024. While the share of sales is higher, the raw numbers are lower. Investors in the ...",
+      "published": "2025-10-07",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "CNBC",
+        "page": "https://mediabiasfactcheck.com/cnbc/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Not just Wall Street. Corporations own 9% of residential ...",
+      "url": "https://www.usatoday.com/story/money/personalfinance/real-estate/2025/11/25/corporate-landlords-own-tenth-of-residential-land/87462427007/",
+      "domain": "usatoday.com",
+      "snippet": "investors made nearly one-third of the country's single-family home purchases in the first half of 2025 ‒ buying roughly 85,000 properties a ...",
+      "published": "2025-11-25",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "USA Today",
+        "page": "https://mediabiasfactcheck.com/usa-today-2/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Microsoft's massive AI spending draws investor concerns ...",
+      "url": "https://www.reuters.com/business/microsofts-cloud-surge-lifts-revenue-above-expectations-2025-10-29/",
+      "domain": "reuters.com",
+      "snippet": "Microsoft's AI infrastructure spending to meet growing cloud services demand is outpacing Wall Street expectations, deepening investor fears ...",
+      "published": "2025-10-29",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Builders' Cheap Mortgages Are a Bad Deal for Home Buyers",
+      "url": "https://www.wsj.com/economy/housing/builders-cheap-mortgages-are-a-bad-deal-for-home-buyers-e01bed75",
+      "domain": "wsj.com",
+      "snippet": "Between 2019 and 2024, prices for new homes bought from large builders, who as a group are more likely to use buydowns, increased 6% more ...",
+      "published": "2025-11-13",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Wall Street Journal",
+        "page": "https://mediabiasfactcheck.com/wall-street-journal/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Meme stocks pare gains as highly shorted Krispy Kreme ...",
+      "url": "https://www.reuters.com/business/retail-consumer/meme-stocks-pare-gains-highly-shorted-krispy-kreme-gopro-join-frenzy-2025-07-23/",
+      "domain": "reuters.com",
+      "snippet": "A short squeeze occurs when investors who had sold borrowed shares in the hopes of making money from a share price decline are forced to buy ...",
+      "published": "2025-07-23",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

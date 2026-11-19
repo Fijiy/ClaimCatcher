@@ -1,0 +1,106 @@
+{
+  "case_id": "biden-sotu-2024-economy#8",
+  "queries": {
+    "A": "Inflation has dropped from 9 percent to 3 percent – the lowest in the world! Biden",
+    "B": "US inflation rate compared with other advanced economies January 2024"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 9,
+      "title": "Economic data doesn’t match Biden’s laughable claims - R Street Institute",
+      "url": "https://www.rstreet.org/commentary/economic-data-doesnt-match-bidens-laughable-claims/",
+      "domain": "rstreet.org",
+      "published": "2023-09-25",
+      "snippet": "In a video, the Biden administration claimed , “Here Are the Facts. Under the Biden Harris Administration Inflation Has Fallen.” That’s not all. In a recent speech, President Joe Biden recently announced , “While we have more to do, inflation is down by two-thirds. Inflation is now down close to 3%, the lowest among the world’s leading economies.” With PR spin like this, you’d expect to find Biden unfurling a mission accomplished banner in the Oval Office, but he ought to be more discerning.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 1,
+      "title": "2024 Economic Review Global Economy",
+      "url": "https://unitedcapitalplcgroup.com/outlook_report/2024_Economic_Review_Global_Economy.pdf",
+      "domain": "unitedcapitalplcgroup.com",
+      "published": "2025-01-06",
+      "snippet": "The US Fed began the new phase of interest rate cut in Sept-2024 with a bold move, trimming its benchmark rate by 50bps US Fed Funds Interest Rate (Midpoint of Range, %) UNITED STATES: GOVERNMENT EXPENDITURE TICKED UPWARD 2024 Economic Review and 2025 0utlook Source: Bloomberg, United Capital Research 13 In FY 2024, US Federal Government spending has totalled $6.75tn. This represents a $617.0 bn increase compared to FY 2023. This spending has gone to Social Security, Healthcare, Net Interest, Medicare, National Defence and others. It represents 23.0% of GDP.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "Fact check: Biden says 'inflation is higher' in other developed nations",
+      "url": "https://www.wral.com/amp/20353830/",
+      "domain": "wral.com",
+      "published": "2022-06-29",
+      "snippet": "Do other advanced economies have higher inflation than the United States?",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "Disinflation Progress: A Comparison of Advanced Economies, Accessible Data",
+      "url": "https://www.federalreserve.gov/econres/notes/feds-notes/disinflation-progress-a-comparison-of-advanced-economies-accessible-20240802.htm",
+      "domain": "federalreserve.gov",
+      "published": null,
+      "snippet": "Note: Inflation rates are annualized. Data are the PCE for the U.S. and CPI for foreign economies. Data extend through May for the U.S. and June for all other economies.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 4,
+      "title": "Is the Inflation Process in Advanced Economies Different After the Pandemic? Accessible Data",
+      "url": "https://www.federalreserve.gov/econres/notes/feds-notes/is-the-inflation-process-in-advanced-economies-different-after-the-pandemic-accessible-20260330.htm",
+      "domain": "federalreserve.gov",
+      "published": null,
+      "snippet": "Note: The model estimates 12-month headline inflation by fitting the inflation rate onto the headline CPI DI using data from 2000 to 2019. Residuals from 2020 onwards are out-of-sample predictions. Out-of-sample predictions extend through January 2026 for all countries. Missing U.S. CPI data for October 2025 were estimated through linear interpolation.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://checkyourfact.com/2024/03/08/fact-checking-joe-bidens-2024-state-of-the-union-address",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.cfpublic.org/politics/2024-03-08/politifact-florida-joe-biden-on-inflation-sotu-2024",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://politifact.com/?p=314256",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "A",
+      "url": "https://www.wlrn.org/government-politics/2024-03-08/politifact-florida-joe-biden-on-inflation-sotu-2024",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://wcnc.com/article/news/verify/verifying-claims-from-president-bidens-2024-state-of-the-union-address-republican-rebuttal/536-f3bb25fd-04e9-465a-bf10-59bac88ba744",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://politifact.com/article/2024/mar/08/fact-checking-joe-biden-on-inflation-the-deficit-a/",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "A",
+      "url": "https://api.politifact.com/article/2024/mar/08/fact-checking-joe-biden-on-inflation-the-deficit-a",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "A",
+      "url": "https://www.aol.com/state-union-fact-check-president-055853069.html",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://rstreet.org/?p=69177",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "frozenAt": "2026-10-27T03:11:41.101Z",
+  "refilteredAt": "2026-10-27T03:34:39.974Z",
+  "id": "pf/elizabeth-warren/trump-military-strikes-iran-venezuela",
+  "said": "2026-03-03",
+  "queries": {
+    "fact": "In the modern era, no American president has ordered more military strikes against as many different countries as Donald Trump.",
+    "claim": "In the modern era, no American president has ordered more military strikes against as many different countries as Donald Trump. Elizabeth Warren"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2851.555000000051,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2579.11704199994,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 135.43020899998373,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Fact-check: Warren says Trump has bombed more ...",
+      "url": "https://www.wral.com/news/state/warren-trump-military-strike-countries-fact-check-april-10/",
+      "domain": "wral.com",
+      "published": "2026-04-10",
+      "publishedAsGiven": "Apr 10, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Trump campaign peace promises loom large over Iran war",
+      "url": "https://www.axios.com/2026/03/02/trump-iran-war-military-strikes-maga",
+      "domain": "axios.com",
+      "published": "2026-03-02",
+      "publishedAsGiven": "Mar 2, 2026",
+      "snippet": "No president in the modern era has ordered more military strikes against as many different countries as Donald Trump."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Fact-check: Warren says Trump has bombed more countries ...",
+      "url": "https://www.youtube.com/watch?v=Gvzb_g7CsDo",
+      "domain": "youtube.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Has Donald Trump ordered more military strikes than any ...",
+      "url": "https://politifact.com/factchecks/2026/mar/20/elizabeth-warren/trump-military-strikes-iran-venezuela/",
+      "domain": "politifact.com",
+      "published": "2026-03-20",
+      "publishedAsGiven": "Mar 20, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "In the modern era, no American president has ordered ...",
+      "url": "https://www.facebook.com/ElizabethWarren/posts/in-the-modern-era-no-american-president-has-ordered-more-military-strikes-agains/1476845327143294/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Fact-check: Warren says Trump has bombed more countries ...",
+      "url": "https://www.wral.com/archive/22346431/",
+      "domain": "wral.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Donald Trump ran on a platform of no more wars. But ...",
+      "url": "https://x.com/SenWarren/status/2028841870055309754",
+      "domain": "x.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Trump launched more military strikes on other countries ...",
+      "url": "https://unn.ua/en/news/trump-launched-more-military-strikes-on-other-countries-than-any-us-president-axios",
+      "domain": "unn.ua",
+      "published": "2026-03-02",
+      "publishedAsGiven": "Mar 2, 2026",
+      "snippet": "No US president of the modern era has ordered more military strikes against so many different countries as Donald Trump. This is reported by ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "In the modern era, no American president has ordered ...",
+      "url": "https://www.instagram.com/p/DVeUFzekVnH/?hl=en",
+      "domain": "instagram.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "No recent U.S. president has launched military strikes across ...",
+      "url": "https://www.facebook.com/firstpostin/posts/firstpostnews-no-recent-us-president-has-launched-military-strikes-across-as-man/1432794202214896/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact-check: Warren says Trump has bombed more ...",
+      "url": "https://www.wral.com/news/state/warren-trump-military-strike-countries-fact-check-april-10/",
+      "domain": "wral.com",
+      "published": "2026-04-10",
+      "publishedAsGiven": "Apr 10, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Elizabeth Warren on X: \"In the modern era, no American ...",
+      "url": "https://x.com/SenWarren/status/2029272280782512592?lang=en",
+      "domain": "x.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Fact-check: Warren says Trump has bombed more countries ...",
+      "url": "https://www.wral.com/archive/22346431/",
+      "domain": "wral.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Fact-check: Warren says Trump has bombed more countries ...",
+      "url": "https://www.youtube.com/watch?v=Gvzb_g7CsDo",
+      "domain": "youtube.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Has Donald Trump ordered more military strikes than any ...",
+      "url": "https://politifact.com/factchecks/2026/mar/20/elizabeth-warren/trump-military-strikes-iran-venezuela/",
+      "domain": "politifact.com",
+      "published": "2026-03-20",
+      "publishedAsGiven": "Mar 20, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "In the modern era, no American president has ordered ...",
+      "url": "https://www.facebook.com/ElizabethWarren/posts/in-the-modern-era-no-american-president-has-ordered-more-military-strikes-agains/1476845327143294/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Warren Calls For Congress to Block Reckless War in Iran, ...",
+      "url": "https://www.warren.senate.gov/news/press-releases/icymi-warren-calls-for-congress-to-block-reckless-war-in-iran-investigate-civilian-harm-demands-accountability-from-trump-administration/",
+      "domain": "warren.senate.gov",
+      "published": "2026-03-03",
+      "publishedAsGiven": "Mar 3, 2026",
+      "snippet": "But now we face an ugly reality: in the modern era, no American president has ordered more military strikes against as many different countries ..."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Donald Trump ran on a platform of no more wars. But ...",
+      "url": "https://x.com/SenWarren/status/2028841870055309754",
+      "domain": "x.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Fact Check: Is Elizabeth Warren's claim no POTUS has ...",
+      "url": "https://news.meaww.com/fact-check-is-elizabeth-warrens-claim-no-potus-has-ordered-more-military-strikes-than-trump-true",
+      "domain": "news.meaww.com",
+      "published": "2026-03-24",
+      "publishedAsGiven": "Mar 24, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "In the modern era, no American president has ordered ...",
+      "url": "https://www.threads.com/@senwarren/post/DVeUEuOjiZF/in-the-modern-era-no-american-president-has-ordered-more-military-strikes?hl=en",
+      "domain": "threads.com",
+      "published": "2026-03-04",
+      "publishedAsGiven": "Mar 4, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Trump bombed as many countries in 2025 as in his entire ...",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4399869/trump-bombed-as-many-countries-2025-as-entire-first-term/?srsltid=AYCX9vIh-B_no9we1FpDJDB0kehvcPtUXt8-3EQaek-dFXErnXnb0VJs",
+      "domain": "washingtonexaminer.com",
+      "published": "2026-01-03",
+      "publishedAsGiven": "Jan 3, 2026",
+      "snippet": "President Donald Trump, in just under one year, has already matched the number of countries he bombed across the entirety of his first term."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "US and Iran launch new strikes and Trump tells NATO deal ...",
+      "url": "https://www.reuters.com/world/iran-war-live-us-military-resumes-strikes-iran-after-attacks-hormuz-strait-2026-07-07/",
+      "domain": "reuters.com",
+      "published": "2026-07-08",
+      "publishedAsGiven": "Jul 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Which U.S. presidents led the nation into new wars?",
+      "url": "https://www.reuters.com/article/world/fact-check-which-us-presidents-led-the-nation-into-new-wars-idUSKBN2A22QR/",
+      "domain": "reuters.com",
+      "published": "2021-02-02",
+      "publishedAsGiven": "Feb 2, 2021",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Trump calls off new military strikes on Iran",
+      "url": "https://apnews.com/live/trump-administration-updates-06-11-2026",
+      "domain": "apnews.com",
+      "published": "2026-06-11",
+      "publishedAsGiven": "Jun 11, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "US military completes latest strikes against Iran, while ...",
+      "url": "https://apnews.com/article/iran-us-strikes-ad84a64884aedbbd1e5914182bb3cd8d",
+      "domain": "apnews.com",
+      "published": "2026-09-01",
+      "publishedAsGiven": "Sep 1, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "Trump says second Venezuela strike possible if ...",
+      "url": "https://www.reuters.com/world/us/venezuelas-maduro-custody-trump-says-us-will-run-country-2026-01-04/",
+      "domain": "reuters.com",
+      "published": "2026-01-04",
+      "publishedAsGiven": "Jan 4, 2026",
+      "snippet": "Trump says second Venezuela strike possible if government does not cooperate · Trump suggests military action on Colombia, Mexico also possible ..."
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Trump calls off latest threats to strike Iran, citing ...",
+      "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d",
+      "domain": "apnews.com",
+      "published": "2026-06-12",
+      "publishedAsGiven": "Jun 12, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Trump seeks to justify Iran war, but stated objectives shift",
+      "url": "https://www.reuters.com/world/trump-says-he-ordered-iran-strikes-thwart-tehrans-missile-program-2026-03-02/",
+      "domain": "reuters.com",
+      "published": "2026-03-03",
+      "publishedAsGiven": "Mar 3, 2026",
+      "snippet": "When Trump ordered a much more limited attack against Iran during Israel's 12-day war in June, he immediately gave a formal address flanked ..."
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "US announces its first casualties in Iran war; poll signals ...",
+      "url": "https://www.reuters.com/world/us-military-says-three-its-service-members-killed-iran-operation-2026-03-01/",
+      "domain": "reuters.com",
+      "published": "2026-03-02",
+      "publishedAsGiven": "Mar 2, 2026",
+      "snippet": "U.S. aircraft and warships have struck more than 1,000 Iranian targets since Trump ordered the start to major combat operations on Saturday, the ..."
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "Trump says US struck another alleged Venezuelan drug ...",
+      "url": "https://www.reuters.com/world/americas/trump-says-us-struck-another-alleged-venezuelan-drug-vessel-killing-three-2025-09-15/",
+      "domain": "reuters.com",
+      "published": "2025-09-15",
+      "publishedAsGiven": "Sep 15, 2025",
+      "snippet": "U.S. President Donald Trump said on Monday that the U.S. military carried out a strike on an alleged Venezuelan drug cartel vessel heading ..."
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 8,
+    "after-said": 5,
+    "maybe-after-said": 7,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:11:33.967Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Trump campaign peace promises loom large over Iran war",
+      "url": "https://www.axios.com/2026/03/02/trump-iran-war-military-strikes-maga",
+      "domain": "axios.com",
+      "snippet": "No president in the modern era has ordered more military strikes against as many different countries as Donald Trump.",
+      "published": "2026-03-02",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Axios",
+        "page": "https://mediabiasfactcheck.com/axios/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Trump bombed as many countries in 2025 as in his entire ...",
+      "url": "https://www.washingtonexaminer.com/news/white-house/4399869/trump-bombed-as-many-countries-2025-as-entire-first-term/?srsltid=AYCX9vIh-B_no9we1FpDJDB0kehvcPtUXt8-3EQaek-dFXErnXnb0VJs",
+      "domain": "washingtonexaminer.com",
+      "snippet": "President Donald Trump, in just under one year, has already matched the number of countries he bombed across the entirety of his first term.",
+      "published": "2026-01-03",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Washington Examiner",
+        "page": "https://mediabiasfactcheck.com/washington-examiner/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Trump says second Venezuela strike possible if ...",
+      "url": "https://www.reuters.com/world/us/venezuelas-maduro-custody-trump-says-us-will-run-country-2026-01-04/",
+      "domain": "reuters.com",
+      "snippet": "Trump says second Venezuela strike possible if government does not cooperate · Trump suggests military action on Colombia, Mexico also possible ...",
+      "published": "2026-01-04",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Trump seeks to justify Iran war, but stated objectives shift",
+      "url": "https://www.reuters.com/world/trump-says-he-ordered-iran-strikes-thwart-tehrans-missile-program-2026-03-02/",
+      "domain": "reuters.com",
+      "snippet": "When Trump ordered a much more limited attack against Iran during Israel's 12-day war in June, he immediately gave a formal address flanked ...",
+      "published": "2026-03-03",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "US announces its first casualties in Iran war; poll signals ...",
+      "url": "https://www.reuters.com/world/us-military-says-three-its-service-members-killed-iran-operation-2026-03-01/",
+      "domain": "reuters.com",
+      "snippet": "U.S. aircraft and warships have struck more than 1,000 Iranian targets since Trump ordered the start to major combat operations on Saturday, the ...",
+      "published": "2026-03-02",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

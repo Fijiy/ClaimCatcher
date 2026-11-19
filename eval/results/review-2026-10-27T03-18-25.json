@@ -1,0 +1,2385 @@
+{
+  "gate": "review",
+  "started": "2026-10-27T03:18:25.377Z",
+  "environment": {
+    "platform": "darwin arm64",
+    "chrome": "151.0.7922.138",
+    "model": "gemini-nano"
+  },
+  "filterRun": "eval/results/on-device-2026-10-27T01-28-31.json",
+  "threshold": 0.45,
+  "limit": null,
+  "score": {
+    "sentences": 281,
+    "passed": {
+      "n": 281,
+      "hits": 109,
+      "rate": 0.3879003558718861
+    },
+    "withCards": {
+      "before": {
+        "n": 281,
+        "hits": 109,
+        "rate": 0.3879003558718861
+      },
+      "after": {
+        "n": 281,
+        "hits": 90,
+        "rate": 0.3202846975088968
+      }
+    },
+    "cardsPerSentence": {
+      "before": 1.614678899082569,
+      "after": 1.1192660550458715
+    },
+    "rated": {
+      "before": {
+        "n": 29,
+        "hits": 27,
+        "rate": 0.9310344827586207
+      },
+      "after": {
+        "n": 29,
+        "hits": 22,
+        "rate": 0.7586206896551724
+      }
+    },
+    "all": {
+      "before": {
+        "n": 80,
+        "hits": 67,
+        "rate": 0.8375
+      },
+      "after": {
+        "n": 80,
+        "hits": 56,
+        "rate": 0.7
+      }
+    },
+    "droppedFor": {
+      "not self-contained": 37,
+      "opinion": 13,
+      "too vague to check": 2,
+      "prediction": 2
+    },
+    "pass": false
+  },
+  "sentences": [
+    {
+      "i": 2,
+      "clip": "cnn-2024-biden-opening-economy",
+      "text": "We had an economy that was in free fall.",
+      "claims": [],
+      "ms": 24317,
+      "found": [
+        "The economy was in free fall."
+      ],
+      "kept": [
+        "The economy was in free fall."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 4,
+      "clip": "cnn-2024-biden-opening-economy",
+      "text": "Many people were dying.",
+      "claims": [],
+      "ms": 13149,
+      "found": [
+        "Many people were dying."
+      ],
+      "kept": [
+        "Many people were dying."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 8,
+      "clip": "cnn-2024-biden-opening-economy",
+      "text": "The economy collapsed.",
+      "claims": [],
+      "ms": 12387,
+      "found": [
+        "The economy collapsed."
+      ],
+      "kept": [
+        "The economy collapsed."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 9,
+      "clip": "cnn-2024-biden-opening-economy",
+      "text": "There were no jobs.",
+      "claims": [],
+      "ms": 12996,
+      "found": [
+        "There were no jobs."
+      ],
+      "kept": [
+        "There were no jobs."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 10,
+      "clip": "cnn-2024-biden-opening-economy",
+      "text": "Unemployment rate rose to 15%.",
+      "claims": [
+        {
+          "i": 1,
+          "rated": false
+        }
+      ],
+      "ms": 12985,
+      "found": [
+        "The unemployment rate rose to 15%"
+      ],
+      "kept": [
+        "The unemployment rate rose to 15%"
+      ],
+      "dropped": []
+    },
+    {
+      "i": 14,
+      "clip": "cnn-2024-biden-opening-economy",
+      "text": "We created 15,000 new jobs.",
+      "claims": [
+        {
+          "i": 2,
+          "rated": false
+        }
+      ],
+      "ms": 16005,
+      "found": [
+        "US unemployment in 2024 was 15,000.",
+        "We created 15,000 new jobs."
+      ],
+      "kept": [
+        "US unemployment in 2024 was 15,000.",
+        "We created 15,000 new jobs."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 15,
+      "clip": "cnn-2024-biden-opening-economy",
+      "text": "We brought out the position where we have 800,000 new manufacturing jobs.",
+      "claims": [
+        {
+          "i": 3,
+          "rated": false
+        }
+      ],
+      "ms": 15159,
+      "found": [
+        "The position is that there are 800,000 new manufacturing jobs.",
+        "The speaker is referring to a position."
+      ],
+      "kept": [
+        "The position is that there are 800,000 new manufacturing jobs.",
+        "The speaker is referring to a position."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 27,
+      "clip": "cnn-2024-biden-opening-economy",
+      "text": "In addition to that, we're in a situation where, if you take a look at all that was done in his administration, he didn't do much at all.",
+      "claims": [],
+      "ms": 12237,
+      "found": [
+        "In addition to that, we're in a situation where, if you take a look at all that was done in his administration, he didn't do much at all."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "In addition to that, we're in a situation where, if you take a look at all that was done in his administration, he didn't do much at all.",
+          "reason": "not self-contained",
+          "unclear": "his administration",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "clip": "cnn-2024-biden-opening-economy",
+      "text": "We made sure we had a situation where we now brought down the price of prescription drugs, which is a major issue for many people.",
+      "claims": [
+        {
+          "i": 4,
+          "rated": true
+        }
+      ],
+      "ms": 15409,
+      "found": [
+        "The administration brought down the price of prescription drugs.",
+        "The price of prescription drugs is a major issue for many people."
+      ],
+      "kept": [
+        "The administration brought down the price of prescription drugs."
+      ],
+      "dropped": [
+        {
+          "text": "The price of prescription drugs is a major issue for many people.",
+          "reason": "opinion",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "clip": "cnn-2024-biden-opening-economy",
+      "text": "to $15 for an insulin shot as opposed to $400.",
+      "claims": [
+        {
+          "i": 4,
+          "rated": true
+        }
+      ],
+      "ms": 14198,
+      "found": [
+        "The price of an insulin shot is $15 as opposed to $400."
+      ],
+      "kept": [
+        "The price of an insulin shot is $15 as opposed to $400."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 33,
+      "clip": "cnn-2024-biden-opening-economy",
+      "text": "No senior has to pay more than $200 for any drug, all the drugs they can include beginning next year.",
+      "claims": [
+        {
+          "i": 5,
+          "rated": false
+        }
+      ],
+      "ms": 15937,
+      "found": [
+        "No senior has to pay more than $200 for any drug, all the drugs they can include beginning next year."
+      ],
+      "kept": [
+        "No senior has to pay more than $200 for any drug, all the drugs they can include beginning next year."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 38,
+      "clip": "cnn-2024-trump-greatest-economy",
+      "text": "We have the greatest economy in the history of our country.",
+      "claims": [
+        {
+          "i": 0,
+          "rated": true
+        }
+      ],
+      "ms": 15450,
+      "found": [
+        "The United States has the greatest economy in its history.",
+        "We have the greatest economy in the history of our country."
+      ],
+      "kept": [
+        "The United States has the greatest economy in its history.",
+        "We have the greatest economy in the history of our country."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 41,
+      "clip": "cnn-2024-trump-greatest-economy",
+      "text": "Other countries were copying us.",
+      "claims": [],
+      "ms": 12421,
+      "found": [
+        "Other countries were copying us."
+      ],
+      "kept": [
+        "Other countries were copying us."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 43,
+      "clip": "cnn-2024-trump-greatest-economy",
+      "text": "And when we did, we spent the money necessary so we wouldn't end up in a Great Depression, the likes of which we had in 1929.",
+      "claims": [],
+      "ms": 17585,
+      "found": [
+        "When we did, we spent the money necessary so we wouldn't end up in a Great Depression, the likes of which we had in 1929."
+      ],
+      "kept": [
+        "When we did, we spent the money necessary so we wouldn't end up in a Great Depression, the likes of which we had in 1929."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 45,
+      "clip": "cnn-2024-trump-greatest-economy",
+      "text": "We got a lot of credit for the economy, a lot of credit for the military, and no wars, and so many other things.",
+      "claims": [],
+      "ms": 23895,
+      "found": [
+        "We got a lot of credit for the economy",
+        "a lot of credit for the military",
+        "and no wars",
+        "and so many other things"
+      ],
+      "kept": [
+        "We got a lot of credit for the economy",
+        "and no wars"
+      ],
+      "dropped": [
+        {
+          "text": "a lot of credit for the military",
+          "reason": "opinion",
+          "claim": true
+        },
+        {
+          "text": "and so many other things",
+          "reason": "too vague to check",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "clip": "cnn-2024-trump-greatest-economy",
+      "text": "He created mandates that was a disaster for our country.",
+      "claims": [],
+      "ms": 11540,
+      "found": [
+        "He created mandates that was a disaster for our country."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "He created mandates that was a disaster for our country.",
+          "reason": "not self-contained",
+          "unclear": "that was a disaster for our country",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "clip": "cnn-2024-trump-greatest-economy",
+      "text": "But other than that, we had (nothing) given them back a a country where the stock market actually was higher than pre-COVID, and nobody thought that was even possible.",
+      "claims": [
+        {
+          "i": 1,
+          "rated": false
+        }
+      ],
+      "ms": 15253,
+      "found": [
+        "The stock market was higher than pre-COVID.",
+        "Nobody thought that was even possible."
+      ],
+      "kept": [
+        "The stock market was higher than pre-COVID."
+      ],
+      "dropped": [
+        {
+          "text": "Nobody thought that was even possible.",
+          "reason": "opinion",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "clip": "cnn-2024-trump-greatest-economy",
+      "text": "The only jobs he created are for illegal immigrants and bounce back jobs, the bounce back from the COVID.",
+      "claims": [
+        {
+          "i": 2,
+          "rated": true
+        }
+      ],
+      "ms": 15532,
+      "found": [
+        "The only jobs he created are for illegal immigrants and bounce back jobs, the bounce back from the COVID."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "The only jobs he created are for illegal immigrants and bounce back jobs, the bounce back from the COVID.",
+          "reason": "not self-contained",
+          "unclear": "he",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "clip": "cnn-2024-trump-greatest-economy",
+      "text": "He's done a poor job, and inflation's killing our country.",
+      "claims": [],
+      "ms": 15666,
+      "found": [
+        "He's done a poor job.",
+        "inflation's killing our country."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "He's done a poor job.",
+          "reason": "opinion",
+          "claim": true
+        },
+        {
+          "text": "inflation's killing our country.",
+          "reason": "opinion",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "clip": "abc-2024-trump-springfield-pets",
+      "text": "He told us there have been no credible reports of specific claims of pets being harmed, injured, or abused by individuals within the immigrant community.",
+      "claims": [],
+      "ms": 17647,
+      "found": [
+        "There have been no credible reports of specific claims of pets being harmed, injured, or abused by individuals within the immigrant community.",
+        "The speaker is referring to Springfield, Ohio."
+      ],
+      "kept": [
+        "The speaker is referring to Springfield, Ohio."
+      ],
+      "dropped": [
+        {
+          "text": "There have been no credible reports of specific claims of pets being harmed, injured, or abused by individuals within the immigrant community.",
+          "reason": "not self-contained",
+          "unclear": "immigrant community",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "clip": "abc-2024-trump-springfield-pets",
+      "text": "Again, the Springfield city Manager says there's no evidence of that.",
+      "claims": [],
+      "ms": 11390,
+      "found": [
+        "The Springfield city Manager says there's no evidence of that."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "The Springfield city Manager says there's no evidence of that.",
+          "reason": "not self-contained",
+          "unclear": "that",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "clip": "abc-2024-harris-afghanistan-camp-david",
+      "text": "Well, I will tell you, I agreed with President Biden's decision to pull out of Afghanistan.",
+      "claims": [],
+      "ms": 14393,
+      "found": [
+        "I agreed with President Biden's decision to pull out of Afghanistan."
+      ],
+      "kept": [
+        "I agreed with President Biden's decision to pull out of Afghanistan."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 82,
+      "clip": "abc-2024-harris-afghanistan-camp-david",
+      "text": "Four presidents said they would, and Joe Biden did.",
+      "claims": [
+        {
+          "i": 0,
+          "rated": false
+        }
+      ],
+      "ms": 13904,
+      "found": [
+        "Four presidents said they would, and Joe Biden did."
+      ],
+      "kept": [
+        "Four presidents said they would, and Joe Biden did."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 83,
+      "clip": "abc-2024-harris-afghanistan-camp-david",
+      "text": "And as a result, America's taxpayers are not paying the $300 million a day we were paying for that endless war.",
+      "claims": [
+        {
+          "i": 1,
+          "rated": false
+        }
+      ],
+      "ms": 11121,
+      "found": [
+        "America's taxpayers are not paying the $300 million a day for that endless war."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "America's taxpayers are not paying the $300 million a day for that endless war.",
+          "reason": "not self-contained",
+          "unclear": "that endless war",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "clip": "abc-2024-harris-afghanistan-camp-david",
+      "text": "And as of today, there is not one member of the United States military who is in active duty in a combat zone in any war zone around the world, the first time this century.",
+      "claims": [
+        {
+          "i": 2,
+          "rated": true
+        }
+      ],
+      "ms": 12945,
+      "found": [
+        "As of today, there is not one member of the United States military who is in active duty in a combat zone in any war zone around the world, the first time this century."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "As of today, there is not one member of the United States military who is in active duty in a combat zone in any war zone around the world, the first time this century.",
+          "reason": "not self-contained",
+          "unclear": "the first time this century.",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "clip": "abc-2024-harris-afghanistan-camp-david",
+      "text": "Donald Trump, when he was president, negotiated one of the weakest deals you can imagine.",
+      "claims": [],
+      "ms": 14760,
+      "found": [
+        "Donald Trump, when he was president, negotiated one of the weakest deals you can imagine."
+      ],
+      "kept": [
+        "Donald Trump, when he was president, negotiated one of the weakest deals you can imagine."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 87,
+      "clip": "abc-2024-harris-afghanistan-camp-david",
+      "text": "He calls himself a dealmaker Even his national security adviser said it was a weak, terrible deal.",
+      "claims": [
+        {
+          "i": 3,
+          "rated": false
+        }
+      ],
+      "ms": 21195,
+      "found": [
+        "He calls himself a dealmaker",
+        "Even his national security adviser said it was a weak, terrible deal"
+      ],
+      "kept": [
+        "He calls himself a dealmaker"
+      ],
+      "dropped": [
+        {
+          "text": "Even his national security adviser said it was a weak, terrible deal",
+          "reason": "not self-contained",
+          "unclear": "his",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "clip": "abc-2024-harris-afghanistan-camp-david",
+      "text": "And here's how it went down: he bypassed the Afghan government.",
+      "claims": [
+        {
+          "i": 4,
+          "rated": false
+        }
+      ],
+      "ms": 17173,
+      "found": [
+        "Donald Trump bypassed the Afghan government.",
+        "Donald Trump negotiated one of the weakest deals you can imagine."
+      ],
+      "kept": [
+        "Donald Trump bypassed the Afghan government.",
+        "Donald Trump negotiated one of the weakest deals you can imagine."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 89,
+      "clip": "abc-2024-harris-afghanistan-camp-david",
+      "text": "He negotiated directly with a terrorist organization called the Taliban.",
+      "claims": [
+        {
+          "i": 4,
+          "rated": false
+        }
+      ],
+      "ms": 12194,
+      "found": [
+        "Donald Trump negotiated directly with a terrorist organization called the Taliban."
+      ],
+      "kept": [
+        "Donald Trump negotiated directly with a terrorist organization called the Taliban."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 90,
+      "clip": "abc-2024-harris-afghanistan-camp-david",
+      "text": "The negotiation involved the Taliban getting 5,000 terrorists, Taliban terrorists, released.",
+      "claims": [
+        {
+          "i": 5,
+          "rated": false
+        }
+      ],
+      "ms": 15103,
+      "found": [
+        "The negotiation involved the Taliban getting 5,000 terrorists released."
+      ],
+      "kept": [
+        "The negotiation involved the Taliban getting 5,000 terrorists released."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 92,
+      "clip": "abc-2024-harris-afghanistan-camp-david",
+      "text": "And the president at the time invited the Taliban to Camp David, a place of storied significance for us as Americans, a place where we honor the importance of American diplomacy, where we invite and receive respected world leaders.",
+      "claims": [
+        {
+          "i": 6,
+          "rated": true
+        }
+      ],
+      "ms": 16721,
+      "found": [
+        "The president invited the Taliban to Camp David.",
+        "Camp David is a place of storied significance for Americans."
+      ],
+      "kept": [
+        "The president invited the Taliban to Camp David."
+      ],
+      "dropped": [
+        {
+          "text": "Camp David is a place of storied significance for Americans.",
+          "reason": "opinion",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "clip": "abc-2024-harris-afghanistan-camp-david",
+      "text": "And this former president, as president, invited them to Camp David, because he does not again appreciate the role and responsibility of the President of the United States to be Commander-in-Chief with a level of respect.",
+      "claims": [],
+      "ms": 18515,
+      "found": [
+        "The former president invited them to Camp David.",
+        "The former president does not appreciate the role and responsibility of the President of the United States to be Commander-in-Chief with a level of respect."
+      ],
+      "kept": [
+        "The former president does not appreciate the role and responsibility of the President of the United States to be Commander-in-Chief with a level of respect."
+      ],
+      "dropped": [
+        {
+          "text": "The former president invited them to Camp David.",
+          "reason": "not self-contained",
+          "unclear": "them",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "clip": "cbs-2024-walz-iran-tbi-headaches",
+      "text": "We'll sometimes hear a revisionist history, but when Donald Trump was in office, it was Donald Trump who we had a coalition of nations that had boxed Iran's nuclear program in, the inability to advance it.",
+      "claims": [
+        {
+          "i": 0,
+          "rated": false
+        }
+      ],
+      "ms": 15177,
+      "found": [
+        "Donald Trump was in office, when a coalition of nations boxed Iran's nuclear program in, the inability to advance it."
+      ],
+      "kept": [
+        "Donald Trump was in office, when a coalition of nations boxed Iran's nuclear program in, the inability to advance it."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 98,
+      "clip": "cbs-2024-walz-iran-tbi-headaches",
+      "text": "Donald Trump pulled that program and put nothing else in its place.",
+      "claims": [
+        {
+          "i": 0,
+          "rated": false
+        }
+      ],
+      "ms": 13487,
+      "found": [
+        "Donald Trump was in office.",
+        "Donald Trump pulled that program and put nothing else in its place."
+      ],
+      "kept": [
+        "Donald Trump was in office."
+      ],
+      "dropped": [
+        {
+          "text": "Donald Trump pulled that program and put nothing else in its place.",
+          "reason": "not self-contained",
+          "unclear": "nothing else in its place",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "clip": "cbs-2024-walz-iran-tbi-headaches",
+      "text": "So Iran is closer to a nuclear weapon than they were before because of Donald Trump's fickle leadership.",
+      "claims": [
+        {
+          "i": 1,
+          "rated": false
+        }
+      ],
+      "ms": 12134,
+      "found": [
+        "Iran is closer to a nuclear weapon than they were before",
+        "Donald Trump pulled that program and put nothing else in its place."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "Iran is closer to a nuclear weapon than they were before",
+          "reason": "not self-contained",
+          "unclear": "than they were before",
+          "claim": true
+        },
+        {
+          "text": "Donald Trump pulled that program and put nothing else in its place.",
+          "reason": "not self-contained",
+          "unclear": "nothing else in its place",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "clip": "cbs-2024-walz-iran-tbi-headaches",
+      "text": "And when Iran shot down an American aircraft in international airspace, Donald Trump tweeted because that's the standard diplomacy of Donald Trump.",
+      "claims": [
+        {
+          "i": 2,
+          "rated": false
+        }
+      ],
+      "ms": 15459,
+      "found": [
+        "Donald Trump tweeted because that's the standard diplomacy of Donald Trump.",
+        "When Iran shot down an American aircraft in international airspace, Donald Trump tweeted."
+      ],
+      "kept": [
+        "When Iran shot down an American aircraft in international airspace, Donald Trump tweeted."
+      ],
+      "dropped": [
+        {
+          "text": "Donald Trump tweeted because that's the standard diplomacy of Donald Trump.",
+          "reason": "opinion",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "clip": "cbs-2024-walz-iran-tbi-headaches",
+      "text": "And when Iranian missiles did fall near U.S.",
+      "claims": [
+        {
+          "i": 3,
+          "rated": true
+        }
+      ],
+      "ms": 12705,
+      "found": [
+        "Iranian missiles did fall near U.S."
+      ],
+      "kept": [
+        "Iranian missiles did fall near U.S."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 102,
+      "clip": "cbs-2024-walz-iran-tbi-headaches",
+      "text": "troops and they received traumatic brain injuries, Donald Trump wrote it off as headaches.",
+      "claims": [
+        {
+          "i": 3,
+          "rated": true
+        }
+      ],
+      "ms": 17405,
+      "found": [
+        "Donald Trump wrote it off as headaches.",
+        "troops received traumatic brain injuries"
+      ],
+      "kept": [
+        "Donald Trump wrote it off as headaches.",
+        "troops received traumatic brain injuries"
+      ],
+      "dropped": []
+    },
+    {
+      "i": 106,
+      "clip": "cbs-2024-walz-iran-tbi-headaches",
+      "text": "Both Iranian attacks were repelled.",
+      "claims": [
+        {
+          "i": 4,
+          "rated": false
+        }
+      ],
+      "ms": 12440,
+      "found": [
+        "Both Iranian attacks were repelled."
+      ],
+      "kept": [
+        "Both Iranian attacks were repelled."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 109,
+      "clip": "cbs-2024-vance-cbp-one-mic-cut",
+      "text": "And just to clarify for our viewers, Springfield, Ohio does have a large number of Haitian migrants who have legal status, temporary protected status.",
+      "claims": [],
+      "ms": 15469,
+      "found": [
+        "Springfield, Ohio has a large number of Haitian migrants who have legal status, temporary protected status."
+      ],
+      "kept": [
+        "Springfield, Ohio has a large number of Haitian migrants who have legal status, temporary protected status."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 119,
+      "clip": "cbs-2024-vance-cbp-one-mic-cut",
+      "text": "So there's an application called the CBP One app, where you can go on as an illegal migrant, apply for asylum or apply for parole, and be granted legal status at the wave of a Kamala Harris open border wand.",
+      "claims": [
+        {
+          "i": 1,
+          "rated": true
+        }
+      ],
+      "ms": 19472,
+      "found": [
+        "There's an application called the CBP One app, where you can go on as an illegal migrant, apply for asylum or apply for parole, and be granted legal status at the wave of Kamala Harris open border wand."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "There's an application called the CBP One app, where you can go on as an illegal migrant, apply for asylum or apply for parole, and be granted legal status at the wave of Kamala Harris open border wand.",
+          "reason": "not self-contained",
+          "unclear": "Kamala Harris open border wand",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 126,
+      "clip": "cbs-2024-vance-cbp-one-mic-cut",
+      "text": "Those laws have been on the books since 1990.",
+      "claims": [
+        {
+          "i": 2,
+          "rated": false
+        }
+      ],
+      "ms": 12013,
+      "found": [
+        "Those laws have been on the books since 1990."
+      ],
+      "kept": [
+        "Those laws have been on the books since 1990."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 130,
+      "clip": "cbs-2024-vance-cbp-one-mic-cut",
+      "text": "The CBP One app has not been on the books since 1990.",
+      "claims": [
+        {
+          "i": 3,
+          "rated": false
+        }
+      ],
+      "ms": 12552,
+      "found": [
+        "The CBP One app has not been on the books since 1990."
+      ],
+      "kept": [
+        "The CBP One app has not been on the books since 1990."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 138,
+      "clip": "biden-sotu-2024-economy",
+      "text": "15 million new jobs in just three years.",
+      "claims": [
+        {
+          "i": 1,
+          "rated": true
+        }
+      ],
+      "ms": 14339,
+      "found": [
+        "US had 15 million new jobs in three years."
+      ],
+      "kept": [
+        "US had 15 million new jobs in three years."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 140,
+      "clip": "biden-sotu-2024-economy",
+      "text": "Unemployment at 50-year lows.",
+      "claims": [
+        {
+          "i": 2,
+          "rated": true
+        }
+      ],
+      "ms": 17883,
+      "found": [
+        "US unemployment in 2024 was at 50-year lows."
+      ],
+      "kept": [
+        "US unemployment in 2024 was at 50-year lows."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 141,
+      "clip": "biden-sotu-2024-economy",
+      "text": "A record 16 million Americans are starting small businesses, and each one is a literal act of hope.",
+      "claims": [
+        {
+          "i": 3,
+          "rated": false
+        }
+      ],
+      "ms": 18152,
+      "found": [
+        "16 million Americans are starting small businesses",
+        "each one is a literal act of hope"
+      ],
+      "kept": [
+        "16 million Americans are starting small businesses"
+      ],
+      "dropped": [
+        {
+          "text": "each one is a literal act of hope",
+          "reason": "opinion",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 142,
+      "clip": "biden-sotu-2024-economy",
+      "text": "With historic job growth and small business growth for black and Hispanics and Asian Americans, 800,000 new manufacturing jobs in America and counting.",
+      "claims": [
+        {
+          "i": 4,
+          "rated": true
+        }
+      ],
+      "ms": 26132,
+      "found": [
+        "US job growth is historic.",
+        "Small business growth is historic for Black, Hispanic, and Asian Americans.",
+        "There are 800,000 new manufacturing jobs in America."
+      ],
+      "kept": [
+        "US job growth is historic.",
+        "Small business growth is historic for Black, Hispanic, and Asian Americans.",
+        "There are 800,000 new manufacturing jobs in America."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 145,
+      "clip": "biden-sotu-2024-economy",
+      "text": "More people have health insurance today.",
+      "claims": [],
+      "ms": 13117,
+      "found": [
+        "More people have health insurance today."
+      ],
+      "kept": [
+        "More people have health insurance today."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 146,
+      "clip": "biden-sotu-2024-economy",
+      "text": "More people have health insurance today than ever before.",
+      "claims": [
+        {
+          "i": 5,
+          "rated": false
+        }
+      ],
+      "ms": 9919,
+      "found": [
+        "More people have health insurance today than ever before."
+      ],
+      "kept": [
+        "More people have health insurance today than ever before."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 147,
+      "clip": "biden-sotu-2024-economy",
+      "text": "The racial wealth gap is as small as it's been in 20 years.",
+      "claims": [
+        {
+          "i": 6,
+          "rated": true
+        }
+      ],
+      "ms": 13810,
+      "found": [
+        "The racial wealth gap is as small as it's been in 20 years."
+      ],
+      "kept": [
+        "The racial wealth gap is as small as it's been in 20 years."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 148,
+      "clip": "biden-sotu-2024-economy",
+      "text": "Wages keep going up.",
+      "claims": [
+        {
+          "i": 7,
+          "rated": true
+        }
+      ],
+      "ms": 12018,
+      "found": [
+        "Wages keep going up."
+      ],
+      "kept": [
+        "Wages keep going up."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 149,
+      "clip": "biden-sotu-2024-economy",
+      "text": "Inflation keeps coming down.",
+      "claims": [
+        {
+          "i": 7,
+          "rated": true
+        }
+      ],
+      "ms": 13580,
+      "found": [
+        "Inflation keeps coming down."
+      ],
+      "kept": [
+        "Inflation keeps coming down."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 150,
+      "clip": "biden-sotu-2024-economy",
+      "text": "Inflation has dropped from 9% to 3%, the lowest in the world and tending lower.",
+      "claims": [
+        {
+          "i": 8,
+          "rated": true
+        }
+      ],
+      "ms": 19885,
+      "found": [
+        "Inflation has dropped from 9% to 3%",
+        "the lowest in the world",
+        "tending lower"
+      ],
+      "kept": [
+        "Inflation has dropped from 9% to 3%",
+        "the lowest in the world",
+        "tending lower"
+      ],
+      "dropped": []
+    },
+    {
+      "i": 152,
+      "clip": "trump-joint-2025-social-security-ages",
+      "text": "The Government Accountability Office, a federal government office, has estimated annual fraud of over $500 billion in our nation, and we are working very hard to stop it.",
+      "claims": [
+        {
+          "i": 0,
+          "rated": true
+        }
+      ],
+      "ms": 15406,
+      "found": [
+        "The Government Accountability Office has estimated annual fraud of over $500 billion in the nation.",
+        "The speaker is working very hard to stop it."
+      ],
+      "kept": [
+        "The Government Accountability Office has estimated annual fraud of over $500 billion in the nation."
+      ],
+      "dropped": [
+        {
+          "text": "The speaker is working very hard to stop it.",
+          "reason": "not self-contained",
+          "unclear": "it",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 154,
+      "clip": "trump-joint-2025-social-security-ages",
+      "text": "We're also identifying shocking levels of incompetence and probable fraud in the Social Security program for our seniors, and that our seniors and people that we love rely on.",
+      "claims": [],
+      "ms": 17715,
+      "found": [
+        "The Social Security program for our seniors is identified as having shocking levels of incompetence and probable fraud.",
+        "Our seniors and people that we love rely on the Social Security program."
+      ],
+      "kept": [
+        "The Social Security program for our seniors is identified as having shocking levels of incompetence and probable fraud.",
+        "Our seniors and people that we love rely on the Social Security program."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 155,
+      "clip": "trump-joint-2025-social-security-ages",
+      "text": "Believe it or not, government databases list 4.7 million Social Security members from people aged 100 to 109 years old.",
+      "claims": [
+        {
+          "i": 1,
+          "rated": true
+        }
+      ],
+      "ms": 17982,
+      "found": [
+        "Government databases list 4.7 million Social Security members from people aged 100 to 109 years old."
+      ],
+      "kept": [
+        "Government databases list 4.7 million Social Security members from people aged 100 to 109 years old."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 156,
+      "clip": "trump-joint-2025-social-security-ages",
+      "text": "It lists 3.6 million people from ages 110 to 119.",
+      "claims": [
+        {
+          "i": 1,
+          "rated": true
+        }
+      ],
+      "ms": 16078,
+      "found": [
+        "The database lists 3.6 million people from ages 110 to 119."
+      ],
+      "kept": [
+        "The database lists 3.6 million people from ages 110 to 119."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 159,
+      "clip": "trump-joint-2025-social-security-ages",
+      "text": "3.47 million people from ages 120 to 129.",
+      "claims": [],
+      "ms": 15137,
+      "found": [
+        "3.47 million people from ages 120 to 129."
+      ],
+      "kept": [
+        "3.47 million people from ages 120 to 129."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 160,
+      "clip": "trump-joint-2025-social-security-ages",
+      "text": "3.9 million people from ages 130 to 139.",
+      "claims": [],
+      "ms": 17487,
+      "found": [
+        "US population aged 130 to 139 is 3.9 million.",
+        "3.9 million people from ages 130 to 139."
+      ],
+      "kept": [
+        "US population aged 130 to 139 is 3.9 million.",
+        "3.9 million people from ages 130 to 139."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 161,
+      "clip": "trump-joint-2025-social-security-ages",
+      "text": "3.5 million people from ages 140 to 149.",
+      "claims": [
+        {
+          "i": 2,
+          "rated": true
+        }
+      ],
+      "ms": 24663,
+      "found": [
+        "3.5 million people from ages 140 to 149.",
+        "3.9 million people from ages 130 to 139.",
+        "3.47 million people from ages 120 to 129."
+      ],
+      "kept": [
+        "3.5 million people from ages 140 to 149.",
+        "3.9 million people from ages 130 to 139.",
+        "3.47 million people from ages 120 to 129."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 162,
+      "clip": "trump-joint-2025-social-security-ages",
+      "text": "And money is being paid to many of them.",
+      "claims": [
+        {
+          "i": 2,
+          "rated": true
+        }
+      ],
+      "ms": 9423,
+      "found": [
+        "Money is being paid to many of them."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "Money is being paid to many of them.",
+          "reason": "not self-contained",
+          "unclear": "them",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 167,
+      "clip": "trump-joint-2025-social-security-ages",
+      "text": "But a lot of money is paid out to people because it just keeps getting paid and paid and nobody does.",
+      "claims": [
+        {
+          "i": 3,
+          "rated": false
+        }
+      ],
+      "ms": 18352,
+      "found": [
+        "A lot of money is paid out to people",
+        "it just keeps getting paid and paid",
+        "nobody does"
+      ],
+      "kept": [
+        "A lot of money is paid out to people",
+        "it just keeps getting paid and paid"
+      ],
+      "dropped": [
+        {
+          "text": "nobody does",
+          "reason": "too vague to check",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 170,
+      "clip": "trump-joint-2025-inflation-eggs-energy",
+      "text": "As you know, we inherited from the last administration an economic catastrophe and an inflation nightmare.",
+      "claims": [
+        {
+          "i": 0,
+          "rated": true
+        }
+      ],
+      "ms": 16648,
+      "found": [
+        "US inherited an economic catastrophe from the last administration.",
+        "US inherited an inflation nightmare from the last administration."
+      ],
+      "kept": [
+        "US inherited an economic catastrophe from the last administration.",
+        "US inherited an inflation nightmare from the last administration."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 171,
+      "clip": "trump-joint-2025-inflation-eggs-energy",
+      "text": "Their policies drove up energy prices, pushed up grocery costs, and drove the necessities of life out of reach for millions and millions of Americans.",
+      "claims": [
+        {
+          "i": 1,
+          "rated": false
+        }
+      ],
+      "ms": 23773,
+      "found": [
+        "Their policies drove up energy prices, pushed up grocery costs, and drove the necessities of life out of reach for millions and millions of Americans."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "Their policies drove up energy prices, pushed up grocery costs, and drove the necessities of life out of reach for millions and millions of Americans.",
+          "reason": "not self-contained",
+          "unclear": "their",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 173,
+      "clip": "trump-joint-2025-inflation-eggs-energy",
+      "text": "We suffered the worst inflation in 48 years, but perhaps even in the history of our country, they're not sure.",
+      "claims": [
+        {
+          "i": 2,
+          "rated": true
+        }
+      ],
+      "ms": 14842,
+      "found": [
+        "US inflation in 2025 was the worst in 48 years, but perhaps even in the history of the country."
+      ],
+      "kept": [
+        "US inflation in 2025 was the worst in 48 years, but perhaps even in the history of the country."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 176,
+      "clip": "trump-joint-2025-inflation-eggs-energy",
+      "text": "The egg price is out of control, and we're working hard to get it back down.",
+      "claims": [],
+      "ms": 15367,
+      "found": [
+        "The egg price is out of control.",
+        "we're working hard to get it back down."
+      ],
+      "kept": [
+        "The egg price is out of control."
+      ],
+      "dropped": [
+        {
+          "text": "we're working hard to get it back down.",
+          "reason": "not self-contained",
+          "unclear": "it",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 178,
+      "clip": "trump-joint-2025-inflation-eggs-energy",
+      "text": "You inherited a total mess from the previous administration.",
+      "claims": [],
+      "ms": 12706,
+      "found": [
+        "You inherited a total mess from the previous administration."
+      ],
+      "kept": [
+        "You inherited a total mess from the previous administration."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 180,
+      "clip": "trump-joint-2025-inflation-eggs-energy",
+      "text": "A major focus of our fight to defeat inflation is rapidly reducing the cost of energy.",
+      "claims": [],
+      "ms": 12770,
+      "found": [
+        "A major focus of our fight to defeat inflation is rapidly reducing the cost of energy."
+      ],
+      "kept": [
+        "A major focus of our fight to defeat inflation is rapidly reducing the cost of energy."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 181,
+      "clip": "trump-joint-2025-inflation-eggs-energy",
+      "text": "The previous administration cut the number of new oil and gas leases by 95%, slowed pipeline construction to a halt, and closed more than 100 power plants.",
+      "claims": [
+        {
+          "i": 4,
+          "rated": false
+        },
+        {
+          "i": 5,
+          "rated": false
+        },
+        {
+          "i": 6,
+          "rated": true
+        }
+      ],
+      "ms": 22969,
+      "found": [
+        "The previous administration cut the number of new oil and gas leases by 95%.",
+        "The previous administration slowed pipeline construction to a halt.",
+        "The previous administration closed more than 100 power plants."
+      ],
+      "kept": [
+        "The previous administration cut the number of new oil and gas leases by 95%.",
+        "The previous administration slowed pipeline construction to a halt.",
+        "The previous administration closed more than 100 power plants."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 182,
+      "clip": "trump-joint-2025-inflation-eggs-energy",
+      "text": "We are opening up many of those power plants right now.",
+      "claims": [],
+      "ms": 26457,
+      "found": [
+        "The previous administration cut the number of new oil and gas leases by 95%",
+        "slowed pipeline construction to a halt",
+        "closed more than 100 power plants",
+        "We are opening up many of those power plants right now."
+      ],
+      "kept": [
+        "The previous administration cut the number of new oil and gas leases by 95%",
+        "slowed pipeline construction to a halt",
+        "closed more than 100 power plants"
+      ],
+      "dropped": [
+        {
+          "text": "We are opening up many of those power plants right now.",
+          "reason": "not self-contained",
+          "unclear": "those power plants",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 183,
+      "clip": "booker-senate-floor-2025-consumer-confidence",
+      "text": "I think we're going to see about the tariffs tomorrow and see how far the president will go, but we do know whatever it is, it's going to affect prices that are going to continue to go up for Americans, as inflation has continued to go up for Americans.",
+      "claims": [
+        {
+          "i": 0,
+          "rated": false
+        },
+        {
+          "i": 1,
+          "rated": false
+        }
+      ],
+      "ms": 27909,
+      "found": [
+        "The speaker thinks that tariffs will be discussed tomorrow.",
+        "The speaker believes that whatever decision the president makes will affect prices.",
+        "The speaker believes that prices will continue to rise for Americans."
+      ],
+      "kept": [
+        "The speaker thinks that tariffs will be discussed tomorrow.",
+        "The speaker believes that whatever decision the president makes will affect prices."
+      ],
+      "dropped": [
+        {
+          "text": "The speaker believes that prices will continue to rise for Americans.",
+          "reason": "prediction",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 184,
+      "clip": "booker-senate-floor-2025-consumer-confidence",
+      "text": "As the stock markets continue to go down, as people, 40 people, those 401ks have lost so much money.",
+      "claims": [
+        {
+          "i": 1,
+          "rated": false
+        }
+      ],
+      "ms": 16216,
+      "found": [
+        "Stock markets continue to go down.",
+        "People, 40 people, those 401ks have lost so much money."
+      ],
+      "kept": [
+        "Stock markets continue to go down.",
+        "People, 40 people, those 401ks have lost so much money."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 185,
+      "clip": "booker-senate-floor-2025-consumer-confidence",
+      "text": "The uncertainty I'm hearing from businesses in New Jersey, the chaos that they feel about the economy, the consumer confidence in this country has gone way down.",
+      "claims": [
+        {
+          "i": 2,
+          "rated": true
+        }
+      ],
+      "ms": 14172,
+      "found": [
+        "The uncertainty I'm hearing from businesses in New Jersey, the chaos that they feel about the economy, the consumer confidence in this country has gone way down."
+      ],
+      "kept": [
+        "The uncertainty I'm hearing from businesses in New Jersey, the chaos that they feel about the economy, the consumer confidence in this country has gone way down."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 188,
+      "clip": "booker-senate-floor-2025-consumer-confidence",
+      "text": "Their costs are higher, their groceries are higher.",
+      "claims": [
+        {
+          "i": 3,
+          "rated": false
+        }
+      ],
+      "ms": 10733,
+      "found": [
+        "Their costs are higher.",
+        "Their groceries are higher."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "Their costs are higher.",
+          "reason": "not self-contained",
+          "unclear": "Their",
+          "claim": true
+        },
+        {
+          "text": "Their groceries are higher.",
+          "reason": "not self-contained",
+          "unclear": "Their",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 190,
+      "clip": "booker-senate-floor-2025-consumer-confidence",
+      "text": "Their retirement security is under attack.",
+      "claims": [],
+      "ms": 25471,
+      "found": [
+        "Their retirement security is under attack.",
+        "Their costs are higher.",
+        "Their groceries are higher.",
+        "They're soon to see everything from car prices to food go higher."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "Their retirement security is under attack.",
+          "reason": "not self-contained",
+          "unclear": "Their",
+          "claim": true
+        },
+        {
+          "text": "Their costs are higher.",
+          "reason": "not self-contained",
+          "unclear": "Their",
+          "claim": true
+        },
+        {
+          "text": "Their groceries are higher.",
+          "reason": "not self-contained",
+          "unclear": "Their",
+          "claim": true
+        },
+        {
+          "text": "They're soon to see everything from car prices to food go higher.",
+          "reason": "prediction",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 191,
+      "clip": "booker-senate-floor-2025-consumer-confidence",
+      "text": "Their health care is under attack.",
+      "claims": [],
+      "ms": 11913,
+      "found": [
+        "Their health care is under attack."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "Their health care is under attack.",
+          "reason": "not self-contained",
+          "unclear": "Their",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 192,
+      "clip": "booker-senate-floor-2025-consumer-confidence",
+      "text": "They are losing their Department of Education.",
+      "claims": [],
+      "ms": 14463,
+      "found": [
+        "They are losing their Department of Education."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "They are losing their Department of Education.",
+          "reason": "not self-contained",
+          "unclear": "They",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 193,
+      "clip": "booker-senate-floor-2025-consumer-confidence",
+      "text": "They're less safe from infectious diseases abroad.",
+      "claims": [],
+      "ms": 25762,
+      "found": [
+        "They're less safe from infectious diseases abroad.",
+        "Their retirement security is under attack.",
+        "Their health care is under attack.",
+        "They are losing their Department of Education."
+      ],
+      "kept": [
+        "They're less safe from infectious diseases abroad."
+      ],
+      "dropped": [
+        {
+          "text": "Their retirement security is under attack.",
+          "reason": "not self-contained",
+          "unclear": "Their",
+          "claim": true
+        },
+        {
+          "text": "Their health care is under attack.",
+          "reason": "not self-contained",
+          "unclear": "Their",
+          "claim": true
+        },
+        {
+          "text": "They are losing their Department of Education.",
+          "reason": "not self-contained",
+          "unclear": "They",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 202,
+      "clip": "johnson-speaker-acceptance-2023-prices-debt",
+      "text": "We know that our streets are being flooded with fentanyl, and all of our communities, children, and even adults are dying from it.",
+      "claims": [
+        {
+          "i": 0,
+          "rated": false
+        }
+      ],
+      "ms": 15560,
+      "found": [
+        "Our streets are being flooded with fentanyl.",
+        "All of our communities, children, and even adults are dying from it."
+      ],
+      "kept": [
+        "Our streets are being flooded with fentanyl.",
+        "All of our communities, children, and even adults are dying from it."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 206,
+      "clip": "johnson-speaker-acceptance-2023-prices-debt",
+      "text": "The skyrocketing cost of living is unsustainable, and Americans should not have to worry about how they're going to feed their family every week because they can't afford their groceries anymore.",
+      "claims": [],
+      "ms": 21571,
+      "found": [
+        "The skyrocketing cost of living is unsustainable.",
+        "Americans should not have to worry about how they're going to feed their family every week because they can't afford their groceries anymore."
+      ],
+      "kept": [
+        "Americans should not have to worry about how they're going to feed their family every week because they can't afford their groceries anymore."
+      ],
+      "dropped": [
+        {
+          "text": "The skyrocketing cost of living is unsustainable.",
+          "reason": "opinion",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 208,
+      "clip": "johnson-speaker-acceptance-2023-prices-debt",
+      "text": "Here's the stats: prices have increased over 17% in the last two years.",
+      "claims": [
+        {
+          "i": 1,
+          "rated": true
+        }
+      ],
+      "ms": 12761,
+      "found": [
+        "Prices have increased over 17% in the last two years."
+      ],
+      "kept": [
+        "Prices have increased over 17% in the last two years."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 209,
+      "clip": "johnson-speaker-acceptance-2023-prices-debt",
+      "text": "Credit card interest rates are at the highest level in nearly three decades, and mortgage rates are now at a peak we haven't seen since 2001.",
+      "claims": [
+        {
+          "i": 2,
+          "rated": false
+        },
+        {
+          "i": 3,
+          "rated": false
+        }
+      ],
+      "ms": 15085,
+      "found": [
+        "Credit card interest rates are at the highest level in nearly three decades.",
+        "Mortgage rates are now at a peak we haven't seen since 2001."
+      ],
+      "kept": [
+        "Credit card interest rates are at the highest level in nearly three decades.",
+        "Mortgage rates are now at a peak we haven't seen since 2001."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 212,
+      "clip": "johnson-speaker-acceptance-2023-prices-debt",
+      "text": "And while we've been sitting in this room, that's right, that debt has crossed almost $33.6 trillion.",
+      "claims": [
+        {
+          "i": 4,
+          "rated": false
+        }
+      ],
+      "ms": 14443,
+      "found": [
+        "The national debt has crossed almost $33.6 trillion."
+      ],
+      "kept": [
+        "The national debt has crossed almost $33.6 trillion."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 213,
+      "clip": "johnson-speaker-acceptance-2023-prices-debt",
+      "text": "And the time that it's going to take me to deliver this speech will go up another $20 million in debt.",
+      "claims": [
+        {
+          "i": 5,
+          "rated": true
+        }
+      ],
+      "ms": 16641,
+      "found": [
+        "The time that it's going to take the speaker to deliver this speech will go up another $20 million in debt."
+      ],
+      "kept": [
+        "The time that it's going to take the speaker to deliver this speech will go up another $20 million in debt."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 217,
+      "clip": "murray-senate-floor-2025-tax-cuts-debt",
+      "text": "Republicans' budget resolution doesn't just accept, it actually doubles down on what Trump and Musk are doing.",
+      "claims": [],
+      "ms": 16439,
+      "found": [
+        "Republicans' budget resolution doubles down on what Trump and Musk are doing."
+      ],
+      "kept": [
+        "Republicans' budget resolution doubles down on what Trump and Musk are doing."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 220,
+      "clip": "murray-senate-floor-2025-tax-cuts-debt",
+      "text": "because they don't plan to reverse one of the biggest drivers of the debt, Republican tax cuts.",
+      "claims": [],
+      "ms": 14199,
+      "found": [
+        "Republicans tax cuts are one of the biggest drivers of the debt."
+      ],
+      "kept": [
+        "Republicans tax cuts are one of the biggest drivers of the debt."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 221,
+      "clip": "murray-senate-floor-2025-tax-cuts-debt",
+      "text": "Despite all the bogeymen that Republicans like to point to as driving the national debt, the reality is that the single biggest driver of our national debt since 2001 has been Republican tax cuts.",
+      "claims": [
+        {
+          "i": 0,
+          "rated": true
+        }
+      ],
+      "ms": 17000,
+      "found": [
+        "Republicans like to point to bogeymen as driving the national debt.",
+        "The single biggest driver of our national debt since 2001 has been Republican tax cuts."
+      ],
+      "kept": [
+        "Republicans like to point to bogeymen as driving the national debt.",
+        "The single biggest driver of our national debt since 2001 has been Republican tax cuts."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 222,
+      "clip": "murray-senate-floor-2025-tax-cuts-debt",
+      "text": "The Trump and Bush tax cuts have cost our nation over $10 trillion and counting.",
+      "claims": [
+        {
+          "i": 1,
+          "rated": false
+        }
+      ],
+      "ms": 14975,
+      "found": [
+        "The Trump and Bush tax cuts have cost our nation over $10 trillion and counting."
+      ],
+      "kept": [
+        "The Trump and Bush tax cuts have cost our nation over $10 trillion and counting."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 225,
+      "clip": "murray-senate-floor-2025-tax-cuts-debt",
+      "text": "It's actually more Republican tax cuts.",
+      "claims": [],
+      "ms": 12540,
+      "found": [
+        "It's actually more Republican tax cuts."
+      ],
+      "kept": [
+        "It's actually more Republican tax cuts."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 229,
+      "clip": "murray-senate-floor-2025-tax-cuts-debt",
+      "text": "Even as this budget is a roadmap for painful cuts to programs families count on each and every day, also they can give billionaires more tax cuts.",
+      "claims": [],
+      "ms": 19314,
+      "found": [
+        "This budget is a roadmap for painful cuts to programs families count on each and every day.",
+        "They can give billionaires more tax cuts."
+      ],
+      "kept": [
+        "This budget is a roadmap for painful cuts to programs families count on each and every day."
+      ],
+      "dropped": [
+        {
+          "text": "They can give billionaires more tax cuts.",
+          "reason": "not self-contained",
+          "unclear": "They",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 230,
+      "clip": "murray-senate-floor-2025-tax-cuts-debt",
+      "text": "Republicans are going down this partisan path because they know Democrats are not going to join them in throwing Medicaid, nutrition assistance, and veterans' benefits into the woodchopper so they can throw more tax cuts at billionaires and the biggest corporations.",
+      "claims": [],
+      "ms": 23517,
+      "found": [
+        "Republicans are going down this partisan path",
+        "Democrats are not going to join them in throwing Medicaid, nutrition assistance, and veterans' benefits into the woodchopper",
+        "so they can throw more tax cuts at billionaires and the biggest corporations"
+      ],
+      "kept": [
+        "Democrats are not going to join them in throwing Medicaid, nutrition assistance, and veterans' benefits into the woodchopper"
+      ],
+      "dropped": [
+        {
+          "text": "Republicans are going down this partisan path",
+          "reason": "opinion",
+          "claim": true
+        },
+        {
+          "text": "so they can throw more tax cuts at billionaires and the biggest corporations",
+          "reason": "not self-contained",
+          "unclear": "they",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 231,
+      "clip": "murray-senate-floor-2025-tax-cuts-debt",
+      "text": "Make no mistake, this budget resolution is the Doge resolution as it assumes the staggering amount of $1 trillion in unspecified cuts in 2025 alone and $9 trillion over 10 years.",
+      "claims": [
+        {
+          "i": 3,
+          "rated": false
+        }
+      ],
+      "ms": 25622,
+      "found": [
+        "This budget resolution is the Doge resolution.",
+        "The budget resolution assumes the staggering amount of $1 trillion in unspecified cuts in 2025 alone.",
+        "The budget resolution assumes $9 trillion over 10 years."
+      ],
+      "kept": [
+        "The budget resolution assumes the staggering amount of $1 trillion in unspecified cuts in 2025 alone.",
+        "The budget resolution assumes $9 trillion over 10 years."
+      ],
+      "dropped": [
+        {
+          "text": "This budget resolution is the Doge resolution.",
+          "reason": "opinion",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 235,
+      "clip": "uk-pmqs-2025-09-03-badenoch-unemployment",
+      "text": "She does not welcome the highest growth in the G7.",
+      "claims": [
+        {
+          "i": 0,
+          "rated": false
+        }
+      ],
+      "ms": 14403,
+      "found": [
+        "She does not welcome the highest growth in the G7."
+      ],
+      "kept": [
+        "She does not welcome the highest growth in the G7."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 241,
+      "clip": "uk-pmqs-2025-09-03-badenoch-unemployment",
+      "text": "And of course, she has not welcomed the Norway deal, the biggest deal for shipbuilding in a very, very long time.",
+      "claims": [
+        {
+          "i": 3,
+          "rated": false
+        }
+      ],
+      "ms": 15417,
+      "found": [
+        "She has not welcomed the Norway deal.",
+        "The Norway deal is the biggest deal for shipbuilding in a very, very long time."
+      ],
+      "kept": [
+        "The Norway deal is the biggest deal for shipbuilding in a very, very long time."
+      ],
+      "dropped": [
+        {
+          "text": "She has not welcomed the Norway deal.",
+          "reason": "not self-contained",
+          "unclear": "She",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 244,
+      "clip": "uk-pmqs-2025-09-03-badenoch-unemployment",
+      "text": "Speaker, he is dragging down the country.",
+      "claims": [],
+      "ms": 12724,
+      "found": [
+        "Speaker, he is dragging down the country."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "Speaker, he is dragging down the country.",
+          "reason": "not self-contained",
+          "unclear": "he",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 247,
+      "clip": "uk-pmqs-2025-09-03-badenoch-unemployment",
+      "text": "Unemployment has gone up every single month under this Labour government.",
+      "claims": [
+        {
+          "i": 4,
+          "rated": true
+        }
+      ],
+      "ms": 10126,
+      "found": [
+        "Unemployment has gone up every single month under this Labour government."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "Unemployment has gone up every single month under this Labour government.",
+          "reason": "not self-contained",
+          "unclear": "this Labour government",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 251,
+      "clip": "uk-pmqs-2026-03-04-starmer-defence-270bn",
+      "text": "Not only did they cut the defence budget, they missed army recruitment targets every year for 14 years.",
+      "claims": [
+        {
+          "i": 0,
+          "rated": false
+        },
+        {
+          "i": 1,
+          "rated": false
+        }
+      ],
+      "ms": 11439,
+      "found": [
+        "They cut the defence budget.",
+        "They missed army recruitment targets every year for 14 years."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "They cut the defence budget.",
+          "reason": "not self-contained",
+          "unclear": "they",
+          "claim": true
+        },
+        {
+          "text": "They missed army recruitment targets every year for 14 years.",
+          "reason": "not self-contained",
+          "unclear": "they",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 252,
+      "clip": "uk-pmqs-2026-03-04-starmer-defence-270bn",
+      "text": "They left morale in our armed forces at an all-time low, and our forces hollowed out.",
+      "claims": [
+        {
+          "i": 2,
+          "rated": false
+        }
+      ],
+      "ms": 14946,
+      "found": [
+        "They left morale in our armed forces at an all-time low",
+        "and our forces hollowed out"
+      ],
+      "kept": [
+        "and our forces hollowed out"
+      ],
+      "dropped": [
+        {
+          "text": "They left morale in our armed forces at an all-time low",
+          "reason": "not self-contained",
+          "unclear": "They",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 254,
+      "clip": "uk-pmqs-2026-03-04-starmer-defence-270bn",
+      "text": "Labour, by contrast, is delivering the biggest boost to defence spending since the Cold War.",
+      "claims": [
+        {
+          "i": 3,
+          "rated": true
+        }
+      ],
+      "ms": 14830,
+      "found": [
+        "Labour is delivering the biggest boost to defence spending since the Cold War."
+      ],
+      "kept": [
+        "Labour is delivering the biggest boost to defence spending since the Cold War."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 255,
+      "clip": "uk-pmqs-2026-03-04-starmer-defence-270bn",
+      "text": "£270 billion over this parliament.",
+      "claims": [
+        {
+          "i": 3,
+          "rated": true
+        }
+      ],
+      "ms": 16301,
+      "found": [
+        "Defence spending will be £270 billion over this parliament.",
+        "Labour is delivering the biggest boost to defence spending since the Cold War."
+      ],
+      "kept": [
+        "Defence spending will be £270 billion over this parliament.",
+        "Labour is delivering the biggest boost to defence spending since the Cold War."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 264,
+      "clip": "uk-pmqs-2026-03-04-starmer-defence-270bn",
+      "text": "I can update the House that yesterday more than a thousand British nationals arrived back in the UK on commercial flights from the UAE.",
+      "claims": [
+        {
+          "i": 4,
+          "rated": false
+        }
+      ],
+      "ms": 17012,
+      "found": [
+        "More than a thousand British nationals arrived back in the UK on commercial flights from the UAE yesterday.",
+        "I can update the House."
+      ],
+      "kept": [
+        "More than a thousand British nationals arrived back in the UK on commercial flights from the UAE yesterday."
+      ],
+      "dropped": [
+        {
+          "text": "I can update the House.",
+          "reason": "opinion",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 265,
+      "clip": "uk-pmqs-2026-03-04-starmer-defence-270bn",
+      "text": "A further eight flights are due to leave the UAE to the UK today.",
+      "claims": [],
+      "ms": 13320,
+      "found": [
+        "A further eight flights are due to leave the UAE to the UK today."
+      ],
+      "kept": [
+        "A further eight flights are due to leave the UAE to the UK today."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 267,
+      "clip": "us-khanna-tiktok-2025-02-20-telehealth",
+      "text": "The Trump administration just announced that Medicare will stop covering telehealth starting April 1st.",
+      "claims": [
+        {
+          "i": 0,
+          "rated": true
+        }
+      ],
+      "ms": 16149,
+      "found": [
+        "The Trump administration announced that Medicare will stop covering telehealth starting April 1st."
+      ],
+      "kept": [
+        "The Trump administration announced that Medicare will stop covering telehealth starting April 1st."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 271,
+      "clip": "us-vance-peachtree-city-2025-08-21-biggest-tax-cut",
+      "text": "That's why we increased the child tax credit in the working families tax cut.",
+      "claims": [
+        {
+          "i": 0,
+          "rated": false
+        }
+      ],
+      "ms": 19159,
+      "found": [
+        "The child tax credit was increased in the working families tax cut."
+      ],
+      "kept": [
+        "The child tax credit was increased in the working families tax cut."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 272,
+      "clip": "us-vance-peachtree-city-2025-08-21-biggest-tax-cut",
+      "text": "That's why we eliminated taxes on overtime and on tips.",
+      "claims": [
+        {
+          "i": 0,
+          "rated": false
+        }
+      ],
+      "ms": 20626,
+      "found": [
+        "The speaker eliminated taxes on overtime.",
+        "The speaker eliminated taxes on tips."
+      ],
+      "kept": [
+        "The speaker eliminated taxes on overtime.",
+        "The speaker eliminated taxes on tips."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 273,
+      "clip": "us-vance-peachtree-city-2025-08-21-biggest-tax-cut",
+      "text": "And that's why we had the biggest tax cut for families that this country has ever seen because we believe that you ought to keep more of your hard-earned money.",
+      "claims": [
+        {
+          "i": 1,
+          "rated": true
+        }
+      ],
+      "ms": 17273,
+      "found": [
+        "The speaker believes that people ought to keep more of their hard-earned money.",
+        "The speaker stated that this country has never seen a bigger tax cut for families."
+      ],
+      "kept": [],
+      "dropped": [
+        {
+          "text": "The speaker stated that this country has never seen a bigger tax cut for families.",
+          "reason": "not self-contained",
+          "unclear": "this country",
+          "claim": true
+        },
+        {
+          "text": "The speaker believes that people ought to keep more of their hard-earned money.",
+          "reason": "opinion",
+          "claim": true
+        }
+      ]
+    },
+    {
+      "i": 275,
+      "clip": "us-vance-peachtree-city-2025-08-21-biggest-tax-cut",
+      "text": "And that's why we fought for that legislation.",
+      "claims": [],
+      "ms": 14386,
+      "found": [
+        "The speaker fought for that legislation."
+      ],
+      "kept": [
+        "The speaker fought for that legislation."
+      ],
+      "dropped": []
+    },
+    {
+      "i": 277,
+      "clip": "us-warner-x-2025-07-21-russia-interference",
+      "text": "Over the weekend, DNI Gabbard, who anybody who's followed these know how I feel about, was again trying to maybe divert from Epstein, trying to rehash the 2016 Russia investigation, where no one ever claimed Russia altered votes, but everyone claimed that Russia tried to interfere on Trump's behalf.",
+      "claims": [
+        {
+          "i": 0,
+          "rated": false
+        }
+      ],
+      "ms": 32909,
+      "found": [
+        "DNI Gabbard was again trying to divert from Epstein",
+        "DNI Gabbard was again trying to rehash the 2016 Russia investigation",
+        "no one ever claimed Russia altered votes",
+        "everyone claimed that Russia tried to interfere on Trump's behalf"
+      ],
+      "kept": [
+        "DNI Gabbard was again trying to divert from Epstein",
+        "DNI Gabbard was again trying to rehash the 2016 Russia investigation",
+        "no one ever claimed Russia altered votes",
+        "everyone claimed that Russia tried to interfere on Trump's behalf"
+      ],
+      "dropped": []
+    },
+    {
+      "i": 278,
+      "clip": "us-warner-x-2025-07-21-russia-interference",
+      "text": "Well documented, well-vetted, the Senate intelligence, bipartisan, (nothing) unanimous report, the Mueller report, and now Gabbard in her next effort of trying to politicize is actually threatening legal action against former employees of the intelligence community and others.",
+      "claims": [
+        {
+          "i": 1,
+          "rated": false
+        }
+      ],
+      "ms": 23005,
+      "found": [
+        "The Senate intelligence, bipartisan, report, the Mueller report, is well documented and well-vetted.",
+        "Gabbard is threatening legal action against former employees of the intelligence community and others."
+      ],
+      "kept": [
+        "The Senate intelligence, bipartisan, report, the Mueller report, is well documented and well-vetted.",
+        "Gabbard is threatening legal action against former employees of the intelligence community and others."
+      ],
+      "dropped": []
+    }
+  ]
+}

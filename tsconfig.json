@@ -1,0 +1,11 @@
+{
+  // WXT generates the base (strict, noUncheckedIndexedAccess, bundler
+  // resolution) on `wxt prepare`. Strict applies to every file, content
+  // scripts included.
+  "extends": "./.wxt/tsconfig.json",
+  "compilerOptions": {
+    "strict": true,
+    "types": ["node"]
+  },
+  "include": [".wxt/wxt.d.ts", "src", "tests", "scripts", "modules", "*.config.ts"]
+}

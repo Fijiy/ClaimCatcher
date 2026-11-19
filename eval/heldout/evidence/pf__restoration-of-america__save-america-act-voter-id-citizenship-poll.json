@@ -1,0 +1,278 @@
+{
+  "frozenAt": "2026-10-27T03:13:38.778Z",
+  "refilteredAt": "2026-10-27T03:35:12.780Z",
+  "id": "pf/restoration-of-america/save-america-act-voter-id-citizenship-poll",
+  "said": "2026-04-13",
+  "queries": {
+    "fact": "83% of us favor requiring a photo ID to vote. In fact, most of the civilized world requires it but not us.",
+    "claim": "83% of us favor requiring a photo ID to vote. In fact, most of the civilized world requires it but not us. Restoration of America"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2801.726000000024,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2958.387832999928,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Do most democracies require ID to vote?",
+      "url": "https://eedition.houstonchronicle.com/infinity/article_popover_share.aspx?guid=74698ab5-5dd4-4185-80e0-aeedd73cd05f&share=true",
+      "domain": "eedition.houstonchronicle.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Do most democracies other than the U.S. require photo ID ...",
+      "url": "https://www.yahoo.com/news/articles/fact-check-most-democracies-other-100000127.html",
+      "domain": "yahoo.com",
+      "published": "2026-04-20",
+      "publishedAsGiven": "Apr 20, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Most Voters in States Without Voter ID Requirements ...",
+      "url": "https://shorensteincenter.org/resource/2026-voting-trends-voter-id/",
+      "domain": "shorensteincenter.org",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "83% of Americans favor requiring all voters to show ...",
+      "url": "https://www.facebook.com/reptroydowning/posts/83-of-americans-favor-requiring-all-voters-to-show-government-issued-photo-id-to/122159609690703057/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "snippet": "83% of Americans favor requiring all voters to show government-issued photo ID to vote, including 95% of Republicans and 71% of Democrats ..."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Jon Husted Pushes Photo ID Voting Bill in Senate, Democrats ...",
+      "url": "https://www.facebook.com/SenJonHusted/videos/americans-overwhelmingly-support-requiring-a-photo-id-to-votei-gave-the-senate-t/3281404968913955/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "The SAVE America Act: Voter ID is Popular with Everyone",
+      "url": "https://www.whitehouse.gov/releases/2026/02/voter-id-is-overwhelmingly-popular-with-literally-everyone-except-democrat-politicians/",
+      "domain": "whitehouse.gov",
+      "published": "2026-02-10",
+      "publishedAsGiven": "Feb 10, 2026",
+      "snippet": "83% of Americans favor requiring all voters to show government-issued photo ID to vote, including 95% of Republicans and 71% of Democrats."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Most Americans in favor of requiring photo ID to vote ...",
+      "url": "https://www.foxnews.com/politics/vast-majority-americans-support-photo-id-requirement-vote-new-poll-says",
+      "domain": "foxnews.com",
+      "published": "2024-10-24",
+      "publishedAsGiven": "Oct 24, 2024",
+      "snippet": "84% of respondents favor requiring a photo ID, while 83% support providing proof of citizenship when registering to vote for the first time."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Voter ID Laws",
+      "url": "https://politifact.com/voter-id-laws/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "83% of Americas support requiring photo ID to vote. House ...",
+      "url": "https://www.facebook.com/RepChuckEdwards/posts/83-of-americas-support-requiring-photo-id-to-vote-house-republicans-did-our-part/941008162205881/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "snippet": "83% of Americas support requiring photo ID to vote. “83% of Americans” claim isn't backed by clear evidence, and it's misleading. Over 80% of ..."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Americans Endorse Both Early Voting and Voter Verification",
+      "url": "https://news.gallup.com/poll/652523/americans-endorse-early-voting-voter-verification.aspx",
+      "domain": "news.gallup.com",
+      "published": "2024-10-24",
+      "publishedAsGiven": "Oct 24, 2024",
+      "snippet": "Stacked bar chart showing Americans' support for seven election law policies. 84% of U.S. adults favor requiring photo identification to vote, ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact-check: How popular are voter ID requirements and ...",
+      "url": "https://www.wral.com/news/state/fact-check-voter-id--requirements-popular-common-july-23/",
+      "domain": "wral.com",
+      "published": "2026-07-23",
+      "publishedAsGiven": "Jul 23, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Report Voter ID Laws",
+      "url": "https://www.ncsl.org/elections-and-campaigns/voter-id",
+      "domain": "ncsl.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Do most democracies other than the U.S. require photo ID ...",
+      "url": "https://www.yahoo.com/news/articles/fact-check-most-democracies-other-100000127.html",
+      "domain": "yahoo.com",
+      "published": "2026-04-20",
+      "publishedAsGiven": "Apr 20, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Requiring an ID to vote is just common sense. More than 80% ...",
+      "url": "https://www.facebook.com/SenJonHusted/videos/requiring-an-id-to-vote-is-just-common-sense-more-than-80-of-americans-agreeyet-/2020982585486525/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "snippet": "More than 80% of Americans agree—yet every single Senate Democrat voted against my amendment to require a photo ID to vote in our elections."
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "The SAVE America Act: Voter ID is Popular with Everyone",
+      "url": "https://www.whitehouse.gov/releases/2026/02/voter-id-is-overwhelmingly-popular-with-literally-everyone-except-democrat-politicians/",
+      "domain": "whitehouse.gov",
+      "published": "2026-02-10",
+      "publishedAsGiven": "Feb 10, 2026",
+      "snippet": "President Donald J. Trump has been unequivocal: Nothing is more fundamental than the integrity and security of our elections."
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "It's simple: Over 80% of Americans support requiring a ...",
+      "url": "https://www.facebook.com/CongressmanRickAllen/posts/its-simpleover-80-of-americans-support-requiring-a-photo-id-to-vote-in-federal-e/1477331810428945/",
+      "domain": "facebook.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "snippet": "We are asking the wrong questions, we should be asking how do we help more citizens vote and engage with the political system but Republicans ..."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Voting rights in the United States",
+      "url": "https://en.wikipedia.org/wiki/Voting_rights_in_the_United_States",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Should Voters Have to Prove Their Identity and Citizenship ...",
+      "url": "https://www.closeup.org/should-voters-have-to-prove-their-identity-and-citizenship-twelve-states-decide/",
+      "domain": "closeup.org",
+      "published": "2026-09-28",
+      "publishedAsGiven": "Sep 28, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Voter ID requirements | USAGov",
+      "url": "https://www.usa.gov/voter-id",
+      "domain": "usa.gov",
+      "published": "2026-02-23",
+      "publishedAsGiven": "Feb 23, 2026",
+      "snippet": "And most require voters to bring identification to vote in person. Know the voter ID laws in your state before going to the polls. Find out if ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Voter ID",
+      "url": "https://www.brennancenter.org/topics/voting-elections/voting-reform/voter-id",
+      "domain": "brennancenter.org",
+      "published": null,
+      "dropped": "undated"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 3,
+    "after-said": 3,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 4
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:13:33.015Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Americans Endorse Both Early Voting and Voter Verification",
+      "url": "https://news.gallup.com/poll/652523/americans-endorse-early-voting-voter-verification.aspx",
+      "domain": "news.gallup.com",
+      "snippet": "Stacked bar chart showing Americans' support for seven election law policies. 84% of U.S. adults favor requiring photo identification to vote, ...",
+      "published": "2024-10-24",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Gallup",
+        "page": "https://mediabiasfactcheck.com/gallup/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Most Americans in favor of requiring photo ID to vote ...",
+      "url": "https://www.foxnews.com/politics/vast-majority-americans-support-photo-id-requirement-vote-new-poll-says",
+      "domain": "foxnews.com",
+      "snippet": "84% of respondents favor requiring a photo ID, while 83% support providing proof of citizenship when registering to vote for the first time.",
+      "published": "2024-10-24",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "R",
+        "reliability": "mixed",
+        "name": "Fox News",
+        "page": "https://mediabiasfactcheck.com/fox-news/"
+      },
+      "weight": "reduced",
+      "n": 2
+    },
+    {
+      "title": "Voter ID requirements | USAGov",
+      "url": "https://www.usa.gov/voter-id",
+      "domain": "usa.gov",
+      "snippet": "And most require voters to bring identification to vote in person. Know the voter ID laws in your state before going to the polls. Find out if ...",
+      "published": "2026-02-23",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    }
+  ]
+}

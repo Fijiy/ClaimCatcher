@@ -1,0 +1,101 @@
+{
+  "case_id": "trump-joint-2025-inflation-eggs-energy#3",
+  "queries": {
+    "A": "Joe Biden especially let the price of eggs get out of control Trump",
+    "B": "egg prices 2024 2025 avian flu hen losses causes"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 9,
+      "title": "Have egg prices dropped 50% under Trump?",
+      "url": "https://www.politifact.com/factchecks/2025/apr/04/donald-trump/fact-checking-trumps-statement-about-declining-egg/",
+      "domain": "politifact.com",
+      "published": "2025-04-04",
+      "snippet": "David Anderson, a Texas A&M University professor of agricultural economics, told PolitiFact that the Trump administration’s steps are good moves, but they are more beneficial long term. He also said that neither Trump nor former President Joe Biden should get credit or blame.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 1,
+      "title": "Why you may be shelling out more money on eggs: Bird flu spikes dwindle supply",
+      "url": "https://abc7ny.com/post/may-shelling-more-money-eggs-bird-flu-spikes-dwindle-supply/15584763/",
+      "domain": "abc7ny.com",
+      "published": "2024-11-25",
+      "snippet": "The new outlook report from the USDA on Friday showed that table egg production projections are down and price projections are going up in 2024 and 2025 as a result of \"losses due to avian influenza\" and \"a slow-growing\" remaining flock.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "Why you may be shelling out more money on eggs: Bird flu spikes dwindle supply",
+      "url": "https://abc7chicago.com/post/may-shelling-more-money-eggs-bird-flu-spikes-dwindle-supply/15584763/",
+      "domain": "abc7chicago.com",
+      "published": "2024-11-25",
+      "snippet": "The new outlook report from the USDA on Friday showed that table egg production projections are down and price projections are going up in 2024 and 2025 as a result of \"losses due to avian influenza\" and \"a slow-growing\" remaining flock.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "Why you may be shelling out more money on eggs: Bird flu spikes dwindle supply",
+      "url": "https://abc30.com/post/may-shelling-more-money-eggs-bird-flu-spikes-dwindle-supply/15584763/",
+      "domain": "abc30.com",
+      "published": "2024-11-25",
+      "snippet": "The new outlook report from the USDA on Friday showed that table egg production projections are down and price projections are going up in 2024 and 2025 as a result of \"losses due to avian influenza\" and \"a slow-growing\" remaining flock.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 4,
+      "title": "Why you may be shelling out more money on eggs: Bird flu spikes dwindle supply",
+      "url": "https://6abc.com/post/may-shelling-more-money-eggs-bird-flu-spikes-dwindle-supply/15584763/",
+      "domain": "6abc.com",
+      "published": "2024-11-25",
+      "snippet": "The new outlook report from the USDA on Friday showed that table egg production projections are down and price projections are going up in 2024 and 2025 as a result of \"losses due to avian influenza\" and \"a slow-growing\" remaining flock.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://6abc.com/post/fact-checking-trumps-speech-congress/15978671/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://abc13.com/post/fact-checking-trumps-speech-congress/15978671/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://abc7ny.com/post/fact-checking-trumps-speech-congress/15978671/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://abc7news.com/post/fact-checking-trumps-speech-congress/15978671/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://abc11.com/post/fact-checking-trumps-speech-congress/15978671/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://abc7.com/post/fact-checking-trumps-speech-congress/15978671/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://abc7chicago.com/15978671",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://abc7chicago.com/post/fact-checking-trumps-speech-congress/15978671/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    }
+  ]
+}

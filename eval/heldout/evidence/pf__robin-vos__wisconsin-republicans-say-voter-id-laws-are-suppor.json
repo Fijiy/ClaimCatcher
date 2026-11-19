@@ -1,0 +1,234 @@
+{
+  "frozenAt": "2026-10-27T03:02:04.986Z",
+  "refilteredAt": "2026-10-27T03:32:22.112Z",
+  "id": "pf/robin-vos/wisconsin-republicans-say-voter-id-laws-are-suppor",
+  "said": "2025-01-08",
+  "queries": {
+    "fact": "Voter ID is supported, if you look at any poll, by 70 to 80% of the public.",
+    "claim": "Voter ID is supported, if you look at any poll, by 70 to 80% of the public. Robin Vos"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2765.3338750000003,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2140.935458,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Wisconsin Republicans say voter ID laws are supported by ...",
+      "url": "https://politifact.com/factchecks/2025/jan/23/robin-vos/wisconsin-republicans-say-voter-id-laws-are-suppor/",
+      "domain": "politifact.com",
+      "published": "2025-01-23",
+      "publishedAsGiven": "Jan 23, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Voter ID Laws",
+      "url": "https://politifact.com/voter-id-laws/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Over 80% of Americans support Voter ID according to a ...",
+      "url": "https://www.facebook.com/BillHuizenga/posts/over-80-of-americans-support-voter-id-according-to-a-recent-poll-next-week-the-h/1449866110077047/",
+      "domain": "facebook.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Do 80% of Americans support voter ID?",
+      "url": "https://wisconsinwatch.org/2026/02/voter-id-americans-support-wisconsin-poll-photo-identification/",
+      "domain": "wisconsinwatch.org",
+      "published": "2026-02-19",
+      "publishedAsGiven": "Feb 19, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Voter ID is a reasonable policy that is supported by ...",
+      "url": "https://www.facebook.com/ShortsleeveMA/videos/voter-id-is-a-reasonable-policy-that-is-supported-by-an-overwhelming-majority-of/1687905059085334/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Most Americans support requiring photo ID to vote. ...",
+      "url": "https://www.nbcnews.com/politics/congress/americans-support-photo-id-vote-democrats-oppose-save-america-act-rcna259549",
+      "domain": "nbcnews.com",
+      "published": "2026-03-17",
+      "publishedAsGiven": "Mar 17, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Americans widely support requiring photo ID to vote, new ...",
+      "url": "https://www.youtube.com/watch?v=IxAJQ5bWjxc",
+      "domain": "youtube.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Should Voters Have to Prove Their Identity and Citizenship ...",
+      "url": "https://www.closeup.org/should-voters-have-to-prove-their-identity-and-citizenship-twelve-states-decide/",
+      "domain": "closeup.org",
+      "published": "2026-09-28",
+      "publishedAsGiven": "Sep 28, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "The SAVE America Act: Voter ID is Popular with Everyone",
+      "url": "https://www.whitehouse.gov/releases/2026/02/voter-id-is-overwhelmingly-popular-with-literally-everyone-except-democrat-politicians/",
+      "domain": "whitehouse.gov",
+      "published": "2026-02-10",
+      "publishedAsGiven": "Feb 10, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Fact-check: How popular are voter ID requirements and ...",
+      "url": "https://www.wral.com/news/state/fact-check-voter-id--requirements-popular-common-july-23/",
+      "domain": "wral.com",
+      "published": "2026-07-23",
+      "publishedAsGiven": "Jul 23, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Wisconsin Republicans say voter ID laws are supported by ...",
+      "url": "https://politifact.com/factchecks/2025/jan/23/robin-vos/wisconsin-republicans-say-voter-id-laws-are-suppor/",
+      "domain": "politifact.com",
+      "published": "2025-01-23",
+      "publishedAsGiven": "Jan 23, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Is Vos right that 80 percent of Wisconsin voters support ...",
+      "url": "https://www.jsonline.com/story/news/politics/politifactwisconsin/2025/01/23/is-vos-right-that-80-percent-of-wisconsin-voters-support-photo-id-law/77883781007/",
+      "domain": "jsonline.com",
+      "published": "2025-01-23",
+      "publishedAsGiven": "Jan 23, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Wisconsin Republicans say voter ID laws are supported by 70 ...",
+      "url": "https://wnymedia.net/2025/01/23/robin-vos-wisconsin-republicans-say-voter-id-laws-are-supported-by-70-to-80-of-the-public/",
+      "domain": "wnymedia.net",
+      "published": "2025-01-23",
+      "publishedAsGiven": "Jan 23, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Voter ID Laws",
+      "url": "https://politifact.com/voter-id-laws/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Journal Sentinel on X: \"Robin Vos says voter ID law ...",
+      "url": "https://x.com/journalsentinel/status/1882443267083493690",
+      "domain": "x.com",
+      "published": "2025-01-23",
+      "publishedAsGiven": "Jan 23, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Voters to decide whether to enshrine voter ID law into ...",
+      "url": "https://www.wpr.org/news/voter-identification-constitutional-amendment-wisconsin",
+      "domain": "wpr.org",
+      "published": "2025-01-14",
+      "publishedAsGiven": "Jan 14, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Did you know a proposed constitutional amendment ...",
+      "url": "https://www.facebook.com/demodefensefndn/posts/did-you-know-a-proposed-constitutional-amendment-requiring-voter-id-is-on-wiscon/122180667038265123/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Wisconsin election includes voter ID referendum: What to ...",
+      "url": "https://www.jsonline.com/story/news/politics/elections/2025/03/13/wisconsin-election-voter-id-referendum-april-what-to-know/81166185007/",
+      "domain": "jsonline.com",
+      "published": "2025-03-13",
+      "publishedAsGiven": "Mar 13, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Robin Vos",
+      "url": "https://ballotpedia.org/Robin_Vos",
+      "domain": "ballotpedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Republican Wisconsin Speaker Robin Vos leaving office ...",
+      "url": "https://pbswisconsin.org/news-item/republican-wisconsin-speaker-robin-vos-leaving-office-after-reshaping-the-state/",
+      "domain": "pbswisconsin.org",
+      "published": "2026-02-19",
+      "publishedAsGiven": "Feb 19, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 4,
+    "fact-check-words": 2,
+    "after-said": 12,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:02:00.078Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

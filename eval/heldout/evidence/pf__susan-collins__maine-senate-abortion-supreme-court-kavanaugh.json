@@ -1,0 +1,281 @@
+{
+  "frozenAt": "2026-10-27T03:16:18.411Z",
+  "refilteredAt": "2026-10-27T03:35:50.677Z",
+  "id": "pf/susan-collins/maine-senate-abortion-supreme-court-kavanaugh",
+  "said": "2026-06-12",
+  "queries": {
+    "fact": "The Supreme Court’s 2022 ruling on abortion has not had an impact on the state of Maine in that Maine actually expanded its law.",
+    "claim": "The Supreme Court’s 2022 ruling on abortion has not had an impact on the state of Maine in that Maine actually expanded its law. Susan Collins"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2723.4789170000004,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 3204.0030419999966,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "After Roe Fell: U.S. Abortion Laws by State",
+      "url": "https://reproductiverights.org/maps/abortion-laws-by-state/",
+      "domain": "reproductiverights.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Our partners at PolitiFact have run a fact-check on Sen. ...",
+      "url": "https://www.facebook.com/wmtwtv/posts/our-partners-at-politifact-have-run-a-fact-check-on-sen-susan-collins-statement/1524720686370399/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Roe v. Wade Overturned: How the Supreme Court Let ...",
+      "url": "https://www.plannedparenthoodaction.org/issues/abortion/roe-v-wade",
+      "domain": "plannedparenthoodaction.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "A Year After the Supreme Court Overturned Roe v. Wade ...",
+      "url": "https://www.americanprogress.org/article/a-year-after-the-supreme-court-overturned-roe-v-wade-trends-in-state-abortion-laws-have-emerged/",
+      "domain": "americanprogress.org",
+      "published": "2023-06-15",
+      "publishedAsGiven": "Jun 15, 2023",
+      "snippet": "According to the Guttmacher Institute, which tracks state-level abortion legislation, in 2022 alone, state legislators introduced 563 provisions ..."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "LD 1619 An Act to Improve Maine 's Reproductive Privacy Laws",
+      "url": "https://legislature.maine.gov/legis/bills/getTestimonyDoc.asp?id=177522",
+      "domain": "legislature.maine.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Supreme Court overturns constitutional right to abortion",
+      "url": "https://www.scotusblog.com/2022/06/supreme-court-overturns-constitutional-right-to-abortion/",
+      "domain": "scotusblog.com",
+      "published": "2022-06-24",
+      "publishedAsGiven": "Jun 24, 2022",
+      "snippet": "The Supreme Court on Friday eliminated the constitutional right to obtain an abortion, casting aside 49 years of precedent that began with Roe v ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Supreme Court Rules No Constitutional Right to Abortion ...",
+      "url": "https://www.congress.gov/crs-product/LSB10768",
+      "domain": "congress.gov",
+      "published": "2022-06-27",
+      "publishedAsGiven": "Jun 27, 2022",
+      "snippet": "By overruling Roe and Casey, the Dobbs Court not only held that the Constitution does not guarantee a right to abortion, but it also determined ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "What a Supreme Court ruling ending Roe v. Wade would mean ...",
+      "url": "https://www.youtube.com/watch?v=iFcNXujoRDM",
+      "domain": "youtube.com",
+      "published": "2022-10-27",
+      "publishedAsGiven": "4 years ago",
+      "snippet": "A day after a Supreme Court document on abortion became public we look at the legal and political implications."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "The Supreme Court's Abortion Ruling: Explaining What It ...",
+      "url": "https://thedig.howard.edu/all-stories/supreme-courts-abortion-ruling-explaining-what-it-means-law-and-women-america",
+      "domain": "thedig.howard.edu",
+      "published": "2022-06-29",
+      "publishedAsGiven": "Jun 29, 2022",
+      "snippet": "The Supreme Court upheld a Mississippi law that banned abortions after 15 weeks of pregnancy, with no exception for rape or incest. In upholding ..."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Abortion law in the United States by state",
+      "url": "https://en.wikipedia.org/wiki/Abortion_law_in_the_United_States_by_state",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact-checking Sen. Collins' claim that SCOTUS abortion ruling ...",
+      "url": "https://www.wmtw.com/article/susan-collins-fact-check-supreme-court-abortion-ruling-maine-impact/71686208",
+      "domain": "wmtw.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Susan Collins says the SCOTUS abortion ruling didn't impact ...",
+      "url": "https://politifact.com/factchecks/2026/jun/23/susan-collins/maine-senate-abortion-supreme-court-kavanaugh/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Abortion rights fight underscores key themes in Maine's U.S. ...",
+      "url": "https://mainemorningstar.com/2026/06/24/abortion-rights-fight-underscores-key-themes-in-maines-u-s-senate-race/",
+      "domain": "mainemorningstar.com",
+      "published": null,
+      "dropped": "after-said-link-date"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Our partners at PolitiFact have run a fact-check on Sen. Susan ...",
+      "url": "https://www.facebook.com/wmtwtv/photos/our-partners-at-politifact-have-run-a-fact-check-on-sen-susan-collins-statement-/1524720663037068/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Susan Collins Reminds Maine Voters Just How Easily Brett ...",
+      "url": "https://ballsandstrikes.org/law-politics/susan-collins-reminds-maine-voters-kavanaugh-duped/",
+      "domain": "ballsandstrikes.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Senator Susan Collins was asked about running in her first ...",
+      "url": "https://www.facebook.com/roguednncc/posts/senator-susan-collins-was-asked-about-running-in-her-first-election-since-the-su/1520384933610096/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Susan Collins had four years to prepare for this question",
+      "url": "https://www.ms.now/opinion/susan-collins-kavanaugh-abortion-maine-senate",
+      "domain": "ms.now",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Did the Supreme Court's abortion ruling have no real impact on ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-the-supreme-courts-abortion-ruling-have-no-real-impact-on-maine-law/",
+      "domain": "mediabiasfactcheck.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Susan Collins says the SCOTUS abortion ruling didn't impact ...",
+      "url": "https://chamberlight.com/articles/politifact-susan-collins-says-the-scotus-abortion-ruling-didnt-impact-2yqd/susan-collins-maine-senate",
+      "domain": "chamberlight.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Susan Collins Lies About Her Anti-Abortion Record in First ...",
+      "url": "https://reproductivefreedomforall.org/news/susan-collins-lies-about-her-anti-abortion-record-in-first-maine-u-s-senate-debate/",
+      "domain": "reproductivefreedomforall.org",
+      "published": null,
+      "dropped": "undated"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 5,
+    "after-said": 0,
+    "maybe-after-said": 0,
+    "after-said-link-date": 1,
+    "undated": 8
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:16:12.480Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "A Year After the Supreme Court Overturned Roe v. Wade ...",
+      "url": "https://www.americanprogress.org/article/a-year-after-the-supreme-court-overturned-roe-v-wade-trends-in-state-abortion-laws-have-emerged/",
+      "domain": "americanprogress.org",
+      "snippet": "According to the Guttmacher Institute, which tracks state-level abortion legislation, in 2022 alone, state legislators introduced 563 provisions ...",
+      "published": "2023-06-15",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "L",
+        "reliability": "high",
+        "name": "Center for American Progress",
+        "page": "https://mediabiasfactcheck.com/center-for-american-progress/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Supreme Court overturns constitutional right to abortion",
+      "url": "https://www.scotusblog.com/2022/06/supreme-court-overturns-constitutional-right-to-abortion/",
+      "domain": "scotusblog.com",
+      "snippet": "The Supreme Court on Friday eliminated the constitutional right to obtain an abortion, casting aside 49 years of precedent that began with Roe v ...",
+      "published": "2022-06-24",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "SCOTUSblog",
+        "page": "https://mediabiasfactcheck.com/scotusblog/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Supreme Court Rules No Constitutional Right to Abortion ...",
+      "url": "https://www.congress.gov/crs-product/LSB10768",
+      "domain": "congress.gov",
+      "snippet": "By overruling Roe and Casey, the Dobbs Court not only held that the Constitution does not guarantee a right to abortion, but it also determined ...",
+      "published": "2022-06-27",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "The Supreme Court's Abortion Ruling: Explaining What It ...",
+      "url": "https://thedig.howard.edu/all-stories/supreme-courts-abortion-ruling-explaining-what-it-means-law-and-women-america",
+      "domain": "thedig.howard.edu",
+      "snippet": "The Supreme Court upheld a Mississippi law that banned abortions after 15 weeks of pregnancy, with no exception for rape or incest. In upholding ...",
+      "published": "2022-06-29",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 4
+    }
+  ]
+}

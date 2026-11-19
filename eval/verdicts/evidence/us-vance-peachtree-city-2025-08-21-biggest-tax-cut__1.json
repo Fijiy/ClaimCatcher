@@ -1,0 +1,121 @@
+{
+  "case_id": "us-vance-peachtree-city-2025-08-21-biggest-tax-cut#1",
+  "queries": {
+    "A": "And that's why we had the biggest tax cut for families that this country has ever seen. Vance",
+    "B": "One Big Beautiful Bill Act tax cut size as percent of GDP compared with historical tax cuts"
+  },
+  "results": [
+    {
+      "q": "B",
+      "rank": 5,
+      "title": "Fact Check Team: Is Trump’s tax law the largest tax cut in US history?",
+      "url": "https://katv.com/news/nation-world/fact-check-team-is-trumps-tax-law-the-largest-tax-cut-in-us-history-income-policy",
+      "domain": "katv.com",
+      "published": "2026-10-01",
+      "snippet": "President Donald Trump signed the One Big Beautiful Bill Act into law on July 4, 2025. The law extended many of the individual tax cuts enacted during his first term, made changes to business taxes and introduced new tax breaks for certain workers, seniors and car buyers.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 6,
+      "title": "Fact Check Team: Is Trump’s tax law the largest tax cut in US history?",
+      "url": "https://kmph.com/news/nation-world/fact-check-team-is-trumps-tax-law-the-largest-tax-cut-in-us-history-income-policy",
+      "domain": "kmph.com",
+      "published": "2026-10-01",
+      "snippet": "President Donald Trump signed the One Big Beautiful Bill Act into law on July 4, 2025. The law extended many of the individual tax cuts enacted during his first term, made changes to business taxes and introduced new tax breaks for certain workers, seniors and car buyers.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 7,
+      "title": "Fact Check Team: Is Trump’s tax law the largest tax cut in US history?",
+      "url": "https://local12.com/news/nation-world/fact-check-team-is-trumps-tax-law-the-largest-tax-cut-in-us-history-income-policy",
+      "domain": "local12.com",
+      "published": "2026-10-01",
+      "snippet": "President Donald Trump signed the One Big Beautiful Bill Act into law on July 4, 2025. The law extended many of the individual tax cuts enacted during his first term, made changes to business taxes and introduced new tax breaks for certain workers, seniors and car buyers.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 8,
+      "title": "Fact Check Team: Is Trump’s tax law the largest tax cut in US history?",
+      "url": "https://wlos.com/news/nation-world/fact-check-team-is-trumps-tax-law-the-largest-tax-cut-in-us-history-income-policy",
+      "domain": "wlos.com",
+      "published": "2026-10-01",
+      "snippet": "President Donald Trump signed the One Big Beautiful Bill Act into law on July 4, 2025. The law extended many of the individual tax cuts enacted during his first term, made changes to business taxes and introduced new tax breaks for certain workers, seniors and car buyers.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://www.wral.com/amp/22141392",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://politifact.com/?p=334291",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "A",
+      "url": "https://www.politifact.com/factchecks/2025/aug/22/jd-vance/big-beautiful-bill-biggest-tax-cut-history",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "A",
+      "url": "https://api.politifact.com/factchecks/2025/aug/22/jd-vance/big-beautiful-bill-biggest-tax-cut-history/",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "A",
+      "url": "https://politifact.com/taxes",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.wral.com/archive/22141392/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.ctpublic.org/2025-08-21/vance-touts-tax-cuts-trumps-domestic-agenda-in-georgia",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.hawaiipublicradio.org/national-international/2025-08-21/vance-touts-tax-cuts-trumps-domestic-agenda-in-georgia",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.nhpr.org/2025-08-21/vance-touts-tax-cuts-trumps-domestic-agenda-in-georgia",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://embed.wionews.com/world/-if-you-are-jd-vance-s-major-announcement-on-big-fat-tax-cut-here-s-what-he-said-1755809637221",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "B",
+      "url": "https://www.aljazeera.com/economy/2025/8/23/is-trumps-big-beautiful-spending-law-the-biggest-tax-cut-in-us-history",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "B",
+      "url": "https://www.wral.com/archive/22141392/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "B",
+      "url": "https://www.politifact.com/factchecks/2025/aug/22/jd-vance/big-beautiful-bill-biggest-tax-cut-history",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "B",
+      "url": "https://politifact.com/?p=334291",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    }
+  ]
+}

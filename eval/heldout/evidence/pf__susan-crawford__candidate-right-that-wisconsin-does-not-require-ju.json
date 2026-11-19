@@ -1,0 +1,281 @@
+{
+  "frozenAt": "2026-10-27T03:02:26.238Z",
+  "refilteredAt": "2026-10-27T03:32:27.118Z",
+  "id": "pf/susan-crawford/candidate-right-that-wisconsin-does-not-require-ju",
+  "said": "2025-02-09",
+  "queries": {
+    "fact": "Wisconsin does not require judges to automatically recuse just because they have done some kind of legal work in the past as a lawyer.",
+    "claim": "Wisconsin does not require judges to automatically recuse just because they have done some kind of legal work in the past as a lawyer. Susan Crawford"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2319.4818330000016,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2373.1654169999965,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Judicial Recusal in Wisconsin and Beyond",
+      "url": "https://statedemocracy.law.wisc.edu/our-work/judicial-recusal-in-wisconsin-and-beyond",
+      "domain": "statedemocracy.law.wisc.edu",
+      "published": "2023-09-05",
+      "publishedAsGiven": "Sep 5, 2023",
+      "snippet": "A judge or justice is required to recuse when the judge or justice: is related to any party or a party's lawyers (or their spouses); is a party ..."
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Candidate right that Wisconsin does not require judges to ...",
+      "url": "https://politifact.com/factchecks/2025/feb/19/susan-crawford/candidate-right-that-wisconsin-does-not-require-ju/",
+      "domain": "politifact.com",
+      "published": "2025-02-19",
+      "publishedAsGiven": "Feb 19, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "SCR Chapter 60",
+      "url": "https://www.wicourts.gov/courts/committees/judicialcommission/code.htm",
+      "domain": "wicourts.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "To recuse or not to recuse?",
+      "url": "https://www.tdcaa.com/journal/to-recuse-or-not-to-recuse/",
+      "domain": "tdcaa.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Code of Conduct for United States Judges",
+      "url": "https://www.uscourts.gov/administration-policies/judiciary-policies/ethics-policies/code-conduct-united-states-judges",
+      "domain": "uscourts.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Rule 2.11: Disqualification",
+      "url": "https://www.americanbar.org/groups/professional_responsibility/publications/model_code_of_judicial_conduct/model_code_of_judicial_conduct_canon_2/rule2_11disqualification/",
+      "domain": "americanbar.org",
+      "published": "2020-07-15",
+      "publishedAsGiven": "Jul 15, 2020",
+      "snippet": "A judge shall disqualify himself or herself in any proceeding in which the judge's impartiality* might reasonably be questioned,"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Judicial Recusal Explained: How Conflicts of Interest ...",
+      "url": "https://www.superlawyers.com/resources/ethics-and-professional-responsibility/judicial-recusal/",
+      "domain": "superlawyers.com",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Wisconsin Supreme Court Recusal Requests Rise as Justices ...",
+      "url": "https://www.facebook.com/pbswi/videos/wisconsin-supreme-court-justices-are-being-asked-to-recuse-themselves-from-cases/3483817205104583/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Recusal of Judge | NC PRO",
+      "url": "https://ncpro.sog.unc.edu/manual/203-1",
+      "domain": "ncpro.sog.unc.edu",
+      "published": "2025-07-14",
+      "publishedAsGiven": "Jul 14, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Wisconsin Supreme Court revisits recusal rules amid ...",
+      "url": "https://wisconsinwatch.org/2026/06/wisconsin-supreme-court-judge-recusal-rules-campaign-money-justice-impartiality/",
+      "domain": "wisconsinwatch.org",
+      "published": "2026-06-01",
+      "publishedAsGiven": "Jun 1, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Would Susan Crawford need to recuse from cases ...",
+      "url": "https://www.jsonline.com/story/news/politics/politifactwisconsin/2025/02/17/would-susan-crawford-need-to-recuse-from-cases-involving-planned-parenthood/78974205007/",
+      "domain": "jsonline.com",
+      "published": "2025-02-17",
+      "publishedAsGiven": "Feb 17, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Candidate right that Wisconsin does not require judges to ...",
+      "url": "https://politifact.com/factchecks/2025/feb/19/susan-crawford/candidate-right-that-wisconsin-does-not-require-ju/",
+      "domain": "politifact.com",
+      "published": "2025-02-19",
+      "publishedAsGiven": "Feb 19, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Judicial Recusal in Wisconsin and Beyond",
+      "url": "https://statedemocracy.law.wisc.edu/our-work/judicial-recusal-in-wisconsin-and-beyond",
+      "domain": "statedemocracy.law.wisc.edu",
+      "published": "2023-09-05",
+      "publishedAsGiven": "Sep 5, 2023",
+      "snippet": "Wisconsin's Code of Judicial Conduct requires a judge to recuse when the judge, while a judicial candidate, makes statements committing the ..."
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "scr chapter 60 code of judicial conduct",
+      "url": "https://www.wicourts.gov/sc/rules/chap60.pdf",
+      "domain": "wicourts.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "When should judges step away from a case? Wisconsin to ...",
+      "url": "https://www.wpr.org/news/wisconsin-study-changing-rules-judges",
+      "domain": "wpr.org",
+      "published": "2026-06-05",
+      "publishedAsGiven": "Jun 5, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Meet the candidates for La Crosse County Circuit Court",
+      "url": "https://www.wjiinc.org/blog/category/choosing-judges/3",
+      "domain": "wjiinc.org",
+      "published": "2025-03-10",
+      "publishedAsGiven": "Mar 10, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Wisconsin Civil Rights and Labor Standards Laws",
+      "url": "https://dwd.wisconsin.gov/er/laws.htm",
+      "domain": "dwd.wisconsin.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Recusal and Wisconsin's 2026 Supreme Court candidates",
+      "url": "https://www.youtube.com/shorts/3niELWSpXGI",
+      "domain": "youtube.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Wisconsin Must Revisit Judicial Recusal Rules",
+      "url": "https://campaignlegal.org/press-releases/wisconsin-must-revisit-judicial-recusal-rules",
+      "domain": "campaignlegal.org",
+      "published": "2017-03-15",
+      "publishedAsGiven": "Mar 15, 2017",
+      "snippet": "“The U.S. Supreme Court has repeatedly emphasized that the constitution requires that judges recuse themselves from cases where there is a ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "STATE OF WISCONSIN - In re rule for recusal when a party ...",
+      "url": "https://thebadgerproject.org/wp-content/uploads/2023/08/Retired-judges-donor-recusal-rule.pdf",
+      "domain": "thebadgerproject.org",
+      "published": null,
+      "snippet": "Citizens, and now corporations, have a constitutional right to contribute to the judicial candidate of their choice. They do not, however, have the right to ..."
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 1,
+    "after-said": 7,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 5
+  },
+  "linkDatedKept": 1,
+  "searchedAt": "2026-10-27T03:02:21.544Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Judicial Recusal in Wisconsin and Beyond",
+      "url": "https://statedemocracy.law.wisc.edu/our-work/judicial-recusal-in-wisconsin-and-beyond",
+      "domain": "statedemocracy.law.wisc.edu",
+      "snippet": "A judge or justice is required to recuse when the judge or justice: is related to any party or a party's lawyers (or their spouses); is a party ...",
+      "published": "2023-09-05",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Rule 2.11: Disqualification",
+      "url": "https://www.americanbar.org/groups/professional_responsibility/publications/model_code_of_judicial_conduct/model_code_of_judicial_conduct_canon_2/rule2_11disqualification/",
+      "domain": "americanbar.org",
+      "snippet": "A judge shall disqualify himself or herself in any proceeding in which the judge's impartiality* might reasonably be questioned,",
+      "published": "2020-07-15",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    },
+    {
+      "title": "Wisconsin Must Revisit Judicial Recusal Rules",
+      "url": "https://campaignlegal.org/press-releases/wisconsin-must-revisit-judicial-recusal-rules",
+      "domain": "campaignlegal.org",
+      "snippet": "“The U.S. Supreme Court has repeatedly emphasized that the constitution requires that judges recuse themselves from cases where there is a ...",
+      "published": "2017-03-15",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    },
+    {
+      "title": "STATE OF WISCONSIN - In re rule for recusal when a party ...",
+      "url": "https://thebadgerproject.org/wp-content/uploads/2023/08/Retired-judges-donor-recusal-rule.pdf",
+      "domain": "thebadgerproject.org",
+      "snippet": "Citizens, and now corporations, have a constitutional right to contribute to the judicial candidate of their choice. They do not, however, have the right to ...",
+      "published": null,
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 4
+    }
+  ]
+}

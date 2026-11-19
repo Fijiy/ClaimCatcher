@@ -1,0 +1,215 @@
+{
+  "frozenAt": "2026-10-27T03:16:27.462Z",
+  "refilteredAt": "2026-10-27T03:35:53.178Z",
+  "id": "pf/abdul-el-sayed/mike-rogers-14-million-pharma-lobbyist-michigan",
+  "said": "2026-06-14",
+  "queries": {
+    "fact": "Michigan U.S. Senate candidate Mike Rogers took a $14 million payout as a pharma lobbyist.",
+    "claim": "Michigan U.S. Senate candidate Mike Rogers took a $14 million payout as a pharma lobbyist. Abdul El-Sayed"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1525.6371670000954,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1518.9707499999786,
+      "results": 8
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Senate candidate Mike Rogers didn't make millions as ...",
+      "url": "https://politifact.com/factchecks/2026/jul/02/abdul-el-sayed/mike-rogers-14-million-pharma-lobbyist-michigan/",
+      "domain": "politifact.com",
+      "published": "2026-07-02",
+      "publishedAsGiven": "Jul 2, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Fact check: Abdul El-Sayed attacks Mike Rogers over ...",
+      "url": "https://bridgemi.com/michigan-government/fact-check-abdul-el-sayed-attacks-mike-rogers-over-pharma-industry-ties/",
+      "domain": "bridgemi.com",
+      "published": "2026-08-28",
+      "publishedAsGiven": "Aug 28, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Mike Rogers spent 20 years as a politician working for Big ...",
+      "url": "https://www.facebook.com/DrAbdulElSayed/posts/mike-rogers-spent-20-years-as-a-politician-working-for-big-pharma-and-corporatio/1648246866672588/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Rogers Threatens Suit Over El-Sayed 'Lie' Calling Him ' ...",
+      "url": "https://www.nrsc.org/press-releases/the-detroit-news-rogers-threatens-suit-over-el-sayed-lie-calling-him-pharma-lobbyist-2026-06-22/",
+      "domain": "nrsc.org",
+      "published": "2026-06-22",
+      "publishedAsGiven": "Jun 22, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Did Mike Rogers take a $14 million payout as a pharma ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-mike-rogers-take-a-14-million-payout-as-a-pharma-lobbyist/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-07-05",
+      "publishedAsGiven": "Jul 5, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "UPON FURTHER REVIEW: Mike Rogers is Big Pharma's MVP.",
+      "url": "https://www.facebook.com/DrAbdulElSayed/posts/upon-further-review-mike-rogers-is-big-pharmas-mvp/1662239631939978/",
+      "domain": "facebook.com",
+      "published": "2026-10-25",
+      "publishedAsGiven": "2 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Rogers threatens suit over El-Sayed 'lie' calling him ' ...",
+      "url": "https://www.yahoo.com/news/politics/articles/rogers-threatens-suit-over-el-152209804.html",
+      "domain": "yahoo.com",
+      "published": "2026-06-22",
+      "publishedAsGiven": "Jun 22, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "No, Rogers didn't take $14M as 'pharma lobbyist' | PolitiFact",
+      "url": "https://www.linkedin.com/posts/politifact_no-rogers-didnt-take-14m-as-pharma-lobbyist-activity-7480013800990146560-LvBL",
+      "domain": "linkedin.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Fact-checking Abdul El-Sayed and Haley Stevens' claims ...",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-abdul-el-sayed-and-haley-stevens-claims-ahead-of-the-michigan-democratic-senate-primary",
+      "domain": "pbs.org",
+      "published": "2026-08-03",
+      "publishedAsGiven": "Aug 3, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Abdul El-Sayed on Michigan Democratic Senate Primary 2026 ...",
+      "url": "https://www.facebook.com/DrAbdulElSayed/videos/mike-rogers-is-a-guy-who-voted-to-raise-prescription-drug-prices-60-times-archit/1302087228577985/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Senate candidate Mike Rogers didn't make millions as ...",
+      "url": "https://politifact.com/factchecks/2026/jul/02/abdul-el-sayed/mike-rogers-14-million-pharma-lobbyist-michigan/",
+      "domain": "politifact.com",
+      "published": "2026-07-02",
+      "publishedAsGiven": "Jul 2, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Moments After Abdul Called Rogers Out For Being ...",
+      "url": "https://abdulforsenate.com/2026/10/moments-after-abdul-called-rogers-out-for-being-bankrolled-by-big-pharma-during-debate-rogers-reported-a-contribution-from-a-lobbyist-with-pharma-ties/",
+      "domain": "abdulforsenate.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Fact check: Abdul El-Sayed attacks Mike Rogers over ...",
+      "url": "https://bridgemi.com/michigan-government/fact-check-abdul-el-sayed-attacks-mike-rogers-over-pharma-industry-ties/",
+      "domain": "bridgemi.com",
+      "published": "2026-08-28",
+      "publishedAsGiven": "Aug 28, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Rogers Threatens Suit Over El-Sayed 'Lie' Calling Him ' ...",
+      "url": "https://www.nrsc.org/press-releases/the-detroit-news-rogers-threatens-suit-over-el-sayed-lie-calling-him-pharma-lobbyist-2026-06-22/",
+      "domain": "nrsc.org",
+      "published": "2026-06-22",
+      "publishedAsGiven": "Jun 22, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Mike Rogers spent 20 years as a politician working for Big ...",
+      "url": "https://www.facebook.com/DrAbdulElSayed/posts/mike-rogers-spent-20-years-as-a-politician-working-for-big-pharma-and-corporatio/1648246866672588/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Fact-checking Abdul El-Sayed and Haley Stevens' claims ...",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-abdul-el-sayed-and-haley-stevens-claims-ahead-of-the-michigan-democratic-senate-primary",
+      "domain": "pbs.org",
+      "published": "2026-08-03",
+      "publishedAsGiven": "Aug 3, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Mike Rogers' campaign sends cease and desist letter ...",
+      "url": "https://www.detroitnews.com/story/news/politics/2026/06/22/mike-rogers-michigan-senate-campaign-abdul-el-sayed-pharma-lobbyist/90639861007/",
+      "domain": "detroitnews.com",
+      "published": "2026-06-22",
+      "publishedAsGiven": "Jun 22, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "\"Mike Rogers voted to raise prescription drug prices 60 ...",
+      "url": "https://x.com/AbdulElSayed/status/2066304986238026127?lang=en",
+      "domain": "x.com",
+      "published": null,
+      "dropped": "undated"
+    }
+  ],
+  "returned": 18,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 6,
+    "after-said": 7,
+    "maybe-after-said": 1,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:16:24.415Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

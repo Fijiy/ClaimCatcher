@@ -1,0 +1,373 @@
+{
+  "frozenAt": "2026-10-27T03:08:55.954Z",
+  "refilteredAt": "2026-10-27T03:34:00.037Z",
+  "id": "pf/pam-bondi/doj-minnesota-fraud-trump-biden-somalis",
+  "said": "2025-12-29",
+  "queries": {
+    "fact": "The Justice Department has been investigating fraud in Minnesota for months. So far, we have charged 98 individuals.",
+    "claim": "The Justice Department has been investigating fraud in Minnesota for months. So far, we have charged 98 individuals. Pam Bondi"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1497.6264589999919,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1308.0374580000062,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 1747.3074999999953,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Minnesota Somali fraud scandal: DOJ charges 98 after journo ' ...",
+      "url": "https://www.youtube.com/watch?v=0IphTkHXu4g",
+      "domain": "youtube.com",
+      "published": "2025-12-27",
+      "publishedAsGiven": "10 months ago",
+      "snippet": "Minnesota Somali fraud scandal: DOJ charges 98 after journo 'exposes' $250M scam, 'more to come!' · Comments."
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "\"We have charged 98 individuals in relation to fraud ...",
+      "url": "https://x.com/TheJusticeDept/status/2005767943964221610?lang=en",
+      "domain": "x.com",
+      "published": "2025-12-27",
+      "publishedAsGiven": "10 months ago",
+      "snippet": "We have charged 98 individuals in relation to fraud in Minnesota. More than 60 have pled guilty or been convicted. More to come."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Minnesota Health Care Fraud Takedown Results in ...",
+      "url": "https://www.justice.gov/opa/pr/minnesota-health-care-fraud-takedown-results-charges-against-15-defendants-over-90m-fraud",
+      "domain": "justice.gov",
+      "published": "2026-05-21",
+      "publishedAsGiven": "May 21, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Most 'robust fraud fighting effort ever attempted' for taxpayers ...",
+      "url": "https://www.youtube.com/watch?v=pkWNdl6W-1A",
+      "domain": "youtube.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "DOJ Charges 15 in $90M Minnesota Medicaid Fraud Scheme",
+      "url": "https://www.facebook.com/CBSNews/videos/doj-charges-15-in-medicaid-fraud-scheme-that-cost-taxpayers-90-million/2397978080706392/",
+      "domain": "facebook.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "2020s Minnesota fraud scandals",
+      "url": "https://en.wikipedia.org/wiki/2020s_Minnesota_fraud_scandals",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Since 2022, federal prosecutors have charged 98 people ...",
+      "url": "https://www.facebook.com/FoxNews/posts/more-to-come-since-2022-federal-prosecutors-have-charged-98-people-in-minnesota-/1283098963679963/",
+      "domain": "facebook.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "U.S. Attorney's office announces new fraud charges in Minnesota",
+      "url": "https://www.youtube.com/watch?v=bKpMMDxIwls",
+      "domain": "youtube.com",
+      "published": "2025-12-27",
+      "publishedAsGiven": "10 months ago",
+      "snippet": "The U.S. Attorney's Office filed charges against suspects accused of defrauding housing and autism-related programs."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Here's What the Trump Administration Is Doing to Crush ...",
+      "url": "https://www.whitehouse.gov/releases/2026/01/heres-what-the-trump-administration-is-doing-to-crush-minnesotas-fraud-epidemic/",
+      "domain": "whitehouse.gov",
+      "published": "2026-01-02",
+      "publishedAsGiven": "Jan 2, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "The Justice Department said five more people have been ...",
+      "url": "https://www.facebook.com/NewsNationNow/posts/the-justice-department-said-five-more-people-have-been-charged-as-part-of-its-in/881985897541762/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact-checking key moments in Bondi's tenure as Trump's ...",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-key-moments-in-bondis-tenure-as-trumps-attorney-general",
+      "domain": "pbs.org",
+      "published": "2026-04-03",
+      "publishedAsGiven": "Apr 3, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "\"We have charged 98 individuals in relation to fraud ...",
+      "url": "https://x.com/TheJusticeDept/status/2005767943964221610?lang=en",
+      "domain": "x.com",
+      "published": "2025-12-27",
+      "publishedAsGiven": "10 months ago",
+      "snippet": "We have charged 98 individuals in relation to fraud in Minnesota. More than 60 have pled guilty or been convicted. More to come. @AGPamBondi."
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Minnesota Somali fraud scandal: DOJ charges 98 after journo ' ...",
+      "url": "https://www.youtube.com/watch?v=0IphTkHXu4g",
+      "domain": "youtube.com",
+      "published": "2025-12-27",
+      "publishedAsGiven": "10 months ago",
+      "snippet": "Minnesota Somali fraud scandal: DOJ charges 98 after journo 'exposes' $250M scam, 'more to come!' · Comments."
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Minnesota fraud row update: 98 people charged, more ...",
+      "url": "https://www.hindustantimes.com/world-news/us-news/minnesota-fraud-row-update-98-people-charged-more-than-60-found-guilty-pam-bondi-gives-shoutout-to-nick-shirley-101767075109078.html",
+      "domain": "hindustantimes.com",
+      "published": "2025-12-30",
+      "publishedAsGiven": "Dec 30, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Latest Fact-Checks On Pam Bondi",
+      "url": "https://politifact.com/factchecks/list/?speaker=pam-bondi&ruling=half-true",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Attorney General Pam Bondi announced Monday the ...",
+      "url": "https://www.facebook.com/NTDLifeOfficial/posts/attorney-general-pam-bondi-announced-monday-the-department-of-justice-has-been-i/1214253157556834/",
+      "domain": "facebook.com",
+      "published": "2025-12-27",
+      "publishedAsGiven": "10 months ago",
+      "snippet": "Attorney General Pam Bondi announced Monday the Department of Justice has been investigating Minnesota's recently exposed daycare fraud for ..."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "US Justice Department charges 98 in Minnesota fraud ...",
+      "url": "https://www.aa.com.tr/en/americas/us-justice-department-charges-98-in-minnesota-fraud-investigation/3784392",
+      "domain": "aa.com.tr",
+      "published": "2025-12-30",
+      "publishedAsGiven": "Dec 30, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "AG Pam Bondi sending more prosecutors to Minnesota ...",
+      "url": "https://alphanews.org/ag-pam-bondi-sending-more-prosecutors-to-minnesota-to-help-fight-fraud-vows-severe-consequences/",
+      "domain": "alphanews.org",
+      "published": "2026-01-08",
+      "publishedAsGiven": "Jan 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Patel tracked massive Minnesota fraud for months, says ...",
+      "url": "https://cbsaustin.com/news/nation-world/uncovered-2018-footage-shows-parents-allegedly-participated-in-minnesota-fraud-scheme-pam-bondi-department-of-justice-daycare?teaserSource=trending",
+      "domain": "cbsaustin.com",
+      "published": "2025-12-30",
+      "publishedAsGiven": "Dec 30, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Federal Authorities Launch Massive Childcare Fraud ...",
+      "url": "https://www.foxnews.com/us/feds-launch-massive-investigation-after-viral-video-alleges-minnesota-daycare-fraud",
+      "domain": "foxnews.com",
+      "published": "2025-12-29",
+      "publishedAsGiven": "Dec 29, 2025",
+      "snippet": "Attorney General Pam Bondi said the Justice Department has been investigating fraud in Minnesota for months. \"@TheJusticeDept has been ..."
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Woman at center of sprawling Minnesota fraud case gets ...",
+      "url": "https://www.nbcnews.com/news/us-news/prosecutors-seek-50-year-sentence-nonprofit-leader-center-sprawling-mi-rcna346261",
+      "domain": "nbcnews.com",
+      "published": "2026-05-21",
+      "publishedAsGiven": "May 21, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "What is the Minnesota social welfare scandal that has ...",
+      "url": "https://www.reuters.com/legal/government/what-is-minnesota-social-welfare-scandal-that-has-drawn-trumps-ire-2026-01-14/",
+      "domain": "reuters.com",
+      "published": "2026-01-14",
+      "publishedAsGiven": "Jan 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Minnesota fraud investigation ramps up with new raids",
+      "url": "https://www.usatoday.com/story/news/nation/2026/04/28/minnesota-fraud-investigation-search-warrants-fbi-dhs/89836468007/",
+      "domain": "usatoday.com",
+      "published": "2026-04-28",
+      "publishedAsGiven": "Apr 28, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Vance launches into Trump's 'war on fraud' by suspending ...",
+      "url": "https://www.nbcnews.com/politics/jd-vance/vance-trump-war-fraud-suspending-medicaid-payments-minnesota-rcna260655",
+      "domain": "nbcnews.com",
+      "published": "2026-02-25",
+      "publishedAsGiven": "Feb 25, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Vance announces new prosecutorial post to investigate ...",
+      "url": "https://www.usatoday.com/story/news/politics/2026/01/08/jd-vance-prosecutor-fraud-associate-attorney-general/88086970007/",
+      "domain": "usatoday.com",
+      "published": "2026-01-08",
+      "publishedAsGiven": "Jan 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "Trump's US attorney who led Minnesota fraud probe resigns",
+      "url": "https://www.usatoday.com/story/news/politics/2026/01/13/trump-attorney-minnesota-fraud-resignation-joe-thompson/88160880007/",
+      "domain": "usatoday.com",
+      "published": "2026-01-13",
+      "publishedAsGiven": "Jan 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "F.B.I. Sees 'Massive Fraud' in Groups' Food Programs for ...",
+      "url": "https://www.nytimes.com/2022/03/08/us/politics/food-aid-nonprofits-fraud-investigation.html",
+      "domain": "nytimes.com",
+      "published": "2022-03-08",
+      "publishedAsGiven": "Mar 8, 2022",
+      "snippet": "In court filings, the F.B.I. said it had discovered a “massive fraud scheme” among groups that Feeding Our Future was supposed to oversee, ..."
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Kennedy Center board votes to close venue for 2-year ...",
+      "url": "https://www.nbcnews.com/politics/politics-news/live-blog/trump-israel-poll-democrats-ice-dhs-china-cuba-congress-live-updates-rcna263534",
+      "domain": "nbcnews.com",
+      "published": "2026-03-16",
+      "publishedAsGiven": "Mar 16, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "Anti-ICE protest at Minnesota church leads to 3 arrests ...",
+      "url": "https://www.npr.org/2026/01/22/g-s1-106899/minnesota-church-protest-arrests-pam-bondi-don-lemon",
+      "domain": "npr.org",
+      "published": "2026-01-22",
+      "publishedAsGiven": "Jan 22, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "Fact-checking Trump's 2026 State of the Union address",
+      "url": "https://www.nbcnews.com/politics/donald-trump/state-of-union-fact-check-trump-speech-2026-rcna259900",
+      "domain": "nbcnews.com",
+      "published": "2026-02-25",
+      "publishedAsGiven": "Feb 25, 2026",
+      "dropped": "fact-check-words"
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 2,
+    "after-said": 16,
+    "maybe-after-said": 1,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:08:53.146Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "F.B.I. Sees 'Massive Fraud' in Groups' Food Programs for ...",
+      "url": "https://www.nytimes.com/2022/03/08/us/politics/food-aid-nonprofits-fraud-investigation.html",
+      "domain": "nytimes.com",
+      "snippet": "In court filings, the F.B.I. said it had discovered a “massive fraud scheme” among groups that Feeding Our Future was supposed to oversee, ...",
+      "published": "2022-03-08",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "New York Times",
+        "page": "https://mediabiasfactcheck.com/new-york-times/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Federal Authorities Launch Massive Childcare Fraud ...",
+      "url": "https://www.foxnews.com/us/feds-launch-massive-investigation-after-viral-video-alleges-minnesota-daycare-fraud",
+      "domain": "foxnews.com",
+      "snippet": "Attorney General Pam Bondi said the Justice Department has been investigating fraud in Minnesota for months. \"@TheJusticeDept has been ...",
+      "published": "2025-12-29",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "R",
+        "reliability": "mixed",
+        "name": "Fox News",
+        "page": "https://mediabiasfactcheck.com/fox-news/"
+      },
+      "weight": "reduced",
+      "n": 2
+    }
+  ]
+}

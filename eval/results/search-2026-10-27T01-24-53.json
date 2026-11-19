@@ -1,0 +1,2695 @@
+{
+  "gate": "search",
+  "started": "2026-10-27T01:24:53.320Z",
+  "environment": {
+    "platform": "darwin arm64",
+    "cpu": "Apple M4",
+    "memoryGb": "16",
+    "node": "v22.23.2",
+    "chrome": "151.0.7922.138",
+    "pauseMsBetweenClaims": "1000"
+  },
+  "skipped": {
+    "venice": "no Venice key (VENICE_API_KEY or --venice-key-file)"
+  },
+  "searches": {
+    "tinyfish": {
+      "summary": {
+        "provider": "tinyfish",
+        "claims": 29,
+        "requests": 65,
+        "failedRequests": 0,
+        "failures": {},
+        "resultsPerQuery": 9.551724137931034,
+        "emptyQueries": 0,
+        "usable": 136,
+        "usableFull": 79,
+        "pool": 227,
+        "claimsWithFive": 15,
+        "claimsWithNone": 1,
+        "spread": {
+          "L": 7,
+          "LC": 9,
+          "C": 12,
+          "RC": 2,
+          "R": 0,
+          "Primary": 44,
+          "pro-science": 0,
+          "unrated": 32
+        },
+        "balancedClaims": 7,
+        "latencyMs": {
+          "median": 1813.3359999999957,
+          "p90": 2830.8767584000016,
+          "max": 4067.408209000001
+        },
+        "overlapDomains": 0.0732142857142857,
+        "overlapUrls": 0
+      },
+      "claims": [
+        {
+          "id": "cnn-2024-biden-opening-economy#4",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1355.0458330000001,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 2287.6480840000004,
+              "results": 10
+            }
+          ],
+          "returned": 20,
+          "afterDate": 12,
+          "classified": {
+            "full": 2,
+            "reduced": 5,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "ncbi.nlm.nih.gov",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK616488/",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "jamanetwork.com",
+              "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2847533",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "medicare.gov",
+              "url": "https://www.medicare.gov/coverage/insulin",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            },
+            {
+              "domain": "diabetes.org",
+              "url": "https://diabetes.org/tools-resources/affordable-insulin",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            },
+            {
+              "domain": "medicare.gov",
+              "url": "https://www.medicare.gov/publications/12172-3-things-to-know-about-medicare-insulin-costs.pdf",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 3
+          }
+        },
+        {
+          "id": "cnn-2024-trump-greatest-economy#0",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1221.4385839999995,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 1434.9537500000006,
+              "results": 10
+            }
+          ],
+          "returned": 20,
+          "afterDate": 8,
+          "classified": {
+            "full": 8,
+            "reduced": 1,
+            "context": 1,
+            "dropped": 2
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "bls.gov",
+              "url": "https://www.bls.gov/charts/employment-situation/civilian-unemployment-rate.htm",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "telegraph.co.uk",
+              "url": "https://www.telegraph.co.uk/us/news/2026/10/25/trump-economy-better-voters-crushed-cost-of-living-midterms/",
+              "rating": "RC",
+              "weight": "full",
+              "published": "2 days ago"
+            },
+            {
+              "domain": "bea.gov",
+              "url": "https://www.bea.gov/news/glance",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "rollcall.com",
+              "url": "https://rollcall.com/factbase/trump/search/?q=greatest+economy&f=&media=&type=&sort=&page=0",
+              "rating": "C",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "en.wikipedia.org",
+              "url": "https://en.wikipedia.org/wiki/Economy_of_the_United_States",
+              "rating": "L",
+              "weight": "full",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "cnn-2024-trump-greatest-economy#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 2263.0750829999997,
+              "results": 9
+            },
+            {
+              "query": "claim",
+              "ms": 1073.3390830000008,
+              "results": 10
+            }
+          ],
+          "returned": 19,
+          "afterDate": 11,
+          "classified": {
+            "full": 4,
+            "reduced": 1,
+            "context": 0,
+            "dropped": 3
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "fred.stlouisfed.org",
+              "url": "https://fred.stlouisfed.org/graph?graph_id=348960",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "fred.stlouisfed.org",
+              "url": "https://fred.stlouisfed.org/graph/?g=1x456",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "pewresearch.org",
+              "url": "https://www.pewresearch.org/wp-content/uploads/sites/5/reports/69.pdf",
+              "rating": "C",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "fred.stlouisfed.org",
+              "url": "https://fred.stlouisfed.org/graph/?g=1tzEE",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "abcnews.com",
+              "url": "https://abcnews.com/Politics/harris-trump-presidential-debate-transcript/story?id=113560542",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "abc-2024-trump-springfield-pets#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1459.84375,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 2188.4335420000025,
+              "results": 10
+            },
+            {
+              "query": "balance",
+              "ms": 1397.675083000002,
+              "results": 10
+            }
+          ],
+          "returned": 20,
+          "afterDate": 9,
+          "classified": {
+            "full": 1,
+            "reduced": 1,
+            "context": 0,
+            "dropped": 8
+          },
+          "balanced": true,
+          "evidence": [
+            {
+              "domain": "en.wikipedia.org",
+              "url": "https://en.wikipedia.org/wiki/Springfield_pet-eating_hoax",
+              "rating": "L",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "open.spotify.com",
+              "url": "https://open.spotify.com/track/3mm6BqYUdVexVflzjym0wl",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "abc-2024-harris-afghanistan-camp-david#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 2320.930833999999,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 1337.5822910000024,
+              "results": 10
+            },
+            {
+              "query": "balance",
+              "ms": 3292.301041999999,
+              "results": 10
+            }
+          ],
+          "returned": 20,
+          "afterDate": 9,
+          "classified": {
+            "full": 2,
+            "reduced": 1,
+            "context": 0,
+            "dropped": 8
+          },
+          "balanced": true,
+          "evidence": [
+            {
+              "domain": "en.wikipedia.org",
+              "url": "https://en.wikipedia.org/wiki/United_States_military_deployments",
+              "rating": "L",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "govinfo.gov",
+              "url": "https://www.govinfo.gov/content/pkg/DCPD-201800416/html/DCPD-201800416.htm",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "centcom.mil",
+              "url": "https://www.centcom.mil/MEDIA/igphoto/2001590573/",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 1,
+            "urls": 0,
+            "frozen": 1
+          }
+        },
+        {
+          "id": "abc-2024-harris-afghanistan-camp-david#6",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1597.1527499999975,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 1138.6476250000014,
+              "results": 10
+            }
+          ],
+          "returned": 20,
+          "afterDate": 13,
+          "classified": {
+            "full": 1,
+            "reduced": 1,
+            "context": 0,
+            "dropped": 5
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "congress.gov",
+              "url": "https://www.congress.gov/event/116th-congress/house-event/LC64708/text",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "abcnews.com",
+              "url": "https://abcnews.com/Politics/president-trump-cancels-secret-meeting-taliban-camp-david/story?id=65465259",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "cbs-2024-walz-iran-tbi-headaches#3",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1958.5839579999956,
+              "results": 9
+            },
+            {
+              "query": "claim",
+              "ms": 1266.685292000002,
+              "results": 10
+            }
+          ],
+          "returned": 19,
+          "afterDate": 13,
+          "classified": {
+            "full": 1,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 5
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "neurologyopen.bmj.com",
+              "url": "https://neurologyopen.bmj.com/content/bmjno/5/1/e000343.full.pdf",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "cbs-2024-vance-cbp-one-mic-cut#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1419.1821249999994,
+              "results": 8
+            },
+            {
+              "query": "claim",
+              "ms": 1230.2538750000022,
+              "results": 10
+            }
+          ],
+          "returned": 18,
+          "afterDate": 14,
+          "classified": {
+            "full": 0,
+            "reduced": 1,
+            "context": 0,
+            "dropped": 3
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "support.iraplegalinfo.org",
+              "url": "https://support.iraplegalinfo.org/hc/en-us/articles/36668725368980-Important-Information-for-People-Who-Got-Parole-Using-CBP-One",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 3
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1745.544541999996,
+              "results": 6
+            },
+            {
+              "query": "claim",
+              "ms": 2208.316500000001,
+              "results": 10
+            }
+          ],
+          "returned": 16,
+          "afterDate": 13,
+          "classified": {
+            "full": 1,
+            "reduced": 1,
+            "context": 0,
+            "dropped": 1
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "data.bls.gov",
+              "url": "https://data.bls.gov/timeseries/SMU53426600000000001",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "foxbusiness.com",
+              "url": "https://www.foxbusiness.com/video/6349405246112",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1364.0532079999975,
+              "results": 9
+            },
+            {
+              "query": "claim",
+              "ms": 1785.078125,
+              "results": 10
+            }
+          ],
+          "returned": 19,
+          "afterDate": 15,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 4
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#4",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1910.576291999998,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 2149.352042000006,
+              "results": 8
+            }
+          ],
+          "returned": 18,
+          "afterDate": 9,
+          "classified": {
+            "full": 7,
+            "reduced": 1,
+            "context": 0,
+            "dropped": 1
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "bls.gov",
+              "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "wral.com",
+              "url": "https://www.wral.com/archive/21226800/",
+              "rating": "C",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "bls.gov",
+              "url": "https://www.bls.gov/charts/employment-situation/employment-by-industry-monthly-changes.htm",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "fred.stlouisfed.org",
+              "url": "https://fred.stlouisfed.org/series/MANEMP",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "epi.org",
+              "url": "https://www.epi.org/indicators/unemployment/",
+              "rating": "LC",
+              "weight": "full",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#6",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1990.5510839999988,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 2536.043166999996,
+              "results": 10
+            },
+            {
+              "query": "balance",
+              "ms": 1745.3507499999978,
+              "results": 10
+            }
+          ],
+          "returned": 20,
+          "afterDate": 13,
+          "classified": {
+            "full": 3,
+            "reduced": 1,
+            "context": 0,
+            "dropped": 2
+          },
+          "balanced": true,
+          "evidence": [
+            {
+              "domain": "en.wikipedia.org",
+              "url": "https://en.wikipedia.org/wiki/Wealth_inequality_in_the_United_States",
+              "rating": "L",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "news.duke.edu",
+              "url": "https://news.duke.edu/stories/2024/06/10/u-s-racial-wealth-gap-is-persistent-and-growing-new-research-finds/",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "federalreserve.gov",
+              "url": "https://www.federalreserve.gov/econres/notes/feds-notes/wealth-inequality-and-the-racial-wealth-gap-20211022.html",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "inequality.org",
+              "url": "https://inequality.org/facts/wealth-inequality/",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#7",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1082.6679999999978,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 1668.6605409999975,
+              "results": 10
+            },
+            {
+              "query": "balance",
+              "ms": 2260.717042000004,
+              "results": 10
+            }
+          ],
+          "returned": 20,
+          "afterDate": 12,
+          "classified": {
+            "full": 5,
+            "reduced": 2,
+            "context": 0,
+            "dropped": 1
+          },
+          "balanced": true,
+          "evidence": [
+            {
+              "domain": "bls.gov",
+              "url": "https://www.bls.gov/news.release/realer.nr0.htm",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "fred.stlouisfed.org",
+              "url": "https://fred.stlouisfed.org/graph/?g=iuyN",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "epi.org",
+              "url": "https://www.epi.org/nominal-wage-tracker/",
+              "rating": "LC",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "fred.stlouisfed.org",
+              "url": "https://fred.stlouisfed.org/series/CES0500000003",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "brookings.edu",
+              "url": "https://www.brookings.edu/articles/has-pay-kept-up-with-inflation/",
+              "rating": "LC",
+              "weight": "full",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 1,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#8",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 2989.4136249999865,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 1974.198583999998,
+              "results": 10
+            }
+          ],
+          "returned": 20,
+          "afterDate": 11,
+          "classified": {
+            "full": 4,
+            "reduced": 2,
+            "context": 2,
+            "dropped": 1
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "imf.org",
+              "url": "https://www.imf.org/external/datamapper/PCPIPCH@WEO/CIS",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "ropercenter.cornell.edu",
+              "url": "https://ropercenter.cornell.edu/when-perception-reality-public-opinion-bidens-handling-economy",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "investopedia.com",
+              "url": "https://www.investopedia.com/inflation-rate-by-year-7253832",
+              "rating": "C",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "congress.gov",
+              "url": "https://www.congress.gov/event/118th-congress/house-event/LC73275/text",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "tradingeconomics.com",
+              "url": "https://tradingeconomics.com/united-states/inflation-cpi",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "trump-joint-2025-social-security-ages#0",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1728.2843339999963,
+              "results": 8
+            },
+            {
+              "query": "claim",
+              "ms": 1340.1317079999862,
+              "results": 10
+            }
+          ],
+          "returned": 18,
+          "afterDate": 12,
+          "classified": {
+            "full": 1,
+            "reduced": 2,
+            "context": 1,
+            "dropped": 2
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "gao.gov",
+              "url": "https://www.gao.gov/high-risk-list",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "intosaijournal.org",
+              "url": "https://intosaijournal.org/journal-entry/u-s-gaos-fraud-estimates-key-steps-ensure-decision-makers-fully-accept-and-understand-innovative-approaches/",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            },
+            {
+              "domain": "it.usembassy.gov",
+              "url": "https://it.usembassy.gov/remarks-by-president-trump-in-joint-address-to-congress/",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 1,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "trump-joint-2025-social-security-ages#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 2500.655583999993,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 1637.569834000009,
+              "results": 10
+            }
+          ],
+          "returned": 20,
+          "afterDate": 14,
+          "classified": {
+            "full": 2,
+            "reduced": 3,
+            "context": 0,
+            "dropped": 1
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "ssa.gov",
+              "url": "https://www.ssa.gov/dataexchange/request_dmf.html",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "pmc.ncbi.nlm.nih.gov",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC406423/",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "dmf.ntis.gov",
+              "url": "https://dmf.ntis.gov/",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            },
+            {
+              "domain": "providertrust.com",
+              "url": "https://providertrust.com/blog/ssa-death-master-file-guide",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            },
+            {
+              "domain": "ancestry.com",
+              "url": "https://www.ancestry.com/c/family-history-learning-hub/ssdi",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "trump-joint-2025-social-security-ages#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1030.235541999995,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 4067.408209000001,
+              "results": 9
+            }
+          ],
+          "returned": 19,
+          "afterDate": 14,
+          "classified": {
+            "full": 4,
+            "reduced": 1,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "ssa.gov",
+              "url": "https://www.ssa.gov/oact/progdata/byage.html",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "ssa.gov",
+              "url": "https://www.ssa.gov/blog/en/",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "ssa.gov",
+              "url": "https://www.ssa.gov/pubs/EN-05-10085.pdf",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "ssa.gov",
+              "url": "https://www.ssa.gov/survivor/amount",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "aarp.org",
+              "url": "https://www.aarp.org/social-security/payment-schedule/",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "trump-joint-2025-inflation-eggs-energy#0",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1900.2372079999914,
+              "results": 8
+            },
+            {
+              "query": "claim",
+              "ms": 3119.708375000002,
+              "results": 10
+            },
+            {
+              "query": "balance",
+              "ms": 1370.6507500000007,
+              "results": 10
+            }
+          ],
+          "returned": 18,
+          "afterDate": 11,
+          "classified": {
+            "full": 4,
+            "reduced": 1,
+            "context": 0,
+            "dropped": 2
+          },
+          "balanced": true,
+          "evidence": [
+            {
+              "domain": "fred.stlouisfed.org",
+              "url": "https://fred.stlouisfed.org/series/gdpc1",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "en.wikipedia.org",
+              "url": "https://en.wikipedia.org/wiki/False_or_misleading_statements_by_Donald_Trump",
+              "rating": "L",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "newyorkfed.org",
+              "url": "https://www.newyorkfed.org/research/policy/outlook-at-risk",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "imf.org",
+              "url": "https://www.imf.org/external/datamapper/profile/USA",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "ksby.com",
+              "url": "https://www.ksby.com/politics/truth-be-told/truth-be-told-trump-didnt-inherit-economic-catastrophe",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 3
+          }
+        },
+        {
+          "id": "trump-joint-2025-inflation-eggs-energy#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1520.5699580000073,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 3276.5467079999944,
+              "results": 10
+            }
+          ],
+          "returned": 20,
+          "afterDate": 13,
+          "classified": {
+            "full": 4,
+            "reduced": 2,
+            "context": 0,
+            "dropped": 1
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "investopedia.com",
+              "url": "https://www.investopedia.com/inflation-rate-by-year-7253832",
+              "rating": "C",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "nytimes.com",
+              "url": "https://www.nytimes.com/live/2025/03/05/us/trump-speech-congress/we-suffered-the-worst-inflation-in-48-years-but-perhaps-even-in-the-history-of-our-country-theyre-not-sure-as-president-im-fight",
+              "rating": "LC",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "fred.stlouisfed.org",
+              "url": "https://fred.stlouisfed.org/series/FPCPITOTLZGUSA",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "cbo.gov",
+              "url": "https://www.cbo.gov/system/files/2024-09/60480-Inflation.pdf",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "minneapolisfed.org",
+              "url": "https://www.minneapolisfed.org/about-us/monetary-policy/inflation-calculator/consumer-price-index-1913-",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "trump-joint-2025-inflation-eggs-energy#3",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1813.3359999999957,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 2862.337333000003,
+              "results": 10
+            },
+            {
+              "query": "balance",
+              "ms": 2786.654999999999,
+              "results": 10
+            }
+          ],
+          "returned": 20,
+          "afterDate": 12,
+          "classified": {
+            "full": 5,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 4
+          },
+          "balanced": true,
+          "evidence": [
+            {
+              "domain": "pmc.ncbi.nlm.nih.gov",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11381505/",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "bbc.com",
+              "url": "https://www.bbc.com/news/videos/cyve6enzerlo",
+              "rating": "LC",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "apnews.com",
+              "url": "https://apnews.com/hub/bird-flu",
+              "rating": "C",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "scholarworks.uark.edu",
+              "url": "https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=1039&context=aeabuht",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "enewspaper.latimes.com",
+              "url": "https://enewspaper.latimes.com/infinity/article_share.aspx?guid=50fb38ed-0a0d-4a83-adc7-e6856b7ca0f1",
+              "rating": "LC",
+              "weight": "full",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "trump-joint-2025-inflation-eggs-energy#6",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1781.8042080000014,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 2680.713374999992,
+              "results": 10
+            }
+          ],
+          "returned": 20,
+          "afterDate": 4,
+          "classified": {
+            "full": 6,
+            "reduced": 8,
+            "context": 0,
+            "dropped": 2
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "journals.uchicago.edu",
+              "url": "https://www.journals.uchicago.edu/doi/full/10.1086/717217",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "factcheck.org",
+              "url": "https://www.factcheck.org/2025/03/factchecking-trumps-address-to-congress-2/",
+              "rating": "C",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "eia.gov",
+              "url": "https://www.eia.gov/todayinenergy/index.php?tg=retirements",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "npr.org",
+              "url": "https://www.npr.org/2026/09/14/nx-s1-5968785/epa-repeals-pollution-limits-on-power-plants",
+              "rating": "LC",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "nytimes.com",
+              "url": "https://www.nytimes.com/2026/09/28/climate/coal-industry-power-plants-trump.html",
+              "rating": "LC",
+              "weight": "full",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 1,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "booker-senate-floor-2025-consumer-confidence#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1657.110875000013,
+              "results": 9
+            },
+            {
+              "query": "claim",
+              "ms": 1503.4280410000065,
+              "results": 10
+            },
+            {
+              "query": "balance",
+              "ms": 1202.2770420000015,
+              "results": 10
+            }
+          ],
+          "returned": 19,
+          "afterDate": 14,
+          "classified": {
+            "full": 1,
+            "reduced": 3,
+            "context": 0,
+            "dropped": 1
+          },
+          "balanced": true,
+          "evidence": [
+            {
+              "domain": "realclearpolitics.com",
+              "url": "https://www.realclearpolitics.com/articles/2025/04/09/cory_bookers_blab-a-thon_underlines_fact-checker_tilt_152624.html",
+              "rating": "RC",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "conference-board.org",
+              "url": "https://www.conference-board.org/publications/Consumer-Confidence-July",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            },
+            {
+              "domain": "conference-board.org",
+              "url": "https://www.conference-board.org/data",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            },
+            {
+              "domain": "conference-board.org",
+              "url": "https://www.conference-board.org/webcasts/webcastlistall.cfm",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "johnson-speaker-acceptance-2023-prices-debt#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1576.0217080000002,
+              "results": 8
+            },
+            {
+              "query": "claim",
+              "ms": 2798.9107090000034,
+              "results": 10
+            }
+          ],
+          "returned": 18,
+          "afterDate": 9,
+          "classified": {
+            "full": 3,
+            "reduced": 5,
+            "context": 0,
+            "dropped": 1
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "bls.gov",
+              "url": "https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202309.pdf",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "presidency.ucsb.edu",
+              "url": "https://www.presidency.ucsb.edu/documents/annual-message-the-congress-the-economic-report-the-president-12",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "pmc.ncbi.nlm.nih.gov",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4266933/",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "static.poder360.com.br",
+              "url": "https://static.poder360.com.br/2021/10/consumer-price-index-eua-setembro.pdf",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            },
+            {
+              "domain": "macrotrends.net",
+              "url": "https://www.macrotrends.net/stocks/charts/JNJ/johnson-johnson/stock-price-history",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 1,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "johnson-speaker-acceptance-2023-prices-debt#5",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1119.4512499999983,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 1946.0118749999965,
+              "results": 8
+            }
+          ],
+          "returned": 18,
+          "afterDate": 8,
+          "classified": {
+            "full": 4,
+            "reduced": 3,
+            "context": 2,
+            "dropped": 1
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "pgpf.org",
+              "url": "https://www.pgpf.org/national-debt-clock/",
+              "rating": "C",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "fiscaldata.treasury.gov",
+              "url": "https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "en.wikipedia.org",
+              "url": "https://en.wikipedia.org/wiki/National_debt_of_the_United_States",
+              "rating": "L",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "fred.stlouisfed.org",
+              "url": "https://fred.stlouisfed.org/series/GFDEBTN",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "us-debt-clock.com",
+              "url": "https://www.us-debt-clock.com/",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 1
+          }
+        },
+        {
+          "id": "murray-senate-floor-2025-tax-cuts-debt#0",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 2250.6677499999932,
+              "results": 7
+            },
+            {
+              "query": "claim",
+              "ms": 2297.0936249999795,
+              "results": 10
+            }
+          ],
+          "returned": 17,
+          "afterDate": 9,
+          "classified": {
+            "full": 2,
+            "reduced": 1,
+            "context": 0,
+            "dropped": 5
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "americanprogress.org",
+              "url": "https://www.americanprogress.org/wp-content/uploads/sites/2/2023/03/DebtRatio-brief.pdf",
+              "rating": "L",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "wral.com",
+              "url": "https://www.wral.com/archive/21954191/",
+              "rating": "C",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "economicstrategygroup.org",
+              "url": "https://www.economicstrategygroup.org/wp-content/uploads/2023/07/Dynan.pdf",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 3
+          }
+        },
+        {
+          "id": "uk-pmqs-2025-09-03-badenoch-unemployment#4",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1941.0422499999986,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 2852.1874580000003,
+              "results": 10
+            }
+          ],
+          "returned": 20,
+          "afterDate": 16,
+          "classified": {
+            "full": 0,
+            "reduced": 2,
+            "context": 0,
+            "dropped": 2
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "tradingeconomics.com",
+              "url": "https://tradingeconomics.com/united-kingdom/unemployment-rate",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            },
+            {
+              "domain": "gov.uk",
+              "url": "https://www.gov.uk/government/statistics/get-britain-working-labour-market-insights-october-2025/get-britain-working-labour-market-insights-october-2025",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "uk-pmqs-2026-03-04-starmer-defence-270bn#3",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1783.0567919999885,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 2498.1422500000044,
+              "results": 10
+            }
+          ],
+          "returned": 20,
+          "afterDate": 3,
+          "classified": {
+            "full": 2,
+            "reduced": 6,
+            "context": 0,
+            "dropped": 9
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "fullfact.org",
+              "url": "https://fullfact.org/government-tracker/defence-spending-percent/",
+              "rating": "C",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "fullfact.org",
+              "url": "https://fullfact.org/politics/defence-spending-increase-pmqs/",
+              "rating": "C",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "ifs.org.uk",
+              "url": "https://ifs.org.uk/sites/default/files/2025-09/UK_Defence_Spending_IFS_Green-Budget_2025_Chapter_0.pdf",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            },
+            {
+              "domain": "hansard.parliament.uk",
+              "url": "https://hansard.parliament.uk/Commons/2026-03-04/debates/CA28DABD-0CF6-4879-B936-1E3BA6DB9114/PrimeMinister",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            },
+            {
+              "domain": "thetimes.com",
+              "url": "https://www.thetimes.com/uk/defence/article/defence-spending-falls-pm-promise-wnww2xh8f",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 1,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "us-khanna-tiktok-2025-02-20-telehealth#0",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 2388.033415999991,
+              "results": 10
+            },
+            {
+              "query": "claim",
+              "ms": 1390.4381670000148,
+              "results": 10
+            }
+          ],
+          "returned": 20,
+          "afterDate": 16,
+          "classified": {
+            "full": 1,
+            "reduced": 1,
+            "context": 0,
+            "dropped": 2
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "cahpr.sph.brown.edu",
+              "url": "https://cahpr.sph.brown.edu/sites/default/files/documents/Policy%20Briefs/2025/Research%20Brief_%20Medicare%20Telehealth%20Flexibilities%20at%20Risk%20of%20Expiration.pdf",
+              "rating": "primary",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "medicare.gov",
+              "url": "https://www.medicare.gov/coverage/telehealth",
+              "rating": "unrated",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 3
+          }
+        },
+        {
+          "id": "us-vance-peachtree-city-2025-08-21-biggest-tax-cut#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 2171.714707999985,
+              "results": 8
+            },
+            {
+              "query": "claim",
+              "ms": 2046.7586659999797,
+              "results": 10
+            }
+          ],
+          "returned": 18,
+          "afterDate": 8,
+          "classified": {
+            "full": 1,
+            "reduced": 1,
+            "context": 2,
+            "dropped": 6
+          },
+          "balanced": false,
+          "evidence": [
+            {
+              "domain": "wral.com",
+              "url": "https://www.wral.com/archive/22141392/",
+              "rating": "C",
+              "weight": "full",
+              "published": null
+            },
+            {
+              "domain": "medium.com",
+              "url": "https://medium.com/@garrisonfathom/cutting-the-b-s-what-the-one-big-beautiful-bill-really-means-for-the-economy-2d641b2ae565",
+              "rating": "LC",
+              "weight": "reduced",
+              "published": null
+            }
+          ],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 0
+          }
+        }
+      ]
+    },
+    "duckduckgo": {
+      "summary": {
+        "provider": "duckduckgo",
+        "claims": 29,
+        "requests": 58,
+        "failedRequests": 58,
+        "failures": {
+          "DuckDuckGo refused the search: it asked to confirm a person was searching": 25,
+          "DuckDuckGo's search did not answer": 33
+        },
+        "resultsPerQuery": 0,
+        "emptyQueries": 0,
+        "usable": 0,
+        "usableFull": 0,
+        "pool": 0,
+        "claimsWithFive": 0,
+        "claimsWithNone": 29,
+        "spread": {
+          "L": 0,
+          "LC": 0,
+          "C": 0,
+          "RC": 0,
+          "R": 0,
+          "Primary": 0,
+          "pro-science": 0,
+          "unrated": 0
+        },
+        "balancedClaims": 0,
+        "latencyMs": {
+          "median": 0,
+          "p90": 0,
+          "max": 0
+        },
+        "overlapDomains": 0,
+        "overlapUrls": 0
+      },
+      "claims": [
+        {
+          "id": "cnn-2024-biden-opening-economy#4",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 553.9818340000056,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 219.33225000000675,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 3
+          }
+        },
+        {
+          "id": "cnn-2024-trump-greatest-economy#0",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 319.40158299999894,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 318.23583299998427,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "cnn-2024-trump-greatest-economy#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 264.15641699999105,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 220.334291999985,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "abc-2024-trump-springfield-pets#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 215.8996669999906,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 328.2197079999896,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "abc-2024-harris-afghanistan-camp-david#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 372.1204579999903,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 242.2937919999822,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 1
+          }
+        },
+        {
+          "id": "abc-2024-harris-afghanistan-camp-david#6",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 344.2811249999795,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 284.4080419999955,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "cbs-2024-walz-iran-tbi-headaches#3",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 195.09037499999977,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 432.9119580000115,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "cbs-2024-vance-cbp-one-mic-cut#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 435.10083300000406,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 566.4985410000081,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 3
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 344.8967090000224,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 211.33379199999035,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 254.14033399999607,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 249.8671660000109,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#4",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 200.89983300000313,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 198.80229200000758,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#6",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 268.1953330000106,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 274.7446249999921,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#7",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 360.28141699999105,
+              "results": 0,
+              "error": "DuckDuckGo refused the search: it asked to confirm a person was searching"
+            },
+            {
+              "query": "claim",
+              "ms": 852.2495409999974,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "biden-sotu-2024-economy#8",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1193.341625000001,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            },
+            {
+              "query": "claim",
+              "ms": 1170.431666999997,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "trump-joint-2025-social-security-ages#0",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1219.788291999983,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            },
+            {
+              "query": "claim",
+              "ms": 1119.916125000018,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "trump-joint-2025-social-security-ages#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1121.2809159999888,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            },
+            {
+              "query": "claim",
+              "ms": 1391.154292000021,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "trump-joint-2025-social-security-ages#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1209.7883750000037,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            },
+            {
+              "query": "claim",
+              "ms": 1232.106415999995,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "trump-joint-2025-inflation-eggs-energy#0",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1157.352291999996,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            },
+            {
+              "query": "claim",
+              "ms": 1126.4935840000107,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 3
+          }
+        },
+        {
+          "id": "trump-joint-2025-inflation-eggs-energy#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1228.939458000008,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            },
+            {
+              "query": "claim",
+              "ms": 1228.596332999994,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "trump-joint-2025-inflation-eggs-energy#3",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1169.6508329999924,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            },
+            {
+              "query": "claim",
+              "ms": 1193.3008329999866,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "trump-joint-2025-inflation-eggs-energy#6",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1227.5852500000037,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            },
+            {
+              "query": "claim",
+              "ms": 1154.5099169999885,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "booker-senate-floor-2025-consumer-confidence#2",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1214.5592499999912,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            },
+            {
+              "query": "claim",
+              "ms": 1217.9982090000121,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "johnson-speaker-acceptance-2023-prices-debt#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1168.20974999998,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            },
+            {
+              "query": "claim",
+              "ms": 1136.1188749999856,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 5
+          }
+        },
+        {
+          "id": "johnson-speaker-acceptance-2023-prices-debt#5",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1131.7899580000085,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            },
+            {
+              "query": "claim",
+              "ms": 1151.000874999998,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 1
+          }
+        },
+        {
+          "id": "murray-senate-floor-2025-tax-cuts-debt#0",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1198.8447500000184,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            },
+            {
+              "query": "claim",
+              "ms": 1132.941083999991,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 3
+          }
+        },
+        {
+          "id": "uk-pmqs-2025-09-03-badenoch-unemployment#4",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1315.8716669999994,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            },
+            {
+              "query": "claim",
+              "ms": 1210.353374999977,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "uk-pmqs-2026-03-04-starmer-defence-270bn#3",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1153.0209590000159,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            },
+            {
+              "query": "claim",
+              "ms": 1311.071958000015,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 4
+          }
+        },
+        {
+          "id": "us-khanna-tiktok-2025-02-20-telehealth#0",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1166.8860410000198,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            },
+            {
+              "query": "claim",
+              "ms": 1121.8522079999966,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 3
+          }
+        },
+        {
+          "id": "us-vance-peachtree-city-2025-08-21-biggest-tax-cut#1",
+          "requests": [
+            {
+              "query": "fact",
+              "ms": 1177.5966250000056,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            },
+            {
+              "query": "claim",
+              "ms": 1130.1654589999816,
+              "results": 0,
+              "error": "DuckDuckGo's search did not answer"
+            }
+          ],
+          "returned": 0,
+          "afterDate": 0,
+          "classified": {
+            "full": 0,
+            "reduced": 0,
+            "context": 0,
+            "dropped": 0
+          },
+          "balanced": false,
+          "evidence": [],
+          "overlap": {
+            "domains": 0,
+            "urls": 0,
+            "frozen": 0
+          }
+        }
+      ]
+    }
+  }
+}

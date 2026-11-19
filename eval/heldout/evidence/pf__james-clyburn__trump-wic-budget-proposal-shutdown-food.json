@@ -1,0 +1,247 @@
+{
+  "frozenAt": "2026-10-27T03:07:44.044Z",
+  "refilteredAt": "2026-10-27T03:33:40.772Z",
+  "id": "pf/james-clyburn/trump-wic-budget-proposal-shutdown-food",
+  "said": "2025-10-08",
+  "queries": {
+    "fact": "Trump’s budget called for a $300 (million) cut to the Women, Infants and Children program.",
+    "claim": "Trump’s budget called for a $300 (million) cut to the Women, Infants and Children program. James Clyburn"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1592.1686669999617,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 3907.4249169999966,
+      "results": 9
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "The Hidden Costs of Cutting WIC: Risks to Health and ...",
+      "url": "https://www.georgetownpoverty.org/issues/the-hidden-cost-of-cutting-wic/",
+      "domain": "georgetownpoverty.org",
+      "published": "2025-07-16",
+      "publishedAsGiven": "Jul 16, 2025",
+      "snippet": "President Trump's FY26 budget plan seeks to decrease WIC funding by nearly $300 million, slashing benefits for breastfeeding mothers from $52 ..."
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Trump Administration's FY 2026 Budget Proposal",
+      "url": "https://frac.org/blog/22711",
+      "domain": "frac.org",
+      "published": "2025-06-04",
+      "publishedAsGiven": "Jun 4, 2025",
+      "snippet": "The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) would see a $300 million cut, dropping from $7.597 billion in ..."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "WIC program gets Trump tariff money to run during shutdown",
+      "url": "https://apnews.com/article/government-shutdown-wic-food-a6d66fa0ce3d02257b5b43a79355b1bf",
+      "domain": "apnews.com",
+      "published": "2025-10-10",
+      "publishedAsGiven": "Oct 10, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "For Second Year in a Row, Trump Budget Seeks to Slash ...",
+      "url": "https://www.cbpp.org/blog/for-second-year-in-a-row-trump-budget-seeks-to-slash-wic-fruit-and-vegetable-benefits-for",
+      "domain": "cbpp.org",
+      "published": "2026-04-14",
+      "publishedAsGiven": "Apr 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "The Trump administration wants to rescue WIC now, but ...",
+      "url": "https://politifact.com/factchecks/2025/oct/16/james-clyburn/trump-wic-budget-proposal-shutdown-food/",
+      "domain": "politifact.com",
+      "published": "2025-10-16",
+      "publishedAsGiven": "Oct 16, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "The Trump administration has provided a $300 million ...",
+      "url": "https://www.facebook.com/wsls10/posts/the-trump-administration-has-provided-a-300-million-infusion-to-a-food-aid-progr/1121606586793502/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Nutrition program for women, infants and children to stay ...",
+      "url": "https://www.newsfromthestates.com/article/nutrition-program-women-infants-and-children-stay-afloat-through-end-month",
+      "domain": "newsfromthestates.com",
+      "published": "2025-10-13",
+      "publishedAsGiven": "Oct 13, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "WIC receives $300 million to keep running amid government ...",
+      "url": "https://www.youtube.com/watch?v=aGNJqsgemKs",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Republicans Advance Bill to Cut Food Assistance for Women ...",
+      "url": "http://democrats-appropriations.house.gov/news/press-releases/republicans-advance-bill-cut-food-assistance-women-and-children-decimate-rural",
+      "domain": "democrats-appropriations.house.gov",
+      "published": "2026-06-04",
+      "publishedAsGiven": "Jun 4, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "WIC Food Program Receives $300M to Keep Running ...",
+      "url": "https://www.usnews.com/news/politics/articles/2025-10-10/wic-food-program-receives-300m-to-keep-running-during-government-shutdown",
+      "domain": "usnews.com",
+      "published": "2025-10-10",
+      "publishedAsGiven": "Oct 10, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "The Trump administration wants to rescue WIC now, but ...",
+      "url": "https://politifact.com/factchecks/2025/oct/16/james-clyburn/trump-wic-budget-proposal-shutdown-food/",
+      "domain": "politifact.com",
+      "published": "2025-10-16",
+      "publishedAsGiven": "Oct 16, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "\"Trump's budget called for a $300M cut to WIC. So yes, the ...",
+      "url": "https://x.com/RepJamesClyburn/status/1976049159581921320",
+      "domain": "x.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "PolitiFact",
+      "url": "https://www.politifact.com/search/statements/?page=18&q=proposing",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "James Clyburn – The Trump administration wants to rescue WIC ...",
+      "url": "https://wnymedia.net/2025/10/17/james-clyburn-the-trump-administration-wants-to-rescue-wic-now-but-has-suggested-cuts-in-2026/",
+      "domain": "wnymedia.net",
+      "published": null,
+      "dropped": "after-said-link-date"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "This Budget Proposal Ignores Far Too Many Realities!",
+      "url": "https://www.youtube.com/watch?v=ok_sNpcz6jA",
+      "domain": "youtube.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "“Ending Lawfare Against Whistleblowers Who Protect ...",
+      "url": "https://www.congress.gov/event/119th-congress/house-event/118128/text",
+      "domain": "congress.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Did Trump Cut WIC Benefits?",
+      "url": "https://www.facebook.com/fb-answers/did-trump-cut-wic-benefits/",
+      "domain": "facebook.com",
+      "published": "Yes",
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "- DEPARTMENTS OF LABOR, HEALTH AND HUMAN ...",
+      "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61905/html/CHRG-119hhrg61905.htm",
+      "domain": "govinfo.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Latest Fact-Checks On James Clyburn",
+      "url": "https://politifact.com/factchecks/list/?speaker=james-clyburn&ruling=true",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    }
+  ],
+  "returned": 19,
+  "dropped": {
+    "fact-checker": 4,
+    "fact-check-words": 0,
+    "after-said": 6,
+    "maybe-after-said": 3,
+    "after-said-link-date": 1,
+    "undated": 3
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:07:38.545Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "The Hidden Costs of Cutting WIC: Risks to Health and ...",
+      "url": "https://www.georgetownpoverty.org/issues/the-hidden-cost-of-cutting-wic/",
+      "domain": "georgetownpoverty.org",
+      "snippet": "President Trump's FY26 budget plan seeks to decrease WIC funding by nearly $300 million, slashing benefits for breastfeeding mothers from $52 ...",
+      "published": "2025-07-16",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "Trump Administration's FY 2026 Budget Proposal",
+      "url": "https://frac.org/blog/22711",
+      "domain": "frac.org",
+      "snippet": "The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) would see a $300 million cut, dropping from $7.597 billion in ...",
+      "published": "2025-06-04",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    }
+  ]
+}

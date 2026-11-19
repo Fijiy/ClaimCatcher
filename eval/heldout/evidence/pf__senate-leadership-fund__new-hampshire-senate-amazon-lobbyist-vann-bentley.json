@@ -1,0 +1,339 @@
+{
+  "frozenAt": "2026-10-27T03:26:18.228Z",
+  "refilteredAt": "2026-10-27T03:38:16.708Z",
+  "id": "pf/senate-leadership-fund/new-hampshire-senate-amazon-lobbyist-vann-bentley",
+  "said": "2026-10-01",
+  "queries": {
+    "fact": "New Hampshire U.S. Senate candidate Chris Pappas lied about dating an Amazon lobbyist, then voted on bills Amazon lobbied on.",
+    "claim": "New Hampshire U.S. Senate candidate Chris Pappas lied about dating an Amazon lobbyist, then voted on bills Amazon lobbied on. Senate Leadership Fund"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2544.553833999904,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1848.108125000028,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 255.3703749999986,
+      "results": 3
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "In New Hampshire Senate race, was Chris Pappas dishonest ...",
+      "url": "https://politifact.com/factchecks/2026/oct/15/senate-leadership-fund/new-hampshire-senate-amazon-lobbyist-vann-bentley/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "New $6M TV Buy Hits Pappas Over Lobbyist 'Lie' - NH Journal",
+      "url": "https://nhjournal.com/new-6m-tv-buy-hits-pappas-over-lobbyist-lie/",
+      "domain": "nhjournal.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Fact-checking allegations on Pappas dating Amazon lobbyist ...",
+      "url": "https://nl.headtopics.com/news/fact-checking-allegations-on-pappas-dating-amazon-lobbyist-88840053",
+      "domain": "nl.headtopics.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "GOP Senate super PAC says Democratic New Hampshire U.S. ...",
+      "url": "https://www.facebook.com/politifact/posts/gop-senate-super-pac-says-democratic-new-hampshire-us-senate-candidate-chris-pap/1583105783850519/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Pappas Admits He Lied About Relationship With Lobbyist",
+      "url": "https://insidesources.com/pappas-admits-he-lied-about-relationship-with-lobbyist/",
+      "domain": "insidesources.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "ICYMI: Chris Pappas Ethics Questions Keep Mounting",
+      "url": "https://senateleadershipfund.org/press-releases/icymi-chris-pappas-ethics-questions-keep-mounting/",
+      "domain": "senateleadershipfund.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Chris Pappas Could Make History in New Hampshire's Senate ...",
+      "url": "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html",
+      "domain": "nytimes.com",
+      "published": null,
+      "dropped": "after-said-link-date"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Questions About Congressional Ethics Resurface Over of Rep ...",
+      "url": "https://newhampshiredaily.org/news/questions-about-congressional-ethics-resurface-over-of-rep-chris-pappas-relationship-with-amazon-lobbyist/",
+      "domain": "newhampshiredaily.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "FACT CHECK: Congressman Pappas Has a Proven Record of ...",
+      "url": "https://chrispappas.org/2026/07/fact-check-congressman-pappas-has-a-proven-record-of-taking-on-corruption-in-washington-and-fighting-for-ethics-reforms/",
+      "domain": "chrispappas.org",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "MONDAY MEMO: Chris Pappas, The Man Who Wasn't There",
+      "url": "https://nhjournal.com/monday-memo-chris-pappas-the-man-who-wasnt-there/",
+      "domain": "nhjournal.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "In New Hampshire Senate race, was Chris Pappas ...",
+      "url": "https://politifact.com/factchecks/2026/oct/15/senate-leadership-fund/new-hampshire-senate-amazon-lobbyist-vann-bentley/",
+      "domain": "politifact.com",
+      "published": "2026-10-15",
+      "publishedAsGiven": "Oct 15, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact-checking allegations on Pappas dating Amazon lobbyist",
+      "url": "https://nl.headtopics.com/news/fact-checking-allegations-on-pappas-dating-amazon-lobbyist-88840053",
+      "domain": "nl.headtopics.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "GOP Senate super PAC says Democratic New Hampshire ...",
+      "url": "https://www.facebook.com/politifact/posts/gop-senate-super-pac-says-democratic-new-hampshire-us-senate-candidate-chris-pap/1583105783850519/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "New $6M TV Buy Hits Pappas Over Lobbyist 'Lie'",
+      "url": "https://nhjournal.com/new-6m-tv-buy-hits-pappas-over-lobbyist-lie/",
+      "domain": "nhjournal.com",
+      "published": "2026-07-08",
+      "publishedAsGiven": "Jul 8, 2026",
+      "snippet": "A new GOP ad hit the airwaves Wednesday, targeting U.S. Rep. Chris Pappas over his relationship with an Amazon lobbyist and his denial of it ..."
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Pappas Admits He Lied About Relationship With Lobbyist",
+      "url": "https://insidesources.com/pappas-admits-he-lied-about-relationship-with-lobbyist/",
+      "domain": "insidesources.com",
+      "published": "2020-10-23",
+      "publishedAsGiven": "Oct 23, 2020",
+      "snippet": "Chris Pappas acknowledged his involvement in a personal relationship with a corporate lobbyist, a relationship he repeatedly denied the night ..."
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Senate Republicans pin Chris Pappas as a 'liar' in first ...",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4718307/senate-republicans-chris-pappas-liar-first-negative-ad-general-election/?srsltid=AYCX9vJfVGgu5Hyv85EtkJwFlrhRlvTQBmsdiWD7YkVbLh_hS6TA_-xM",
+      "domain": "washingtonexaminer.com",
+      "published": "2026-09-09",
+      "publishedAsGiven": "Sep 9, 2026",
+      "snippet": "Mowers had pressed Pappas about a relationship he had with a former Amazon lobbyist while he voted on legislation"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "SLF Launches New Hampshire Advertising Blitz",
+      "url": "https://senateleadershipfund.org/press-releases/slf-launches-new-hampshire-advertising-blitz/",
+      "domain": "senateleadershipfund.org",
+      "published": "2026-09-09",
+      "publishedAsGiven": "Sep 9, 2026",
+      "snippet": "The new ad exposes Pappas for knowingly lying to Granite Staters about his relationship with a corporate lobbyist, a conflict of interest after ..."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "\"Chris Pappas dated an Amazon lobbyist and voted ...",
+      "url": "https://x.com/AdImpact_Pol/status/2074866220826792375",
+      "domain": "x.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "snippet": "NHPol: \"Chris Pappas dated an Amazon lobbyist and voted on multiple bills that Jeff Bezos' Amazon lobbied on.\" Republican group One Nation ..."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "FACT CHECK: Congressman Pappas Has a Proven ...",
+      "url": "http://chrispappas.org/2026/07/fact-check-congressman-pappas-has-a-proven-record-of-taking-on-corruption-in-washington-and-fighting-for-ethics-reforms/",
+      "domain": "chrispappas.org",
+      "published": "2026-07-08",
+      "publishedAsGiven": "Jul 8, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "New Ad: Chris Pappas Is Only Looking Out For Himself",
+      "url": "https://senateleadershipfund.org/press-releases/new-ad-chris-pappas-is-only-looking-out-for-himself/",
+      "domain": "senateleadershipfund.org",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "snippet": "Chris Pappas knowingly lied to Granite Staters about his relationship with a corporate lobbyist and voted on the very legislation his partner ..."
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "He'd Be the First Openly Gay Man in the Senate. He Rarely ...",
+      "url": "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html",
+      "domain": "nytimes.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "The Daily 202: New York primary results challenge ...",
+      "url": "https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2018/09/14/daily-202-new-york-primary-results-challenge-the-crystallizing-2018-narrative/5b9b14491b326b47ec9595d4/",
+      "domain": "washingtonpost.com",
+      "published": "2018-09-14",
+      "publishedAsGiven": "Sep 14, 2018",
+      "snippet": "congressional candidate Chris Pappas also had the endorsements of the top elected Democrats in the state, Maggie Hassan. outraised him and had ..."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Yes, Donald Trump claimed fraud after the 2016 Iowa ...",
+      "url": "https://link.nbcnews.com/external/31567071.52897/aHR0cHM6Ly93d3cucG9saXRpZmFjdC5jb20vZmFjdGNoZWNrcy8yMDIwL25vdi8yMC90d2VldHMveWVzLWRvbmFsZC10cnVtcC1jbGFpbWVkLWZyYXVkLWFmdGVyLTIwMTYtaW93YS1jYXUvP2NpZD1lbWxfZmlyc3RyZWFkXzIwMjMwNTIz/60ca6dee7e643472b43d6bcfB1c45d306",
+      "domain": "link.nbcnews.com",
+      "published": "2020-11-20",
+      "publishedAsGiven": "Nov 20, 2020",
+      "snippet": "New Hampshire U.S. Senate candidate Chris Pappas “lied about dating an Amazon lobbyist, then voted on bills Amazon lobbied on.” Mostly False."
+    }
+  ],
+  "returned": 23,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 6,
+    "after-said": 1,
+    "maybe-after-said": 0,
+    "after-said-link-date": 1,
+    "undated": 5
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:26:11.742Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Pappas Admits He Lied About Relationship With Lobbyist",
+      "url": "https://insidesources.com/pappas-admits-he-lied-about-relationship-with-lobbyist/",
+      "domain": "insidesources.com",
+      "snippet": "Chris Pappas acknowledged his involvement in a personal relationship with a corporate lobbyist, a relationship he repeatedly denied the night ...",
+      "published": "2020-10-23",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "InsideSources",
+        "page": "https://mediabiasfactcheck.com/insidesources/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "The Daily 202: New York primary results challenge ...",
+      "url": "https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2018/09/14/daily-202-new-york-primary-results-challenge-the-crystallizing-2018-narrative/5b9b14491b326b47ec9595d4/",
+      "domain": "washingtonpost.com",
+      "snippet": "congressional candidate Chris Pappas also had the endorsements of the top elected Democrats in the state, Maggie Hassan. outraised him and had ...",
+      "published": "2018-09-14",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Washington Post",
+        "page": "https://mediabiasfactcheck.com/washington-post/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Senate Republicans pin Chris Pappas as a 'liar' in first ...",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4718307/senate-republicans-chris-pappas-liar-first-negative-ad-general-election/?srsltid=AYCX9vJfVGgu5Hyv85EtkJwFlrhRlvTQBmsdiWD7YkVbLh_hS6TA_-xM",
+      "domain": "washingtonexaminer.com",
+      "snippet": "Mowers had pressed Pappas about a relationship he had with a former Amazon lobbyist while he voted on legislation",
+      "published": "2026-09-09",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Washington Examiner",
+        "page": "https://mediabiasfactcheck.com/washington-examiner/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Yes, Donald Trump claimed fraud after the 2016 Iowa ...",
+      "url": "https://link.nbcnews.com/external/31567071.52897/aHR0cHM6Ly93d3cucG9saXRpZmFjdC5jb20vZmFjdGNoZWNrcy8yMDIwL25vdi8yMC90d2VldHMveWVzLWRvbmFsZC10cnVtcC1jbGFpbWVkLWZyYXVkLWFmdGVyLTIwMTYtaW93YS1jYXUvP2NpZD1lbWxfZmlyc3RyZWFkXzIwMjMwNTIz/60ca6dee7e643472b43d6bcfB1c45d306",
+      "domain": "link.nbcnews.com",
+      "snippet": "New Hampshire U.S. Senate candidate Chris Pappas “lied about dating an Amazon lobbyist, then voted on bills Amazon lobbied on.” Mostly False.",
+      "published": "2020-11-20",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "NBC News",
+        "page": "https://mediabiasfactcheck.com/nbc-news/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "New $6M TV Buy Hits Pappas Over Lobbyist 'Lie'",
+      "url": "https://nhjournal.com/new-6m-tv-buy-hits-pappas-over-lobbyist-lie/",
+      "domain": "nhjournal.com",
+      "snippet": "A new GOP ad hit the airwaves Wednesday, targeting U.S. Rep. Chris Pappas over his relationship with an Amazon lobbyist and his denial of it ...",
+      "published": "2026-07-08",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 5
+    }
+  ]
+}

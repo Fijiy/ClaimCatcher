@@ -1,0 +1,226 @@
+{
+  "frozenAt": "2026-10-27T03:28:33.443Z",
+  "refilteredAt": "2026-10-27T03:38:52.651Z",
+  "id": "pf/josh-stein/fact-checking-steins-claims-about-mail-in-ballot-rejections-in-north-carolina",
+  "said": "2026-10-20",
+  "queries": {
+    "fact": "In North Carolina, thousands more absentee ballots (are) being rejected this election — at a rejection rate twice as high as in 2022.",
+    "claim": "In North Carolina, thousands more absentee ballots (are) being rejected this election — at a rejection rate twice as high as in 2022. Josh Stein"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2658.238125000149,
+      "results": 9
+    },
+    {
+      "query": "claim",
+      "ms": 956.8046669999603,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Are thousands of absentee ballots in North Carolina being ...",
+      "url": "https://www.wbtv.com/2026/10/21/are-thousands-absentee-ballots-north-carolina-being-rejected-heres-what-we-know/",
+      "domain": "wbtv.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Gov. Stein encourages in-person voting, citing 'rejection ...",
+      "url": "https://www.wunc.org/politics/2026-10-21/josh-stein-in-person-voting-governor-rejection-rate-for-mail-in-ballots",
+      "domain": "wunc.org",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Gov. Stein raises alarm over absentee ballot rejections in NC",
+      "url": "https://www.wxii12.com/article/north-carolina-mail-ballot-rejections-stein-concern/74211177",
+      "domain": "wxii12.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Thousands of North Carolina ballots set to be rejected after ...",
+      "url": "https://www.democracydocket.com/news-alerts/exclusive-thousands-of-mail-ballots-set-to-be-rejected-after-gop-imposed-strict-new-rules-data-shows/",
+      "domain": "democracydocket.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "North Carolina Gov. Josh Stein said a higher percentage of ...",
+      "url": "https://www.facebook.com/WRALTV/posts/north-carolina-gov-josh-stein-said-a-higher-percentage-of-mail-in-ballots-is-bei/1740105420814916/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "More NC mail-in ballots are being rejected. What voters ...",
+      "url": "https://www.wral.com/news/nccapitol/absentee-mail-ballots-rejected-higher-percentage-state-board-of-elections-stein-october-2026/",
+      "domain": "wral.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "North Carolina: \"Gov. Stein criticizes absentee ballot rejection ...",
+      "url": "https://electionlawblog.org/2026/north-carolina-gov-stein-criticizes-absentee-ballot-rejection-rate-urges-voters-to-plan-ahead/",
+      "domain": "electionlawblog.org",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "More absentee ballots are being spoiled in North Carolina. ...",
+      "url": "https://www.wavy.com/news/north-carolina/more-absentee-ballots-are-being-spoiled-in-north-carolina-heres-what-voters-need-to-know/",
+      "domain": "wavy.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "The State Board of Elections' last-minute changes ...",
+      "url": "https://x.com/NC_Governor/status/2112680822281032079",
+      "domain": "x.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Gov. Stein encourages in-person voting, citing 'rejection ...",
+      "url": "https://www.wunc.org/politics/2026-10-21/josh-stein-in-person-voting-governor-rejection-rate-for-mail-in-ballots",
+      "domain": "wunc.org",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Are thousands of absentee ballots in North Carolina being ...",
+      "url": "https://www.wbtv.com/2026/10/21/are-thousands-absentee-ballots-north-carolina-being-rejected-heres-what-we-know/",
+      "domain": "wbtv.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Fact-checking Stein's claim about mail-in ballot rejections ...",
+      "url": "https://www.wral.com/news/state/fact-check-stein-election-mail-in-ballot-rejections-october-23/",
+      "domain": "wral.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Gov. Stein raises alarm over absentee ballot rejections in NC",
+      "url": "https://www.wxii12.com/article/north-carolina-mail-ballot-rejections-stein-concern/74211177",
+      "domain": "wxii12.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "North Carolina Gov. Josh Stein said a higher percentage of ...",
+      "url": "https://www.facebook.com/WRALTV/posts/north-carolina-gov-josh-stein-said-a-higher-percentage-of-mail-in-ballots-is-bei/1740105420814916/",
+      "domain": "facebook.com",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "North Carolina: \"Gov. Stein criticizes absentee ballot rejection ...",
+      "url": "https://electionlawblog.org/2026/north-carolina-gov-stein-criticizes-absentee-ballot-rejection-rate-urges-voters-to-plan-ahead/",
+      "domain": "electionlawblog.org",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Gov. Stein criticizes absentee ballot rejection rate, urges ...",
+      "url": "https://wcti12.com/news/local/gov-stein-criticizes-absentee-ballot-rejection-rate-urges-voters-to-plan-ahead",
+      "domain": "wcti12.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Gov. Stein criticizes absentee ballot rejection rate, urges ...",
+      "url": "https://www.reddit.com/r/NorthCarolina/comments/1xcjo56/gov_stein_criticizes_absentee_ballot_rejection/",
+      "domain": "reddit.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "NC Gov. Stein responds to mail-in ballot changes",
+      "url": "https://www.youtube.com/watch?v=NOI-_aOOObk",
+      "domain": "youtube.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Thousands of North Carolina ballots set to be rejected after ...",
+      "url": "https://www.democracydocket.com/news-alerts/exclusive-thousands-of-mail-ballots-set-to-be-rejected-after-gop-imposed-strict-new-rules-data-shows/",
+      "domain": "democracydocket.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "maybe-after-said"
+    }
+  ],
+  "returned": 19,
+  "dropped": {
+    "fact-checker": 0,
+    "fact-check-words": 1,
+    "after-said": 13,
+    "maybe-after-said": 3,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:28:29.828Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

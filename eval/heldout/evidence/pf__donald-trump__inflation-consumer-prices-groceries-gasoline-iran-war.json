@@ -1,0 +1,261 @@
+{
+  "frozenAt": "2026-10-27T03:18:14.653Z",
+  "refilteredAt": "2026-10-27T03:36:18.441Z",
+  "id": "pf/donald-trump/inflation-consumer-prices-groceries-gasoline-iran-war",
+  "said": "2026-08-04",
+  "queries": {
+    "fact": "Prices are all coming down now. The food, the groceries, it’s all coming down.",
+    "claim": "Prices are all coming down now. The food, the groceries, it’s all coming down. Donald Trump"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2126.12966700003,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1930.1375420000404,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Food Price Outlook - Summary Findings",
+      "url": "http://www.ers.usda.gov/data-products/food-price-outlook/summary-findings",
+      "domain": "ers.usda.gov",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Why these 5 everyday items fluctuate in price at the grocery ...",
+      "url": "https://www.capradio.org/news/npr/story?storyid=nx-s1-5989636",
+      "domain": "capradio.org",
+      "published": "2026-10-20",
+      "publishedAsGiven": "7 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "How to save on food shopping with rising prices at grocery store",
+      "url": "https://www.youtube.com/watch?v=cz2r6s0uBaQ",
+      "domain": "youtube.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "snippet": "ABC News' Elizabeth Schulze and food industry analyst Phil Lempert answer your questions about rising prices at the grocery store and how we ..."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "How to Save Money on Groceries When Food Prices Rise",
+      "url": "https://www.ncoa.org/article/how-much-have-food-prices-gone-up-and-how-can-i-save/",
+      "domain": "ncoa.org",
+      "published": "2026-06-03",
+      "publishedAsGiven": "Jun 3, 2026",
+      "snippet": "Grocery prices keep rising. Learn why food costs are increasing, what's expected for 2026, and five practical ways older adults can save ..."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Average price data (in U.S. dollars), selected items",
+      "url": "https://www.bls.gov/charts/consumer-price-index/consumer-price-index-average-price-data.htm",
+      "domain": "bls.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "\"CONSUMERS AREN'T REALLY EXPECTING FOOD PRICES ...",
+      "url": "https://www.facebook.com/OfficialRFDTV/posts/consumers-arent-really-expecting-food-prices-to-go-down-inflationary-pressures-a/1577991574359414/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "snippet": "\"CONSUMERS AREN'T REALLY EXPECTING FOOD PRICES TO GO DOWN\" Inflationary pressures are shifting consumer buying patterns and it is now facing ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Why Groceries Are So Expensive Right Now",
+      "url": "https://www.ramseysolutions.com/budgeting/food-prices-going-up?srsltid=AYCX9vIj86rivHeiew4q86nSGVdgVl4M8Drvk3iUGxyj1R9_wUeIz30H",
+      "domain": "ramseysolutions.com",
+      "published": "2026-04-08",
+      "publishedAsGiven": "Apr 8, 2026",
+      "snippet": "Grocery prices have gone up recently due to inflation, extreme weather, labor shortages, supply chain disruptions and rising production costs."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Fare For All",
+      "url": "https://www.thefoodgroupmn.org/what-we-do/affordable-groceries/fare-for-all/",
+      "domain": "thefoodgroupmn.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "President Trump says prices on food, groceries, and other ...",
+      "url": "https://www.facebook.com/77WABC/posts/president-trump-says-prices-on-food-groceries-and-other-goods-are-coming-down-ar/1655456253254407/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Trump says of prices: 'the food, the groceries, it's all coming ...",
+      "url": "https://www.wral.com/news/state/fact-check-trump-prices-food-groceries-all-august-11/",
+      "domain": "wral.com",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "President Trump said prices are 'all coming down now.' ...",
+      "url": "https://www.kcra.com/article/president-trump-prices-fact-check/73395442",
+      "domain": "kcra.com",
+      "published": "2026-08-10",
+      "publishedAsGiven": "Aug 10, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Donald Trump said prices are 'all coming down now.' They' ...",
+      "url": "https://politifact.com/factchecks/2026/aug/10/donald-trump/inflation-consumer-prices-groceries-gasoline-iran-war/",
+      "domain": "politifact.com",
+      "published": "2026-08-10",
+      "publishedAsGiven": "Aug 10, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "US President Donald Trump has claimed that prices are ...",
+      "url": "https://www.facebook.com/cnbctv18india/posts/us-president-donald-trump-has-claimed-that-prices-are-falling-sharply-saying-the/1623169436510482/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Fact check: Trump lies again that grocery prices 'have ...",
+      "url": "https://www.cnn.com/2026/09/28/politics/fact-check-trump-grocery-prices",
+      "domain": "cnn.com",
+      "published": "2026-09-28",
+      "publishedAsGiven": "Sep 28, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "President Trump said prices are \"all coming down now. ...",
+      "url": "https://www.facebook.com/wesh2news/posts/president-trump-said-prices-are-all-coming-down-now-with-a-few-exceptions-prices/1093180073223910/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Trump Said Grocery Prices Are 'Way Down' — This Fact- ...",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-said-grocery-prices-way-110020997.html",
+      "domain": "yahoo.com",
+      "published": "2026-08-09",
+      "publishedAsGiven": "Aug 9, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Trump claims prices are coming way, way down. ...",
+      "url": "https://www.facebook.com/corybooker/posts/trump-claims-prices-are-coming-way-way-down-hardworking-families-know-the-trutht/1671012231061894/",
+      "domain": "facebook.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "President Trump: 'Groceries are down, energy is ...",
+      "url": "https://www.youtube.com/shorts/OsNNBh5rXOs",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "snippet": "President Trump: Groceries are down, energy is down, and interest rates are down. The beauty there is when we refinance debt... our budget's ..."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "President Donald Trump on if prices will come down in the ...",
+      "url": "https://www.facebook.com/MarioAndersonTV/posts/president-donald-trump-on-if-prices-will-come-down-in-the-united-states-ultimate/1445965954010458/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Trump Claims Prices Are “Down, Down, Dow...",
+      "url": "https://www.democrats.senate.gov/newsroom/press-releases/trump-claims-prices-are-down-down-down-americans-in-all-50-states-know-otherwise",
+      "domain": "democrats.senate.gov",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 2,
+    "after-said": 7,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:18:10.596Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "How to Save Money on Groceries When Food Prices Rise",
+      "url": "https://www.ncoa.org/article/how-much-have-food-prices-gone-up-and-how-can-i-save/",
+      "domain": "ncoa.org",
+      "snippet": "Grocery prices keep rising. Learn why food costs are increasing, what's expected for 2026, and five practical ways older adults can save ...",
+      "published": "2026-06-03",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "Why Groceries Are So Expensive Right Now",
+      "url": "https://www.ramseysolutions.com/budgeting/food-prices-going-up?srsltid=AYCX9vIj86rivHeiew4q86nSGVdgVl4M8Drvk3iUGxyj1R9_wUeIz30H",
+      "domain": "ramseysolutions.com",
+      "snippet": "Grocery prices have gone up recently due to inflation, extreme weather, labor shortages, supply chain disruptions and rising production costs.",
+      "published": "2026-04-08",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    }
+  ]
+}

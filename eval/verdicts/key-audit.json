@@ -1,0 +1,9 @@
+{
+ "_source": "notes/answer-key-audit.md (independent re-read of every rating article, 2026-10-26). 'label' replaces the key; 'accept' lists every label a reasonable reviewer could pick.",
+ "cbs-2024-vance-cbp-one-mic-cut#1": {"label": "False", "accept": ["False"], "why": "WRONG: PolitiFact says the app is a scheduling tool and calling the migrants 'illegal' is wrong; nothing literal holds."},
+ "abc-2024-harris-afghanistan-camp-david#2": {"label": "False", "accept": ["False", "Misleading"], "why": "DISPUTED: PolitiFact headline calls it 'misleading'."},
+ "biden-sotu-2024-economy#7": {"label": "True", "accept": ["True", "Misleading"], "why": "DISPUTED: true for the past year, not over the whole term."},
+ "biden-sotu-2024-economy#8": {"label": "Misleading", "accept": ["Misleading", "False"], "why": "DISPUTED: superlative the checker contradicts."},
+ "trump-joint-2025-inflation-eggs-energy#0": {"label": "Misleading", "accept": ["Misleading", "False"], "why": "DISPUTED: 'exaggerated'; growth strong, inflation down."},
+ "trump-joint-2025-inflation-eggs-energy#2": {"label": "False", "accept": ["False", "Misleading"], "why": "DISPUTED: 48 years roughly right, 'highest in history' wrong."}
+}

@@ -1,0 +1,419 @@
+{
+  "frozenAt": "2026-10-27T03:13:49.106Z",
+  "refilteredAt": "2026-10-27T03:35:15.566Z",
+  "id": "pf/chris-wright/wind-solar-energy-oil-strait-hormuz-iran",
+  "said": "2026-04-19",
+  "queries": {
+    "fact": "Solar and wind have not reached 3% of global energy.",
+    "claim": "Solar and wind have not reached 3% of global energy. Chris Wright"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1068.6439170000376,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1212.638500000001,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 283.598708000005,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Solar and wind account for 3% of global energy, but are a ...",
+      "url": "https://politifact.com/factchecks/2026/apr/22/chris-wright/wind-solar-energy-oil-strait-hormuz-iran/",
+      "domain": "politifact.com",
+      "published": "2026-04-22",
+      "publishedAsGiven": "Apr 22, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "What if the world hadn't built wind and solar?",
+      "url": "https://www.theclimatebrink.com/p/what-if-the-world-hadnt-built-wind",
+      "domain": "theclimatebrink.com",
+      "published": "2026-10-05",
+      "publishedAsGiven": "Oct 5, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "For the first time, wind and solar generated more electricity ...",
+      "url": "https://ember-energy.org/latest-updates/for-the-first-time-wind-and-solar-generated-more-electricity-than-gas-worldwide-in-april-2026/",
+      "domain": "ember-energy.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Renewable Energy",
+      "url": "https://ourworldindata.org/renewable-energy",
+      "domain": "ourworldindata.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Analysis: Wind and solar added more to global energy than ...",
+      "url": "https://www.carbonbrief.org/analysis-wind-and-solar-added-more-to-global-energy-than-any-other-source-in-2023",
+      "domain": "carbonbrief.org",
+      "published": "2024-06-20",
+      "publishedAsGiven": "Jun 20, 2024",
+      "snippet": "Together, wind and solar accounted for 13% of global electricity supplies in 2023, up from 3% a decade earlier."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Renewable Energy",
+      "url": "https://www.c2es.org/content/renewable-energy/",
+      "domain": "c2es.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Why hasn't wind and solar energy reached 3% of global ...",
+      "url": "https://www.facebook.com/groups/1086546238481071/posts/2518962601906087/",
+      "domain": "facebook.com",
+      "published": "2026-09-29",
+      "publishedAsGiven": "4 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Global Energy Outlook 2023: Sowing the Seeds of an ...",
+      "url": "https://www.rff.org/publications/reports/global-energy-outlook-2023/",
+      "domain": "rff.org",
+      "published": "2023-03-28",
+      "publishedAsGiven": "Mar 28, 2023",
+      "snippet": "By 2050, wind and solar account for 10 percent (ExxonMobil) to roughly 50 percent (Equinor Bridges) of global primary energy demand."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "In a first, wind and solar generated more power than gas ...",
+      "url": "https://www.reddit.com/r/NuclearPower/comments/1twvgts/in_a_first_wind_and_solar_generated_more_power/",
+      "domain": "reddit.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "How global energy production is changing, in 6 charts",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/20/how-global-energy-production-is-changing-in-6-charts/",
+      "domain": "pewresearch.org",
+      "published": "2026-07-20",
+      "publishedAsGiven": "Jul 20, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Solar and wind account for 3% of global energy ...",
+      "url": "https://www.wbaltv.com/article/solar-wind-global-energy-fact-check/71101693",
+      "domain": "wbaltv.com",
+      "published": "2026-04-22",
+      "publishedAsGiven": "Apr 22, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Secretary of Energy Chris Wright Delivers Keynote ...",
+      "url": "https://www.energy.gov/articles/secretary-energy-chris-wright-delivers-keynote-remarks-ceraweek-2025",
+      "domain": "energy.gov",
+      "published": "2025-03-12",
+      "publishedAsGiven": "Mar 12, 2025",
+      "snippet": "Wind and solar, the darlings of the last administration and so much of the world today, supply roughly 3% of global primary energy. You ..."
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Fact-checking Chris Wright's 10 trillion wind solar claim",
+      "url": "https://www.facebook.com/Australia.Love.it.0r.Leave/posts/-in-the-last-20-years-the-world-spent-10-trillion-on-wind-solar-and-batteries-it/1104646222341347/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "PolitiFact: Secretary Wright's claim about wind, solar rated ...",
+      "url": "https://www.wmur.com/article/politifact-wright-wind-solar-42426/71123772",
+      "domain": "wmur.com",
+      "published": "2026-04-24",
+      "publishedAsGiven": "Apr 24, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "The World Has Spent $10 Trillion on Green Energy",
+      "url": "https://energynewsbeat.co/electrical-generation/the-world-has-spent-10-trillion-on-green-energy-and-only-reached-3-of-global-energy/",
+      "domain": "energynewsbeat.co",
+      "published": "2026-04-19",
+      "publishedAsGiven": "Apr 19, 2026",
+      "snippet": "Wind and solar together supply roughly 3% of global primary energy consumption as of recent data (2024-2025 figures from the Energy ..."
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Examining Secretary Wright's claim about extent of wind, solar",
+      "url": "https://www.youtube.com/watch?v=ArV_lDkXklo",
+      "domain": "youtube.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "What Chris Wright Gets Wrong",
+      "url": "https://www.nrdc.org/media/what-chris-wright-gets-wrong",
+      "domain": "nrdc.org",
+      "published": "2025-11-21",
+      "publishedAsGiven": "Nov 21, 2025",
+      "snippet": "“Wind and solar, the darlings of the last administration and so much of the world today, supply roughly 3 percent of global primary energy.”."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Chris Wright – Solar and wind account for 3% of global energy ...",
+      "url": "https://wnymedia.net/2026/04/22/chris-wright-solar-and-wind-account-for-3-of-global-energy-but-are-a-growing-power-source-for-homes-businesses/",
+      "domain": "wnymedia.net",
+      "published": "2026-04-22",
+      "publishedAsGiven": "Apr 22, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "The $5 Trillion Question: What Wind and Solar Bought, and ...",
+      "url": "https://theenergynewsbeat.substack.com/p/the-5-trillion-question-what-wind",
+      "domain": "theenergynewsbeat.substack.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Returning to Common Sense Energy and Climate Policies ...",
+      "url": "https://www.state.gov/briefings-foreign-press-centers/unga-2025/returning-to-common-sense-energy-and-climate-policies",
+      "domain": "state.gov",
+      "published": "2025-09-24",
+      "publishedAsGiven": "Sep 24, 2025",
+      "snippet": "We're honored to have Secretary of Energy Chris Wright with us today. ... wind and solar have even lower reliability at peak demand times."
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Renewables growth did not dent fossil fuel dominance in ...",
+      "url": "https://www.reuters.com/business/energy/renewables-growth-did-not-dent-fossil-fuel-dominance-2022-statistical-review-2023-06-25/",
+      "domain": "reuters.com",
+      "published": "2023-06-26",
+      "publishedAsGiven": "Jun 26, 2023",
+      "snippet": "Wind and solar power grew to a record share of 12% of power generation, again surpassing nuclear, which fell 4.4%, and meeting 84% of net ..."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Solar and wind power has grown faster than electricity ...",
+      "url": "https://apnews.com/article/climate-renewable-wind-solar-coal-electricity-demand-abf7b587b038bf7580de1baee6576bbc",
+      "domain": "apnews.com",
+      "published": "2025-10-06",
+      "publishedAsGiven": "Oct 6, 2025",
+      "snippet": "Global solar generation grew by a record 31% in the first half of the year, while wind generation grew by 7.7%, according to the report by the ..."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "The 2025 energy transition in eight charts: clean wins, dirty ...",
+      "url": "https://www.reuters.com/markets/commodities/2025-energy-transition-eight-charts-clean-wins-dirty-setbacks-2025-12-30/",
+      "domain": "reuters.com",
+      "published": "2025-12-29",
+      "publishedAsGiven": "Dec 29, 2025",
+      "snippet": "Despite the federal clean energy policy u-turn, combined installations of solar, wind & battery capacity were the second highest ever in 2025 ..."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Renewable energy to fall short of UN goal to triple by 2030 ...",
+      "url": "https://www.reuters.com/business/energy/renewable-energy-fall-short-un-goal-triple-by-2030-iea-says-2024-10-09/",
+      "domain": "reuters.com",
+      "published": "2024-10-09",
+      "publishedAsGiven": "Oct 9, 2024",
+      "snippet": "Solar photovoltaic (PV) is set to account for 80% of the growth in renewable energy capacity to 2030. The wind sector is also forecast to ..."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Europe's renewables boom is becoming a gas demand bust",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/europes-renewables-boom-is-becoming-gas-demand-bust-2026-08-13/",
+      "domain": "reuters.com",
+      "published": "2026-08-13",
+      "publishedAsGiven": "Aug 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "How Far Have We Really Gotten With Alternative Energy?",
+      "url": "https://www.wsj.com/business/energy-oil/how-far-have-we-really-gotten-with-alternative-energy-11636571966?eafs_enabled=false",
+      "domain": "wsj.com",
+      "published": "2021-11-10",
+      "publishedAsGiven": "Nov 10, 2021",
+      "snippet": "Globally, just 4% percent of power generation this year is from solar, up from 1.4% five years ago, according to IHS Markit. Global ..."
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "AI-driven productivity gains enable more CO₂ emissions ...",
+      "url": "https://trk.wsj.com/click/47034373.51627/aHR0cHM6Ly93d3cubmF0dXJlLmNvbS9hcnRpY2xlcy9zNDQxNjgtMDI2LTAwNDExLTA_bW9kPWRqZW1jbGltYXRl/69430f42020c7425fa01257dCcd2b574e?eafs_enabled=false",
+      "domain": "trk.wsj.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Tentative green energy shoots at risk from US vote ...",
+      "url": "https://www.reuters.com/business/energy/tentative-green-energy-shoots-risk-us-vote-uncertainty-2024-10-30/",
+      "domain": "reuters.com",
+      "published": "2024-10-30",
+      "publishedAsGiven": "Oct 30, 2024",
+      "snippet": "Renewable energy shares, reeling from an investor retreat, face extended uncertainty as the U.S. election has added to wariness, ..."
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "Policy Watch: At COP29 and G20, leaders face calls to ...",
+      "url": "https://www.reuters.com/sustainability/cop/policy-watch-cop29-g20-leaders-face-calls-direct-more-finance-global-south-2024-11-19/",
+      "domain": "reuters.com",
+      "published": "2024-11-19",
+      "publishedAsGiven": "Nov 19, 2024",
+      "snippet": "Africa for example, despite its vast solar potential, gets just 3% of global energy investment. And while the upfront cost of solar has ..."
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "India hits 50% non-fossil power milestone ahead of 2030 ...",
+      "url": "https://www.reuters.com/business/energy/india-hits-50-non-fossil-power-milestone-ahead-2030-clean-energy-target-2025-07-14/",
+      "domain": "reuters.com",
+      "published": "2025-07-14",
+      "publishedAsGiven": "Jul 14, 2025",
+      "snippet": "The country added nearly 28 GW of solar and wind in 2024 and has already added 16.3 GW of wind and solar capacity in the five months through May ..."
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 5,
+    "after-said": 5,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 5
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:13:44.779Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "What Chris Wright Gets Wrong",
+      "url": "https://www.nrdc.org/media/what-chris-wright-gets-wrong",
+      "domain": "nrdc.org",
+      "snippet": "“Wind and solar, the darlings of the last administration and so much of the world today, supply roughly 3 percent of global primary energy.”.",
+      "published": "2025-11-21",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Natural Resources Defense Council",
+        "page": "https://mediabiasfactcheck.com/natural-resources-defense-council/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Renewables growth did not dent fossil fuel dominance in ...",
+      "url": "https://www.reuters.com/business/energy/renewables-growth-did-not-dent-fossil-fuel-dominance-2022-statistical-review-2023-06-25/",
+      "domain": "reuters.com",
+      "snippet": "Wind and solar power grew to a record share of 12% of power generation, again surpassing nuclear, which fell 4.4%, and meeting 84% of net ...",
+      "published": "2023-06-26",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Solar and wind power has grown faster than electricity ...",
+      "url": "https://apnews.com/article/climate-renewable-wind-solar-coal-electricity-demand-abf7b587b038bf7580de1baee6576bbc",
+      "domain": "apnews.com",
+      "snippet": "Global solar generation grew by a record 31% in the first half of the year, while wind generation grew by 7.7%, according to the report by the ...",
+      "published": "2025-10-06",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Associated Press",
+        "page": "https://mediabiasfactcheck.com/associated-press/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "The 2025 energy transition in eight charts: clean wins, dirty ...",
+      "url": "https://www.reuters.com/markets/commodities/2025-energy-transition-eight-charts-clean-wins-dirty-setbacks-2025-12-30/",
+      "domain": "reuters.com",
+      "snippet": "Despite the federal clean energy policy u-turn, combined installations of solar, wind & battery capacity were the second highest ever in 2025 ...",
+      "published": "2025-12-29",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Renewable energy to fall short of UN goal to triple by 2030 ...",
+      "url": "https://www.reuters.com/business/energy/renewable-energy-fall-short-un-goal-triple-by-2030-iea-says-2024-10-09/",
+      "domain": "reuters.com",
+      "snippet": "Solar photovoltaic (PV) is set to account for 80% of the growth in renewable energy capacity to 2030. The wind sector is also forecast to ...",
+      "published": "2024-10-09",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

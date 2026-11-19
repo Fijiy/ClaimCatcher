@@ -1,0 +1,424 @@
+{
+  "frozenAt": "2026-10-27T03:09:18.539Z",
+  "refilteredAt": "2026-10-27T03:34:05.284Z",
+  "id": "pf/mark-warner/ice-training-requirements-trump-minneapolis",
+  "said": "2026-01-11",
+  "queries": {
+    "fact": "They are not getting the traditional five months training. … The training for the ICE agents now is 47 days.",
+    "claim": "They are not getting the traditional five months training. … The training for the ICE agents now is 47 days. Mark Warner"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2405.6024169999873,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1007.8481669999892,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 138.42612499999814,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "DHS Sets the Record Straight About ICE Law Enforcement ...",
+      "url": "https://www.dhs.gov/news/2026/02/23/dhs-sets-record-straight-about-ice-law-enforcement-training-debunks-falsehoods",
+      "domain": "dhs.gov",
+      "published": "2026-02-23",
+      "publishedAsGiven": "Feb 23, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Has US ICE officer training been reduced to 47 days?",
+      "url": "https://www.aljazeera.com/news/2026/1/13/has-us-ice-officer-training-been-reduced-to-47-days",
+      "domain": "aljazeera.com",
+      "published": "2026-01-13",
+      "publishedAsGiven": "Jan 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "ICE officer training cut to only 47 days? You can't make this ...",
+      "url": "https://www.facebook.com/MarkWarnerVa/videos/ice-officer-training-cut-to-only-47-days-you-cant-make-this-stuff-up/1688243962582661/",
+      "domain": "facebook.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "How a 47-day ICE training claim spread",
+      "url": "https://www.poynter.org/fact-checking/2026/ice-47-days-training-reduced-trump/",
+      "domain": "poynter.org",
+      "published": "2026-01-13",
+      "publishedAsGiven": "Jan 13, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Has US ICE officer training been reduced to 47 days?",
+      "url": "https://www.facebook.com/aljazeera/posts/has-us-ice-officer-training-been-reduced-to-47-days/1335260791981605/",
+      "domain": "facebook.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Is 47 Days Enough to Train an ICE Agent?",
+      "url": "https://www.youtube.com/shorts/irn6Ucst0sI",
+      "domain": "youtube.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Fast Times at Immigration and Customs Enforcement",
+      "url": "https://www.theatlantic.com/politics/archive/2025/08/ice-recruitment-immigration-enforcement-billions/684000/",
+      "domain": "theatlantic.com",
+      "published": "2025-08-26",
+      "publishedAsGiven": "Aug 26, 2025",
+      "snippet": "Flush with cash and soaring with hubris, Trump appointees are supersizing ICE."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Career Frequently Asked Questions (FAQs)",
+      "url": "https://www.ice.gov/careers/faqs",
+      "domain": "ice.gov",
+      "published": "2026-09-08",
+      "publishedAsGiven": "Sep 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "How much training do ICE officers get?",
+      "url": "https://www.youtube.com/watch?v=_hUjw95RFg0",
+      "domain": "youtube.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Padilla, Booker Call on DHS to Provide Information ...",
+      "url": "https://www.padilla.senate.gov/newsroom/press-releases/padilla-booker-call-on-dhs-to-provide-information-on-hiring-standards-and-training-protocols-for-newly-hired-ice-agents/",
+      "domain": "padilla.senate.gov",
+      "published": "2025-11-20",
+      "publishedAsGiven": "Nov 20, 2025",
+      "snippet": "WASHINGTON, D.C. — Today, U.S. Senators Alex Padilla (D-Calif.), Ranking Member of the Senate Judiciary Immigration Subcommittee, ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "ICE officer training cut to only 47 days? You can't make this ...",
+      "url": "https://www.facebook.com/MarkWarnerVa/videos/ice-officer-training-cut-to-only-47-days-you-cant-make-this-stuff-up/1688243962582661/",
+      "domain": "facebook.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "How a 47-day ICE training claim spread",
+      "url": "https://www.poynter.org/fact-checking/2026/ice-47-days-training-reduced-trump/",
+      "domain": "poynter.org",
+      "published": "2026-01-13",
+      "publishedAsGiven": "Jan 13, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Houston Chronicle",
+      "url": "https://x.com/HoustonChron/status/2013204897781383327",
+      "domain": "x.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "In order to get more ICE agents in the field, they drastically ...",
+      "url": "https://www.facebook.com/OfficialSheetalSheth/posts/in-order-to-get-more-ice-agents-in-the-field-they-drastically-shortened-training/1433988794765218/",
+      "domain": "facebook.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Was ICE training shortened to 47 days to honor Trump? ...",
+      "url": "https://www.snopes.com/news/2026/01/16/ice-training-47-days/",
+      "domain": "snopes.com",
+      "published": "2026-01-16",
+      "publishedAsGiven": "Jan 16, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Mark Warner on CNN: Addresses ICE shooting, Venezuela ...",
+      "url": "https://augustafreepress.com/news/mark-warner-on-cnn-addresses-ice-shooting-venezuela-iran/",
+      "domain": "augustafreepress.com",
+      "published": "2026-01-11",
+      "publishedAsGiven": "Jan 11, 2026",
+      "snippet": "Jake Tapper asked U.S. Sen. Mark Warner if he has issues with using the term “murder” to refer to the ICE agent who shot a woman to death in ..."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "ICE used to have five months of training, but they've ...",
+      "url": "https://www.facebook.com/SenElissaSlotkin/posts/ice-used-to-have-five-months-of-training-but-theyve-shortened-it-now-to-47-days-/1519841919527463/",
+      "domain": "facebook.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Houston Chronicle",
+      "url": "https://x.com/HoustonChron/status/2013333214094377446",
+      "domain": "x.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Did the Trump Administration Cut ICE Agent Training to ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-the-trump-administration-cut-ice-agent-training-to-just-47-days/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-01-14",
+      "publishedAsGiven": "Jan 14, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "WARNER: It used to take 5 to 6 months to get trained. They' ...",
+      "url": "https://www.reddit.com/r/UnderReportedNews/comments/1qavndy/warner_it_used_to_take_5_to_6_months_to_get/",
+      "domain": "reddit.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Almost anyone can be an ICE agent now. That's a problem.",
+      "url": "https://www.usatoday.com/story/opinion/2025/12/03/ice-hiring-border-patrol-jobs-immigration-agents/87483770007/",
+      "domain": "usatoday.com",
+      "published": "2025-12-03",
+      "publishedAsGiven": "Dec 3, 2025",
+      "snippet": "Two months of training cannot fully prepare anyone for high-stakes, emotionally charged ICE operations ‒ especially now, with protests, fear and ..."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "ICE officer training is 'broken,' former agency lawyer says",
+      "url": "https://apnews.com/article/ice-immigration-enforcement-congress-training-trump-466a19105e6dfd4990a9b58361b6963d",
+      "domain": "apnews.com",
+      "published": "2026-02-23",
+      "publishedAsGiven": "Feb 23, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "DHS denies ICE training cut to 47 days for Trump's 47th ...",
+      "url": "https://www.washingtonexaminer.com/policy/immigration/3784119/dhs-denies-ice-training-cut-to-47-days-coincide-trump-presidency/?srsltid=AYCX9vK29sho0N25A4YJq8eGrUqGXesUG6DW4cYv805s5Vo6hVt8H_L4",
+      "domain": "washingtonexaminer.com",
+      "published": "2025-08-27",
+      "publishedAsGiven": "Aug 27, 2025",
+      "snippet": "Training was shortened in the wake of Congress passing the One Big Beautiful Bill Act, which gave ICE $29.9 billion to hire staff, ..."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "ICE went on a hiring spree. Sterling credentials not required",
+      "url": "https://apnews.com/article/ice-background-checks-vetting-immigration-8ae6b7b850f7c0265b3cb8b5060ef8fd",
+      "domain": "apnews.com",
+      "published": "2026-04-17",
+      "publishedAsGiven": "Apr 17, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "We Spent Six Hours at ICE Training School. Here's What ...",
+      "url": "https://www.wsj.com/politics/policy/we-spent-six-hours-at-ice-training-school-heres-what-we-learned-bdbc175d?eafs_enabled=false",
+      "domain": "wsj.com",
+      "published": "2025-08-22",
+      "publishedAsGiven": "Aug 22, 2025",
+      "snippet": "New training includes how to respond to rocks being thrown and officers can wear face coverings due to increased assaults and doxxing. This ..."
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "Inside the facility where ICE is training recruits",
+      "url": "https://apnews.com/article/border-immigration-mass-deportation-ice-trump-722e82dbd288e7af4afe69192d8c8cfb",
+      "domain": "apnews.com",
+      "published": "2025-08-21",
+      "publishedAsGiven": "Aug 21, 2025",
+      "snippet": "Inside the facility where ICE is training recruits to take on Trump's deportation goals ... Acting Director Todd Lyons visited a training facility ..."
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "ICE struggles to vet recruits amid US immigration ...",
+      "url": "https://www.reuters.com/world/ice-struggles-vet-recruits-amid-us-immigration-enforcement-push-internal-email-2026-02-26/",
+      "domain": "reuters.com",
+      "published": "2026-02-26",
+      "publishedAsGiven": "Feb 26, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Mullin says ICE will increase new officer training",
+      "url": "https://apnews.com/article/mullin-ice-training-immigration-enforcement-border-f751af1d745a5339182472df39f97545",
+      "domain": "apnews.com",
+      "published": "2026-06-03",
+      "publishedAsGiven": "Jun 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "ICE teaches cadets to 'violate the Constitution,' ex-DHS ...",
+      "url": "https://www.usatoday.com/story/news/nation/2026/02/23/ice-is-teaching-cadets-to-violate-the-constitution-former-dhs-attorney-testifies/88834696007/",
+      "domain": "usatoday.com",
+      "published": "2026-02-23",
+      "publishedAsGiven": "Feb 23, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "ICE officers in Minnesota directed not to interact with ' ...",
+      "url": "https://www.reuters.com/world/ice-officers-minnesota-directed-not-interact-with-agitators-new-orders-2026-01-29/",
+      "domain": "reuters.com",
+      "published": "2026-01-29",
+      "publishedAsGiven": "Jan 29, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 3,
+    "after-said": 12,
+    "maybe-after-said": 7,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:09:13.976Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Fast Times at Immigration and Customs Enforcement",
+      "url": "https://www.theatlantic.com/politics/archive/2025/08/ice-recruitment-immigration-enforcement-billions/684000/",
+      "domain": "theatlantic.com",
+      "snippet": "Flush with cash and soaring with hubris, Trump appointees are supersizing ICE.",
+      "published": "2025-08-26",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "The Atlantic",
+        "page": "https://mediabiasfactcheck.com/the-atlantic/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Almost anyone can be an ICE agent now. That's a problem.",
+      "url": "https://www.usatoday.com/story/opinion/2025/12/03/ice-hiring-border-patrol-jobs-immigration-agents/87483770007/",
+      "domain": "usatoday.com",
+      "snippet": "Two months of training cannot fully prepare anyone for high-stakes, emotionally charged ICE operations ‒ especially now, with protests, fear and ...",
+      "published": "2025-12-03",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "USA Today",
+        "page": "https://mediabiasfactcheck.com/usa-today-2/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "DHS denies ICE training cut to 47 days for Trump's 47th ...",
+      "url": "https://www.washingtonexaminer.com/policy/immigration/3784119/dhs-denies-ice-training-cut-to-47-days-coincide-trump-presidency/?srsltid=AYCX9vK29sho0N25A4YJq8eGrUqGXesUG6DW4cYv805s5Vo6hVt8H_L4",
+      "domain": "washingtonexaminer.com",
+      "snippet": "Training was shortened in the wake of Congress passing the One Big Beautiful Bill Act, which gave ICE $29.9 billion to hire staff, ...",
+      "published": "2025-08-27",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Washington Examiner",
+        "page": "https://mediabiasfactcheck.com/washington-examiner/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "We Spent Six Hours at ICE Training School. Here's What ...",
+      "url": "https://www.wsj.com/politics/policy/we-spent-six-hours-at-ice-training-school-heres-what-we-learned-bdbc175d?eafs_enabled=false",
+      "domain": "wsj.com",
+      "snippet": "New training includes how to respond to rocks being thrown and officers can wear face coverings due to increased assaults and doxxing. This ...",
+      "published": "2025-08-22",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Wall Street Journal",
+        "page": "https://mediabiasfactcheck.com/wall-street-journal/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Inside the facility where ICE is training recruits",
+      "url": "https://apnews.com/article/border-immigration-mass-deportation-ice-trump-722e82dbd288e7af4afe69192d8c8cfb",
+      "domain": "apnews.com",
+      "snippet": "Inside the facility where ICE is training recruits to take on Trump's deportation goals ... Acting Director Todd Lyons visited a training facility ...",
+      "published": "2025-08-21",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Associated Press",
+        "page": "https://mediabiasfactcheck.com/associated-press/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "frozenAt": "2026-10-27T03:13:27.013Z",
+  "refilteredAt": "2026-10-27T03:35:10.277Z",
+  "id": "pf/byron-donalds/iran-blockade-trump-strait-hormuz-barbary",
+  "said": "2026-04-12",
+  "queries": {
+    "fact": "The U.S. Navy was created to free international waters from the Barbary pirates.",
+    "claim": "The U.S. Navy was created to free international waters from the Barbary pirates. Byron Donalds"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1292.7507500000065,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2664.8972920000087,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Barbary War (1801-1805)",
+      "url": "https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/forgotten-wars-19th-century/barbary-war-1801-1805.html",
+      "domain": "history.navy.mil",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "PolitiFact FL: Was the US Navy created to take on pirates, ...",
+      "url": "https://www.wlrn.org/government-politics/2026-04-16/politifact-fl-was-the-us-navy-created-to-take-on-pirates-as-byron-donalds-said",
+      "domain": "wlrn.org",
+      "published": "2026-04-16",
+      "publishedAsGiven": "Apr 16, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "First Barbary War (1803–1805): U.S. Naval & ...",
+      "url": "https://ussconstitutionmuseum.org/major-events/first-barbary-war-1803-1805/",
+      "domain": "ussconstitutionmuseum.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Barbary Wars at the Clements - UM Clements Library",
+      "url": "https://clements.umich.edu/exhibit/barbary-wars/",
+      "domain": "clements.umich.edu",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Milestones: “The Barbary Wars, 1801–1805 and 1815–1816”",
+      "url": "https://history.state.gov/milestones/1801-1829/barbary-wars",
+      "domain": "history.state.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "How the US Navy was formed twice",
+      "url": "https://www.facebook.com/NMCRS/posts/did-you-know-the-us-navy-was-actually-formed-twicethe-continental-navy-was-forme/1047117037456262/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "snippet": "Did you know, the U.S. Navy was actually formed twice? The Continental Navy was formed on October 13th, 1775 – roughly six months after the start ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Barbary Wars & the Battle of Tripoli - Library of the Marine Corps",
+      "url": "https://grc-usmcu.libguides.com/battle-studies/barbary-wars",
+      "domain": "grc-usmcu.libguides.com",
+      "published": "2026-09-17",
+      "publishedAsGiven": "Sep 17, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Avast! How the US Built a Navy, Sent In the Marines, and ...",
+      "url": "https://www.gilderlehrman.org/history-resources/essays/avast-how-us-built-navy-sent-marines-and-faced-down-barbary-pirates",
+      "domain": "gilderlehrman.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Barbary Pirates & the First Barbary War | Overview & Aftermath",
+      "url": "https://study.com/academy/lesson/video/barbary-pirates-napoleonic-wars-and-embargo-of-1807.html",
+      "domain": "study.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Why was the U.S.'s first foreign war fought off the coast of North ...",
+      "url": "https://www.facebook.com/pbs/posts/why-was-the-uss-first-foreign-war-fought-off-the-coast-of-north-africa-the-answe/1596912841794103/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "PolitiFact FL: Was the US Navy created to take on pirates ...",
+      "url": "https://www.wlrn.org/light/government-politics/2026-04-16/politifact-fl-was-the-us-navy-created-to-take-on-pirates-as-byron-donalds-said",
+      "domain": "wlrn.org",
+      "published": "2026-04-16",
+      "publishedAsGiven": "Apr 16, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Barbary Wars - Naval History and Heritage Command",
+      "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/barbary-wars.html",
+      "domain": "history.navy.mil",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Milestones: “The Barbary Wars, 1801–1805 and 1815–1816”",
+      "url": "https://history.state.gov/milestones/1801-1829/barbary-wars",
+      "domain": "history.state.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Barbary Wars at the Clements - UM Clements Library",
+      "url": "https://clements.umich.edu/exhibit/barbary-wars/",
+      "domain": "clements.umich.edu",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "U.S. First Foreign War Off North Africa: Trade and ...",
+      "url": "https://www.facebook.com/pbs/videos/why-was-the-uss-first-foreign-war-fought-off-the-coast-of-north-africa-the-answe/927320379840296/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "First Barbary War (1803–1805): U.S. Naval & ...",
+      "url": "https://ussconstitutionmuseum.org/major-events/first-barbary-war-1803-1805/",
+      "domain": "ussconstitutionmuseum.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Barbary Wars & the Battle of Tripoli - Library of the Marine Corps",
+      "url": "https://grc-usmcu.libguides.com/battle-studies/barbary-wars",
+      "domain": "grc-usmcu.libguides.com",
+      "published": "2026-09-17",
+      "publishedAsGiven": "Sep 17, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Barbary Pirates & the First Barbary War | Overview & Aftermath",
+      "url": "https://study.com/academy/lesson/video/barbary-pirates-napoleonic-wars-and-embargo-of-1807.html",
+      "domain": "study.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Was the U.S. Navy created to take on pirates?",
+      "url": "https://politifact.com/factchecks/2026/apr/14/byron-donalds/iran-blockade-trump-strait-hormuz-barbary/",
+      "domain": "politifact.com",
+      "published": "2026-04-14",
+      "publishedAsGiven": "Apr 14, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Rogue History | Why Did the U.S. Go to War with These Pirates?",
+      "url": "https://www.pbs.org/video/why-did-the-us-go-to-war-with-these-pirates-ocpg9k/",
+      "domain": "pbs.org",
+      "published": null,
+      "dropped": "undated"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 2,
+    "after-said": 4,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 12
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:13:21.618Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

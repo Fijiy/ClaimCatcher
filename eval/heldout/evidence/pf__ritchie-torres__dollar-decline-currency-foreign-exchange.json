@@ -1,0 +1,389 @@
+{
+  "frozenAt": "2026-10-27T03:05:07.044Z",
+  "refilteredAt": "2026-10-27T03:33:03.731Z",
+  "id": "pf/ritchie-torres/dollar-decline-currency-foreign-exchange",
+  "said": "2025-07-20",
+  "queries": {
+    "fact": "Since Donald Trump’s inauguration, we have seen an 11% decline in the value of the dollar, the steepest decline in more than a half a century.",
+    "claim": "Since Donald Trump’s inauguration, we have seen an 11% decline in the value of the dollar, the steepest decline in more than a half a century. Ritchie Torres"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1760.844624999998,
+      "results": 7
+    },
+    {
+      "query": "claim",
+      "ms": 2275.654500000004,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 102.23537500000384,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "PolitiFact: Has dollar experienced biggest drop in 50 years?",
+      "url": "https://www.wmur.com/article/politifact-dollar-value-73025/65555246",
+      "domain": "wmur.com",
+      "published": "2025-07-30",
+      "publishedAsGiven": "Jul 30, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Is the dollar's steepest decline in 50 years under Trump?",
+      "url": "https://www.houstonchronicle.com/politics/texas/politifact/article/donald-trump-dollar-decline-20786883.php",
+      "domain": "houstonchronicle.com",
+      "published": "2025-07-28",
+      "publishedAsGiven": "Jul 28, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "\"Since Donald Trump's inauguration, we have seen an 11 ...",
+      "url": "https://www.facebook.com/houstonchronicle/posts/since-donald-trumps-inauguration-we-have-seen-an-11-decline-in-the-value-of-the-/1174629164681220/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "The value of the U.S. dollar has weakened since Trump ...",
+      "url": "https://www.pbs.org/newshour/economy/the-value-of-the-u-s-dollar-has-weakened-since-trump-took-office-experts-say-that-can-be-a-hidden-tax",
+      "domain": "pbs.org",
+      "published": "2026-05-04",
+      "publishedAsGiven": "May 4, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Devaluation of the U.S. Dollar 2025",
+      "url": "https://www.morganstanley.com/insights/articles/us-dollar-declines",
+      "domain": "morganstanley.com",
+      "published": "2025-08-06",
+      "publishedAsGiven": "Aug 6, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "The dollar has lost 10% of its value",
+      "url": "https://www.washingtonpost.com/video/politics/the-dollar-has-lost-10-of-its-value/2025/04/23/d787cc77-fe65-4fc6-a86a-7b39f241d3eb_video.html",
+      "domain": "washingtonpost.com",
+      "published": null,
+      "snippet": "The dollar has dropped nearly 10% since Inauguration Day, over half in April after the president raised import taxes to their highest level ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "US Dollar Down 10% Since Trump Took Office",
+      "url": "https://finance.yahoo.com/news/us-dollar-down-10-since-013110671.html",
+      "domain": "finance.yahoo.com",
+      "published": "2025-08-07",
+      "publishedAsGiven": "Aug 7, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "PolitiFact: Has dollar experienced biggest drop in 50 years?",
+      "url": "https://www.wmur.com/article/politifact-dollar-value-73025/65555246",
+      "domain": "wmur.com",
+      "published": "2025-07-30",
+      "publishedAsGiven": "Jul 30, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Is the dollar's steepest decline in 50 years under Trump?",
+      "url": "https://www.houstonchronicle.com/politics/texas/politifact/article/donald-trump-dollar-decline-20786883.php",
+      "domain": "houstonchronicle.com",
+      "published": "2025-07-28",
+      "publishedAsGiven": "Jul 28, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "\"Since Donald Trump's inauguration, we have seen an 11 ...",
+      "url": "https://www.facebook.com/houstonchronicle/posts/since-donald-trumps-inauguration-we-have-seen-an-11-decline-in-the-value-of-the-/1174629164681220/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Trade",
+      "url": "https://politifact.com/trade/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "US Dollar Down 10% Since Trump Took Office",
+      "url": "https://finance.yahoo.com/news/us-dollar-down-10-since-013110671.html",
+      "domain": "finance.yahoo.com",
+      "published": "2025-08-07",
+      "publishedAsGiven": "Aug 7, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Fact-checks (12008)",
+      "url": "https://politifact.com/search/factcheck/?q=years",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "The dollar's down 11% since Trump took office. Feel poorer ...",
+      "url": "https://www.facebook.com/nowthisimpact/posts/the-dollars-down-11-since-trump-took-office-feel-poorer-you-shouldyour-moneys-wo/1211104411054721/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Representative Ritchie Torres: “It's not enough for the center left ...",
+      "url": "https://www.youtube.com/shorts/0McdNSV8y0U",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "'It's Great' | Trump Embraces Weaker Dollar",
+      "url": "https://www.youtube.com/watch?v=tzcYKFXfrgE",
+      "domain": "youtube.com",
+      "published": "2026-01-27",
+      "publishedAsGiven": "9 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Dollar Dominance: Preserving the U.S. Dollar's Status as ...",
+      "url": "https://www.congress.gov/event/118th-congress/house-event/116068/text",
+      "domain": "congress.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Week Ahead for FX, Bonds: U.S. Inflation Data Due as ...",
+      "url": "https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-u-s-inflation-data-due-as-focus-remains-on-bond-markets-34b7c9d9",
+      "domain": "wsj.com",
+      "published": "2025-01-10",
+      "publishedAsGiven": "Jan 10, 2025",
+      "snippet": "President-elect Donald Trump's inauguration on January 20. Trump's policies are expected to be inflationary. This could would lift the dollar ..."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Sitemap - 4 April 2024",
+      "url": "https://www.reuters.com/sitemap/2024-04/04/1/",
+      "domain": "reuters.com",
+      "published": "2024-04-04",
+      "publishedAsGiven": "Apr 4, 2024",
+      "snippet": "The Canadian dollar is set to strengthen less than previously thought over the coming year as sticky inflation potentially delays Federal ..."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Trump threatens to strike world's largest gas field if Iran ...",
+      "url": "https://apnews.com/live/iran-war-israel-trump-03-18-2026",
+      "domain": "apnews.com",
+      "published": "2026-03-18",
+      "publishedAsGiven": "Mar 18, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Reuters Business News Schedule at 0430 GMT/11.30 PM ET",
+      "url": "https://www.reuters.com/article/reuters-business-news-schedule-at-0430-gmt1130-pm-et-idUSL3N1GN15K/",
+      "domain": "reuters.com",
+      "published": "2017-03-09",
+      "publishedAsGiven": "Mar 9, 2017",
+      "snippet": "Crude prices inch up after dropping to their lowest in more than three months the session. Gold falls below key level of $1,200 ahead of US ..."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Sitemap - 12 June 2026",
+      "url": "https://www.reuters.com/sitemap/2026-06/12/1/",
+      "domain": "reuters.com",
+      "published": "2026-06-12",
+      "publishedAsGiven": "Jun 12, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "Sitemap - 6 August 2025",
+      "url": "https://www.reuters.com/sitemap/2025-08/06/1/",
+      "domain": "reuters.com",
+      "published": "2025-08-06",
+      "publishedAsGiven": "Aug 6, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Trump UK state visit: King Charles and ...",
+      "url": "https://apnews.com/live/donald-trump-news-updates-9-17-2025",
+      "domain": "apnews.com",
+      "published": "2025-09-17",
+      "publishedAsGiven": "Sep 17, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Sitemap - 24 December 2024",
+      "url": "https://www.reuters.com/sitemap/2024-12/24/1/",
+      "domain": "reuters.com",
+      "published": "2024-12-24",
+      "publishedAsGiven": "Dec 24, 2024",
+      "snippet": "Toyota is donating $1 million to Trump's inauguration. Toyota Motor of North America is donating $1 million to President-elect Donald Trump's ..."
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "USA TODAY Network Style Guide",
+      "url": "https://content-static.usatoday.com/styleguide/USA_TODAY_NETWORK_Style_Guide_Final.pdf",
+      "domain": "content-static.usatoday.com",
+      "published": "2025-01-20",
+      "publishedAsGiven": "Jan 20, 2025",
+      "snippet": "This style guide is a testament to the collective commitment of the USA TODAY Network to journalistic excellence. This is a dynamic and ..."
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "Tim Cook Built Apple Into a $4 Trillion Powerhouse. He ...",
+      "url": "https://www.wsj.com/tech/tim-cook-apple-ceo-career-055d5358",
+      "domain": "wsj.com",
+      "published": "2026-04-21",
+      "publishedAsGiven": "Apr 21, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 27,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 4,
+    "after-said": 10,
+    "maybe-after-said": 3,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 1,
+  "searchedAt": "2026-10-27T03:05:00.403Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "The dollar has lost 10% of its value",
+      "url": "https://www.washingtonpost.com/video/politics/the-dollar-has-lost-10-of-its-value/2025/04/23/d787cc77-fe65-4fc6-a86a-7b39f241d3eb_video.html",
+      "domain": "washingtonpost.com",
+      "snippet": "The dollar has dropped nearly 10% since Inauguration Day, over half in April after the president raised import taxes to their highest level ...",
+      "published": null,
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Washington Post",
+        "page": "https://mediabiasfactcheck.com/washington-post/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Week Ahead for FX, Bonds: U.S. Inflation Data Due as ...",
+      "url": "https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-u-s-inflation-data-due-as-focus-remains-on-bond-markets-34b7c9d9",
+      "domain": "wsj.com",
+      "snippet": "President-elect Donald Trump's inauguration on January 20. Trump's policies are expected to be inflationary. This could would lift the dollar ...",
+      "published": "2025-01-10",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Wall Street Journal",
+        "page": "https://mediabiasfactcheck.com/wall-street-journal/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Sitemap - 4 April 2024",
+      "url": "https://www.reuters.com/sitemap/2024-04/04/1/",
+      "domain": "reuters.com",
+      "snippet": "The Canadian dollar is set to strengthen less than previously thought over the coming year as sticky inflation potentially delays Federal ...",
+      "published": "2024-04-04",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Reuters Business News Schedule at 0430 GMT/11.30 PM ET",
+      "url": "https://www.reuters.com/article/reuters-business-news-schedule-at-0430-gmt1130-pm-et-idUSL3N1GN15K/",
+      "domain": "reuters.com",
+      "snippet": "Crude prices inch up after dropping to their lowest in more than three months the session. Gold falls below key level of $1,200 ahead of US ...",
+      "published": "2017-03-09",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Sitemap - 24 December 2024",
+      "url": "https://www.reuters.com/sitemap/2024-12/24/1/",
+      "domain": "reuters.com",
+      "snippet": "Toyota is donating $1 million to Trump's inauguration. Toyota Motor of North America is donating $1 million to President-elect Donald Trump's ...",
+      "published": "2024-12-24",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "frozenAt": "2026-10-27T03:03:05.392Z",
+  "refilteredAt": "2026-10-27T03:32:37.130Z",
+  "id": "pf/moms-demand-action-gun-sense-america/firearm-related-deaths-are-no-1-killer-of-college",
+  "said": "2025-04-17",
+  "queries": {
+    "fact": "Gun violence is the leading killer of college-aged people in the U.S.",
+    "claim": "Gun violence is the leading killer of college-aged people in the U.S. Moms Demand Action for Gun Sense In America"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1196.9981660000049,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1375.5130000000063,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Firearm-related deaths ranked No. 1 for college-aged people",
+      "url": "https://politifact.com/factchecks/2025/apr/22/moms-demand-action-gun-sense-america/firearm-related-deaths-are-no-1-killer-of-college/",
+      "domain": "politifact.com",
+      "published": "2025-04-22",
+      "publishedAsGiven": "Apr 22, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Gun Violence in America",
+      "url": "https://everytownresearch.org/report/gun-violence-in-america/",
+      "domain": "everytownresearch.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Gun Violence",
+      "url": "https://www.apha.org/topics-and-issues/gun-violence",
+      "domain": "apha.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Gun Violence Statistics",
+      "url": "https://giffords.org/lawcenter/resources/gun-violence-statistics/",
+      "domain": "giffords.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "PolitiFact FL: Firearm-related deaths are No. 1 killer of ...",
+      "url": "https://www.wuft.org/politifact-florida/2025-04-24/firearm-related-deaths-college-age-people-data",
+      "domain": "wuft.org",
+      "published": "2025-04-24",
+      "publishedAsGiven": "Apr 24, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Preventing Gun Violence, the Leading Cause of Childhood ...",
+      "url": "https://www.nichd.nih.gov/about/org/od/directors_corner/prev_updates/gun-violence-July2022",
+      "domain": "nichd.nih.gov",
+      "published": "2025-12-11",
+      "publishedAsGiven": "Dec 11, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Annual Gun Violence Data 2024",
+      "url": "https://publichealth.jhu.edu/center-for-gun-violence-solutions/data/annual-gun-violence-data",
+      "domain": "publichealth.jhu.edu",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Firearms are the leading cause of death for children in ...",
+      "url": "https://www.facebook.com/CongresswomanBonamici/posts/firearms-are-the-leading-cause-of-death-for-children-in-the-united-states-we-mus/1647990583373692/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "What is the No 1 killer of college-age people in US? Data ...",
+      "url": "https://www.aljazeera.com/news/2025/4/25/what-is-the-no-1-killer-of-college-age-people-in-us-data-says-gun-violence",
+      "domain": "aljazeera.com",
+      "published": "2025-04-25",
+      "publishedAsGiven": "Apr 25, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "According to health experts and the most recent data, 'gun ...",
+      "url": "https://www.quora.com/According-to-health-experts-and-the-most-recent-data-gun-violence-is-the-leading-killer-of-college-aged-people-in-the-US-What-can-be-done-to-lower-firearm-related-deaths",
+      "domain": "quora.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Moms Demand Action: Home",
+      "url": "https://momsdemandaction.org/",
+      "domain": "momsdemandaction.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "New Report Highlights How Guns are the Number One ...",
+      "url": "https://momsdemandaction.org/press/new-report-highlights-how-guns-are-the-number-one-killer-of-american-children-and-teens-everytown-responds/",
+      "domain": "momsdemandaction.org",
+      "published": "2023-10-06",
+      "publishedAsGiven": "Oct 6, 2023",
+      "snippet": "Firearms are the leading cause of death for children, teens and college-aged people in America. Every year, nearly 19,000 children and teens ..."
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Resources",
+      "url": "https://momsdemandaction.org/resources/",
+      "domain": "momsdemandaction.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Moms Demand Action for Gun Sense in America",
+      "url": "https://www.facebook.com/MomsDemandAction/posts/guns-are-the-leading-killer-of-children-and-teens-in-this-country-but-it-doesnt-/1094641762700126/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Moms Demand Action for Gun Sense in America | MyLO",
+      "url": "https://my.lwv.org/california/diablo-valley/article/moms-demand-action-gun-sense-america",
+      "domain": "my.lwv.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Gun Violence Statistics",
+      "url": "https://giffords.org/lawcenter/resources/gun-violence-statistics/",
+      "domain": "giffords.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Firearms are the leading cause of death for children and ...",
+      "url": "https://everytownresearch.org/graph/firearms-are-the-leading-cause-of-death-for-american-children-and-teens/",
+      "domain": "everytownresearch.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "With alarming regularity, gun violence threatens the lives of ...",
+      "url": "https://www.facebook.com/MomsDemandAction/posts/with-alarming-regularity-gun-violence-threatens-the-lives-of-students-educators-/1582197177277913/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Moms Demand Action: How a Facebook group started ...",
+      "url": "https://journals.law.harvard.edu/lpr/2016/12/15/moms-demand-action-how-a-facebook-group-started-a-movement-to-change-our-nations-gun-laws/",
+      "domain": "journals.law.harvard.edu",
+      "published": "2016-12-15",
+      "publishedAsGiven": "Dec 15, 2016",
+      "snippet": "In states that have closed the background check loophole, 46 percent fewer women are shot to death by intimate partners, 48 percent fewer law ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "“Fed Up' With Gun Violence, Students Demand Action ...",
+      "url": "https://www.everytown.org/press/fed-up-with-gun-violence-students-demand-action-organizes-more-than-300-walkouts-from-schools-around-the-country-to-demand-lawmaker-action/",
+      "domain": "everytown.org",
+      "published": "2026-07-10",
+      "publishedAsGiven": "Jul 10, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 1,
+    "after-said": 5,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 9
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:03:02.819Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Moms Demand Action: How a Facebook group started ...",
+      "url": "https://journals.law.harvard.edu/lpr/2016/12/15/moms-demand-action-how-a-facebook-group-started-a-movement-to-change-our-nations-gun-laws/",
+      "domain": "journals.law.harvard.edu",
+      "snippet": "In states that have closed the background check loophole, 46 percent fewer women are shot to death by intimate partners, 48 percent fewer law ...",
+      "published": "2016-12-15",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "New Report Highlights How Guns are the Number One ...",
+      "url": "https://momsdemandaction.org/press/new-report-highlights-how-guns-are-the-number-one-killer-of-american-children-and-teens-everytown-responds/",
+      "domain": "momsdemandaction.org",
+      "snippet": "Firearms are the leading cause of death for children, teens and college-aged people in America. Every year, nearly 19,000 children and teens ...",
+      "published": "2023-10-06",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    }
+  ]
+}

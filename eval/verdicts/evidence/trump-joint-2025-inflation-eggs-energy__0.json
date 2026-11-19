@@ -1,0 +1,106 @@
+{
+  "case_id": "trump-joint-2025-inflation-eggs-energy#0",
+  "queries": {
+    "A": "we inherited from the last administration an economic catastrophe and an inflation nightmare Trump",
+    "B": "US economy January 2025 GDP growth unemployment rate inflation rate"
+  },
+  "results": [
+    {
+      "q": "B",
+      "rank": 1,
+      "title": "The Outlook for the U.S. Economy in 2025 - Center for Commercial Agriculture",
+      "url": "https://ag.purdue.edu/commercialag/home/paer-article/the-outlook-for-the-u-s-economy-in-2025",
+      "domain": "ag.purdue.edu",
+      "published": "2025-01-31",
+      "snippet": "If the fourth quarter is like the first three, 2024 gross domestic product will have grown 2.8% above inflation. We can break this down into four components. Working-age population grew 0.6%. The share of that population participating in the labor force rose 0.1%. The share of the labor force actually employed went down 0.5%. And productivity—output produced by the average worker—increased 2.6%. Those percentages sum to 2.8%, the rate of real GDP growth. We can project these four components to forecast growth for 2025.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "The state of the U.S. economy one year into the second Trump administration",
+      "url": "https://equitablegrowth.org/the-state-of-the-u-s-economy-one-year-into-the-second-trump-administration/",
+      "domain": "equitablegrowth.org",
+      "published": "2026-02-23",
+      "snippet": "The U.S. Bureau of Economic Analysis reported that total real (that is, adjusted for inflation) economic growth in 2025 was just 2.2 percent. That means total economic growth actually decelerated a bit from 2024’s rate of 2.4 percent. That said, last year’s growth was a bit higher than some projections of GDP growth at the beginning of 2025. In January 2025, for example, the Congressional Budget Office projected just 2.1 percent growth in 2025.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 4,
+      "title": "2025: New Year, Same Strong U.S. Economy | Chase",
+      "url": "https://www.chase.com/personal/investments/learning-and-insights/article/tmt-january-seven-twenty-five-daily",
+      "domain": "chase.com",
+      "published": "2025-01-07",
+      "snippet": "As we all dust off our gym memberships and resolve to finally use them, the U.S. economy has its own resolutions for 2025: keep flexing those growth muscles and keep inflation in check. One of the most important drivers of U.S. growth is consumer spending and so far, the backdrop looks supportive for another strong year with the unemployment rate low and wages growing at a healthy clip. We also see business investment continuing at a moderate pace in part due to AI investment broadening out from the tech sector to the rest of the economy. Overall, we expect the U.S.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 5,
+      "title": "Monthly Economic Review: January 2025 | NRF",
+      "url": "https://nrf.com/research/monthly-economic-review-january-2025",
+      "domain": "nrf.com",
+      "published": "2025-01-08",
+      "snippet": "Gross domestic product grew at an annual rate of 3% in the second quarter and the Bureau of Economic Analysis recently revised third-quarter GDP growth to 3.1% from 2.8%. Those numbers plus monthly data seen so far from the fourth quarter put 2024 on pace to expand by 2.7%, easily topping the historical average of 2%. The year was marked in large measure by the impressive resiliency of the consumer and a sturdy labor market. Consumer spending was supported by low unemployment and also by wage gains, which have outpaced inflation even as employers have slowed hiring.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://www.wrtv.com/?p=2654160",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.abc15.com/politics/truth-be-told/truth-be-told-trump-didnt-inherit-economic-catastrophe",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.wtkr.com/politics/truth-be-told/truth-be-told-trump-didnt-inherit-economic-catastrophe",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.kshb.com/politics/truth-be-told/truth-be-told-trump-didnt-inherit-economic-catastrophe",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.wptv.com/politics/truth-be-told/truth-be-told-trump-didnt-inherit-economic-catastrophe",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.news5cleveland.com/politics/truth-be-told/truth-be-told-trump-didnt-inherit-economic-catastrophe",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.kgun9.com/politics/truth-be-told/truth-be-told-trump-didnt-inherit-economic-catastrophe",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.scrippsnews.com/politics/truth-be-told/truth-be-told-trump-didnt-inherit-economic-catastrophe",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.wmar2news.com/politics/truth-be-told/truth-be-told-trump-didnt-inherit-economic-catastrophe",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.denver7.com/politics/truth-be-told/truth-be-told-trump-didnt-inherit-economic-catastrophe",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "B",
+      "url": "https://ag.purdue.edu/commercialag/home/?p=19519",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    }
+  ]
+}

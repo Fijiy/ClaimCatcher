@@ -1,0 +1,116 @@
+{
+  "case_id": "uk-pmqs-2026-03-04-starmer-defence-270bn#3",
+  "queries": {
+    "A": "Labour, by contrast, is delivering the biggest boost to defence spending since the cold war—£270 billion over this Parliament Starmer",
+    "B": "UK defence spending plans this Parliament total £270 billion 2.5% GDP 2027"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 2,
+      "title": "Starmer says disagrees with former Nato chief's 'complacency' claim | AJ Bell",
+      "url": "https://www.ajbell.co.uk/news/articles/starmer-says-disagrees-former-nato-chiefs-complacency-claim",
+      "domain": "ajbell.co.uk",
+      "published": "2026-04-15",
+      "snippet": "He added: ‘We got the biggest boost of defence spending since the Cold War. We’ve also got the biggest pay rise for our armed forces for over 20 years. We’ve also got the biggest investment in military housing for over half a century.’",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 4,
+      "title": "UK Unveils Record £300 Billion Defence Investment Plan, Annual Spending To Reach £80 Billion By 2029",
+      "url": "https://www.freepressjournal.in/world/uk-unveils-record-300-billion-defence-investment-plan-annual-spending-to-reach-80-billion-by-2029",
+      "domain": "freepressjournal.in",
+      "published": "2026-06-30",
+      "snippet": "Former UK Prime Minister Keir Starmer has announced a nearly £300 billion defence spending plan over the next four years, calling it the biggest sustained increase since the 1980s. The investment will raise annual defence spending to nearly £80 billion by 2029, boost military capabilities, and strengthen national security amid rising geopolitical tensions and NATO commitments.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 7,
+      "title": "'We have to fight for peace': PM announces biggest defence spending rise since Cold War while cutting foreign aid | LBC",
+      "url": "https://lbc.co.uk/news/uk/keir-starmer-defence-spending-rise-cut-foreign-aid",
+      "domain": "lbc.co.uk",
+      "published": "2025-02-25",
+      "snippet": "\"So starting today, I can announce this Government will begin the biggest sustained increase in defence spending since the end of the Cold War.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 9,
+      "title": "UK’s Starmer says future Labour government will build on defense plan",
+      "url": "https://www.arabnews.com/node/2649092/world",
+      "domain": "arabnews.com",
+      "published": "2026-06-30",
+      "snippet": "Starmer, expected to leave office next month after losing the support of Labour MPs, announced that the overall defense budget would increase by £15 billion over the next four years to almost £300 billion, as he launched his long-awaited 10-year Defense Investment Plan. “Last year I made the decision in the national interest to reprioritize aid spending toward defense and achieved the biggest uplift in defense spending since the end of the Cold War,” Starmer said in a speech. “That was the right choice because the world has changed. National security is economic security.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 1,
+      "title": "Defence spending is not set to get an extra £270 billion – Full Fact",
+      "url": "https://fullfact.org/politics/keir-starmer-270-billion-defence/",
+      "domain": "fullfact.org",
+      "published": "2026-03-24",
+      "snippet": "The government has committed to spending 2.5% on defence by April 2027, and it says defence spending that matches NATO’s broader definition will surpass this and reach 2.6% of GDP by April 2027. The Ministry of Defence has said this planned increase “means that, over this Spending Review period, the government will invest over £270 billion in cash terms on defence”.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "UK to raise defence spending to 2.5% of GDP by 2027, Starmer says",
+      "url": "https://www.scmp.com/news/world/europe/article/3300113/uk-raise-defence-spending-25-gdp-2027-starmer-says",
+      "domain": "scmp.com",
+      "published": "2025-02-25",
+      "snippet": "UK to raise defence spending to 2.5% of GDP by 2027, Starmer says",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "UK to increase defense spending to 2.5% of GDP by 2027, Starmer says",
+      "url": "https://kyivindependent.com/uk-plans-to-increase-defense-spending-to-2-5-of-gdp-by-2027-starmer-says/",
+      "domain": "kyivindependent.com",
+      "published": "2025-02-25",
+      "snippet": "Starting in 2027, the UK will spend £13.4 billion ($17 billion) yearly on security needs. After the end of the parliament's term in 2029, it is expected to reach 3% of GDP, according to Starmer.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 4,
+      "title": "Is the government on track to increase defence spending to 2.5% of GDP? – Full Fact",
+      "url": "https://fullfact.org/government-tracker/defence-spending-2-5-percent-2027/",
+      "domain": "fullfact.org",
+      "published": "2025-03-10",
+      "snippet": "He told MPs : “We will deliver our commitment to spend 2.5% of GDP on defence, but we will bring it forward so that we reach that level in 2027 and we will maintain that for the rest of this Parliament.”",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://fullfact.org/politics/defence-spending-increase-pmqs/",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "A",
+      "url": "https://www.morningstar.co.uk/uk/news/AN_1776258815193173100/starmer-says-disagrees-with-former-nato-chiefs-complacency-claim.aspx",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "A",
+      "url": "https://explorer.cimple.eu/claim-review/bbe2d5b7ba731cff2c73f276c6835bbb327b0a2640f85a9a9facb9db",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://old.moneyam.com/action/news/showArticle?id=7386251",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "A",
+      "url": "https://podcastrex.com/shows/novara-live/starmer-announces-cuts-to-pay-for-defence/transcript",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    }
+  ]
+}

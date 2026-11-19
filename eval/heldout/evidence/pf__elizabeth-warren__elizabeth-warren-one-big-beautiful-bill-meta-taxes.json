@@ -1,0 +1,231 @@
+{
+  "frozenAt": "2026-10-27T03:04:31.611Z",
+  "refilteredAt": "2026-10-27T03:32:55.832Z",
+  "id": "pf/elizabeth-warren/elizabeth-warren-one-big-beautiful-bill-meta-taxes",
+  "said": "2025-06-24",
+  "queries": {
+    "fact": "If every one of the 340 million people in America paid a new $35 copay to visit the doctor, that still wouldn’t be enough to cover how much Meta would get from just one tax break in Donald Trump’s ‘Big Beautiful Bill.’",
+    "claim": "If every one of the 340 million people in America paid a new $35 copay to visit the doctor, that still wouldn’t be enough to cover how much Meta would get from just one tax break in Donald Trump’s ‘Big Beautiful Bill.’ Elizabeth Warren"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2740.3764159999846,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2381.0690829999803,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Myth vs. Fact: The One Big Beautiful Bill",
+      "url": "https://www.whitehouse.gov/releases/2025/06/myth-vs-fact-the-one-big-beautiful-bill/",
+      "domain": "whitehouse.gov",
+      "published": "2025-06-29",
+      "publishedAsGiven": "Jun 29, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Elizabeth Warren on X",
+      "url": "https://x.com/SenWarren/status/1937527386683154635",
+      "domain": "x.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "The Implementation Timeline of the One Big Beautiful Bill Act",
+      "url": "https://www.americanprogress.org/article/the-implementation-timeline-of-the-one-big-beautiful-bill-act/",
+      "domain": "americanprogress.org",
+      "published": "2025-07-29",
+      "publishedAsGiven": "Jul 29, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "What Does the One Big Beautiful Bill Cost?",
+      "url": "https://bipartisanpolicy.org/explainer/what-does-the-one-big-beautiful-bill-cost/",
+      "domain": "bipartisanpolicy.org",
+      "published": "2025-07-23",
+      "publishedAsGiven": "Jul 23, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Donald Trump cut health care for Americans so that Amazon ...",
+      "url": "https://www.facebook.com/NationalCommittee/posts/donald-trump-cut-health-care-for-americans-so-that-amazon-could-get-a-4-billion-/1372763594894931/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "One Big Beautiful Bill Law Summary",
+      "url": "https://www.astho.org/advocacy/federal-government-affairs/leg-alerts/2025/one-big-beautiful-bill-law-summary/",
+      "domain": "astho.org",
+      "published": "2025-07-09",
+      "publishedAsGiven": "Jul 9, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "How Trump's 'One Big Beautiful Bill Act' Will Impact You",
+      "url": "http://ocasio-cortez.house.gov/legislation/how-trumps-one-big-beautiful-bill-act-will-impact-you",
+      "domain": "ocasio-cortez.house.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "One Big Beautiful Bill Act",
+      "url": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "\"If every one of the 340 million people in America paid a ...",
+      "url": "https://www.instagram.com/p/DLSbX65syOF/",
+      "domain": "instagram.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "What the One Big Beautiful Bill Act could mean for your taxes",
+      "url": "https://www.fidelity.com/learning-center/personal-finance/one-big-beautiful-bill",
+      "domain": "fidelity.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Elizabeth Warren on X",
+      "url": "https://x.com/SenWarren/status/1937527386683154635",
+      "domain": "x.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact-checking Elizabeth Warren on Meta's tax break in 'Big ...",
+      "url": "https://www.wral.com/archive/22074262/",
+      "domain": "wral.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Elizabeth Warren Says The Tax Break For Mark ...",
+      "url": "https://finance.yahoo.com/news/elizabeth-warren-says-tax-break-003147271.html",
+      "domain": "finance.yahoo.com",
+      "published": "2025-06-25",
+      "publishedAsGiven": "Jun 25, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "\"If every one of the 340 million people in America paid a ...",
+      "url": "https://www.instagram.com/p/DLSbX65syOF/",
+      "domain": "instagram.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Fact-checking Elizabeth Warren on Meta's tax break in 'Big ...",
+      "url": "https://www.youtube.com/watch?v=_6zJnpvq1hg",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "On Tuesday, Sen. Elizabeth Warren (D-Mass.) slammed Meta ...",
+      "url": "https://www.facebook.com/Benzinga/posts/on-tuesday-sen-elizabeth-warren-d-mass-slammed-meta-platforms-incs-meta-alleged-/1283282437130757/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Elizabeth Warren Says The Tax Break For Mark Zuckerberg's ...",
+      "url": "https://www.benzinga.com/news/politics/25/06/46087132/elizabeth-warren-says-the-tax-break-for-mark-zuckerbergs-meta-is-so-bountiful-under-trumps-big-beautiful-bill-that-35-copay-from-each-american-wont-still",
+      "domain": "benzinga.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Myth vs. Fact: The One Big Beautiful Bill",
+      "url": "https://www.whitehouse.gov/releases/2025/06/myth-vs-fact-the-one-big-beautiful-bill/",
+      "domain": "whitehouse.gov",
+      "published": "2025-06-29",
+      "publishedAsGiven": "Jun 29, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "President Trump's 'One Big Beautiful Bill Act,' Explained",
+      "url": "https://www.naacpldf.org/case-issue/trumps-one-big-beautiful-bill-act-explained/",
+      "domain": "naacpldf.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Sen. Elizabeth Warren accused President Donald Trump of ...",
+      "url": "https://www.facebook.com/GoMcGill/posts/sen-elizabeth-warren-accused-president-donald-trump-of-adding-tax-loopholes-that/1627595822071866/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 0,
+    "fact-check-words": 2,
+    "after-said": 8,
+    "maybe-after-said": 4,
+    "after-said-link-date": 0,
+    "undated": 6
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:04:19.284Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Fixture: recorded video that gives its date</title>
+  </head>
+  <body>
+    <h1>Floor speech, recorded (fixture)</h1>
+    <!-- The same captioned video as video-track.html, on a page that says when
+         it was recorded the way YouTube's watch page does: schema.org
+         VideoObject microdata (meta itemprop) and JSON-LD. -->
+    <div itemscope itemtype="http://schema.org/VideoObject">
+      <meta itemprop="name" content="Floor speech" />
+      <meta itemprop="datePublished" content="2024-06-27T20:31:52-07:00" />
+      <meta itemprop="uploadDate" content="2024-06-27T20:31:52-07:00" />
+    </div>
+    <script type="application/ld+json">
+      { "@context": "https://schema.org", "@type": "VideoObject", "name": "Floor speech", "uploadDate": "2024-06-27T20:31:52-07:00" }
+    </script>
+    <video id="video" src="/media/tone.wav" controls width="320">
+      <track kind="captions" src="/video-track.vtt" srclang="en" label="English" />
+    </video>
+  </body>
+</html>

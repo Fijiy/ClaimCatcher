@@ -1,0 +1,281 @@
+{
+  "frozenAt": "2026-10-27T03:10:54.523Z",
+  "refilteredAt": "2026-10-27T03:34:29.651Z",
+  "id": "pf/marcus-molinaro/new-york-population-loss-lead-nation",
+  "said": "2026-02-14",
+  "queries": {
+    "fact": "New York leads the nation in population loss.",
+    "claim": "New York leads the nation in population loss. Marc Molinaro"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1430.0500410000095,
+      "results": 9
+    },
+    {
+      "query": "claim",
+      "ms": 1864.449166999897,
+      "results": 9
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "New York State Is Headed for a Decade of Population ...",
+      "url": "https://www.city-journal.org/article/new-york-population-decline-immigrants",
+      "domain": "city-journal.org",
+      "published": "2026-01-29",
+      "publishedAsGiven": "Jan 29, 2026",
+      "snippet": "Jan 29, 2026 — New York's total population hit a record 20,203,696 in the April 2020 census count —but then dropped by about 368,000 in the two years following ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "New York, again, leads nation in population decline. Here's ...",
+      "url": "https://www.lohud.com/story/news/politics/2020/12/22/new-york-again-leads-nation-population-decline-heres-latest/4012618001/",
+      "domain": "lohud.com",
+      "published": "2020-12-22",
+      "publishedAsGiven": "Dec 22, 2020",
+      "snippet": "Dec 22, 2020 — The Empire State's population fell by 126,355 people between July 2019 and July 2020, to 19.3 million , a drop of 0.65%, according to the ..."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "New data from the U.S. Census Bureau shows that New York ...",
+      "url": "https://www.facebook.com/ny1news/videos/new-data-from-the-us-census-bureau-shows-that-new-york-citys-population-is-flatl/1542847750784240/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Is New York's population growing or shrinking?",
+      "url": "https://usafacts.org/answers/is-the-population-growing-or-shrinking/state/new-york/",
+      "domain": "usafacts.org",
+      "published": "2026-07-06",
+      "publishedAsGiven": "Jul 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Stark population decline projected for NYS | Cornell Chronicle",
+      "url": "https://news.cornell.edu/stories/2024/11/stark-population-decline-projected-nys",
+      "domain": "news.cornell.edu",
+      "published": "2024-11-13",
+      "publishedAsGiven": "Nov 13, 2024",
+      "snippet": "Nov 13, 2024 — New York state's population could shrink by more than 2 million people over the next 25 years – a decline of more than 13%, according to a new ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "New study reveals a significant population decline in ...",
+      "url": "https://www.facebook.com/KLFYTV10/posts/new-study-reveals-a-significant-population-decline-in-new-york-state-with-more-r/1364912709083846/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "New York's Population Is Struggling to Recover from Covid ...",
+      "url": "https://www.empirecenter.org/publications/new-yorks-population-is-struggling-to-recover/",
+      "domain": "empirecenter.org",
+      "published": "2025-12-03",
+      "publishedAsGiven": "Dec 3, 2025",
+      "snippet": "Dec 3, 2025 — The state as a whole was down by 238,000 residents or 1.2 percent over the four-year stretch, even as the U.S. population rose by 2.6 percent. ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "New York leads nation in population loss",
+      "url": "https://nbc24.com/news/nation-world/new-york-leads-nation-in-population-loss-census-bureau",
+      "domain": "nbc24.com",
+      "published": "2018-12-19",
+      "publishedAsGiven": "Dec 19, 2018",
+      "snippet": "Dec 19, 2018 — The report says nine states saw a drop in populationbetween July 1, 2017, and July 1, 2018. New York led the way at a loss of48,510 people . Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "New York's population falls again, leading nation in decline",
+      "url": "https://www.reddit.com/r/Albany/comments/18of1ib/new_yorks_population_falls_again_leading_nation/",
+      "domain": "reddit.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Does New York lead the US in population loss?",
+      "url": "https://politifact.com/factchecks/2026/apr/01/marcus-molinaro/new-york-population-loss-lead-nation/",
+      "domain": "politifact.com",
+      "published": "2026-04-01",
+      "publishedAsGiven": "Apr 1, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "We love this state, but Albany is pushing people away. ...",
+      "url": "https://www.facebook.com/MarcMolinaroNY/posts/we-love-this-state-but-albany-is-pushing-people-away-new-york-leads-the-nation-i/1621321412692597/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Hon. Marc Molinaro",
+      "url": "https://www.naco.org/person/hon-marc-molinaro",
+      "domain": "naco.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Rep. Marc Molinaro - Scorecard 118: 60%",
+      "url": "https://heritageaction.com/scorecard/members/M001221",
+      "domain": "heritageaction.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Marc Molinaro on Running for NYS Assembly Seat After ...",
+      "url": "https://www.youtube.com/watch?v=1O_NyKhqcSo",
+      "domain": "youtube.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Former NY Rep. Molinaro visits Brooks to discuss future of ...",
+      "url": "https://news.cornell.edu/stories/2025/02/former-ny-rep-molinaro-visits-brooks-discuss-future-congress",
+      "domain": "news.cornell.edu",
+      "published": "2025-02-06",
+      "publishedAsGiven": "Feb 6, 2025",
+      "snippet": "Former New York Congressman Marc Molinaro addresses students at the Jeb E. Brooks School of Public Policy during a visit hosted by Institute of ..."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "New York continues to lead nation in population loss",
+      "url": "https://subscriber.politicopro.com/article/2023/12/new-york-population-loss-00132499",
+      "domain": "subscriber.politicopro.com",
+      "published": "2023-12-19",
+      "publishedAsGiven": "Dec 19, 2023",
+      "snippet": "Since 2020, New York has led the nation in population loss with more than 533,000 people who have left over the three years, a decline of 2.7 ..."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Marc Molinaro",
+      "url": "https://en.wikipedia.org/wiki/Marc_Molinaro",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "New York's population decline continues",
+      "url": "https://www.news10.com/capitol/ny-taxpayer-population-exodus/",
+      "domain": "news10.com",
+      "published": "2026-07-13",
+      "publishedAsGiven": "Jul 13, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 18,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 0,
+    "after-said": 4,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 6
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:10:51.228Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "New York State Is Headed for a Decade of Population ...",
+      "url": "https://www.city-journal.org/article/new-york-population-decline-immigrants",
+      "domain": "city-journal.org",
+      "snippet": "Jan 29, 2026 — New York's total population hit a record 20,203,696 in the April 2020 census count —but then dropped by about 368,000 in the two years following ... Read more",
+      "published": "2026-01-29",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "R",
+        "reliability": "high",
+        "name": "City Journal",
+        "page": "https://mediabiasfactcheck.com/city-journal/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Former NY Rep. Molinaro visits Brooks to discuss future of ...",
+      "url": "https://news.cornell.edu/stories/2025/02/former-ny-rep-molinaro-visits-brooks-discuss-future-congress",
+      "domain": "news.cornell.edu",
+      "snippet": "Former New York Congressman Marc Molinaro addresses students at the Jeb E. Brooks School of Public Policy during a visit hosted by Institute of ...",
+      "published": "2025-02-06",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "New York, again, leads nation in population decline. Here's ...",
+      "url": "https://www.lohud.com/story/news/politics/2020/12/22/new-york-again-leads-nation-population-decline-heres-latest/4012618001/",
+      "domain": "lohud.com",
+      "snippet": "Dec 22, 2020 — The Empire State's population fell by 126,355 people between July 2019 and July 2020, to 19.3 million , a drop of 0.65%, according to the ...",
+      "published": "2020-12-22",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "The Journal News",
+        "page": "https://mediabiasfactcheck.com/the-journal-news/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Stark population decline projected for NYS | Cornell Chronicle",
+      "url": "https://news.cornell.edu/stories/2024/11/stark-population-decline-projected-nys",
+      "domain": "news.cornell.edu",
+      "snippet": "Nov 13, 2024 — New York state's population could shrink by more than 2 million people over the next 25 years – a decline of more than 13%, according to a new ... Read more",
+      "published": "2024-11-13",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "New York's Population Is Struggling to Recover from Covid ...",
+      "url": "https://www.empirecenter.org/publications/new-yorks-population-is-struggling-to-recover/",
+      "domain": "empirecenter.org",
+      "snippet": "Dec 3, 2025 — The state as a whole was down by 238,000 residents or 1.2 percent over the four-year stretch, even as the U.S. population rose by 2.6 percent. ...",
+      "published": "2025-12-03",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 5
+    }
+  ]
+}

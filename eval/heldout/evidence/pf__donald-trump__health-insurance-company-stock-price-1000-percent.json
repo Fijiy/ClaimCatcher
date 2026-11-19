@@ -1,0 +1,291 @@
+{
+  "frozenAt": "2026-10-27T03:08:47.144Z",
+  "refilteredAt": "2026-10-27T03:33:55.786Z",
+  "id": "pf/donald-trump/health-insurance-company-stock-price-1000-percent",
+  "said": "2025-11-16",
+  "queries": {
+    "fact": "Stock prices for health insurance companies are up over 1,000% over a short period of time.",
+    "claim": "Stock prices for health insurance companies are up over 1,000% over a short period of time. Donald Trump"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 988.0194579999661,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 3189.9151660000207,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "President Donald Trump said health insurance companies ...",
+      "url": "https://www.facebook.com/politifact/posts/president-donald-trump-said-health-insurance-companies-stock-prices-have-increas/1288366013324499/",
+      "domain": "facebook.com",
+      "published": "2025-11-27",
+      "publishedAsGiven": "11 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Insurer Stock Prices Soaring After Giant ACA Subsidies",
+      "url": "https://paragoninstitute.org/paragon-pic/insurer-stock-prices-soaring-after-giant-aca-subsidies/",
+      "domain": "paragoninstitute.org",
+      "published": "2024-03-20",
+      "publishedAsGiven": "Mar 20, 2024",
+      "snippet": "As the Paragon Pic shows, the weighted average of health insurer stock prices are up 1,032 percent from 2010, when the ACA was enacted, and 448 ..."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Trump says insurance stock prices up over 1000%",
+      "url": "https://insurancenewsnet.com/oarticle/trump-says-insurance-stock-prices-up-over-1000",
+      "domain": "insurancenewsnet.com",
+      "published": "2025-11-24",
+      "publishedAsGiven": "Nov 24, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Health Insurance Costs Are Increasing As Markets Become ...",
+      "url": "https://www.gao.gov/blog/health-insurance-costs-are-increasing-markets-become-more-concentrated-fewer-insurance-companies-interactive-map",
+      "domain": "gao.gov",
+      "published": "2024-12-05",
+      "publishedAsGiven": "Dec 5, 2024",
+      "snippet": "Health care experts are warning that costs for insurance will likely rise again in 2025. One trend that may be contributing to higher ..."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Why does the cost of employer-sponsored coverage keep ...",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11195578/",
+      "domain": "pmc.ncbi.nlm.nih.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "HCA, UnitedHealth, Eli Lilly Lead | Eric Bricker, MD posted on ...",
+      "url": "https://www.linkedin.com/posts/ericbrickermd_healthcare-stockmarket-healthinsurance-activity-7507755881757982720-NImF",
+      "domain": "linkedin.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "How much and why premiums are going up for small ...",
+      "url": "https://www.healthsystemtracker.org/brief/how-much-and-why-premiums-are-going-up-for-small-businesses-in-2027/",
+      "domain": "healthsystemtracker.org",
+      "published": "2026-08-06",
+      "publishedAsGiven": "Aug 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "How Has the Affordable Care Act Affected Health Insurers ...",
+      "url": "https://www.commonwealthfund.org/publications/issue-briefs/2016/jul/how-has-affordable-care-act-affected-health-insurers-financial",
+      "domain": "commonwealthfund.org",
+      "published": "2016-07-20",
+      "publishedAsGiven": "Jul 20, 2016",
+      "snippet": "Overall, within the individual market, health insurers incurred losses amounting to 4 percent of premiums while group insurers earned a profit ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Healthcare Plans",
+      "url": "https://finance.yahoo.com/sectors/healthcare/healthcare-plans/",
+      "domain": "finance.yahoo.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "6 Best Health Insurance Stocks for 2026 and How to Invest",
+      "url": "https://www.fool.com/investing/stock-market/market-sectors/financials/insurance-stocks/health-insurance-stocks/",
+      "domain": "fool.com",
+      "published": "2026-09-14",
+      "publishedAsGiven": "Sep 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Trump exaggerates growth in health insurers' stock prices",
+      "url": "https://politifact.com/factchecks/2025/nov/19/donald-trump/health-insurance-company-stock-price-1000-percent/",
+      "domain": "politifact.com",
+      "published": "2025-11-19",
+      "publishedAsGiven": "Nov 19, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Have health insurance companies' stock prices increased ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-have-health-insurance-companies-stock-prices-increased-1000-over-a-short-period-of-time/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2025-11-29",
+      "publishedAsGiven": "Nov 29, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "President Donald Trump said health insurance companies ...",
+      "url": "https://www.facebook.com/politifact/posts/president-donald-trump-said-health-insurance-companies-stock-prices-have-increas/1288366013324499/",
+      "domain": "facebook.com",
+      "published": "2025-11-27",
+      "publishedAsGiven": "11 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Fact-checks (8)",
+      "url": "https://politifact.com/search/factcheck?q=re-air&page=1",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Donald Trump says health insurance companies getting ' ...",
+      "url": "https://www.youtube.com/watch?v=VGr5SwRD2nM",
+      "domain": "youtube.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Trump says he will meet with 14 insurers over pricing",
+      "url": "https://www.beckerspayer.com/payer/trump-says-he-will-meet-with-14-insurers-over-pricing/",
+      "domain": "beckerspayer.com",
+      "published": "2026-01-06",
+      "publishedAsGiven": "Jan 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Did Trump's healthcare policies benefit pharmaceutical ...",
+      "url": "https://www.facebook.com/groups/1102918374080514/posts/1836910564014621/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Trump Administration Accomplishments – The White House",
+      "url": "https://trumpwhitehouse.archives.gov/trump-administration-accomplishments/",
+      "domain": "trumpwhitehouse.archives.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Trump claimed that health insurance stocks have risen ...",
+      "url": "https://www.threads.com/@stevenrattner/post/DR4omTzEZ_s/trump-claimed-that-health-insurance-stocks-have-risen-the-reality-is-quite-the?hl=en",
+      "domain": "threads.com",
+      "published": "2025-12-27",
+      "publishedAsGiven": "10 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Health Insurer Stocks Slide on President Trump's Call to ...",
+      "url": "https://www.investopedia.com/health-insurer-stocks-slide-on-president-trump-s-call-to-change-aca-payments-11846543",
+      "domain": "investopedia.com",
+      "published": "2025-11-10",
+      "publishedAsGiven": "Nov 10, 2025",
+      "snippet": "Shares of health insurers tumbled after President Donald Trump called on Congress to change the way the federal government helps Americans pay ..."
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 3,
+    "after-said": 8,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 3
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:08:42.965Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Health Insurance Costs Are Increasing As Markets Become ...",
+      "url": "https://www.gao.gov/blog/health-insurance-costs-are-increasing-markets-become-more-concentrated-fewer-insurance-companies-interactive-map",
+      "domain": "gao.gov",
+      "snippet": "Health care experts are warning that costs for insurance will likely rise again in 2025. One trend that may be contributing to higher ...",
+      "published": "2024-12-05",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Health Insurer Stocks Slide on President Trump's Call to ...",
+      "url": "https://www.investopedia.com/health-insurer-stocks-slide-on-president-trump-s-call-to-change-aca-payments-11846543",
+      "domain": "investopedia.com",
+      "snippet": "Shares of health insurers tumbled after President Donald Trump called on Congress to change the way the federal government helps Americans pay ...",
+      "published": "2025-11-10",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Investopedia",
+        "page": "https://mediabiasfactcheck.com/investopedia/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "How Has the Affordable Care Act Affected Health Insurers ...",
+      "url": "https://www.commonwealthfund.org/publications/issue-briefs/2016/jul/how-has-affordable-care-act-affected-health-insurers-financial",
+      "domain": "commonwealthfund.org",
+      "snippet": "Overall, within the individual market, health insurers incurred losses amounting to 4 percent of premiums while group insurers earned a profit ...",
+      "published": "2016-07-20",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Commonwealth Fund",
+        "page": "https://mediabiasfactcheck.com/commonwealth-fund/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Insurer Stock Prices Soaring After Giant ACA Subsidies",
+      "url": "https://paragoninstitute.org/paragon-pic/insurer-stock-prices-soaring-after-giant-aca-subsidies/",
+      "domain": "paragoninstitute.org",
+      "snippet": "As the Paragon Pic shows, the weighted average of health insurer stock prices are up 1,032 percent from 2010, when the ACA was enacted, and 448 ...",
+      "published": "2024-03-20",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 4
+    }
+  ]
+}

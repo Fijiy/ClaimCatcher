@@ -1,0 +1,228 @@
+{
+  "frozenAt": "2026-10-27T03:16:06.478Z",
+  "refilteredAt": "2026-10-27T03:35:48.177Z",
+  "id": "pf/bernie-sanders/elon-musk-social-security-taxes-spacex",
+  "said": "2026-06-12",
+  "queries": {
+    "fact": "Today, Elon Musk, a trillionaire, pays the same amount into Social Security as someone making $184,500.",
+    "claim": "Today, Elon Musk, a trillionaire, pays the same amount into Social Security as someone making $184,500. Bernie Sanders"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2193.5027919999557,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2506.8980420000153,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Elon Musk could pay same Social Security tax as someone ...",
+      "url": "https://www.nbcmiami.com/news/politics/politifact/social-security-tax-rules-mean-elon-musk-could-pay-same-as-someone-making-184500/3824124/",
+      "domain": "nbcmiami.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Today, Elon Musk, a trillionaire, pays the same amount into ...",
+      "url": "https://www.facebook.com/christinaloreynews/posts/today-elon-musk-a-trillionaire-pays-the-same-amount-into-social-security-as-some/1454510763162831/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Social Security tax rules mean Elon Musk could pay ... - PolitiFact",
+      "url": "https://politifact.com/factchecks/2026/jun/17/bernie-sanders/elon-musk-social-security-taxes-spacex/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Sen. Bernie Sanders claims Elon Musk, the world's first ...",
+      "url": "https://www.facebook.com/KCRA3/posts/sen-bernie-sanders-claims-elon-musk-the-worlds-first-trillionaire-pays-the-same-/1471996034967713/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Today, Elon Musk, a trillionaire, pays the same amount into ...",
+      "url": "https://www.instagram.com/p/DcKqOY4jqlA/",
+      "domain": "instagram.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Does the World's First Trillionaire Pay Less Into Social Security ...",
+      "url": "https://finance.yahoo.com/economy/policy/articles/does-world-first-trillionaire-pay-095910525.html",
+      "domain": "finance.yahoo.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Elon Musk, a trillionaire, pays the same amount into Social ...",
+      "url": "https://www.reddit.com/r/antiwork/comments/1ud2uk8/elon_musk_a_trillionaire_pays_the_same_amount/",
+      "domain": "reddit.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Senator Slams Elon Musk for Paying Same Social Security Tax ...",
+      "url": "https://www.ibtimes.co.uk/senator-patty-murray-criticises-elon-musk-social-security-tax-1807056",
+      "domain": "ibtimes.co.uk",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Should Elon Musk, the richest man in the world, pay the same ...",
+      "url": "https://www.facebook.com/senatorsanders/posts/should-elon-musk-the-richest-man-in-the-world-pay-the-same-amount-of-taxes-into-/1643624730466331/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Bernie Sanders Says Elon Musk Pays Same Social Security ...",
+      "url": "https://www.benzinga.com/news/topics/26/08/60962107/bernie-sanders-says-elon-musk-pays-same-social-security-tax-as-184500-earner-lifting-the-cap-extends-program-75-years-and-boosts-benefits-2400",
+      "domain": "benzinga.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Elon Musk could pay same Social Security tax as someone ...",
+      "url": "https://www.nbcmiami.com/news/politics/politifact/social-security-tax-rules-mean-elon-musk-could-pay-same-as-someone-making-184500/3824124/",
+      "domain": "nbcmiami.com",
+      "published": "2026-06-22",
+      "publishedAsGiven": "Jun 22, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Sen. Bernie Sanders (@SenSanders) on ...",
+      "url": "https://x.com/SenSanders/status/2065463562319856062",
+      "domain": "x.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Social Security tax rules mean Elon Musk could pay ...",
+      "url": "https://politifact.com/factchecks/2026/jun/17/bernie-sanders/elon-musk-social-security-taxes-spacex/",
+      "domain": "politifact.com",
+      "published": "2026-06-17",
+      "publishedAsGiven": "Jun 17, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Elon Musk, a trillionaire, pays the same amount into Social ...",
+      "url": "https://www.reddit.com/r/antiwork/comments/1ud2uk8/elon_musk_a_trillionaire_pays_the_same_amount/",
+      "domain": "reddit.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Sen. Bernie Sanders claims Elon Musk, the world's first ...",
+      "url": "https://www.facebook.com/wcvb5/posts/sen-bernie-sanders-claims-elon-musk-the-worlds-first-trillionaire-pays-the-same-/1565003255655757/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Bernie Sanders Says Elon Musk Pays Same Social ...",
+      "url": "https://www.yahoo.com/news/politics/articles/bernie-sanders-says-elon-musk-173104739.html",
+      "domain": "yahoo.com",
+      "published": "2026-08-05",
+      "publishedAsGiven": "Aug 5, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Elon Musk Social Security Tax Claim Fact-Checked by Politifact",
+      "url": "https://www.facebook.com/ketv7/videos/elon-musk-and-bernie-sanders-split/27038882039073920/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Today, Elon Musk, a trillionaire, pays the same amount into ...",
+      "url": "https://www.facebook.com/christinaloreynews/posts/today-elon-musk-a-trillionaire-pays-the-same-amount-into-social-security-as-some/1484052080208699/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Does Elon Musk, the world's first trillionaire, pay the same ...",
+      "url": "https://www.youtube.com/shorts/kXGNFNjP_Qo",
+      "domain": "youtube.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Today, Elon Musk, a trillionaire, pays the same amount into ...",
+      "url": "https://www.instagram.com/p/DcKqOY4jqlA/",
+      "domain": "instagram.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 4,
+    "after-said": 3,
+    "maybe-after-said": 4,
+    "after-said-link-date": 0,
+    "undated": 7
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:16:00.483Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

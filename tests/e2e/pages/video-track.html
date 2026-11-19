@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Fixture: video with a caption track</title>
+  </head>
+  <body>
+    <h1>Floor speech (fixture)</h1>
+    <!-- Same-origin media with a <track>, like task/site-capture-test's
+         control/same.html. The track is not `default`, so the reader has to
+         switch it on itself. The test starts playback. -->
+    <video id="video" src="/media/tone.wav" controls width="320">
+      <track kind="captions" src="/video-track.vtt" srclang="en" label="English" />
+    </video>
+  </body>
+</html>

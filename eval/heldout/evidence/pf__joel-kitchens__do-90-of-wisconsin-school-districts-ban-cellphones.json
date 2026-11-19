@@ -1,0 +1,263 @@
+{
+  "frozenAt": "2026-10-27T03:02:37.194Z",
+  "refilteredAt": "2026-10-27T03:32:29.621Z",
+  "id": "pf/joel-kitchens/do-90-of-wisconsin-school-districts-ban-cellphones",
+  "said": "2025-02-19",
+  "queries": {
+    "fact": "90% of the (school) districts in Wisconsin already have a policy banning cellphones during class time.",
+    "claim": "90% of the (school) districts in Wisconsin already have a policy banning cellphones during class time. Joel Kitchens"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1918.4320829999997,
+      "results": 8
+    },
+    {
+      "query": "claim",
+      "ms": 3035.3659160000025,
+      "results": 9
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "School districts ban cellphones in classrooms",
+      "url": "https://www.k12dive.com/news/school-districts-ban-cellphones-in-classrooms/532721/",
+      "domain": "k12dive.com",
+      "published": "2018-09-19",
+      "publishedAsGiven": "Sep 19, 2018",
+      "snippet": "Sep 19, 2018 — Districts across the state of Wisconsin are banning cell phone use in classrooms , reports Education Week. The policy is a turn-around from ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Wisconsin school districts ban cellphones in classroom",
+      "url": "https://www.facebook.com/PortageDailyRegister/posts/wisconsin-school-districts-ban-cellphones-in-classroom/2205729049502387/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Should Wisconsin require school districts ban cell phones ...",
+      "url": "https://www.reddit.com/r/wisconsin/comments/1ijjcd1/should_wisconsin_require_school_districts_ban/",
+      "domain": "reddit.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Wisconsin Becomes the 36th State to Limit Cellphones in ...",
+      "url": "https://www.usnews.com/news/best-states/wisconsin/articles/2025-10-31/wisconsin-becomes-the-36th-state-to-limit-cellphones-in-schools",
+      "domain": "usnews.com",
+      "published": "2025-10-31",
+      "publishedAsGiven": "Oct 31, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "MPSD Bans Cell Phones in Class: What Manitowoc Students ...",
+      "url": "https://www.facebook.com/SeehaferNews/videos/mpsd-shakes-up-cell-phone-rules-heres-what-students-need-to-know/4062393757364503/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Wisconsin becomes the 36th state to limit cellphones in ...",
+      "url": "https://www.wkrg.com/national/ap-wisconsin-becomes-the-36th-state-to-limit-cellphones-in-schools/",
+      "domain": "wkrg.com",
+      "published": "2025-10-31",
+      "publishedAsGiven": "Oct 31, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Wisconsin becomes the 36th state to limit cellphones in ...",
+      "url": "https://www.ktvb.com/article/syndication/associatedpress/wisconsin-becomes-the-36th-state-to-limit-cellphones-in-schools/616-5816aeb0-513c-498e-9762-1608845039a9",
+      "domain": "ktvb.com",
+      "published": "2025-10-31",
+      "publishedAsGiven": "Oct 31, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Wisconsin school districts ban cellphones in classroom",
+      "url": "https://www.weau.com/content/news/Wisconsin-school-districts-ban-cellphones-in-classroom-493380081.html",
+      "domain": "weau.com",
+      "published": "2018-09-15",
+      "publishedAsGiven": "Sep 15, 2018",
+      "snippet": "Sep 15, 2018 — School districts across Wisconsin are banning cellphones in the classroom in an effort to reduce distractions during class time . Read more"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Wisconsin could expand newly-implemented school cell ...",
+      "url": "https://www.wpr.org/news/wisconsin-school-cell-phone-ban",
+      "domain": "wpr.org",
+      "published": "2026-03-03",
+      "publishedAsGiven": "Mar 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Wisconsin Assembly Bill 948 could transition schools from ...",
+      "url": "https://www.facebook.com/NBC26GreenBay/posts/wisconsin-assembly-bill-948-could-transition-schools-from-a-partial-cell-phone-b/1322039773278957/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Republican lawmakers propose cell phone bans in schools",
+      "url": "https://wisconsinexaminer.com/2025/02/12/republican-lawmakers-propose-cell-phone-bans-in-schools/",
+      "domain": "wisconsinexaminer.com",
+      "published": "2025-02-12",
+      "publishedAsGiven": "Feb 12, 2025",
+      "snippet": "Feb 12, 2025 — According to DPI's 2024-25 State Digital Learning survey approximately 90 % of districts already have some sort of restrictive cell phone policy ... Read more"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Lawmakers propose bell-to-bell cell phone ban in ...",
+      "url": "https://www.jsonline.com/story/news/education/2026/01/30/lawmakers-propose-bell-to-bell-cellphone-ban-in-wisconsin-schools/88415433007/",
+      "domain": "jsonline.com",
+      "published": "2026-01-30",
+      "publishedAsGiven": "Jan 30, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Wisconsin Act 42 - New Cell Phone Policy for Schools!",
+      "url": "https://www.facebook.com/1073wsjy/posts/wisconsin-act-42-new-cell-phone-policy-for-schools-reid-chelsey/1465495482261586/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Cell Phone Policies in Wisconsin Schools",
+      "url": "https://law-rll.com/cell-phone-policies-in-wisconsin-schools/",
+      "domain": "law-rll.com",
+      "published": "2025-02-18",
+      "publishedAsGiven": "Feb 18, 2025",
+      "snippet": "Feb 18, 2025 — approximately 90 % of Wisconsin public school districts already have some policy restricting the use of cell phones in school ."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Should Wisconsin require school districts ban cell phones ...",
+      "url": "https://www.channel3000.com/news/should-wisconsin-require-school-districts-ban-cell-phones-in-class/article_3a6f32f6-e4ed-11ef-948a-c71d2a637dd3.html",
+      "domain": "channel3000.com",
+      "published": "2025-02-06",
+      "publishedAsGiven": "Feb 6, 2025",
+      "snippet": "Feb 6, 2025 — Joel Kitchens (R-Sturgeon Bay) is proposing legislation that would require all districts to have some policy in place that at least keeps cell ... Read more"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Two new Wisconsin laws take effect July 1, requiring ...",
+      "url": "https://www.facebook.com/NorthernNewsNow/posts/two-new-wisconsin-laws-take-effect-july-1-requiring-schools-to-limit-student-cel/1655854436545333/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Do 90% of Wisconsin school districts ban cellphones ...",
+      "url": "https://politifact.com/factchecks/2025/feb/28/joel-kitchens/do-90-of-wisconsin-school-districts-ban-cellphones/",
+      "domain": "politifact.com",
+      "published": "2025-02-28",
+      "publishedAsGiven": "Feb 28, 2025",
+      "dropped": "fact-checker"
+    }
+  ],
+  "returned": 17,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 0,
+    "after-said": 5,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 6
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:02:32.240Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "School districts ban cellphones in classrooms",
+      "url": "https://www.k12dive.com/news/school-districts-ban-cellphones-in-classrooms/532721/",
+      "domain": "k12dive.com",
+      "snippet": "Sep 19, 2018 — Districts across the state of Wisconsin are banning cell phone use in classrooms , reports Education Week. The policy is a turn-around from ... Read more",
+      "published": "2018-09-19",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "Republican lawmakers propose cell phone bans in schools",
+      "url": "https://wisconsinexaminer.com/2025/02/12/republican-lawmakers-propose-cell-phone-bans-in-schools/",
+      "domain": "wisconsinexaminer.com",
+      "snippet": "Feb 12, 2025 — According to DPI's 2024-25 State Digital Learning survey approximately 90 % of districts already have some sort of restrictive cell phone policy ... Read more",
+      "published": "2025-02-12",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    },
+    {
+      "title": "Wisconsin school districts ban cellphones in classroom",
+      "url": "https://www.weau.com/content/news/Wisconsin-school-districts-ban-cellphones-in-classroom-493380081.html",
+      "domain": "weau.com",
+      "snippet": "Sep 15, 2018 — School districts across Wisconsin are banning cellphones in the classroom in an effort to reduce distractions during class time . Read more",
+      "published": "2018-09-15",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    },
+    {
+      "title": "Cell Phone Policies in Wisconsin Schools",
+      "url": "https://law-rll.com/cell-phone-policies-in-wisconsin-schools/",
+      "domain": "law-rll.com",
+      "snippet": "Feb 18, 2025 — approximately 90 % of Wisconsin public school districts already have some policy restricting the use of cell phones in school .",
+      "published": "2025-02-18",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 4
+    },
+    {
+      "title": "Should Wisconsin require school districts ban cell phones ...",
+      "url": "https://www.channel3000.com/news/should-wisconsin-require-school-districts-ban-cell-phones-in-class/article_3a6f32f6-e4ed-11ef-948a-c71d2a637dd3.html",
+      "domain": "channel3000.com",
+      "snippet": "Feb 6, 2025 — Joel Kitchens (R-Sturgeon Bay) is proposing legislation that would require all districts to have some policy in place that at least keeps cell ... Read more",
+      "published": "2025-02-06",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 5
+    }
+  ]
+}

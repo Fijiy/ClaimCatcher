@@ -1,0 +1,284 @@
+{
+  "frozenAt": "2026-10-27T03:03:27.660Z",
+  "refilteredAt": "2026-10-27T03:32:43.171Z",
+  "id": "pf/bernie-sanders/medicaid-cut-house-republicans-trump",
+  "said": "2025-05-12",
+  "queries": {
+    "fact": "Republicans just unveiled their ‘big, beautiful bill,’ which will take Medicaid & health insurance away from 13.7 million Americans.",
+    "claim": "Republicans just unveiled their ‘big, beautiful bill,’ which will take Medicaid & health insurance away from 13.7 million Americans. Bernie Sanders"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2849.8989169999986,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1852.2815420000115,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 759.5822090000001,
+      "results": 1
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Would GOP bill strip Medicaid, health care from 13 million ...",
+      "url": "https://www.wral.com/archive/22025075/",
+      "domain": "wral.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Fact check: Would GOP bill strip Medicaid, health care from ...",
+      "url": "https://www.wral.com/archive/22024798/",
+      "domain": "wral.com",
+      "published": "2025-05-26",
+      "publishedAsGiven": "May 26, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Fact check: Would GOP bill strip Medicaid, health care from 13 ...",
+      "url": "https://www.youtube.com/watch?v=DSqw4YQJUII",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "By the Numbers: Harmful Republican Megabill Will Take ...",
+      "url": "https://www.cbpp.org/research/health/by-the-numbers-harmful-republican-megabill-will-take-health-coverage-away-from",
+      "domain": "cbpp.org",
+      "published": "2025-08-27",
+      "publishedAsGiven": "Aug 27, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Get the Facts: Sanders says Republican bill would strip ...",
+      "url": "https://www.wmur.com/article/politifact-bernie-sanders-medicaid-52225/64856324",
+      "domain": "wmur.com",
+      "published": "2025-05-22",
+      "publishedAsGiven": "May 22, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "This disastrous GOP tax bill will rip away Medicaid benefits ...",
+      "url": "https://www.facebook.com/MarkWarnerVa/posts/this-disastrous-gop-tax-bill-will-rip-away-medicaid-benefits-from-14-million-ame/1229123228593534/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Bernie Sanders says GOP bill would strip Medicaid, health ...",
+      "url": "https://politifact.com/factchecks/2025/may/16/bernie-sanders/medicaid-cut-house-republicans-trump/",
+      "domain": "politifact.com",
+      "published": "2025-05-16",
+      "publishedAsGiven": "May 16, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Over 46000 people in our community will lose access to health ...",
+      "url": "https://www.facebook.com/RepLouCorrea/posts/over-46000-people-in-our-community-will-lose-access-to-health-coverage-due-to-me/1511252633703200/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "House Republicans have unveiled proposed Medicaid cuts ...",
+      "url": "https://www.pbs.org/newshour/politics/house-republicans-have-unveiled-proposed-medicaid-cuts-democrats-say-millions-will-lose-coverage",
+      "domain": "pbs.org",
+      "published": "2025-05-12",
+      "publishedAsGiven": "May 12, 2025",
+      "snippet": "He said \"hospitals will close, seniors will not be able to access the care they need, and premiums will rise for millions of people if this bill ..."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Impact of the “Big Bill” on Medicare",
+      "url": "https://medicareadvocacy.org/impact-of-the-big-bill-on-medicare/",
+      "domain": "medicareadvocacy.org",
+      "published": "2025-07-24",
+      "publishedAsGiven": "Jul 24, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "NEWS: Sanders Releases New Report Detail...",
+      "url": "https://www.help.senate.gov/dem/newsroom/press/news-sanders-releases-new-report-detailing-devastating-impact-of-trumps-big-beautiful-bill-on-health-care-in-america",
+      "domain": "help.senate.gov",
+      "published": "2025-06-25",
+      "publishedAsGiven": "Jun 25, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact check: Would GOP bill strip Medicaid, health care from ...",
+      "url": "https://www.wral.com/archive/22024798/",
+      "domain": "wral.com",
+      "published": "2025-05-26",
+      "publishedAsGiven": "May 26, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Would GOP bill strip Medicaid, health care from 13 million ...",
+      "url": "https://www.youtube.com/watch?v=DSqw4YQJUII",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Get the Facts: Sanders says Republican bill would strip ...",
+      "url": "https://www.wmur.com/article/politifact-bernie-sanders-medicaid-52225/64856324",
+      "domain": "wmur.com",
+      "published": "2025-05-22",
+      "publishedAsGiven": "May 22, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Bernie Sanders says GOP bill would strip Medicaid, health ...",
+      "url": "https://politifact.com/factchecks/2025/may/16/bernie-sanders/medicaid-cut-house-republicans-trump/",
+      "domain": "politifact.com",
+      "published": "2025-05-16",
+      "publishedAsGiven": "May 16, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Would GOP bill strip Medicaid, health care from 13 million ...",
+      "url": "https://www.wral.com/archive/22025075/",
+      "domain": "wral.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Morality & Trump's \"Big, Beautiful Bill\" | Sen. Bernie Sanders",
+      "url": "https://www.youtube.com/watch?v=KphWktquYQc",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "This disastrous GOP tax bill will rip away Medicaid benefits ...",
+      "url": "https://www.facebook.com/MarkWarnerVa/posts/this-disastrous-gop-tax-bill-will-rip-away-medicaid-benefits-from-14-million-ame/1229123228593534/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Sanders on GOP Medicaid cuts: 'Thousands and ...",
+      "url": "https://www.sanders.senate.gov/in-the-news/sanders-on-gop-medicaid-cuts-thousands-and-thousands-of-low-income-and-working-people-will-die/",
+      "domain": "sanders.senate.gov",
+      "published": "2025-05-15",
+      "publishedAsGiven": "May 15, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Fact-check: Sanders says 15 million lost health insurance ...",
+      "url": "https://www.youtube.com/watch?v=D3Dop3uzrXU",
+      "domain": "youtube.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "House Republicans unveil Medicaid cuts in Trump's big bill",
+      "url": "https://apnews.com/article/medicaid-cuts-trump-tax-cuts-bill-1e2b12a91a3d12ceb0420ce7053de58e",
+      "domain": "apnews.com",
+      "published": "2025-05-12",
+      "publishedAsGiven": "May 12, 2025",
+      "snippet": "“big, beautiful bill,” at least $880 billion in cuts largely to Medicaid to help cover the cost of $4.5 trillion in tax breaks."
+    }
+  ],
+  "returned": 21,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 6,
+    "after-said": 5,
+    "maybe-after-said": 4,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:03:22.957Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "House Republicans have unveiled proposed Medicaid cuts ...",
+      "url": "https://www.pbs.org/newshour/politics/house-republicans-have-unveiled-proposed-medicaid-cuts-democrats-say-millions-will-lose-coverage",
+      "domain": "pbs.org",
+      "snippet": "He said \"hospitals will close, seniors will not be able to access the care they need, and premiums will rise for millions of people if this bill ...",
+      "published": "2025-05-12",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "PBS News Hour",
+        "page": "https://mediabiasfactcheck.com/pbs-news-hour/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "House Republicans unveil Medicaid cuts in Trump's big bill",
+      "url": "https://apnews.com/article/medicaid-cuts-trump-tax-cuts-bill-1e2b12a91a3d12ceb0420ce7053de58e",
+      "domain": "apnews.com",
+      "snippet": "“big, beautiful bill,” at least $880 billion in cuts largely to Medicaid to help cover the cost of $4.5 trillion in tax breaks.",
+      "published": "2025-05-12",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Associated Press",
+        "page": "https://mediabiasfactcheck.com/associated-press/"
+      },
+      "weight": "full",
+      "n": 2
+    }
+  ]
+}

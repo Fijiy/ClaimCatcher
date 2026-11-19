@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Fixture: a player whose media comes from another origin</title>
+  </head>
+  <body>
+    <h1>Board of Supervisors (fixture)</h1>
+    <!-- Like Granicus (sanfrancisco.granicus.com playing media from
+         archive-stream.granicus.com): the media is on another origin and is
+         served without CORS, so captureStream() throws "Cannot capture from
+         element with cross-origin data". The fixture server answers on both
+         127.0.0.1 and localhost, which are two origins. The audio is speech
+         (fixture-server.ts, SPEECH), or two voices with ?media=debate. -->
+    <video id="video" controls width="320"></video>
+    <script>
+      const other = location.hostname === 'localhost' ? '127.0.0.1' : 'localhost';
+      // ?media=debate plays two voices taking turns instead (voices.spec.ts).
+      const media = new URLSearchParams(location.search).get('media') === 'debate' ? 'debate' : 'speech';
+      document.getElementById('video').src = `${location.protocol}//${other}:${location.port}/media/${media}.wav`;
+    </script>
+  </body>
+</html>

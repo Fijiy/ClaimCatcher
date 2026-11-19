@@ -1,0 +1,106 @@
+{
+  "case_id": "biden-sotu-2024-economy#1",
+  "queries": {
+    "A": "15 million new jobs in just three years – a record! Biden",
+    "B": "total nonfarm payroll jobs added January 2021 to January 2024"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 1,
+      "title": "Biden touts jobs report as 'milestone in America's comeback'",
+      "url": "https://www.washingtonexaminer.com/news/2954982/biden-jobs-report-milestone-americas-comeback/",
+      "domain": "washingtonexaminer.com",
+      "published": "2024-04-05",
+      "snippet": "“Today’s report marks a milestone in America’s comeback,” he said in a prepared statement. “Three years ago, I inherited an economy on the brink. With today’s report of 303,000 new jobs in March, we have passed the milestone of 15 million jobs created since I took office.”",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 2,
+      "title": "Fact Check: US Economy Added 15M Jobs Under Biden — But Number Requires Context",
+      "url": "https://ca.news.yahoo.com/fact-check-us-economy-added-175300531.html",
+      "domain": "ca.news.yahoo.com",
+      "published": "2024-06-28",
+      "snippet": "It took 17 more months, until June 2022, for the U.S. economy to recover the remaining 9 million jobs lost during the pandemic. From that perspective, the actual net gain during the Biden administration was 6.2 million jobs as of February 2024, not 15.6 million. This is based on our calculations using numbers from the BLS . However 6.2 million jobs is still a higher average than what former President Barack Obama achieved during his two terms (a total of 11.6 million jobs , so about 5.8 million jobs per term), with more than six months left in Biden's term.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 3,
+      "title": "Statement on the Bureau of Labor Statistics Report on the Employment Situation in March | The American Presidency Project",
+      "url": "https://www.presidency.ucsb.edu/node/371090",
+      "domain": "presidency.ucsb.edu",
+      "published": null,
+      "snippet": "Today's report marks a milestone in America's comeback. Three years ago, I inherited an economy on the brink. With today's report of 303,000 new jobs in March, we have passed the milestone of 15 million jobs created since I took office. That's 15 million more people who have the dignity and respect that comes with a paycheck.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 4,
+      "title": "Statement from President Joe Biden on the March Jobs Report",
+      "url": "https://www.metalsmine.com/news/1277124-statement-from-president-joe-biden-on-the-march",
+      "domain": "metalsmine.com",
+      "published": null,
+      "snippet": "Three years ago, I inherited an economy on the brink. With today’s report of 303,000 new jobs in March, we have passed the milestone of 15 million jobs created since I took office. That’s 15 million more people who have the dignity and respect that comes with a paycheck. My plan is growing the economy from the middle out and the bottom up, investing in all Americans, and giving the middle class a fair shot. Unemployment has been under 4% for the longest stretch in more than 50 years. Wages are going up. Inflation has come down significantly. We’ve come ... ( full story )",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "January Employment Report: 353 thousand Jobs, 3.7% Unemployment Rate",
+      "url": "https://www.calculatedriskblog.com/2024/02/january-employment-report-353-thousand.html?m=0",
+      "domain": "calculatedriskblog.com",
+      "published": null,
+      "snippet": "Bureau of Labor Statistics reported today. Job gains occurred in professional and business services, health care, retail trade, and social assistance. Employment declined in the mining, quarrying, and oil and gas extraction industry. ... The change in total nonfarm payroll employment for November was revised up by 9,000, from +173,000 to +182,000, and the change for December was revised up by 117,000, from +216,000 to +333,000. With these revisions, employment in November and December combined is 126,000 higher than previously reported. emphasis added",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 5,
+      "title": "January Employment Report: 143 thousand Jobs, 4.0% Unemployment Rate",
+      "url": "https://www.calculatedriskblog.com/2025/02/january-employment-report-143-thousand.html",
+      "domain": "calculatedriskblog.com",
+      "published": null,
+      "snippet": "Bureau of Labor Statistics reported today. Job gains occurred in health care, retail trade, and social assistance. Employment declined in the mining, quarrying, and oil and gas extraction industry. ... The change in total nonfarm payroll employment for November was revised up by 49,000, from +212,000 to +261,000, and the change for December was revised up by 51,000, from +256,000 to +307,000. With these revisions, employment in November and December combined is 100,000 higher than previously reported. emphasis added",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 6,
+      "title": "PukaCharts的ECONOMICS:USNFP的U.S. Non Farm Payrolls",
+      "url": "https://tw.tradingview.com/chart/USNFP/lIezeG9Z-U-S-Non-Farm-Payrolls",
+      "domain": "tw.tradingview.com",
+      "published": "2024-02-02",
+      "snippet": "The Establishment Survey gathers data from approximately 122,000 nonfarm businesses and government agencies for some 666,000 work sites and about one-third of all payroll workers. Anyone on the payroll of a surveyed business during that reference week, including part-time workers and those on paid leave, is included in the count used to produce an estimate of total U.S. nonfarm payrolls",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 7,
+      "title": "U.S. Non Farm Payrolls untuk ECONOMICS:USNFP oleh PukaCharts",
+      "url": "https://my.tradingview.com/chart/USNFP/lIezeG9Z-U-S-Non-Farm-Payrolls",
+      "domain": "my.tradingview.com",
+      "published": "2024-02-02",
+      "snippet": "The Establishment Survey gathers data from approximately 122,000 nonfarm businesses and government agencies for some 666,000 work sites and about one-third of all payroll workers. Anyone on the payroll of a surveyed business during that reference week, including part-time workers and those on paid leave, is included in the count used to produce an estimate of total U.S. nonfarm payrolls",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "B",
+      "url": "https://ticker.com/marketu/viewMarketUpdate/27371",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "B",
+      "url": "https://eyeonhousing.org/tag/state-and-local-markets/page/4",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "B",
+      "url": "https://www.calculatedriskblog.com/2024/02/january-employment-report-353-thousand.html",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    }
+  ]
+}

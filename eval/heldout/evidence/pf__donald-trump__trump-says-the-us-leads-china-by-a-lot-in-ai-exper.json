@@ -1,0 +1,290 @@
+{
+  "frozenAt": "2026-10-27T03:09:54.462Z",
+  "refilteredAt": "2026-10-27T03:34:12.883Z",
+  "id": "pf/donald-trump/trump-says-the-us-leads-china-by-a-lot-in-ai-exper",
+  "said": "2026-01-21",
+  "queries": {
+    "fact": "In artificial intelligence, We’re leading China by a lot.",
+    "claim": "In artificial intelligence, We’re leading China by a lot. Donald Trump"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2502.5949580000015,
+      "results": 8
+    },
+    {
+      "query": "claim",
+      "ms": 853.3939590000082,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Xi pitches China as leader of new global AI order ...",
+      "url": "https://www.facebook.com/capitalmauritius/posts/xi-pitches-china-as-leader-of-new-global-ai-order-challenging-us-dominancexi-pit/1505990977993044/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Chinese AI Begins To Overtake U.S. in Data and Applications",
+      "url": "https://aibusiness.com/verticals/chinese-ai-begins-to-overtake-u-s-in-data-and-applications-faces-uphill-talent-and-tech-challenges",
+      "domain": "aibusiness.com",
+      "published": "2017-10-10",
+      "publishedAsGiven": "Oct 10, 2017",
+      "snippet": "CNY66.85 billion found their way into China's artificial intelligence sector. China has the talent, data, and infrastructure necessary to ..."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "China is closing in on US technology lead despite ...",
+      "url": "https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html",
+      "domain": "tech.yahoo.com",
+      "published": "2026-01-10",
+      "publishedAsGiven": "Jan 10, 2026",
+      "snippet": "China's so-called 'AI tiger' startups MiniMax and Zhipu ‌AI had strong debuts on the Hong Kong Stock Exchange this week, reflecting growing ..."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "U.S., China lead race in drive for artificial intelligence - U.N.",
+      "url": "https://www.tvcnews.tv/u-s-china-lead-race-in-drive-for-artificial-intelligence-u-n/",
+      "domain": "tvcnews.tv",
+      "published": "2019-01-31",
+      "publishedAsGiven": "Jan 31, 2019",
+      "snippet": "China accounted for 17 of the top 20 academic institutions involved in patenting AI and was particularly strong in the fast growing area of ..."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Xi Pitches China As Champion Of New Global AI Order",
+      "url": "https://stratnewsglobal.com/china/xi-pitches-china-as-champion-of-new-global-ai-order/",
+      "domain": "stratnewsglobal.com",
+      "published": "2026-07-17",
+      "publishedAsGiven": "Jul 17, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "China aims to become world leader in AI, challenges U.S. ...",
+      "url": "https://www.reuters.com/article/technology/china-aims-to-become-world-leader-in-ai-challenges-us-dominance-idUSKBN1A5103/",
+      "domain": "reuters.com",
+      "published": "2017-07-20",
+      "publishedAsGiven": "Jul 20, 2017",
+      "snippet": "China has outlined plans to become a world-leader in artificial intelligence by 2025, laying down a challenge to U.S. dominance in the ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "China's rapid embrace of AI, the world's biggest testing ...",
+      "url": "https://bizrepublic.com/chinas-rapid-embrace-of-ai-the-worlds-biggest-testing-ground-may-shape-how-the-technology-is-used-globally/",
+      "domain": "bizrepublic.com",
+      "published": "2026-05-18",
+      "publishedAsGiven": "May 18, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "China on brink of MAJOR discovery as it announces £1.5 ...",
+      "url": "https://www.express.co.uk/news/world/899784/china-ai-artificial-intelligence-usa",
+      "domain": "express.co.uk",
+      "published": "2018-01-04",
+      "publishedAsGiven": "Jan 4, 2018",
+      "snippet": "CHINA is set to open a £1.5 billion research park dedicated to artificial intelligence (AI). China wants to achieve a “major breakthrough” in ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Trump downplays AI risks after dire expert warnings and ...",
+      "url": "https://www.bbc.com/news/articles/c7v48vp31mdo",
+      "domain": "bbc.com",
+      "published": "2026-09-13",
+      "publishedAsGiven": "Sep 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "'We're leading by a lot': Trump refuses to integrate AI tech ...",
+      "url": "https://www.youtube.com/watch?v=-UH-lkwUSTk",
+      "domain": "youtube.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Trump rejects combining US-China AI efforts",
+      "url": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts",
+      "domain": "aljazeera.com",
+      "published": "2026-09-26",
+      "publishedAsGiven": "Sep 26, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Trump At UNGA: 'Whoever Wins AI Wins', US Leading ...",
+      "url": "https://www.arise.tv/trump-at-unga-whoever-wins-ai-wins-us-leading-china-by-a-lot/",
+      "domain": "arise.tv",
+      "published": "2026-09-22",
+      "publishedAsGiven": "Sep 22, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Donald Trump says the United States is leading China by a ...",
+      "url": "https://www.facebook.com/AriseTVNews/posts/donald-trump-says-the-united-states-is-leading-china-by-a-wide-margin-in-artific/1686696970128835/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Trump Says US Is Leading China in AI Race, Uses AI 'For a ...",
+      "url": "https://www.facebook.com/cnn/videos/president-trump-told-reporters-he-personally-uses-artificial-intelligence-for-a/1079712918096908/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "President Trump focuses on AI race with China as experts ...",
+      "url": "https://www.wbaltv.com/article/trump-ai-race-china-internet-takeover/73706722",
+      "domain": "wbaltv.com",
+      "published": "2026-09-13",
+      "publishedAsGiven": "Sep 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Trump decries critics of AI, saying they're 'negative forces' ...",
+      "url": "https://www.cbc.ca/news/world/trump-decries-ai-critics-9.7342353",
+      "domain": "cbc.ca",
+      "published": "2026-09-13",
+      "publishedAsGiven": "Sep 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Trump on AI: 5 Quotes That Show Where He Stands",
+      "url": "https://www.usnews.com/news/national-news/articles/2026-09-14/trump-on-ai-what-hes-said-about-china-regulation-and-the-risks",
+      "domain": "usnews.com",
+      "published": "2026-09-14",
+      "publishedAsGiven": "Sep 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Trump on US-China AI Race US President Donald ...",
+      "url": "https://www.facebook.com/firstpostin/posts/whoever-wins-superintelligence-wins-trump-on-us-china-ai-raceus-president-donald/1627935326034115/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 18,
+  "dropped": {
+    "fact-checker": 0,
+    "fact-check-words": 0,
+    "after-said": 12,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:09:51.105Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "China aims to become world leader in AI, challenges U.S. ...",
+      "url": "https://www.reuters.com/article/technology/china-aims-to-become-world-leader-in-ai-challenges-us-dominance-idUSKBN1A5103/",
+      "domain": "reuters.com",
+      "snippet": "China has outlined plans to become a world-leader in artificial intelligence by 2025, laying down a challenge to U.S. dominance in the ...",
+      "published": "2017-07-20",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "China on brink of MAJOR discovery as it announces £1.5 ...",
+      "url": "https://www.express.co.uk/news/world/899784/china-ai-artificial-intelligence-usa",
+      "domain": "express.co.uk",
+      "snippet": "CHINA is set to open a £1.5 billion research park dedicated to artificial intelligence (AI). China wants to achieve a “major breakthrough” in ...",
+      "published": "2018-01-04",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "R",
+        "reliability": "high",
+        "name": "Daily Express",
+        "page": "https://mediabiasfactcheck.com/daily-express/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Chinese AI Begins To Overtake U.S. in Data and Applications",
+      "url": "https://aibusiness.com/verticals/chinese-ai-begins-to-overtake-u-s-in-data-and-applications-faces-uphill-talent-and-tech-challenges",
+      "domain": "aibusiness.com",
+      "snippet": "CNY66.85 billion found their way into China's artificial intelligence sector. China has the talent, data, and infrastructure necessary to ...",
+      "published": "2017-10-10",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    },
+    {
+      "title": "China is closing in on US technology lead despite ...",
+      "url": "https://tech.yahoo.com/ai/articles/china-closing-us-technology-lead-154328876.html",
+      "domain": "tech.yahoo.com",
+      "snippet": "China's so-called 'AI tiger' startups MiniMax and Zhipu ‌AI had strong debuts on the Hong Kong Stock Exchange this week, reflecting growing ...",
+      "published": "2026-01-10",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "mixed",
+        "name": "Yahoo News",
+        "page": "https://mediabiasfactcheck.com/yahoo-news/"
+      },
+      "weight": "reduced",
+      "n": 4
+    },
+    {
+      "title": "U.S., China lead race in drive for artificial intelligence - U.N.",
+      "url": "https://www.tvcnews.tv/u-s-china-lead-race-in-drive-for-artificial-intelligence-u-n/",
+      "domain": "tvcnews.tv",
+      "snippet": "China accounted for 17 of the top 20 academic institutions involved in patenting AI and was particularly strong in the fast growing area of ...",
+      "published": "2019-01-31",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 5
+    }
+  ]
+}

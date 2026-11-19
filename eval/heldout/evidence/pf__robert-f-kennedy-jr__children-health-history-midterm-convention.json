@@ -1,0 +1,407 @@
+{
+  "frozenAt": "2026-10-27T03:22:44.939Z",
+  "refilteredAt": "2026-10-27T03:37:28.081Z",
+  "id": "pf/robert-f-kennedy-jr/children-health-history-midterm-convention",
+  "said": "2026-09-10",
+  "queries": {
+    "fact": "The U.S. has the sickest children in the history of the world.",
+    "claim": "The U.S. has the sickest children in the history of the world. Robert F. Kennedy Jr."
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1692.1522920001298,
+      "results": 9
+    },
+    {
+      "query": "claim",
+      "ms": 1759.6342920002062,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 226.8169170000474,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "RFK Jr.'s claim that US has the 'sickest children' in world ...",
+      "url": "https://www.wyff4.com/article/rfk-jr-us-has-sickest-children-world-history/73695130",
+      "domain": "wyff4.com",
+      "published": "2026-09-11",
+      "publishedAsGiven": "Sep 11, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Fact check: RFK Jr.'s claim that US has the 'sickest children' ...",
+      "url": "https://www.wlky.com/article/rfk-jr-us-has-sickest-children-world-history/73695130",
+      "domain": "wlky.com",
+      "published": "2026-09-11",
+      "publishedAsGiven": "Sep 11, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "US has worst child mortality rate among developed countries",
+      "url": "https://www.facebook.com/KFDMNews/posts/children-in-the-united-states-was-the-worst-child-mortality-rate-according-to-a-/10156046569193756/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Fact check: RFK Jr.'s claim that US has the 'sickest children' ...",
+      "url": "https://www.wapt.com/article/rfk-jr-us-has-sickest-children-world-history/73695130",
+      "domain": "wapt.com",
+      "published": "2026-09-11",
+      "publishedAsGiven": "Sep 11, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Child and Infant Mortality",
+      "url": "https://ourworldindata.org/child-mortality",
+      "domain": "ourworldindata.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "The United States has the worst overall child mortality rate ...",
+      "url": "https://www.facebook.com/KNWAnews/posts/the-united-states-has-the-worst-overall-child-mortality-rate-compared-with-those/10155266670657336/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "U.S. Has Highest Child Mortality Rate of 20 Rich Countries",
+      "url": "https://www.usnews.com/news/best-countries/articles/2018-01-11/us-has-highest-child-mortality-rate-of-20-rich-countries",
+      "domain": "usnews.com",
+      "published": "2018-01-11",
+      "publishedAsGiven": "Jan 11, 2018",
+      "snippet": "Jan 11, 2018 — In fact, a child born in the U.S. is 76 percent more likely to die before their first birthday than infants born in other wealthy countries, and ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "US children are much more likely to die than kids in similar ...",
+      "url": "https://www.cnn.com/2025/07/07/health/us-child-death-sickness-study",
+      "domain": "cnn.com",
+      "published": "2025-07-07",
+      "publishedAsGiven": "Jul 7, 2025",
+      "snippet": "Jul 7, 2025 — In the 1960s, children in the US were dying at about the same rate as in countries with similar incomes, but that started to change in the 1970s ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "International Comparison | 2023 Annual Report | AHR",
+      "url": "https://www.americashealthrankings.org/publications/reports/2023-annual-report/international-comparison",
+      "domain": "americashealthrankings.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact-check: Kennedy says the US has the 'sickest children ...",
+      "url": "https://www.wral.com/news/state/fact-check-kennedy-sickest-children-history-world-september-15/",
+      "domain": "wral.com",
+      "published": "2026-09-15",
+      "publishedAsGiven": "Sep 15, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Health Secretary Robert F. Kennedy Jr. claimed during his ...",
+      "url": "https://www.facebook.com/kcci8/posts/health-secretary-robert-f-kennedy-jr-claimed-during-his-speech-at-the-republican/1538824971618395/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "RFK Jr.'s claim that the US has the 'sickest children' in ...",
+      "url": "https://politifact.com/factchecks/2026/sep/10/robert-f-kennedy-jr/children-health-history-midterm-convention/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "RFK Jr. says U S has sickest children in the history of the world",
+      "url": "https://www.youtube.com/watch?v=x5XJjHPJsu8",
+      "domain": "youtube.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Fact-Check: RFK Jr. Claim That U.S. Has 'Sickest Children' ...",
+      "url": "https://www.facebook.com/politifact/videos/rfk-jr-says-us-kids-are-sickest-in-world-history-thats-false/1106507128395875/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Robert F. Kennedy Jr.",
+      "url": "https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Children's Defense Fund Statement in Response to the ...",
+      "url": "https://www.childrensdefense.org/childrens-defense-fund-statement-in-response-to-the-nomination-of-robert-f-kennedy-jr-as-secretary-of-the-u-s-department-of-health-and-human-services/",
+      "domain": "childrensdefense.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "\"Health Secretary Robert F. Kennedy Jr. claimed during his ...",
+      "url": "https://www.instagram.com/p/DdO3lE8lEeB/",
+      "domain": "instagram.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Kennedy paints dire picture of children's health in new report",
+      "url": "https://www.nbcnews.com/health/kids-health/rfk-jr-children-dire-chronic-disease-health-report-rcna208544",
+      "domain": "nbcnews.com",
+      "published": "2025-05-22",
+      "publishedAsGiven": "May 22, 2025",
+      "snippet": "“Our kids are the sickest kids in the world,” Health and Human Services Secretary Robert F. Kennedy Jr. said during a call with reporters ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "RFK Jr. talks children's health in new 'Make America Healthy ...",
+      "url": "https://www.youtube.com/watch?v=MimB6-Wmq1g",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "snippet": "Robert F. Kennedy Jr. spoke to NBC News' Tom Llamas about the new Health and Human Services report saying, \"our kids are the sickest kids in ..."
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Why black women are more likely to die in pregnancy",
+      "url": "https://projects.apnews.com/features/2023/from-birth-to-death/black-women-maternal-mortality-rate.html",
+      "domain": "projects.apnews.com",
+      "published": "2023-05-23",
+      "publishedAsGiven": "May 23, 2023",
+      "snippet": "Black women have the highest maternal mortality rate in the United States — 69.9 per 100,000 live births for 2021, Black babies are more likely ..."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Bangladesh fights world's worst measles outbreak as ...",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/bangladesh-fights-worlds-worst-measles-outbreak-vaccination-gaps-fuel-spread-2026-09-09/",
+      "domain": "reuters.com",
+      "published": "2026-09-09",
+      "publishedAsGiven": "Sep 9, 2026",
+      "snippet": "Bangladesh is currently experiencing the biggest measles outbreak in the world, according to a list on the United States Centers for Disease ..."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "For First Time in Decades, Child Deaths Will Rise This Year",
+      "url": "https://www.wsj.com/health/for-first-time-in-decades-child-deaths-will-rise-this-year-92c67b51",
+      "domain": "wsj.com",
+      "published": "2025-12-04",
+      "publishedAsGiven": "Dec 4, 2025",
+      "snippet": "About 243,000 more children under 5 years have died or will die this year than in 2024, according to the projections, which were made by the ..."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "US children are growing increasingly unhealthy, new study ...",
+      "url": "https://apnews.com/article/children-health-maha-rfk-jr-jama-d920bb5421bfdc2c83d4356986e9ade7",
+      "domain": "apnews.com",
+      "published": "2025-07-07",
+      "publishedAsGiven": "Jul 7, 2025",
+      "snippet": "The health of U.S. children has deteriorated over the past 17 years, with kids today more likely to have obesity, chronic diseases and ..."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Children die as USAID aid cuts snap a lifeline for the ...",
+      "url": "https://apnews.com/article/usaid-funding-cuts-humanitarian-children-trump-4447e210c4b5543b8ebb9a6b9e01aa53",
+      "domain": "apnews.com",
+      "published": "2025-05-15",
+      "publishedAsGiven": "May 15, 2025",
+      "snippet": "Infant twins suffered from malnutrition in Nigeria. One died shortly after the Trump administration sharply cut funding for the United ..."
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "Young Americans Are Dying at Alarming Rates, Reversing ...",
+      "url": "https://www.wsj.com/health/death-rate-children-teens-guns-drugs-54c604f4",
+      "domain": "wsj.com",
+      "published": "2023-05-17",
+      "publishedAsGiven": "May 17, 2023",
+      "snippet": "Car accidents, homicides, suicides and drug overdoses have pushed up death rates for children and teens in the U.S.."
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Kenyan starvation cult leader convicted of deaths of nearly ...",
+      "url": "https://www.reuters.com/world/kenyan-starvation-cult-leader-found-guilty-murder-190-children-one-adult-2026-10-19/",
+      "domain": "reuters.com",
+      "published": "2026-10-19",
+      "publishedAsGiven": "8 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "From hunger to obesity: Developing world's new threat ...",
+      "url": "https://www.reuters.com/investigates/special-report/health-obesity-indonesia/",
+      "domain": "reuters.com",
+      "published": "2026-09-02",
+      "publishedAsGiven": "Sep 2, 2026",
+      "snippet": "The authors of the childhood obesity report said the growth in obesity rates was happening both where prevalence remains low, such as in ..."
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "Half a million Somali children face hunger in world's worst ...",
+      "url": "https://www.reuters.com/world/africa/more-than-half-million-young-children-somalia-facing-malnutrition-2022-09-13/",
+      "domain": "reuters.com",
+      "published": "2022-09-13",
+      "publishedAsGiven": "Sep 13, 2022",
+      "snippet": "More than 500000 Somali children under five are expected to suffer severe acute malnutrition and risk death from famine this year, a number ..."
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "The US is having its worst year for measles in more than ...",
+      "url": "https://apnews.com/article/measles-outbreak-us-texas-mmr-vaccine-rfk-144ed193e13de675a750e52a505423e9",
+      "domain": "apnews.com",
+      "published": "2025-07-10",
+      "publishedAsGiven": "Jul 10, 2025",
+      "snippet": "The U.S. is having its worst year for measles spread in more than three decades, and the year is only half over."
+    }
+  ],
+  "returned": 29,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 4,
+    "after-said": 2,
+    "maybe-after-said": 3,
+    "after-said-link-date": 0,
+    "undated": 6
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:22:40.366Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "U.S. Has Highest Child Mortality Rate of 20 Rich Countries",
+      "url": "https://www.usnews.com/news/best-countries/articles/2018-01-11/us-has-highest-child-mortality-rate-of-20-rich-countries",
+      "domain": "usnews.com",
+      "snippet": "Jan 11, 2018 — In fact, a child born in the U.S. is 76 percent more likely to die before their first birthday than infants born in other wealthy countries, and ... Read more",
+      "published": "2018-01-11",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "US News World Report",
+        "page": "https://mediabiasfactcheck.com/us-news-world-report/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Kennedy paints dire picture of children's health in new report",
+      "url": "https://www.nbcnews.com/health/kids-health/rfk-jr-children-dire-chronic-disease-health-report-rcna208544",
+      "domain": "nbcnews.com",
+      "snippet": "“Our kids are the sickest kids in the world,” Health and Human Services Secretary Robert F. Kennedy Jr. said during a call with reporters ...",
+      "published": "2025-05-22",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "NBC News",
+        "page": "https://mediabiasfactcheck.com/nbc-news/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Why black women are more likely to die in pregnancy",
+      "url": "https://projects.apnews.com/features/2023/from-birth-to-death/black-women-maternal-mortality-rate.html",
+      "domain": "projects.apnews.com",
+      "snippet": "Black women have the highest maternal mortality rate in the United States — 69.9 per 100,000 live births for 2021, Black babies are more likely ...",
+      "published": "2023-05-23",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Associated Press",
+        "page": "https://mediabiasfactcheck.com/associated-press/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Bangladesh fights world's worst measles outbreak as ...",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/bangladesh-fights-worlds-worst-measles-outbreak-vaccination-gaps-fuel-spread-2026-09-09/",
+      "domain": "reuters.com",
+      "snippet": "Bangladesh is currently experiencing the biggest measles outbreak in the world, according to a list on the United States Centers for Disease ...",
+      "published": "2026-09-09",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "For First Time in Decades, Child Deaths Will Rise This Year",
+      "url": "https://www.wsj.com/health/for-first-time-in-decades-child-deaths-will-rise-this-year-92c67b51",
+      "domain": "wsj.com",
+      "snippet": "About 243,000 more children under 5 years have died or will die this year than in 2024, according to the projections, which were made by the ...",
+      "published": "2025-12-04",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Wall Street Journal",
+        "page": "https://mediabiasfactcheck.com/wall-street-journal/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

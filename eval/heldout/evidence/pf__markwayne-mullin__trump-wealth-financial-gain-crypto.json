@@ -1,0 +1,423 @@
+{
+  "frozenAt": "2026-10-27T03:26:05.741Z",
+  "refilteredAt": "2026-10-27T03:38:13.949Z",
+  "id": "pf/markwayne-mullin/trump-wealth-financial-gain-crypto",
+  "said": "2026-10-01",
+  "queries": {
+    "fact": "For President Donald Trump, there’s no financial gain like the past presidents have had. It’s cost him to be in office.",
+    "claim": "For President Donald Trump, there’s no financial gain like the past presidents have had. It’s cost him to be in office. Markwayne Mullin"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1986.1161670000292,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1148.7391660001595,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 214.17958299996099,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Donald Trump has gained wealth as president, not lost it",
+      "url": "https://www.wbaltv.com/article/fact-check-president-trump-gained-wealth-markwayne-mullin/74053261",
+      "domain": "wbaltv.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "Oct 6, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "“There's no financial gain like the past presidents have had ...",
+      "url": "https://www.facebook.com/wesh2news/posts/theres-no-financial-gain-like-the-past-presidents-have-had-its-cost-him-to-be-in/1144636878078229/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Has the presidency cost Donald Trump money? His ...",
+      "url": "https://www.poynter.org/fact-checking/2026/is-donald-trump-richer-since-president/",
+      "domain": "poynter.org",
+      "published": "2026-10-07",
+      "publishedAsGiven": "Oct 7, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Most Americans Think Trump Is Profiting From the ...",
+      "url": "https://time.com/article/2026/10/13/most-americans-think-trump-is-profiting-from-the-presidency-illegally-or-unethically-poll-finds/",
+      "domain": "time.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "Oct 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Homeland Security Secretary Markwayne Mullin said that ...",
+      "url": "https://www.facebook.com/politifact/posts/homeland-security-secretary-markwayne-mullin-said-that-for-president-donald-trum/1573423898152041/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "What is the significance of Trump declining his presidential ...",
+      "url": "https://www.quora.com/What-is-the-significance-of-Trump-declining-his-presidential-salary-and-how-does-it-compare-to-the-financial-gains-attributed-to-his-time-in-office",
+      "domain": "quora.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "snippet": "What is the significance of Trump declining his presidential salary, and how does it compare to the financial gains attributed to his time in office?"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "“There's no financial gain like the past presidents have had ...",
+      "url": "https://www.facebook.com/wbaltv11/posts/theres-no-financial-gain-like-the-past-presidents-have-had-its-cost-him-to-be-in/1526235146216741/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Trump Is Getting Even Richer. Is That a Crime?",
+      "url": "https://www.nytimes.com/2026/09/10/opinion/interesting-times-jack-goldsmith.html",
+      "domain": "nytimes.com",
+      "published": "2026-09-10",
+      "publishedAsGiven": "Sep 10, 2026",
+      "snippet": "President Trump made more than $2 billion last year — far exceeding his presidential salary of $400,000. His growing fortunes are raising ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "The U.S. Economy Performs Better Under Democratic ...",
+      "url": "https://www.jec.senate.gov/public/index.cfm/democrats/2024/10/the-u-s-economy-performs-better-under-democratic-presidents",
+      "domain": "jec.senate.gov",
+      "published": "2024-10-07",
+      "publishedAsGiven": "Oct 7, 2024",
+      "snippet": "The U.S. economy has performed much better under Democratic presidents than Republican presidents in the modern era."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Susanne Craig on President Trump's financial rise and fall",
+      "url": "https://www.pbs.org/video/susanne-craig-on-president-trumps-financial-rise-and-fall-lupkvy/",
+      "domain": "pbs.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Donald Trump has gained wealth as president, not lost it",
+      "url": "https://www.wbaltv.com/article/fact-check-president-trump-gained-wealth-markwayne-mullin/74053261",
+      "domain": "wbaltv.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "Oct 6, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "“There's no financial gain like the past presidents have had ...",
+      "url": "https://www.facebook.com/wesh2news/posts/theres-no-financial-gain-like-the-past-presidents-have-had-its-cost-him-to-be-in/1144636878078229/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Donald Trump has gained wealth as president, not lost it",
+      "url": "https://politifact.com/factchecks/2026/oct/05/markwayne-mullin/trump-wealth-financial-gain-crypto/",
+      "domain": "politifact.com",
+      "published": "2026-10-05",
+      "publishedAsGiven": "Oct 5, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Homeland Security Secretary Markwayne Mullin said that ...",
+      "url": "https://www.facebook.com/politifact/posts/homeland-security-secretary-markwayne-mullin-said-that-for-president-donald-trum/1573423898152041/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "“There's no financial gain like the past presidents have had ...",
+      "url": "https://www.threads.com/@wbaltv11/post/DeKcyGBFNes/theres-no-financial-gain-like-the-past-presidents-have-had-its-cost-him-to-be/",
+      "domain": "threads.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Fact Check: Is Markwayne Mullin's claim that Trump lost ...",
+      "url": "https://news.meaww.com/fact-check-is-markwayne-mullins-claim-that-trump-lost-money-by-being-president-true",
+      "domain": "news.meaww.com",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Donald Trump has gained wealth as president, not lost it",
+      "url": "https://www.linkedin.com/posts/politifact_donald-trump-has-gained-wealth-as-president-activity-7514424300888772610-6kzW",
+      "domain": "linkedin.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Despite Mullin's comment, President Trump has grown ...",
+      "url": "https://ground.news/article/despite-mullins-comment-president-trump-has-grown-wealthier-while-in-office",
+      "domain": "ground.news",
+      "published": "2026-10-06",
+      "publishedAsGiven": "Oct 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Most Americans Think Trump Is Profiting From the ...",
+      "url": "https://time.com/article/2026/10/13/most-americans-think-trump-is-profiting-from-the-presidency-illegally-or-unethically-poll-finds/",
+      "domain": "time.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "Oct 13, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Post",
+      "url": "https://x.com/PolitiFact/status/2107467916849377649",
+      "domain": "x.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Trump says being president has cost him $2 billion to $5 ...",
+      "url": "https://www.reuters.com/article/world/trump-says-being-president-has-cost-him-2-billion-to-5-billion-idUSKBN1X027T/",
+      "domain": "reuters.com",
+      "published": "2019-10-21",
+      "publishedAsGiven": "Oct 21, 2019",
+      "snippet": "There is no evidence that Trump lost billions since he became president. His net worth of $3.1 billion was unchanged from last year, Forbes ..."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "In second Trump term, financial gain has become a ...",
+      "url": "https://www.csmonitor.com/USA/Politics/2026/0605/donald-trump-presidency-private-wealth-ethics",
+      "domain": "csmonitor.com",
+      "published": "2026-06-05",
+      "publishedAsGiven": "Jun 5, 2026",
+      "snippet": "The Trump family's wealth has surged over the 19 months since Donald Trump's election. The circumstances are revealing how, on personal-finance ..."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Trump: Not first wealthy president, but unique conflicts of ...",
+      "url": "https://www.csmonitor.com/USA/Politics/2016/1121/Trump-Not-first-wealthy-president-but-unique-conflicts-of-interest",
+      "domain": "csmonitor.com",
+      "published": "2016-12-01",
+      "publishedAsGiven": "Dec 1, 2016",
+      "snippet": "They say the best solution is for Trump to liquidate his holdings and put the money in a true blind trust run by non-family executives. That's ..."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Most Americans believe Trump has inappropriately profited ...",
+      "url": "https://www.reuters.com/world/most-americans-believe-trump-has-inappropriately-profited-since-returning-power-2026-08-19/",
+      "domain": "reuters.com",
+      "published": "2026-08-20",
+      "publishedAsGiven": "Aug 20, 2026",
+      "snippet": "A majority of Americans believe President Trump and his family have inappropriately profited from ​cryptocurrency since his return to office ..."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Trump filing shows he took in about $1.2 billion from crypto ...",
+      "url": "https://apnews.com/article/trump-financial-disclosure-crypto-060c15062b8fedc6104159ea13775463",
+      "domain": "apnews.com",
+      "published": "2026-07-01",
+      "publishedAsGiven": "Jul 1, 2026",
+      "snippet": "President Donald Trump took in nearly $1.2 billion from his crypto businesses last year, a federal filing released Tuesday shows."
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "How Trump has used the presidency to benefit himself and ...",
+      "url": "https://apnews.com/article/trump-personal-profits-anti-weaponization-fund-7d47cc89f207b0b3749fdeefdf4de4c7",
+      "domain": "apnews.com",
+      "published": "2026-06-02",
+      "publishedAsGiven": "Jun 2, 2026",
+      "snippet": "President Donald Trump tried to create a near $1.8 billion fund that could be funneled to his supporters as a means of settling a lawsuit he ..."
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "President Trump's Wealth Has Soared in Office",
+      "url": "https://www.nationalreview.com/corner/trumps-economy-is-working-really-well-for-at-least-one-guy/",
+      "domain": "nationalreview.com",
+      "published": "2026-07-01",
+      "publishedAsGiven": "Jul 1, 2026",
+      "snippet": "Overall, Trump reported assets worth at least $2.4 billion and income of over $2.2 billion. His assets are almost certainly worth more, since ..."
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Trump is leveraging power of his office to reap profits for ...",
+      "url": "https://apnews.com/article/trump-businesses-trump-organization-white-house-conflicts-of-interest-b970b5681b27f86dcd461ff473be23fa",
+      "domain": "apnews.com",
+      "published": "2025-07-18",
+      "publishedAsGiven": "Jul 18, 2025",
+      "snippet": "He said Trump's policies haven't benefited the president personally and have nothing to do with his family's financial concerns"
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "Why Trump's post-presidency perks, like a pension and ...",
+      "url": "https://www.reuters.com/article/world/us/why-trumps-post-presidency-perks-like-a-pension-and-office-are-safe-for-the-r-idUSKBN29W22N/",
+      "domain": "reuters.com",
+      "published": "2021-01-27",
+      "publishedAsGiven": "Jan 27, 2021",
+      "snippet": "But according to legal experts, under the laws currently in effect, Trump will retain perks including a pension, office space and security ..."
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "The Verdict on Trump's Economic Stewardship, Before ...",
+      "url": "https://www.wsj.com/economy/trumps-economic-record-is-divided-before-covid-and-after-11602684180",
+      "domain": "wsj.com",
+      "published": "2020-10-14",
+      "publishedAsGiven": "Oct 14, 2020",
+      "snippet": "Like him or not, these are great economic achievements.” The biggest gains in income happened in 2019 as the jobless rate reached new lows."
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 8,
+    "after-said": 7,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:26:01.446Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Trump Is Getting Even Richer. Is That a Crime?",
+      "url": "https://www.nytimes.com/2026/09/10/opinion/interesting-times-jack-goldsmith.html",
+      "domain": "nytimes.com",
+      "snippet": "President Trump made more than $2 billion last year — far exceeding his presidential salary of $400,000. His growing fortunes are raising ...",
+      "published": "2026-09-10",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "New York Times",
+        "page": "https://mediabiasfactcheck.com/new-york-times/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Trump says being president has cost him $2 billion to $5 ...",
+      "url": "https://www.reuters.com/article/world/trump-says-being-president-has-cost-him-2-billion-to-5-billion-idUSKBN1X027T/",
+      "domain": "reuters.com",
+      "snippet": "There is no evidence that Trump lost billions since he became president. His net worth of $3.1 billion was unchanged from last year, Forbes ...",
+      "published": "2019-10-21",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "In second Trump term, financial gain has become a ...",
+      "url": "https://www.csmonitor.com/USA/Politics/2026/0605/donald-trump-presidency-private-wealth-ethics",
+      "domain": "csmonitor.com",
+      "snippet": "The Trump family's wealth has surged over the 19 months since Donald Trump's election. The circumstances are revealing how, on personal-finance ...",
+      "published": "2026-06-05",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Christian Science Monitor",
+        "page": "https://mediabiasfactcheck.com/christian-science-monitor/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Trump: Not first wealthy president, but unique conflicts of ...",
+      "url": "https://www.csmonitor.com/USA/Politics/2016/1121/Trump-Not-first-wealthy-president-but-unique-conflicts-of-interest",
+      "domain": "csmonitor.com",
+      "snippet": "They say the best solution is for Trump to liquidate his holdings and put the money in a true blind trust run by non-family executives. That's ...",
+      "published": "2016-12-01",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "Christian Science Monitor",
+        "page": "https://mediabiasfactcheck.com/christian-science-monitor/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Most Americans believe Trump has inappropriately profited ...",
+      "url": "https://www.reuters.com/world/most-americans-believe-trump-has-inappropriately-profited-since-returning-power-2026-08-19/",
+      "domain": "reuters.com",
+      "snippet": "A majority of Americans believe President Trump and his family have inappropriately profited from ​cryptocurrency since his return to office ...",
+      "published": "2026-08-20",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

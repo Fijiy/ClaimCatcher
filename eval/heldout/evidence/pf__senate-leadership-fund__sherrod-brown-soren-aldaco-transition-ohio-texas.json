@@ -1,0 +1,238 @@
+{
+  "frozenAt": "2026-10-27T03:25:45.468Z",
+  "refilteredAt": "2026-10-27T03:38:08.729Z",
+  "id": "pf/senate-leadership-fund/sherrod-brown-soren-aldaco-transition-ohio-texas",
+  "said": "2026-09-28",
+  "queries": {
+    "fact": "Sherrod Brown supports sex changes for minors. Irreversible surgery on kids. Like me, Soren Aldaco.",
+    "claim": "Sherrod Brown supports sex changes for minors. Irreversible surgery on kids. Like me, Soren Aldaco. Senate Leadership Fund"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1245.950332999928,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2123.858833000064,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Woman accusing Sherrod Brown of forcing trans surgeries ...",
+      "url": "https://ohiocapitaljournal.com/2026/10/06/woman-accusing-sherrod-brown-of-forcing-transgender-surgeries-isnt-from-ohio-didnt-have-procedure-as-minor/",
+      "domain": "ohiocapitaljournal.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "Oct 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Republican Ads Distort the Facts in Claiming Democratic ...",
+      "url": "https://www.factcheck.org/2026/10/republican-ads-distort-the-facts-in-claiming-democratic-support-for-sex-changes-for-kids/",
+      "domain": "factcheck.org",
+      "published": "2026-10-12",
+      "publishedAsGiven": "Oct 12, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Ohio Kids Deserve Better | SLF Anti-Trans Ad vs. Brown",
+      "url": "https://www.youtube.com/watch?v=9ynHpNRAzQg",
+      "domain": "youtube.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Fact check: Republicans' deceptive ads on key Democratic ...",
+      "url": "https://www.cnn.com/2026/10/08/politics/fact-check-republicans-deceptive-ads-on-key-democratic-candidates-stances-on-gender-surgery-for-children",
+      "domain": "cnn.com",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "A political attack ad says \"Sherrod Brown supports sex ...",
+      "url": "https://www.facebook.com/clevelandcom/posts/a-political-attack-ad-says-sherrod-brown-supports-sex-change-surgery-for-minors-/1581013500726507/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Fact Check: Ad Targeting Ohio Democrat Features ...",
+      "url": "https://gomag.com/article/fact-check-ad-targeting-ohio-democrat-features-detransitioner-who-was-an-adult-when-she-had-surgery/",
+      "domain": "gomag.com",
+      "published": "2026-10-07",
+      "publishedAsGiven": "Oct 7, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Facts about Soren Aldaco's gender-affirming surgery and ...",
+      "url": "https://www.facebook.com/groups/701426013209102/posts/29155675354024121/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "The ad claims Brown supports sex changes for minors. It ...",
+      "url": "https://www.instagram.com/p/DeRWgG9lyCC/",
+      "domain": "instagram.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "No, Ohio Senate candidate Sherrod Brown does not ...",
+      "url": "https://politifact.com/factchecks/2026/oct/01/senate-leadership-fund/no-ohio-senate-candidate-sherrod-brown-does-not-support-forcing-childhood-sex-change-surgery/",
+      "domain": "politifact.com",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Sherrod Brown Answers Anti-Trans Attack Ads By Tying ...",
+      "url": "https://www.erininthemorning.com/p/sherrod-brown-answers-anti-trans",
+      "domain": "erininthemorning.com",
+      "published": "2026-10-09",
+      "publishedAsGiven": "Oct 9, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Woman accusing Sherrod Brown of forcing trans surgeries ...",
+      "url": "https://ohiocapitaljournal.com/2026/10/06/woman-accusing-sherrod-brown-of-forcing-transgender-surgeries-isnt-from-ohio-didnt-have-procedure-as-minor/",
+      "domain": "ohiocapitaljournal.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "Oct 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Republican Ads Distort the Facts in Claiming Democratic ...",
+      "url": "https://www.factcheck.org/2026/10/republican-ads-distort-the-facts-in-claiming-democratic-support-for-sex-changes-for-kids/",
+      "domain": "factcheck.org",
+      "published": "2026-10-12",
+      "publishedAsGiven": "Oct 12, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Ohio Kids Deserve Better | SLF Anti-Trans Ad vs. Brown",
+      "url": "https://www.youtube.com/watch?v=9ynHpNRAzQg",
+      "domain": "youtube.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Ads from the Senate Leadership Fund misleadingly make a ...",
+      "url": "https://www.facebook.com/politifact/posts/ads-from-the-senate-leadership-fund-misleadingly-make-a-connection-between-forme/1581384994022598/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Fact check: Republicans' deceptive ads on key Democratic ...",
+      "url": "https://www.cnn.com/2026/10/08/politics/fact-check-republicans-deceptive-ads-on-key-democratic-candidates-stances-on-gender-surgery-for-children",
+      "domain": "cnn.com",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Fact Check: Ad Targeting Ohio Democrat Features ...",
+      "url": "https://gomag.com/article/fact-check-ad-targeting-ohio-democrat-features-detransitioner-who-was-an-adult-when-she-had-surgery/",
+      "domain": "gomag.com",
+      "published": "2026-10-07",
+      "publishedAsGiven": "Oct 7, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "A political attack ad says \"Sherrod Brown supports sex ...",
+      "url": "https://www.facebook.com/clevelandcom/posts/a-political-attack-ad-says-sherrod-brown-supports-sex-change-surgery-for-minors-/1581013500726507/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "No, Ohio Senate candidate Sherrod Brown does not ...",
+      "url": "https://politifact.com/factchecks/2026/oct/01/senate-leadership-fund/no-ohio-senate-candidate-sherrod-brown-does-not-support-forcing-childhood-sex-change-surgery/",
+      "domain": "politifact.com",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "The ad claims Brown supports sex changes for minors. It ...",
+      "url": "https://www.instagram.com/p/DeRWgG9lyCC/",
+      "domain": "instagram.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Fact check: 2 lies in ad accusing Sherrod Brown on gender ...",
+      "url": "https://www.cleveland.com/news/2026/10/fact-check-2-lies-in-ad-accusing-sherrod-brown-on-gender-affirming-care.html",
+      "domain": "cleveland.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "Oct 13, 2026",
+      "dropped": "fact-check-words"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 6,
+    "fact-check-words": 4,
+    "after-said": 10,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:25:42.097Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

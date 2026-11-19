@@ -1,0 +1,309 @@
+{
+  "frozenAt": "2026-10-27T03:22:34.365Z",
+  "refilteredAt": "2026-10-27T03:37:25.352Z",
+  "id": "pf/zach-nunn/zach-nunn-said-republicans-passed-the-largest-tax-cut-in-u-s-history-this-is-mostly-false",
+  "said": "2026-09-08",
+  "queries": {
+    "fact": "We have cut the largest taxes in U.S. history.",
+    "claim": "We have cut the largest taxes in U.S. history. Zach Nunn"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1005.3072500000708,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2144.2064160001464,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Is the OBBBA the “Largest Tax Cut in American History?”",
+      "url": "https://taxfoundation.org/blog/obbba-largest-tax-cut-in-american-history/",
+      "domain": "taxfoundation.org",
+      "published": "2025-11-14",
+      "publishedAsGiven": "Nov 14, 2025",
+      "snippet": "The five largest tax cuts since 1940 are the Economic Recovery Tax Act of 1981; the Revenue Acts of 1945, 1948, and 1964; and the American ..."
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Is President Trump's Tax Cut the Largest in History Yet?",
+      "url": "https://www.crfb.org/blogs/president-trumps-tax-cut-largest-history-yet",
+      "domain": "crfb.org",
+      "published": "2017-10-25",
+      "publishedAsGiven": "Oct 25, 2017",
+      "snippet": "As a percent of GDP, the largest tax cut since 1918 was the 1981 tax cut enacted at the beginning of the Reagan Administration. This tax cut ..."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "U.S. Tax Reform Timeline, 1945-Present",
+      "url": "https://bipartisanpolicy.org/issue-brief/u-s-tax-reform-timeline-1945-present/",
+      "domain": "bipartisanpolicy.org",
+      "published": "2025-12-02",
+      "publishedAsGiven": "Dec 2, 2025",
+      "snippet": "The law reduced the top individual tax rate from 50% to 28%, and it collapsed more than a dozen tax brackets into just two—15% and 28%."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "US tax cuts: Are they the biggest in American history?",
+      "url": "https://www.bbc.com/news/world-43790895",
+      "domain": "bbc.com",
+      "published": "2018-04-17",
+      "publishedAsGiven": "Apr 17, 2018",
+      "snippet": "Most analyses suggest that in absolute terms, this year's reduction of the US corporate tax rate from 35% to 21% is the biggest corporate tax ..."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "This is the Largest Tax Cut in American History",
+      "url": "https://www.youtube.com/watch?v=n9BdEZalTL8",
+      "domain": "youtube.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "snippet": "Republican Senator Tim Scott celebrates the American dream, made more possible by the Working Families Tax Cut."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "The Income Tax Amendment: Most Thought It Was a Great ...",
+      "url": "https://teachdemocracy.org/online-lesson/the-income-tax-amendment-most-thought-it-was-a-great-idea-in-1913/",
+      "domain": "teachdemocracy.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "History of Federal Income Tax Rates: 1913 - 2026",
+      "url": "https://bradfordtaxinstitute.com/Free_Resources/Federal-Income-Tax-Rates.aspx",
+      "domain": "bradfordtaxinstitute.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "The largest tax cut in American history — delivered by ...",
+      "url": "https://www.facebook.com/AshleyMoodyFL/posts/the-largest-tax-cut-in-american-history-delivered-by-republicans-while-every-sin/1558706092279665/",
+      "domain": "facebook.com",
+      "published": "2026-06-27",
+      "publishedAsGiven": "4 months ago",
+      "snippet": "We cut $1.7 TRILLION in spending, something never accomplished before. We delivered the LARGEST TAX CUT in American history so that you can ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "President Donald J. Trump Achieved the Biggest Tax Cuts and ...",
+      "url": "https://trumpwhitehouse.archives.gov/briefings-statements/president-donald-j-trump-achieved-biggest-tax-cuts-reforms-american-history/",
+      "domain": "trumpwhitehouse.archives.gov",
+      "published": "2018-02-05",
+      "publishedAsGiven": "Feb 5, 2018",
+      "snippet": "Quote · President Trump's tax cuts are the biggest gross tax cuts in American history, cutting over $5.5 trillion in taxes over ten years."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "PASSED: The One, Big, Beautiful Bill - The Largest Tax Cut ...",
+      "url": "https://waysandmeans.house.gov/2025/07/03/passed-the-one-big-beautiful-bill-the-largest-tax-cut-in-american-history/",
+      "domain": "waysandmeans.house.gov",
+      "published": "2025-07-03",
+      "publishedAsGiven": "Jul 3, 2025",
+      "snippet": "PASSED: The One, Big, Beautiful Bill – The Largest Tax Cut in American History ... Households earning less than $100,000get a 12 percent tax cut ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Zach Nunn said Republicans passed the largest tax cut in ...",
+      "url": "https://politifact.com/factchecks/2026/oct/07/zach-nunn/zach-nunn-said-republicans-passed-the-largest-tax-cut-in-u-s-history-this-is-mostly-false/",
+      "domain": "politifact.com",
+      "published": "2026-10-07",
+      "publishedAsGiven": "Oct 7, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "You Asked. We Answered. - Congressman Zach Nunn",
+      "url": "https://nunn.house.gov/2026/06/12/%F0%9F%93%A3-you-asked-we-answered/",
+      "domain": "nunn.house.gov",
+      "published": "2026-06-12",
+      "publishedAsGiven": "Jun 12, 2026",
+      "snippet": "we passed the largest tax cut in U.S. history. No tax on tips and overtime so hard work means a bigger paycheck, not a higher tax bill."
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "The largest tax cut in American history means a waitress keeps ...",
+      "url": "https://www.facebook.com/ZachNunnforCongress/videos/the-largest-tax-cut-in-american-history-means-a-waitress-keeps-her-tips-a-nurse-/874846928930117/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Nunn, Trone Garriott discuss Big Beautiful Bill in 3rd District",
+      "url": "https://www.iowapublicradio.org/political-news/2026-10-23/the-big-beautiful-bill-3rd-congressional-district-zach-nunn-sarah-trone-garriott-house-midterm-elections",
+      "domain": "iowapublicradio.org",
+      "published": "2026-10-24",
+      "publishedAsGiven": "3 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Sarah Trone Garriott supports the largest tax increase ...",
+      "url": "https://x.com/NunnForCongress/status/2111848805301879017",
+      "domain": "x.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "No, the One Big Beautiful Bill wasn't the largest tax cut in ...",
+      "url": "https://www.facebook.com/politifact/posts/no-the-one-big-beautiful-bill-wasnt-the-largest-tax-cut-in-us-history-as-zach-nu/1573933601434404/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "AAN Launches Ad Campaign Thanking Zach Nunn for ...",
+      "url": "https://www.americanactionnetwork.org/aan-launches-ad-campaign-thanking-zach-nunn-for-lowering-taxes-for-iowa-families/",
+      "domain": "americanactionnetwork.org",
+      "published": "2026-08-21",
+      "publishedAsGiven": "Aug 21, 2026",
+      "snippet": "As part of the Working Families Tax Cut, House Republicans delivered the largest tax cut in American history, cut taxes on tips and overtime and ..."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Congressman Zach Nunn Marks One Year of Working Families ...",
+      "url": "https://www.facebook.com/RepZachNunn/videos/one-year-ago-today-the-house-passed-the-largest-tax-cut-in-american-history-the-/2547413912398337/",
+      "domain": "facebook.com",
+      "published": "2026-07-27",
+      "publishedAsGiven": "3 months ago",
+      "snippet": "One year ago today, the House passed the largest tax cut in American history. The result: more than $3,000 back in the average Iowa family's ..."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "America's Chief Financial Officer Came to Iowa - Zach Nunn",
+      "url": "https://nunn.house.gov/2026/08/14/%F0%9F%92%B5-americas-chief-financial-officer-came-to-iowa/",
+      "domain": "nunn.house.gov",
+      "published": "2026-08-14",
+      "publishedAsGiven": "Aug 14, 2026",
+      "snippet": "On July 4, 2025, the largest tax cut in American history was signed into law. The results are already showing up in Iowa: this spring, ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "The largest tax cut in American history means a waitress ...",
+      "url": "https://www.facebook.com/ZachNunnforCongress/posts/the-largest-tax-cut-in-american-history-means-a-waitress-keeps-her-tips-a-nurse-/1113966734313950/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 1,
+    "after-said": 2,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:22:31.214Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Is the OBBBA the “Largest Tax Cut in American History?”",
+      "url": "https://taxfoundation.org/blog/obbba-largest-tax-cut-in-american-history/",
+      "domain": "taxfoundation.org",
+      "snippet": "The five largest tax cuts since 1940 are the Economic Recovery Tax Act of 1981; the Revenue Acts of 1945, 1948, and 1964; and the American ...",
+      "published": "2025-11-14",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "very high",
+        "name": "Tax Foundation",
+        "page": "https://mediabiasfactcheck.com/tax-foundation/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Is President Trump's Tax Cut the Largest in History Yet?",
+      "url": "https://www.crfb.org/blogs/president-trumps-tax-cut-largest-history-yet",
+      "domain": "crfb.org",
+      "snippet": "As a percent of GDP, the largest tax cut since 1918 was the 1981 tax cut enacted at the beginning of the Reagan Administration. This tax cut ...",
+      "published": "2017-10-25",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Committee for a Responsible Federal Budget",
+        "page": "https://mediabiasfactcheck.com/committee-for-a-responsible-federal-budget/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "US tax cuts: Are they the biggest in American history?",
+      "url": "https://www.bbc.com/news/world-43790895",
+      "domain": "bbc.com",
+      "snippet": "Most analyses suggest that in absolute terms, this year's reduction of the US corporate tax rate from 35% to 21% is the biggest corporate tax ...",
+      "published": "2018-04-17",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "very high",
+        "name": "BBC",
+        "page": "https://mediabiasfactcheck.com/bbc/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "President Donald J. Trump Achieved the Biggest Tax Cuts and ...",
+      "url": "https://trumpwhitehouse.archives.gov/briefings-statements/president-donald-j-trump-achieved-biggest-tax-cuts-reforms-american-history/",
+      "domain": "trumpwhitehouse.archives.gov",
+      "snippet": "Quote · President Trump's tax cuts are the biggest gross tax cuts in American history, cutting over $5.5 trillion in taxes over ten years.",
+      "published": "2018-02-05",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "U.S. Tax Reform Timeline, 1945-Present",
+      "url": "https://bipartisanpolicy.org/issue-brief/u-s-tax-reform-timeline-1945-present/",
+      "domain": "bipartisanpolicy.org",
+      "snippet": "The law reduced the top individual tax rate from 50% to 28%, and it collapsed more than a dozen tax brackets into just two—15% and 28%.",
+      "published": "2025-12-02",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 5
+    }
+  ]
+}

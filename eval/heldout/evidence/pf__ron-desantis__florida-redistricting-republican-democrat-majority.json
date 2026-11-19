@@ -1,0 +1,307 @@
+{
+  "frozenAt": "2026-10-27T03:14:33.782Z",
+  "refilteredAt": "2026-10-27T03:35:25.669Z",
+  "id": "pf/ron-desantis/florida-redistricting-republican-democrat-majority",
+  "said": "2026-04-27",
+  "queries": {
+    "fact": "Since the 2020 census, Florida has moved from a Democrat majority to a 1.5 million Republican advantage.",
+    "claim": "Since the 2020 census, Florida has moved from a Democrat majority to a 1.5 million Republican advantage. Ron DeSantis"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2588.309416000033,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1226.6127499999711,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "PolitiFact: DeSantis overstates voters' shift from Democrats ...",
+      "url": "https://www.nbcmiami.com/news/local/florida-redistricting-desantis-overstates-voters-shift-from-democrats-to-republicans/3802867/",
+      "domain": "nbcmiami.com",
+      "published": "2026-04-29",
+      "publishedAsGiven": "Apr 29, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Florida redistricting: DeSantis overstates voters' shift from ...",
+      "url": "https://politifact.com/factchecks/2026/apr/29/ron-desantis/florida-redistricting-republican-democrat-majority/",
+      "domain": "politifact.com",
+      "published": "2026-04-29",
+      "publishedAsGiven": "Apr 29, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "DeSantis unveils new map aiming to help Florida GOP flip ...",
+      "url": "https://rollcall.com/2026/04/27/desantis-unveils-new-map-aiming-to-help-florida-gop-flip-4-house-seats/?ref=consejomexicano.org",
+      "domain": "rollcall.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "Apr 27, 2026",
+      "snippet": "“Florida got shortchanged in the 2020 Census, we have moved from a Democrat majority to a 1.5 million Republican advantage.”"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "DeSantis releases new Florida map that would give ...",
+      "url": "https://abcnews4.com/news/nation-world/desantis-releases-new-florida-map-that-would-give-republicans-four-new-seats-hakeem-jeffries-virginia-supreme-court",
+      "domain": "abcnews4.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "Apr 27, 2026",
+      "snippet": "\"Our population has since grown dramatically, and we have moved from a Democrat majority to a 1.5 million Republican advantage. Drawing maps ..."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "DeSantis releases new Florida map that would give ...",
+      "url": "https://katu.com/news/nation-world/desantis-releases-new-florida-map-that-would-give-republicans-four-new-seats-hakeem-jeffries-virginia-supreme-court",
+      "domain": "katu.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "Apr 27, 2026",
+      "snippet": "\"Our population has since grown dramatically, and we have moved from a Democrat majority to a 1.5 million Republican advantage. Drawing maps ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Florida Gov. Ron DeSantis proposes redrawing ...",
+      "url": "https://www.facebook.com/theGrio/posts/florida-gov-ron-desantis-proposes-redrawing-congressional-maps-to-gain-four-gop-/1326289472702620/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "snippet": "\"Our population has since grown dramatically, and we have moved from a Democrat majority to a 1.5 million Republican advantage. Drawing maps ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Florida's Republican governor unveils plan for redrawn ...",
+      "url": "https://www.theguardian.com/us-news/2026/apr/27/ron-desantis-redrawn-florida-congressional-maps",
+      "domain": "theguardian.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "Apr 27, 2026",
+      "snippet": "“Our population has since grown dramatically, and we have moved from a Democrat majority to a 1.5 million Republican advantage. Drawing maps ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Ron DeSantis unveils new Florida congressional map that ...",
+      "url": "https://www.fox13news.com/news/ron-desantis-unveils-new-florida-congressional-map-would-give-gop-extra-four-seats",
+      "domain": "fox13news.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "Apr 27, 2026",
+      "snippet": "\"Our population has since grown dramatically, and we have moved from a Democrat majority to a 1.5 million Republican advantage. Drawing maps ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "DeSantis reveals new Florida map that could help GOP ...",
+      "url": "https://thehill.com/homenews/campaign/5850908-florida-gop-gains-desantis/",
+      "domain": "thehill.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "Apr 27, 2026",
+      "snippet": "“Our population has since grown dramatically, and we have moved from a Democrat majority to a 1.5 million Republican advantage,” he added."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Florida unveils new GOP-friendly congressional map",
+      "url": "https://www.youtube.com/watch?v=JTtZDKr9O9k",
+      "domain": "youtube.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "snippet": "\"Our population has since grown dramatically, and we have moved from a Democrat majority to a 1.5 million Republican advantage. Drawing maps ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Florida redistricting: DeSantis overstates voters' shift from ...",
+      "url": "https://www.wlrn.org/light/government-politics/2026-05-01/florida-redistricting-desantis-overstates-voters-shift-from-democrats-to-republicans",
+      "domain": "wlrn.org",
+      "published": "2026-05-01",
+      "publishedAsGiven": "May 1, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Florida's Republican governor unveils plan for redrawn ...",
+      "url": "https://www.theguardian.com/us-news/2026/apr/27/ron-desantis-redrawn-florida-congressional-maps",
+      "domain": "theguardian.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "Apr 27, 2026",
+      "snippet": "“Our population has since grown dramatically, and we have moved from a Democrat majority to a 1.5 million Republican advantage. Drawing maps ..."
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Florida redistricting: DeSantis overstates voters' shift from ...",
+      "url": "https://politifact.com/factchecks/2026/apr/29/ron-desantis/florida-redistricting-republican-democrat-majority/",
+      "domain": "politifact.com",
+      "published": "2026-04-29",
+      "publishedAsGiven": "Apr 29, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Florida Governor Ron DeSantis published this proposed ...",
+      "url": "https://www.facebook.com/NickJMinock/posts/florida-governor-ron-desantis-published-this-proposed-map-if-passed-it-would-lik/1303145715252024/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "snippet": "“Our population has since grown dramatically, and we have moved from a Democrat majority to a 1.5 million Republican advantage. Drawing maps ..."
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "DeSantis releases new Florida map that would give ...",
+      "url": "https://idahonews.com/news/nation-world/desantis-releases-new-florida-map-that-would-give-republicans-four-new-seats-hakeem-jeffries-virginia-supreme-court",
+      "domain": "idahonews.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "Apr 27, 2026",
+      "snippet": "\"Our population has since grown dramatically, and we have moved from a Democrat majority to a 1.5 million Republican advantage. Drawing maps ..."
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Florida Gov. DeSantis unveils aggressive new GOP ...",
+      "url": "https://www.democracydocket.com/news-alerts/florida-gov-desantis-unveils-congressional-map-gerrymander/",
+      "domain": "democracydocket.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "Apr 27, 2026",
+      "snippet": "“Our population has since grown dramatically, and we have moved from a Democrat majority to a 1.5 million Republican advantage. DeSantis ..."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "DeSantis unveils new map aiming to help Florida GOP flip ...",
+      "url": "https://rollcall.com/2026/04/27/desantis-unveils-new-map-aiming-to-help-florida-gop-flip-4-house-seats/?ref=consejomexicano.org",
+      "domain": "rollcall.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "Apr 27, 2026",
+      "snippet": "“Our population has since grown dramatically, and we have moved from a Democrat majority to a 1.5 million Republican advantage.” The Republican ..."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Florida Gov. Ron DeSantis unveiled a new map that could give ...",
+      "url": "https://www.facebook.com/CBSMornings/posts/florida-gov-ron-desantis-unveiled-a-new-map-that-could-give-the-gop-four-more-se/1402704195217061/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "snippet": "DeSantis argues Florida's population has grown dramatically since the 2020 census and now has a 1.5 million Republican voter advantage ... move ..."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "DeSantis under pressure as Florida redraw could tip ...",
+      "url": "https://www.foxnews.com/politics/desantis-under-pressure-florida-redraw-could-tip-house-balance-gop-map-fight",
+      "domain": "foxnews.com",
+      "published": "2026-04-28",
+      "publishedAsGiven": "Apr 28, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Filing # 247444370 E-Filed 05/04/2026 08:10:50 PM",
+      "url": "https://campaignlegal.org/sites/default/files/2026-05/247444370%20Complaint%20Concerning%20Constitutional%20Challenge%20To%20Statute%20Or%20Ordinance.pdf",
+      "domain": "campaignlegal.org",
+      "published": "2026-05-04",
+      "publishedAsGiven": "May 4, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 1,
+    "after-said": 3,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:14:29.965Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "DeSantis unveils new map aiming to help Florida GOP flip ...",
+      "url": "https://rollcall.com/2026/04/27/desantis-unveils-new-map-aiming-to-help-florida-gop-flip-4-house-seats/?ref=consejomexicano.org",
+      "domain": "rollcall.com",
+      "snippet": "“Florida got shortchanged in the 2020 Census, we have moved from a Democrat majority to a 1.5 million Republican advantage.”",
+      "published": "2026-04-27",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Roll Call",
+        "page": "https://mediabiasfactcheck.com/roll-call/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Florida's Republican governor unveils plan for redrawn ...",
+      "url": "https://www.theguardian.com/us-news/2026/apr/27/ron-desantis-redrawn-florida-congressional-maps",
+      "domain": "theguardian.com",
+      "snippet": "“Our population has since grown dramatically, and we have moved from a Democrat majority to a 1.5 million Republican advantage. Drawing maps ...",
+      "published": "2026-04-27",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "The Observer (UK)",
+        "page": "https://mediabiasfactcheck.com/the-observer/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "DeSantis releases new Florida map that would give ...",
+      "url": "https://abcnews4.com/news/nation-world/desantis-releases-new-florida-map-that-would-give-republicans-four-new-seats-hakeem-jeffries-virginia-supreme-court",
+      "domain": "abcnews4.com",
+      "snippet": "\"Our population has since grown dramatically, and we have moved from a Democrat majority to a 1.5 million Republican advantage. Drawing maps ...",
+      "published": "2026-04-27",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    },
+    {
+      "title": "DeSantis releases new Florida map that would give ...",
+      "url": "https://idahonews.com/news/nation-world/desantis-releases-new-florida-map-that-would-give-republicans-four-new-seats-hakeem-jeffries-virginia-supreme-court",
+      "domain": "idahonews.com",
+      "snippet": "\"Our population has since grown dramatically, and we have moved from a Democrat majority to a 1.5 million Republican advantage. Drawing maps ...",
+      "published": "2026-04-27",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 4
+    },
+    {
+      "title": "DeSantis releases new Florida map that would give ...",
+      "url": "https://katu.com/news/nation-world/desantis-releases-new-florida-map-that-would-give-republicans-four-new-seats-hakeem-jeffries-virginia-supreme-court",
+      "domain": "katu.com",
+      "snippet": "\"Our population has since grown dramatically, and we have moved from a Democrat majority to a 1.5 million Republican advantage. Drawing maps ...",
+      "published": "2026-04-27",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 5
+    }
+  ]
+}

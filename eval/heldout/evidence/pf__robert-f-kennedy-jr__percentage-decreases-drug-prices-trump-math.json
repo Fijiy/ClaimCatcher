@@ -1,0 +1,413 @@
+{
+  "frozenAt": "2026-10-27T03:14:03.733Z",
+  "refilteredAt": "2026-10-27T03:35:18.162Z",
+  "id": "pf/robert-f-kennedy-jr/percentage-decreases-drug-prices-trump-math",
+  "said": "2026-04-22",
+  "queries": {
+    "fact": "There’s two ways of calculating percentage decreases. If you have a $600 drug and you reduce it to $10, that’s a 600% reduction.",
+    "claim": "There’s two ways of calculating percentage decreases. If you have a $600 drug and you reduce it to $10, that’s a 600% reduction. Robert F. Kennedy Jr."
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2287.4014169999864,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2419.591500000097,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 92.76804200001061,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Fact-checking RFK Jr.'s claim there's more than one way ... - PBS",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-rfk-jr-s-claim-theres-more-than-one-way-to-calculate-a-percentage-decrease",
+      "domain": "pbs.org",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "The two ways to calculate percentage decrease - Facebook",
+      "url": "https://www.facebook.com/jknurick/videos/the-two-ways-to-calculate-percentage-decrease-the-accurate-way-and-the-completel/1630804045720027/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "The two ways to calculate percentage decrease - Instagram",
+      "url": "https://www.instagram.com/reel/DXciVjhR0If/?hl=en",
+      "domain": "instagram.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Kennedy said, \"President Trump has a different way ... - Facebook",
+      "url": "https://www.facebook.com/LaneCountyTribune/posts/kennedy-said-president-trump-has-a-different-way-of-calculating-percentages-ther/1688796812691685/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "RFK Jr: \"President Trump has a different way of calculating ...",
+      "url": "https://www.reddit.com/r/economy/comments/1ssw5j5/rfk_jr_president_trump_has_a_different_way_of/",
+      "domain": "reddit.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "RFK Jr. and Dr. Oz defend Trump's prescription drug math ...",
+      "url": "https://www.cnn.com/2026/04/24/politics/prescription-drugs-trump-rfk-jr-oz",
+      "domain": "cnn.com",
+      "published": null,
+      "dropped": "after-said-link-date"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "RFK Jr. shared erroneous drug price math attributed to Trump",
+      "url": "https://www.snopes.com/fact-check/rfk-trump-drug-price-math/",
+      "domain": "snopes.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "The two ways to calculate percentage decrease - Facebook",
+      "url": "https://www.facebook.com/jknurick/posts/the-two-ways-to-calculate-percentage-decrease-the-accurate-way-and-the-completel/1677898067347302/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "The impossible maths behind Trump's drug price reductions.",
+      "url": "https://www.youtube.com/shorts/bXxQ3vKIeLc",
+      "domain": "youtube.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "RFK Jr. gives wild explanation for Trump's mathematically ...",
+      "url": "https://www.al.com/politics/2026/04/rfk-jr-gives-wild-explanation-for-trumps-mathematically-impossible-drug-discounts.html",
+      "domain": "al.com",
+      "published": null,
+      "snippet": "“If you have a $600 drug and you reduce it to $10, that's a 600% reduction.” In actuality, the decrease would be 98.33%. The Associated ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "RFK Jr. drug price math claim doesn't add up",
+      "url": "https://www.wbaltv.com/article/rfk-jr-drug-price-math-fact-check/71124905",
+      "domain": "wbaltv.com",
+      "published": "2026-04-25",
+      "publishedAsGiven": "Apr 25, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "RFK Jr. said there's more than one way to calculate a ...",
+      "url": "https://politifact.com/factchecks/2026/apr/23/robert-f-kennedy-jr/percentage-decreases-drug-prices-trump-math/",
+      "domain": "politifact.com",
+      "published": "2026-04-23",
+      "publishedAsGiven": "Apr 23, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Robert F Kennedy Jr and Scott Steiner on math",
+      "url": "https://www.facebook.com/Ptricks/posts/lets-play-a-game-which-of-the-following-was-said-by-health-and-human-services-se/10118658171761188/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "The two ways to calculate percentage decrease",
+      "url": "https://www.facebook.com/jknurick/videos/the-two-ways-to-calculate-percentage-decrease-the-accurate-way-and-the-completel/1630804045720027/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "RFK Jr: \"President Trump has a different way of calculating ...",
+      "url": "https://www.reddit.com/r/economy/comments/1ssw5j5/rfk_jr_president_trump_has_a_different_way_of/",
+      "domain": "reddit.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "The two ways to calculate percentage decrease",
+      "url": "https://www.instagram.com/reel/DXciVjhR0If/?hl=en",
+      "domain": "instagram.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "I try to not bring in politics in my math videos, but this ...",
+      "url": "https://www.facebook.com/100094227136478/videos/i-try-to-not-bring-in-politics-in-my-math-videos-but-this-math-is-objectively-wr/1108633901466508/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Everyone's talking about the “600% decrease.”",
+      "url": "https://www.youtube.com/shorts/qDXFIrizMf0",
+      "domain": "youtube.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "The two ways to calculate percentage decrease",
+      "url": "https://www.facebook.com/jknurick/posts/the-two-ways-to-calculate-percentage-decrease-the-accurate-way-and-the-completel/1677898067347302/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "No, that is not a 600% decrease #math #mathematics ...",
+      "url": "https://www.tiktok.com/@howie_hua/video/7631785438860037390",
+      "domain": "tiktok.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "RFK Jr. Defends Trump's Mathematically Impossible Drug ...",
+      "url": "https://www.nytimes.com/2026/04/22/us/politics/rfk-jr-trump-impossible-drug-discounts.html",
+      "domain": "nytimes.com",
+      "published": "2026-04-22",
+      "publishedAsGiven": "Apr 22, 2026",
+      "snippet": "“If you have a $600 drug, and you reduce it to $10, that's a 600 percent reduction,” Mr. Kennedy said during a congressional hearing. Mr."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "RFK Jr. is only wrong about drug prices if you believe in math",
+      "url": "https://www.usatoday.com/story/opinion/columnist/2026/04/24/trump-kennedy-drug-prices-prescriptions-hhs/89751581007/",
+      "domain": "usatoday.com",
+      "published": "2026-04-24",
+      "publishedAsGiven": "Apr 24, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "'Two ways of calculating': Trump defends his ...",
+      "url": "https://www.washingtonpost.com/politics/2026/04/23/trump-fake-math-drug-price-reductions/83170cba-3f67-11f1-bb46-ed564688d953_story.html",
+      "domain": "washingtonpost.com",
+      "published": "2026-04-23",
+      "publishedAsGiven": "Apr 23, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Trump defends drug price claims by citing 'two ways of ...",
+      "url": "https://apnews.com/article/trump-fake-math-drug-price-reductions-1c89714a4b60ead1485d1de31b27da92",
+      "domain": "apnews.com",
+      "published": "2026-04-23",
+      "publishedAsGiven": "Apr 23, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Six Reasons Drug Prices Are So High in the U.S.",
+      "url": "https://www.nytimes.com/2024/01/17/health/us-drug-prices.html",
+      "domain": "nytimes.com",
+      "published": "2024-01-17",
+      "publishedAsGiven": "Jan 17, 2024",
+      "snippet": "Research shows prices in the United States are nearly double those in other well-off countries."
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "All of Trump's false and misleading claims: the first 100 days",
+      "url": "https://www.washingtonpost.com/graphics/politics/trump-claims/",
+      "domain": "washingtonpost.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Trump reverses Biden policies on drug pricing and ...",
+      "url": "https://www.nbcnews.com/health/health-news/trump-reverses-biden-policies-drug-pricing-obamacare-rcna188555",
+      "domain": "nbcnews.com",
+      "published": "2025-01-21",
+      "publishedAsGiven": "Jan 21, 2025",
+      "snippet": "One Biden effort overturned by Trump, for example, had directed Medicare to look at ways to lower drug costs, including whether to impose a $2 ..."
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Trump announces deal with Pfizer to lower drug prices, ...",
+      "url": "https://www.nbcnews.com/health/health-news/trump-announce-deal-pfizer-lower-drug-prices-rcna234679",
+      "domain": "nbcnews.com",
+      "published": "2025-09-30",
+      "publishedAsGiven": "Sep 30, 2025",
+      "snippet": "The deal is part of Trump's broader effort to tie the amount the government pays for certain drugs to the prices paid overseas."
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "Congress Reins In Drug Middlemen in Effort to Lower ...",
+      "url": "https://www.nytimes.com/2026/02/04/health/prescription-drug-prices-pharmacy-benefit-managers-congress.html",
+      "domain": "nytimes.com",
+      "published": "2026-02-06",
+      "publishedAsGiven": "Feb 6, 2026",
+      "snippet": "Congress Reins In Drug Middlemen in Effort to Lower Prescription Prices. The legislation will impose new restrictions on pharmacy benefit ..."
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "Democrats' Stumble on Drug Prices Shows Power of Industry",
+      "url": "https://www.nytimes.com/2021/09/15/upshot/democrats-stumble-drug-prices.html",
+      "domain": "nytimes.com",
+      "published": "2021-11-06",
+      "publishedAsGiven": "Nov 6, 2021",
+      "snippet": "A measure that would link the prices of certain prescription drugs to those paid overseas was devised to save the government enough money to ..."
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 3,
+    "after-said": 4,
+    "maybe-after-said": 7,
+    "after-said-link-date": 1,
+    "undated": 6
+  },
+  "linkDatedKept": 1,
+  "searchedAt": "2026-10-27T03:13:55.108Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "RFK Jr. gives wild explanation for Trump's mathematically ...",
+      "url": "https://www.al.com/politics/2026/04/rfk-jr-gives-wild-explanation-for-trumps-mathematically-impossible-drug-discounts.html",
+      "domain": "al.com",
+      "snippet": "“If you have a $600 drug and you reduce it to $10, that's a 600% reduction.” In actuality, the decrease would be 98.33%. The Associated ...",
+      "published": null,
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "AL.com (Alabama News)",
+        "page": "https://mediabiasfactcheck.com/al-com-alabama-news/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "RFK Jr. Defends Trump's Mathematically Impossible Drug ...",
+      "url": "https://www.nytimes.com/2026/04/22/us/politics/rfk-jr-trump-impossible-drug-discounts.html",
+      "domain": "nytimes.com",
+      "snippet": "“If you have a $600 drug, and you reduce it to $10, that's a 600 percent reduction,” Mr. Kennedy said during a congressional hearing. Mr.",
+      "published": "2026-04-22",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "New York Times",
+        "page": "https://mediabiasfactcheck.com/new-york-times/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Six Reasons Drug Prices Are So High in the U.S.",
+      "url": "https://www.nytimes.com/2024/01/17/health/us-drug-prices.html",
+      "domain": "nytimes.com",
+      "snippet": "Research shows prices in the United States are nearly double those in other well-off countries.",
+      "published": "2024-01-17",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "New York Times",
+        "page": "https://mediabiasfactcheck.com/new-york-times/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Trump reverses Biden policies on drug pricing and ...",
+      "url": "https://www.nbcnews.com/health/health-news/trump-reverses-biden-policies-drug-pricing-obamacare-rcna188555",
+      "domain": "nbcnews.com",
+      "snippet": "One Biden effort overturned by Trump, for example, had directed Medicare to look at ways to lower drug costs, including whether to impose a $2 ...",
+      "published": "2025-01-21",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "NBC News",
+        "page": "https://mediabiasfactcheck.com/nbc-news/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Trump announces deal with Pfizer to lower drug prices, ...",
+      "url": "https://www.nbcnews.com/health/health-news/trump-announce-deal-pfizer-lower-drug-prices-rcna234679",
+      "domain": "nbcnews.com",
+      "snippet": "The deal is part of Trump's broader effort to tie the amount the government pays for certain drugs to the prices paid overseas.",
+      "published": "2025-09-30",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "NBC News",
+        "page": "https://mediabiasfactcheck.com/nbc-news/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

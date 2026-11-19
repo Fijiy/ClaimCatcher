@@ -1,0 +1,343 @@
+{
+  "frozenAt": "2026-10-27T03:23:08.880Z",
+  "refilteredAt": "2026-10-27T03:37:33.430Z",
+  "id": "pf/abdul-el-sayed/mike-rogers-9-11-first-responders-healthcare",
+  "said": "2026-09-12",
+  "queries": {
+    "fact": "Former U.S. Rep. Mike Rogers voted to deny health care to 9/11 first responders nine times.",
+    "claim": "Former U.S. Rep. Mike Rogers voted to deny health care to 9/11 first responders nine times. Abdul El-Sayed"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2160.5010829998646,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 3154.2010419999715,
+      "results": 8
+    },
+    {
+      "query": "balance",
+      "ms": 111.18125000002328,
+      "results": 5
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Voted against healthcare for 9/11 responders? - YouTube",
+      "url": "https://m.youtube.com/shorts/pYKS7aqj9_Y",
+      "domain": "m.youtube.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Republican seeking to implicate Abdul El-Sayed over 9/11 ...",
+      "url": "https://www.theguardian.com/us-news/2026/sep/10/mike-rogers-911-first-responders-votes-abdul-el-sayed",
+      "domain": "theguardian.com",
+      "published": null,
+      "snippet": "Rogers has twice voted against healthcare and other benefits for 9/11 first responders and survivors, congressional records show. Missing: nine | Show results with:"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Records show Mike Rogers voted against federal health care ...",
+      "url": "https://www.facebook.com/WorkingFamilies/posts/records-show-mike-rogers-voted-against-federal-health-care-funding-for-911-respo/1686473286381918/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Mike Rogers opposed 9/11 responder health care not twice, but ...",
+      "url": "https://www.metrotimes.com/news/mike-rogers-opposed-9-11-responder-health-care-not-twice-but-nine-times/",
+      "domain": "metrotimes.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "What did Mike Rogers say about 9/11 heroes and healthcare?",
+      "url": "https://www.facebook.com/groups/michigandemocraticprogressives/posts/28892172750448527/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Abdul El-Sayed Calls Out Mike Rogers Over 9/11 Responder ...",
+      "url": "https://www.facebook.com/WorkingFamilies/videos/abdul-el-sayed-calls-out-mike-rogers-on-healthcare/28226473890364205/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Metro Times: Mike Rogers Voted Repeatedly Against ...",
+      "url": "https://www.deadlinedetroit.com/articles/35063/metro_times_mike_rogers_voted_repeatedly_against_legislation_to_help_people_sickened_by_9_11",
+      "domain": "deadlinedetroit.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Records show Mike Rogers voted against federal health care ...",
+      "url": "https://www.instagram.com/reel/De4NuqBxUE0/",
+      "domain": "instagram.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Mike Rogers repeatedly voted against funding public safety",
+      "url": "https://michiganindependent.com/politics/mike-rogers-repeatedly-voted-against-funding-public-safety/",
+      "domain": "michiganindependent.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Mike Rogers (Michigan politician) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mike_Rogers_(Michigan_politician)",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Republican seeking to implicate Abdul El-Sayed over 9/11 ...",
+      "url": "https://www.theguardian.com/us-news/2026/sep/10/mike-rogers-911-first-responders-votes-abdul-el-sayed",
+      "domain": "theguardian.com",
+      "published": "2026-09-10",
+      "publishedAsGiven": "Sep 10, 2026",
+      "snippet": "Rogers has twice voted against healthcare and other benefits for 9/11 first responders and survivors, congressional records show."
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Voted against healthcare for 9/11 responders?",
+      "url": "https://www.youtube.com/watch?v=pYKS7aqj9_Y",
+      "domain": "youtube.com",
+      "published": "2026-10-25",
+      "publishedAsGiven": "2 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Mike Rogers Gives Biggest Speech Of His Campaign… But ...",
+      "url": "https://abdulforsenate.com/2026/09/mike-rogers-gives-biggest-speech-of-his-campaign-but-didnt-mention-the-economy-once/",
+      "domain": "abdulforsenate.com",
+      "published": "2026-09-10",
+      "publishedAsGiven": "Sep 10, 2026",
+      "snippet": "Abdul also responded to the new reports that Mike Rogers voted against healthcare funding for 9/11 victims and first responders: “[Rogers] told ..."
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Mike Rogers is invoking 9/11 in his campaign against ...",
+      "url": "https://www.facebook.com/metrotimes/posts/mike-rogers-is-invoking-911-in-his-campaign-against-abdul-el-sayed-and-praising-/1503634158452723/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Mike Rogers opposed 9/11 responder health care not twice ...",
+      "url": "https://www.metrotimes.com/news/mike-rogers-opposed-9-11-responder-health-care-not-twice-but-nine-times/",
+      "domain": "metrotimes.com",
+      "published": "2026-09-12",
+      "publishedAsGiven": "Sep 12, 2026",
+      "snippet": "Abdul El-Sayed confronted him over two of those votes, Rogers didn't defend or explain them. He called the accusation a “lie.” The motion ..."
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Records show Mike Rogers voted against federal health ...",
+      "url": "https://www.instagram.com/reel/De4NuqBxUE0/",
+      "domain": "instagram.com",
+      "published": "2026-10-25",
+      "publishedAsGiven": "2 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Michigan Senate candidates battle over their records on 9 ...",
+      "url": "https://www.cbsnews.com/news/michigan-senate-candidates-25-years-9-11-el-sayed-rogers/",
+      "domain": "cbsnews.com",
+      "published": "2026-09-11",
+      "publishedAsGiven": "Sep 11, 2026",
+      "snippet": "The candidates in Michigan's closely watched U.S. Senate race, Democrat Abdul El-Sayed and Republican Mike Rogers, have exchanged criticism ..."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Dr. Abdul El-Sayed on X: \"You're right. Disrespect of 9/11 ...",
+      "url": "https://x.com/AbdulElSayed/status/2102095015094747210",
+      "domain": "x.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Trump gives speech at GOP midterm convention",
+      "url": "https://apnews.com/live/trump-gop-midterm-convention-news-updates-09-10-2026",
+      "domain": "apnews.com",
+      "published": "2026-09-10",
+      "publishedAsGiven": "Sep 10, 2026",
+      "snippet": "Republicans gathered in Dallas for the closing day of the party's midterm convention that aimed to highlight President Donald Trump's influence ..."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Pentagon says execution of Fort Hood shooter will be ...",
+      "url": "https://apnews.com/live/trump-midterm-elections-news-updates-10-08-2026",
+      "domain": "apnews.com",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "The Roots of Liberal Condescension The ...",
+      "url": "https://www.nationalreview.com/wp-content/uploads/2016/09/20161010-2.pdf",
+      "domain": "nationalreview.com",
+      "published": "2016-10-10",
+      "publishedAsGiven": "Oct 10, 2016",
+      "snippet": "That one estate distribution to a DonorsTrust bequest account now provides posthumous support to more than a dozen organizations."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Dopesick",
+      "url": "https://www.nationalreview.com/wp-content/uploads/2016/02/20160229-1.pdf",
+      "domain": "nationalreview.com",
+      "published": "2016-02-29",
+      "publishedAsGiven": "Feb 29, 2016",
+      "snippet": "the delusion that the federal government can drive down health-care costs by engaging in party-to-party negotiations with pharmaceutical ..."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "kevin d. williamson",
+      "url": "https://www.nationalreview.com/wp-content/uploads/2013/06/20120625_0-3.pdf",
+      "domain": "nationalreview.com",
+      "published": null,
+      "snippet": "ex cuse, the final product. recovery, deficits and debt, health-care reform, and climate change.” In other words, Dem ocrats use hardball politics, but they ..."
+    }
+  ],
+  "returned": 23,
+  "dropped": {
+    "fact-checker": 0,
+    "fact-check-words": 0,
+    "after-said": 3,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 9
+  },
+  "linkDatedKept": 2,
+  "searchedAt": "2026-10-27T03:23:01.634Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Republican seeking to implicate Abdul El-Sayed over 9/11 ...",
+      "url": "https://www.theguardian.com/us-news/2026/sep/10/mike-rogers-911-first-responders-votes-abdul-el-sayed",
+      "domain": "theguardian.com",
+      "snippet": "Rogers has twice voted against healthcare and other benefits for 9/11 first responders and survivors, congressional records show. Missing: nine | Show results with:",
+      "published": null,
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "The Observer (UK)",
+        "page": "https://mediabiasfactcheck.com/the-observer/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Michigan Senate candidates battle over their records on 9 ...",
+      "url": "https://www.cbsnews.com/news/michigan-senate-candidates-25-years-9-11-el-sayed-rogers/",
+      "domain": "cbsnews.com",
+      "snippet": "The candidates in Michigan's closely watched U.S. Senate race, Democrat Abdul El-Sayed and Republican Mike Rogers, have exchanged criticism ...",
+      "published": "2026-09-11",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "CBS News",
+        "page": "https://mediabiasfactcheck.com/cbs-news/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Trump gives speech at GOP midterm convention",
+      "url": "https://apnews.com/live/trump-gop-midterm-convention-news-updates-09-10-2026",
+      "domain": "apnews.com",
+      "snippet": "Republicans gathered in Dallas for the closing day of the party's midterm convention that aimed to highlight President Donald Trump's influence ...",
+      "published": "2026-09-10",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Associated Press",
+        "page": "https://mediabiasfactcheck.com/associated-press/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "The Roots of Liberal Condescension The ...",
+      "url": "https://www.nationalreview.com/wp-content/uploads/2016/09/20161010-2.pdf",
+      "domain": "nationalreview.com",
+      "snippet": "That one estate distribution to a DonorsTrust bequest account now provides posthumous support to more than a dozen organizations.",
+      "published": "2016-10-10",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "R",
+        "reliability": "high",
+        "name": "National Review",
+        "page": "https://mediabiasfactcheck.com/national-review/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Dopesick",
+      "url": "https://www.nationalreview.com/wp-content/uploads/2016/02/20160229-1.pdf",
+      "domain": "nationalreview.com",
+      "snippet": "the delusion that the federal government can drive down health-care costs by engaging in party-to-party negotiations with pharmaceutical ...",
+      "published": "2016-02-29",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "R",
+        "reliability": "high",
+        "name": "National Review",
+        "page": "https://mediabiasfactcheck.com/national-review/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

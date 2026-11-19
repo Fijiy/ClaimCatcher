@@ -1,0 +1,248 @@
+{
+  "frozenAt": "2026-10-27T03:20:33.339Z",
+  "refilteredAt": "2026-10-27T03:36:52.587Z",
+  "id": "pf/jd-vance/maine-fentanyl-drug-overdoses-decline-border",
+  "said": "2026-08-24",
+  "queries": {
+    "fact": "Drug overdoses decreased in Maine because the Trump administration sealed the border.",
+    "claim": "Drug overdoses decreased in Maine because the Trump administration sealed the border. JD Vance"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2416.4239999998827,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1910.8370420001447,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Fact-check: Did drug overdose deaths decrease because ...",
+      "url": "https://www.wral.com/news/state/fact-check-drug-overdose-deaths-trump-border-september-3/",
+      "domain": "wral.com",
+      "published": "2026-09-03",
+      "publishedAsGiven": "Sep 3, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Maine drug overdoses are down. Is Vance right ...",
+      "url": "https://politifact.com/factchecks/2026/aug/26/jd-vance/maine-fentanyl-drug-overdoses-decline-border/",
+      "domain": "politifact.com",
+      "published": "2026-08-26",
+      "publishedAsGiven": "Aug 26, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Vance Links Border Enforcement to Decline in Maine Overdoses",
+      "url": "https://www.youtube.com/shorts/JStMuaWUrvE",
+      "domain": "youtube.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Vice President JD Vance said the Trump administration's ...",
+      "url": "https://www.facebook.com/houstonchronicle/posts/vice-president-jd-vance-said-the-trump-administrations-border-strategy-kept-drug/1511082341035899/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Vice President JD Vance spoke at a manufacturing facility in ...",
+      "url": "https://www.facebook.com/KMTRNews/posts/vice-president-jd-vance-spoke-at-a-manufacturing-facility-in-brewer-maine-on-mon/1668267348642959/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Did Trump's border policies cause Maine drug overdose ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-trumps-border-policies-cause-maine-drug-overdose-deaths-to-decline/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-08-29",
+      "publishedAsGiven": "Aug 29, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Promises made, promises kept.",
+      "url": "https://www.instagram.com/p/Dej7IFcIOaD/",
+      "domain": "instagram.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Vice President JD Vance spoke about reducing the cost of ...",
+      "url": "https://www.facebook.com/TND/posts/vice-president-jd-vance-spoke-about-reducing-the-cost-of-housing-and-ending-viol/1616605380504047/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Vice President JD Vance said the Trump administration's ...",
+      "url": "https://www.threads.com/@houstonchron/post/Dcs7lzUIAyw/vice-president-jd-vance-said-the-trump-administrations-border-strategy-kept/",
+      "domain": "threads.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Securing Maine's Border – AFPI - America First Policy Institute",
+      "url": "https://americafirstpolicy.com/issues/securing-maines-border/",
+      "domain": "americafirstpolicy.com",
+      "published": "2026-05-01",
+      "publishedAsGiven": "May 1, 2026",
+      "snippet": "Despite the attention on America's southwest border with Mexico, our northern border saw increased drug trafficking and illegal crossings during ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Fact-check: Did drug overdose deaths decrease because ...",
+      "url": "https://www.wral.com/news/state/fact-check-drug-overdose-deaths-trump-border-september-3/",
+      "domain": "wral.com",
+      "published": "2026-09-03",
+      "publishedAsGiven": "Sep 3, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Maine drug overdoses are down. Is Vance right ...",
+      "url": "https://politifact.com/factchecks/2026/aug/26/jd-vance/maine-fentanyl-drug-overdoses-decline-border/",
+      "domain": "politifact.com",
+      "published": "2026-08-26",
+      "publishedAsGiven": "Aug 26, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Vance Links Border Enforcement to Decline in Maine Overdoses",
+      "url": "https://www.youtube.com/shorts/JStMuaWUrvE",
+      "domain": "youtube.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Vice President JD Vance said the Trump administration's ...",
+      "url": "https://www.facebook.com/houstonchronicle/posts/vice-president-jd-vance-said-the-trump-administrations-border-strategy-kept-drug/1511082341035899/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "WMTW TV on X: \"Maine drug overdoses are down. Is Vance right ...",
+      "url": "https://x.com/WMTWTV/status/2092835783719735774",
+      "domain": "x.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Vice President JD Vance spoke at a manufacturing facility in ...",
+      "url": "https://www.facebook.com/KMTRNews/posts/vice-president-jd-vance-spoke-at-a-manufacturing-facility-in-brewer-maine-on-mon/1668267348642959/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Vice President JD Vance said the Trump administration's ...",
+      "url": "https://www.threads.com/@houstonchron/post/Dct5kthlPmx/vice-president-jd-vance-said-the-trump-administrations-border-strategy-kept/",
+      "domain": "threads.com",
+      "published": "2026-08-31",
+      "publishedAsGiven": "Aug 31, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Did Trump's border policies cause Maine drug overdose ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-trumps-border-policies-cause-maine-drug-overdose-deaths-to-decline/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-08-29",
+      "publishedAsGiven": "Aug 29, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "J.D. Vance",
+      "url": "https://www.wral.com/archive/21525865/",
+      "domain": "wral.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Promises made, promises kept.",
+      "url": "https://www.instagram.com/p/Dej7IFcIOaD/",
+      "domain": "instagram.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 7,
+    "after-said": 4,
+    "maybe-after-said": 5,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:20:29.011Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Securing Maine's Border – AFPI - America First Policy Institute",
+      "url": "https://americafirstpolicy.com/issues/securing-maines-border/",
+      "domain": "americafirstpolicy.com",
+      "snippet": "Despite the attention on America's southwest border with Mexico, our northern border saw increased drug trafficking and illegal crossings during ...",
+      "published": "2026-05-01",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

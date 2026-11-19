@@ -1,0 +1,263 @@
+{
+  "frozenAt": "2026-10-27T03:19:51.619Z",
+  "refilteredAt": "2026-10-27T03:36:41.621Z",
+  "id": "pf/zach-lahn/rob-sand-7500-tax-increase-iowa-governor",
+  "said": "2026-08-21",
+  "queries": {
+    "fact": "Iowa gubernatorial candidate Rob Sand wants to raise (Iowans’) taxes by $7,500 per year.",
+    "claim": "Iowa gubernatorial candidate Rob Sand wants to raise (Iowans’) taxes by $7,500 per year. Zach Lahn"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1989.845042000059,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 3811.831290999893,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Zach Lahn says Rob Sand wants to raise Iowans' taxes by ...",
+      "url": "https://www.kcci.com/article/iowa-governor-fact-checks-zach-lahn-rob-sand-7500-tax-increase/74080278",
+      "domain": "kcci.com",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "FACT CHECK: Is Rob Sand a billionaire? Will he raise taxes?",
+      "url": "https://www.kcrg.com/2026/08/26/fact-check-is-rob-sand-billionaire-will-he-raise-taxes/",
+      "domain": "kcrg.com",
+      "published": "2026-08-26",
+      "publishedAsGiven": "Aug 26, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Rob Sand Would Raise Taxes $7500 A Year For Iowans",
+      "url": "https://www.facebook.com/IowaGOP/videos/rob-sand-for-iowa-is-a-liberal-billionaire-who-wants-to-raise-your-taxes-iowans-/2590102801438654/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "In governor's race, Zach Lahn says Rob Sand wants to ...",
+      "url": "https://politifact.com/factchecks/2026/sep/17/zach-lahn/rob-sand-7500-tax-increase-iowa-governor/",
+      "domain": "politifact.com",
+      "published": "2026-09-17",
+      "publishedAsGiven": "Sep 17, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "No, I do not support raising taxes $7500. That's just my ...",
+      "url": "https://www.facebook.com/robsandia/posts/no-i-do-not-support-raising-taxes-7500-thats-just-my-opponent-lying-to-your-face/1629716692278966/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "KCRG FACT CHECK: Zach Lahn's Attack Ad “Lacks Details”",
+      "url": "https://robsand.com/news/kcrg-fact-check-zach-lahns-attack-ad-lacks-details",
+      "domain": "robsand.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "Aug 27, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Iowa politics: KCCI's coverage of Rob Sand's campaign for ...",
+      "url": "https://www.kcci.com/article/iowa-politics-kcci-coverage-of-rob-sand-campaign-for-governor/74138014",
+      "domain": "kcci.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "1 day ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "FACT CHECK: More Lies From Zach Lahn",
+      "url": "https://robsand.com/news/fact-check-more-lies-from-zach-lahn",
+      "domain": "robsand.com",
+      "published": "2026-09-30",
+      "publishedAsGiven": "Sep 30, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Zach Lahn says Rob Sand “wants to raise your taxes ...",
+      "url": "https://www.facebook.com/politifact/posts/zach-lahn-says-rob-sand-wants-to-raise-your-taxes-by-7500-per-year-sand-says-he-/1554311650063266/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Rob Sand and Zach Lahn Outline Tax Agendas",
+      "url": "https://itrfoundation.org/rob-sand-and-zach-lahn-outline-tax-agendas/",
+      "domain": "itrfoundation.org",
+      "published": "2026-07-10",
+      "publishedAsGiven": "Jul 10, 2026",
+      "snippet": "Rob Sand discussed legalizing and taxing recreational cannabis and ending the sales tax exemption for data center equipment to generate ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "In governor's race, Zach Lahn says Rob Sand wants to raise Iowans ...",
+      "url": "https://www.kcci.com/article/iowa-governor-fact-checks-zach-lahn-rob-sand-7500-tax-increase/74080278",
+      "domain": "kcci.com",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Rob Sand Would Raise Taxes $7500 A Year For Iowans | Iowa GOP",
+      "url": "https://www.facebook.com/IowaGOP/videos/rob-sand-for-iowa-is-a-liberal-billionaire-who-wants-to-raise-your-taxes-iowans-/2590102801438654/",
+      "domain": "facebook.com",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "In governor's race, Zach Lahn says Rob Sand wants to raise Iowans ...",
+      "url": "https://politifact.com/factchecks/2026/sep/17/zach-lahn/rob-sand-7500-tax-increase-iowa-governor/",
+      "domain": "politifact.com",
+      "published": "2026-09-17",
+      "publishedAsGiven": "Sep 17, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "KCRG FACT CHECK: Zach Lahn's Attack Ad “Lacks Details”",
+      "url": "https://robsand.com/news/kcrg-fact-check-zach-lahns-attack-ad-lacks-details",
+      "domain": "robsand.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "Aug 27, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "FACT CHECK: Is Rob Sand a billionaire? Will he raise taxes? - KCRG",
+      "url": "https://www.kcrg.com/2026/08/26/fact-check-is-rob-sand-billionaire-will-he-raise-taxes/",
+      "domain": "kcrg.com",
+      "published": "2026-08-26",
+      "publishedAsGiven": "Aug 26, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Zach Lahn 7500 tax claim fact check by uiowa student - Facebook",
+      "url": "https://www.facebook.com/UISJMC/posts/sjmc-students-arent-just-learning-the-skills-needed-to-navigate-their-respective/1813401503557553/",
+      "domain": "facebook.com",
+      "published": "2026-10-10",
+      "publishedAsGiven": "Oct 10, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Rob Sand responds to Zach Lahn's gas tax proposal - C-SPAN",
+      "url": "https://www.c-span.org/clip/campaign-2026/rob-sand-responds-to-zach-lahns-gas-tax-proposal/5206762",
+      "domain": "c-span.org",
+      "published": "2026-09-16",
+      "publishedAsGiven": "Sep 16, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Rob Sand and Zach Lahn Outline Tax Agendas - - ITR Foundation",
+      "url": "https://itrfoundation.org/rob-sand-and-zach-lahn-outline-tax-agendas/",
+      "domain": "itrfoundation.org",
+      "published": "2026-07-10",
+      "publishedAsGiven": "Jul 10, 2026",
+      "snippet": "Jul 10, 2026 · Lahn went on to make clear that he is not proposing increases to any of Iowa's major taxes, “No sales tax, no income tax, no property tax raises ... Missing: per | Show results with: per"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Zach Lahn for Governor: State of the Economy 2026 Live Now",
+      "url": "https://www.facebook.com/ZachLahn/videos/live-now-%EF%B8%8Frob-sand-claims-he-wants-to-make-iowa-affordable-yet-he-opposed-every-/1043318988766051/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "Oct 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Lahn Drops New Ad \"Billionaire\" - The Republican Party of Iowa",
+      "url": "https://iowagop.org/lahn-drops-new-ad-billionaire/",
+      "domain": "iowagop.org",
+      "published": "2026-08-21",
+      "publishedAsGiven": "Aug 21, 2026",
+      "snippet": "Aug 21, 2026 · But Rob Sand wants to raise your taxes by $7,500 a year. You can look it up. He is a billionaire. He doesn't get what regular folks go through."
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 9,
+    "after-said": 6,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:19:45.817Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Rob Sand and Zach Lahn Outline Tax Agendas",
+      "url": "https://itrfoundation.org/rob-sand-and-zach-lahn-outline-tax-agendas/",
+      "domain": "itrfoundation.org",
+      "snippet": "Rob Sand discussed legalizing and taxing recreational cannabis and ending the sales tax exemption for data center equipment to generate ...",
+      "published": "2026-07-10",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "Lahn Drops New Ad \"Billionaire\" - The Republican Party of Iowa",
+      "url": "https://iowagop.org/lahn-drops-new-ad-billionaire/",
+      "domain": "iowagop.org",
+      "snippet": "Aug 21, 2026 · But Rob Sand wants to raise your taxes by $7,500 a year. You can look it up. He is a billionaire. He doesn't get what regular folks go through.",
+      "published": "2026-08-21",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    }
+  ]
+}

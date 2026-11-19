@@ -1,0 +1,106 @@
+{
+  "case_id": "johnson-speaker-acceptance-2023-prices-debt#5",
+  "queries": {
+    "A": "In the time that it is going to take me to deliver this speech, it will go up another $20 million in debt. Johnson",
+    "B": "US national debt increase per minute per day 2023"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 8,
+      "title": "Ron Johnson: “We're $37 trillion in debt.” | PolitiQuote",
+      "url": "https://politiquote.gigafact.org/quotes/ron-johnson-e6fae9/were-37-trillion-in-debt-f8706f/",
+      "domain": "politiquote.gigafact.org",
+      "published": "2025-05-08",
+      "snippet": "“ So again, unfortunately, we have big spenders in our party. And listen, I ran in 2010 because we were Mortgage Our Children's Future. We were $14 trillion in debt. Now We're $37 trillion in debt. And again, what we're talking about is adding another $20 trillion to that debt. Even if we pass a big beautiful bill again, and let me add as I do the math, this one big beautiful bill would actually increase the deficit. ” (05:44–05:47)",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 9,
+      "title": "The Debt This Congress Leaves Behind, by Terence P. Jeffrey",
+      "url": "https://www.creators.com/read/terence-jeffrey/12/24/the-debt-this-congress-leaves-behind",
+      "domain": "creators.com",
+      "published": "2024-12-25",
+      "snippet": "The day he gave this speech, the exact federal debt, according to the U.S. Treasury, was $21,062,482,347,576.05. Last Thursday, when Johnson was negotiating a deal to keep the government funded into March, the debt was $36,167,124,467,492.90.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "National Debt | Accelerating Crisis and Bitcoin | Onramp",
+      "url": "https://onrampbitcoin.com/national-debt-accelerating/",
+      "domain": "onrampbitcoin.com",
+      "published": "2023-10-23",
+      "snippet": "To put that in context, if the pace of National Debt expansion that we’ve seen since the debt ceiling was lifted in Q2 continues… the US National Debt will increase $6.5T in one year. That’s a 20% increase in a single year.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 6,
+      "title": "National Debt Passes New Grim Milestone: News Article - Independent Institute",
+      "url": "https://blog.independent.org/?p=58740",
+      "domain": "blog.independent.org",
+      "published": "2024-12-06",
+      "snippet": "This data shows how extraordinary the period containing the coronavirus pandemic was. However, the important thing to recognize is that the pandemic surge in debt ended. The daily national debt growth rate went back to pre-pandemic levels in 2022. By the time President Biden signed legislation officially ending the national emergency to respond to the pandemic on April 11, 2023, the pandemic had been effectively over for months.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://politifact.com/?p=288374",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "A",
+      "url": "https://www.politifact.com/factchecks/2023/oct/26/mike-johnson/fact-checking-new-house-speaker-mike-johnson-on-th",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "A",
+      "url": "https://api.politifact.com/factchecks/2023/oct/26/mike-johnson/fact-checking-new-house-speaker-mike-johnson-on-th",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "A",
+      "url": "https://www.americanagnetwork.com/2023/10/27/new-speaker-johnson-we-have-to-rein-in-spending/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://voz.us/en/politics/231026/8156/the-challenges-of-the-new-speaker-a-broken-gop-government-financing-inflation-the-border-israel.html",
+      "reason": "post_event: published after the event date and discusses the event"
+    },
+    {
+      "q": "A",
+      "url": "https://www.americanthinker.com/articles/2023/10/johnson_as_speaker_changes_everything.html",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://justthenews.com/government/congress/johnson-begins-house-speakership-focus-debt-inflation-and-border-catastrophe",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "B",
+      "url": "https://www.jec.senate.gov/public/_cache/files/0c7e0c1d-7e8a-425a-b5ee-a2929e41fea3/20231226dailydebtmonitor.pdf",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "B",
+      "url": "https://jec.senate.gov/public/vendor/_accounts/JEC-R/debt/mdu/Monthly%20Debt%20Update%20August%202024.pdf",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "B",
+      "url": "https://onrampbitcoin.com/?p=4703",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch -- URL resolves to a site homepage; article text not retrievable"
+    },
+    {
+      "q": "B",
+      "url": "https://mahometdaily.com/?p=339325",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    }
+  ]
+}

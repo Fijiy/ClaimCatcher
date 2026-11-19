@@ -1,0 +1,393 @@
+{
+  "frozenAt": "2026-10-27T03:27:40.646Z",
+  "refilteredAt": "2026-10-27T03:38:39.962Z",
+  "id": "pf/roger-marshall/adam-hamilton-kansas-beef-climate-change-cows",
+  "said": "2026-10-16",
+  "queries": {
+    "fact": "Kansas U.S. Senate candidate Adam Hamilton wants to shut down the beef industry.",
+    "claim": "Kansas U.S. Senate candidate Adam Hamilton wants to shut down the beef industry. Roger Marshall"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1682.1352079999633,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1660.819000000134,
+      "results": 8
+    },
+    {
+      "query": "balance",
+      "ms": 129.8773340000189,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Adam Hamilton's sermons urged repentance over beef ...",
+      "url": "https://www.foxnews.com/politics/woke-megachurch-pastor-dem-nominee-called-congregation-repent-driving-eating-beef",
+      "domain": "foxnews.com",
+      "published": "2026-09-28",
+      "publishedAsGiven": "Sep 28, 2026",
+      "snippet": "\"In a state with more cattle than people, Hamilton saying that Kansans need repent for eating too much beef and flip flopping on the Farm Bill ..."
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Sen. Roger Marshall, R-Kansas, said Democrat Adam ...",
+      "url": "https://www.facebook.com/politifact/posts/sen-roger-marshall-r-kansas-said-democrat-adam-hamilton-wants-to-shut-down-the-b/1588044133356684/",
+      "domain": "facebook.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Kansas Senate candidate Adam Hamilton defends his calls to ...",
+      "url": "https://www.youtube.com/shorts/3J-OyvhyGbI",
+      "domain": "youtube.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "snippet": "Kansas Senate candidate Adam Hamilton defends his calls to eat less beef. How Democrats can win over Christians, according to Adam Hamilton."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Adam Hamilton did not call to shut down beef industry",
+      "url": "https://ae.headtopics.com/news/adam-hamilton-did-not-call-to-shut-down-beef-industry-89022849",
+      "domain": "ae.headtopics.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Does Adam Hamilton want to shut down the beef industry?",
+      "url": "https://mediabiasfactcheck.com/fact-check-does-adam-hamilton-want-to-shut-down-the-beef-industry/",
+      "domain": "mediabiasfactcheck.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Kansas Sen. Roger Marshall wrong that Democrat Adam ...",
+      "url": "https://politifact.com/factchecks/2026/oct/20/roger-marshall/adam-hamilton-kansas-beef-climate-change-cows/",
+      "domain": "politifact.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Democrat Adam Hamilton says: Repent for eating beef. ...",
+      "url": "https://www.facebook.com/DrRogerMarshall/posts/democrat-adam-hamilton-saysrepent-for-eating-beefrepent-for-being-whiterepent-fo/1698715594948195/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "snippet": "While Hamilton's 2020 climate change lecture did discuss the environmental impact of cattle and greenhouse gases, he never called to ban beef."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "PolitiFact Rates Marshall Claim on Beef Industry False",
+      "url": "https://wisevoter.com/world/us/ks/2026/10/20/politi-fact-rates-marshall-beef-claim",
+      "domain": "wisevoter.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "7 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Kansas Senate candidates tangle over Trump, agriculture ...",
+      "url": "https://kansaspublicradio.org/statehouse-news/2026-09-13/kansas-senate-candidates-tangle-over-trump-agriculture-and-immigration-in-fair-debate",
+      "domain": "kansaspublicradio.org",
+      "published": "2026-09-13",
+      "publishedAsGiven": "Sep 13, 2026",
+      "snippet": "In front of a vocal Kansas State Fair audience, Democratic Leawood pastor Adam Hamilton attacked Republican Sen. Roger Marshall on agriculture ..."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "PolitiFact",
+      "url": "https://x.com/PolitiFact/status/2112711466927161378",
+      "domain": "x.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Kansas Sen. Roger Marshall wrong that Democrat Adam ...",
+      "url": "https://politifact.com/factchecks/2026/oct/20/roger-marshall/adam-hamilton-kansas-beef-climate-change-cows/",
+      "domain": "politifact.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Sen. Roger Marshall, R-Kansas, said Democrat Adam ...",
+      "url": "https://www.facebook.com/politifact/posts/sen-roger-marshall-r-kansas-said-democrat-adam-hamilton-wants-to-shut-down-the-b/1588044133356684/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Adam Hamilton did not call to shut down beef industry",
+      "url": "https://us.headtopics.com/news/adam-hamilton-did-not-call-to-shut-down-beef-industry-89022849",
+      "domain": "us.headtopics.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Woke megachurch pastor trying to unseat Kansas GOP ...",
+      "url": "https://nypost.com/2026/09/28/us-news/woke-megachurch-pastor-trying-to-unseat-kansas-gop-senator-called-on-congregation-to-repent-for-driving-eating-beef/",
+      "domain": "nypost.com",
+      "published": "2026-09-28",
+      "publishedAsGiven": "Sep 28, 2026",
+      "snippet": "Sep 28, 2026 — Kansas Dem Senate nominee Adam Hamilton is under fire from GOP Sen. Roger Marshall for a past sermon urging people to repent for eating ..."
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "\"Roger Marshall has voted 14 times to stay in the war. We' ...",
+      "url": "https://x.com/Hamilton4Kansas/status/2113061224191791376",
+      "domain": "x.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Kansas Senate candidates tangle over Trump, agriculture ...",
+      "url": "https://kansaspublicradio.org/statehouse-news/2026-09-13/kansas-senate-candidates-tangle-over-trump-agriculture-and-immigration-in-fair-debate",
+      "domain": "kansaspublicradio.org",
+      "published": "2026-09-13",
+      "publishedAsGiven": "Sep 13, 2026",
+      "snippet": "Sep 13, 2026 — Adam Hamilton attacked Republican Sen. Roger Marshall on agriculture issues including immigration and beef imports."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "PolitiFact Rates Marshall Claim on Beef Industry False",
+      "url": "https://wisevoter.com/world/us/ks/2026/10/20/politi-fact-rates-marshall-beef-claim",
+      "domain": "wisevoter.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "7 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Does Adam Hamilton want to shut down the beef industry?",
+      "url": "https://mediabiasfactcheck.com/fact-check-does-adam-hamilton-want-to-shut-down-the-beef-industry/",
+      "domain": "mediabiasfactcheck.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Could disillusioned Kansas voters send their first Democrat ...",
+      "url": "https://www.reuters.com/world/us/could-disillusioned-kansas-voters-send-their-first-democrat-us-senate-94-years-2026-10-20/",
+      "domain": "reuters.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Disgruntled farmers may help flip Senate seat in Kansas",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6002946/disgruntled-farmers-may-help-flip-senate-seat-in-kansas",
+      "domain": "npr.org",
+      "published": "2026-10-18",
+      "publishedAsGiven": "Oct 18, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Senate Candidates Spar in Kansas, a Surprise ...",
+      "url": "https://www.nytimes.com/live/2026/10/21/us/kansas-senate-debate-election",
+      "domain": "nytimes.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Why Kansas Has Suddenly Moved to Center of the Fight for ...",
+      "url": "https://www.nytimes.com/2026/10/04/us/politics/kansas-senate-race-hamilton-marshall.html",
+      "domain": "nytimes.com",
+      "published": "2026-10-04",
+      "publishedAsGiven": "Oct 4, 2026",
+      "snippet": "The president, as part of his trade wars, has allowed a flood of ground beef imports into the United States with lower tariffs, squeezing Kansas ..."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Trump warns Kansans that US will 'burn' like France if ...",
+      "url": "https://www.reuters.com/world/us/trump-warns-kansans-that-us-will-burn-like-france-if-democrats-win-2026-10-20/",
+      "domain": "reuters.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "7 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "The Kansas Senate race is looking like a toss up. Yes, really.",
+      "url": "https://www.npr.org/transcripts/nx-s1-6007796",
+      "domain": "npr.org",
+      "published": "2026-10-19",
+      "publishedAsGiven": "8 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Trump rallies in Kansas to support Marshall in tight Senate ...",
+      "url": "https://www.npr.org/g-s1-s103-33504-highlight",
+      "domain": "npr.org",
+      "published": "2026-10-19",
+      "publishedAsGiven": "8 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "In Deep Red Kansas, a Trump Loyalist Fights to Defend ...",
+      "url": "https://www.nytimes.com/2026/10/25/us/politics/roger-marshall-kansas-senate.html",
+      "domain": "nytimes.com",
+      "published": "2026-10-25",
+      "publishedAsGiven": "2 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "Elections 2026",
+      "url": "https://www.npr.org/sections/elections/",
+      "domain": "npr.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "Bipartisan majority of Americans blame Trump policies for ...",
+      "url": "https://www.reuters.com/world/us/bipartisan-majority-americans-blame-trump-policies-rising-costs-reutersipsos-2026-10-09/",
+      "domain": "reuters.com",
+      "published": "2026-10-09",
+      "publishedAsGiven": "Oct 9, 2026",
+      "snippet": "Some 78% of Americans blame President Donald Trump's policies for rising prices that are outpacing their earnings, according to a ..."
+    }
+  ],
+  "returned": 28,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 7,
+    "after-said": 8,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 3
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:27:34.932Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Why Kansas Has Suddenly Moved to Center of the Fight for ...",
+      "url": "https://www.nytimes.com/2026/10/04/us/politics/kansas-senate-race-hamilton-marshall.html",
+      "domain": "nytimes.com",
+      "snippet": "The president, as part of his trade wars, has allowed a flood of ground beef imports into the United States with lower tariffs, squeezing Kansas ...",
+      "published": "2026-10-04",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "New York Times",
+        "page": "https://mediabiasfactcheck.com/new-york-times/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Bipartisan majority of Americans blame Trump policies for ...",
+      "url": "https://www.reuters.com/world/us/bipartisan-majority-americans-blame-trump-policies-rising-costs-reutersipsos-2026-10-09/",
+      "domain": "reuters.com",
+      "snippet": "Some 78% of Americans blame President Donald Trump's policies for rising prices that are outpacing their earnings, according to a ...",
+      "published": "2026-10-09",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Adam Hamilton's sermons urged repentance over beef ...",
+      "url": "https://www.foxnews.com/politics/woke-megachurch-pastor-dem-nominee-called-congregation-repent-driving-eating-beef",
+      "domain": "foxnews.com",
+      "snippet": "\"In a state with more cattle than people, Hamilton saying that Kansans need repent for eating too much beef and flip flopping on the Farm Bill ...",
+      "published": "2026-09-28",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "R",
+        "reliability": "mixed",
+        "name": "Fox News",
+        "page": "https://mediabiasfactcheck.com/fox-news/"
+      },
+      "weight": "reduced",
+      "n": 3
+    },
+    {
+      "title": "Woke megachurch pastor trying to unseat Kansas GOP ...",
+      "url": "https://nypost.com/2026/09/28/us-news/woke-megachurch-pastor-trying-to-unseat-kansas-gop-senator-called-on-congregation-to-repent-for-driving-eating-beef/",
+      "domain": "nypost.com",
+      "snippet": "Sep 28, 2026 — Kansas Dem Senate nominee Adam Hamilton is under fire from GOP Sen. Roger Marshall for a past sermon urging people to repent for eating ...",
+      "published": "2026-09-28",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "mixed",
+        "name": "New York Post",
+        "page": "https://mediabiasfactcheck.com/new-york-post/"
+      },
+      "weight": "reduced",
+      "n": 4
+    },
+    {
+      "title": "Kansas Senate candidates tangle over Trump, agriculture ...",
+      "url": "https://kansaspublicradio.org/statehouse-news/2026-09-13/kansas-senate-candidates-tangle-over-trump-agriculture-and-immigration-in-fair-debate",
+      "domain": "kansaspublicradio.org",
+      "snippet": "In front of a vocal Kansas State Fair audience, Democratic Leawood pastor Adam Hamilton attacked Republican Sen. Roger Marshall on agriculture ...",
+      "published": "2026-09-13",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 5
+    }
+  ]
+}

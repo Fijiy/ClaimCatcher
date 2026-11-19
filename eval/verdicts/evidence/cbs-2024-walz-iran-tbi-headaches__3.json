@@ -1,0 +1,106 @@
+{
+  "case_id": "cbs-2024-walz-iran-tbi-headaches#3",
+  "queries": {
+    "A": "When Iranian missiles did fall near U.S. troops and they received traumatic brain injuries, Donald Trump wrote it off as headaches. Walz",
+    "B": "Al Asad air base Iranian missile attack January 2020 traumatic brain injuries headaches"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 7,
+      "title": "Trump describes traumatic brain injuries sustained by U.S. troops in Iraq as a ‘headache’ • Wisconsin Examiner",
+      "url": "https://wisconsinexaminer.com/?p=35800",
+      "domain": "wisconsinexaminer.com",
+      "published": "2024-10-02",
+      "snippet": "WASHINGTON — Former President Donald Trump said Tuesday that U.S. troops who suffered traumatic brain injuries after Iranian rocket fire in Iraq in 2020 only experienced a “headache,” dismissing the experiences of dozens of American soldiers who were later awarded the Purple Heart.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 8,
+      "title": "Trump describes traumatic brain injuries sustained by U.S. troops in Iraq as a ‘headache’ • Florida Phoenix",
+      "url": "https://floridaphoenix.com/?p=225634",
+      "domain": "floridaphoenix.com",
+      "published": "2024-10-02",
+      "snippet": "WASHINGTON — Former President Donald Trump said Tuesday that U.S. troops who suffered traumatic brain injuries after Iranian rocket fire in Iraq in 2020 only experienced a “headache,” dismissing the experiences of dozens of American soldiers who were later awarded the Purple Heart.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 1,
+      "title": "Pentagon says 34 troops suffered brain injury in Iran strike",
+      "url": "https://www.bangordailynews.com/2020/01/24/news/pentagon-says-34-troops-suffered-brain-injury-in-iran-strike/",
+      "domain": "bangordailynews.com",
+      "published": "2020-01-24",
+      "snippet": "WASHINGTON — The Pentagon disclosed on Friday that 34 U.S. service members suffered traumatic brain injury in Iran’s missile strike this month on an Iraqi air base, and although half have returned to work, the casualty total belies President Donald Trump’s initial claim that no Americans were harmed. He later characterized the injuries as “not very serious.”",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "34 US troops suffered traumatic brain injuries after Iran strike",
+      "url": "https://www.aljazeera.com/news/2020/1/24/34-us-troops-suffered-traumatic-brain-injuries-after-iran-strike",
+      "domain": "aljazeera.com",
+      "published": "2020-01-24",
+      "snippet": "The Pentagon said on Friday that 34 United States service members had been diagnosed with traumatic brain injury following missile attacks by Iran on a base in Iraq earlier this month.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "Pentagon: 34 US troops had brain injuries from Iran’s strike",
+      "url": "https://digital-release.wwlp.com/news/pentagon-34-us-troops-had-brain-injuries-from-irans-strike/amp",
+      "domain": "digital-release.wwlp.com",
+      "published": "2020-01-24",
+      "snippet": "WASHINGTON (AP) — The Pentagon said Friday that 34 U.S. troops were diagnosed with traumatic brain injuries suffered in this month’s Iranian missile strike on an Iraqi air base, and that half of the troops have returned to their military duties.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 4,
+      "title": "Pentagon now reports 109 troops suffered brain injuries in Iranian missile strike",
+      "url": "https://www.stripes.com/theaters/middle_east/2020-02-10/Pentagon-now-reports-109-troops-suffered-brain-injuries-in-Iranian-missile-strike-1469583.html",
+      "domain": "stripes.com",
+      "published": "2020-02-10",
+      "snippet": "WASHINGTON — An additional 45 service members have been diagnosed with traumatic brain injuries stemming from the Iranian missile attack Jan. 8 on al Asad Air Base in Iraq, the Pentagon announced.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://www.armytimes.com/news/pentagon-congress/2024/10/02/trump-downplays-troop-brain-injuries-from-iran-attack-as-headaches/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://ny1.com/nyc/all-boroughs/politics/2024/10/02/donald-trump-u-s--troops-traumatic-brain-injuries-headaches-iran-missile-strike",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://salon.com/2024/10/01/walz-rips-suggestion-that-troops-hurt-in-iran-suffered-headaches",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://militarytimes.com/news/pentagon-congress/2024/10/02/trump-downplays-troop-brain-injuries-from-iran-attack-as-headaches/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://365.military.com/daily-news/2024/10/02/trump-reignites-controversy-over-calling-troops-brain-injuries-headaches.html",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "A",
+      "url": "https://citydesk.org/?p=1666696",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://newjerseymonitor.com/?p=15150",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    }
+  ]
+}

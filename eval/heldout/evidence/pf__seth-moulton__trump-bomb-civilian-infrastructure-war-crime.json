@@ -1,0 +1,386 @@
+{
+  "frozenAt": "2026-10-27T03:12:45.666Z",
+  "refilteredAt": "2026-10-27T03:34:55.406Z",
+  "id": "pf/seth-moulton/trump-bomb-civilian-infrastructure-war-crime",
+  "said": "2026-03-24",
+  "queries": {
+    "fact": "Bombing civilian power infrastructure is a war crime.",
+    "claim": "Bombing civilian power infrastructure is a war crime. Seth Moulton"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2209.0511669999687,
+      "results": 7
+    },
+    {
+      "query": "claim",
+      "ms": 1942.5071659999667,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 248.76029099998414,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Is attacking Ukraine's power grid a war crime?",
+      "url": "https://www.bbc.co.uk/news/world-europe-63754808",
+      "domain": "bbc.co.uk",
+      "published": "2022-12-01",
+      "publishedAsGiven": "Dec 1, 2022",
+      "snippet": "Dec 1, 2022 — Western leaders say Russia's attacks on Ukrainian infrastructure are illegal, but what does the law say?"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Intentionally destroying the power, water or basic ...",
+      "url": "https://www.facebook.com/SenatorShaheen/posts/intentionally-destroying-the-power-water-or-basic-infrastructure-upon-which-tens/1519087272915100/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "A Fox News host made a sweeping claim about war crimes ...",
+      "url": "https://www.poynter.org/fact-checking/2026/jesse-watters-bombing-power-plants-war-crime/",
+      "domain": "poynter.org",
+      "published": "2026-04-09",
+      "publishedAsGiven": "Apr 9, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "War Crimes Rhetoric to Battlefield Reality: Slippery Slope ...",
+      "url": "https://www.justsecurity.org/135797/war-crimes-rhetoric-power-plants-iran/",
+      "domain": "justsecurity.org",
+      "published": "2026-04-06",
+      "publishedAsGiven": "Apr 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "What international law says on bombing bridges, power plants",
+      "url": "https://www.pbs.org/video/guest-dis-1775509458/",
+      "domain": "pbs.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "What exactly qualifies as a war crime when it comes ...",
+      "url": "https://www.quora.com/What-exactly-qualifies-as-a-war-crime-when-it-comes-to-targeting-civilian-infrastructure-during-conflicts",
+      "domain": "quora.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Bombing civilian power infrastructure — as President ...",
+      "url": "https://www.facebook.com/politifact/posts/bombing-civilian-power-infrastructure-as-president-donald-trump-has-threatened-t/1399565378871228/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Is it a war crime to bomb civilian infrastructure?",
+      "url": "https://www.wbaltv.com/article/is-it-a-war-crime-bomb-civilian-infrastructure-trump-iran/70944148",
+      "domain": "wbaltv.com",
+      "published": "2026-04-07",
+      "publishedAsGiven": "Apr 7, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Is it a war crime to bomb civilian infrastructure?",
+      "url": "https://politifact.com/factchecks/2026/apr/02/seth-moulton/trump-bomb-civilian-infrastructure-war-crime/",
+      "domain": "politifact.com",
+      "published": "2026-04-02",
+      "publishedAsGiven": "Apr 2, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Democratic Rep. Seth Moulton (Mass.) said President ...",
+      "url": "https://www.facebook.com/TheHill/posts/democratic-rep-seth-moulton-mass-said-president-trump-is-resorting-to-war-crimes/1306658771322541/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Seth Moulton had the chance to impeach Donald Trump. He ...",
+      "url": "https://www.facebook.com/EdMarkeyforMA/posts/seth-moulton-had-the-chance-to-impeach-donald-trump-he-refused-seth-moulton-had/1589164465914302/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "A Fox News host made a sweeping claim about war crimes ...",
+      "url": "https://www.poynter.org/fact-checking/2026/jesse-watters-bombing-power-plants-war-crime/",
+      "domain": "poynter.org",
+      "published": "2026-04-09",
+      "publishedAsGiven": "Apr 9, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Moulton Statement on Iran's Ballistic Missile Attack",
+      "url": "http://moulton.house.gov/news/press-releases/moulton-statement-irans-ballistic-missile-attack",
+      "domain": "moulton.house.gov",
+      "published": "2024-10-02",
+      "publishedAsGiven": "Oct 2, 2024",
+      "snippet": "WASHINGTON, D.C. — Today Congressman Moulton released the following statement in response to Iran's ballistic missile fire on Israel: ..."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "In a House Armed Services Committee hearing, Rep. Seth ...",
+      "url": "https://www.facebook.com/41NBC/posts/in-a-house-armed-services-committee-hearing-rep-seth-moulton-d-ma-argued-with-us/1542881450934653/",
+      "domain": "facebook.com",
+      "published": "2026-05-27",
+      "publishedAsGiven": "5 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "War Crimes: A Primer",
+      "url": "https://www.congress.gov/crs-product/LSB10709",
+      "domain": "congress.gov",
+      "published": "2024-02-02",
+      "publishedAsGiven": "Feb 2, 2024",
+      "snippet": "This Legal Sidebar addresses the sources and content of the law of war, also known as the law of armed conflict or international humanitarian ..."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Trump Revels in Threats to Commit War Crimes in Iran",
+      "url": "https://www.nytimes.com/2026/04/05/us/politics/trump-iran-war-crimes-truth-social.html",
+      "domain": "nytimes.com",
+      "published": "2026-04-05",
+      "publishedAsGiven": "Apr 5, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Is the US committing war crimes by targeting Iran's civilian ...",
+      "url": "https://www.theguardian.com/law/2026/apr/03/us-war-crimes-iran-civilian-infrastructure-international-law-school-strike",
+      "domain": "theguardian.com",
+      "published": "2026-04-03",
+      "publishedAsGiven": "Apr 3, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Explainer: When are attacks on civilian infrastructure war ...",
+      "url": "https://www.reuters.com/world/europe/when-are-attacks-civilian-infrastructure-war-crimes-2022-12-16/",
+      "domain": "reuters.com",
+      "published": "2022-12-16",
+      "publishedAsGiven": "Dec 16, 2022",
+      "snippet": "Russia's attacks on Ukraine's civilian infrastructure, including energy facilities, have been described as possible war crimes by the office ..."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "When do attacks on civilian installations amount to war ...",
+      "url": "https://www.reuters.com/world/middle-east/when-do-attacks-civilian-installations-amount-war-crimes-2026-03-31/",
+      "domain": "reuters.com",
+      "published": "2026-03-31",
+      "publishedAsGiven": "Mar 31, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Trump's threats to destroy Iran power plants raise war ...",
+      "url": "https://apnews.com/article/trump-iran-power-plants-civilian-war-crimes-88b8ca1bc8e5cc8adabaf6c34e93e597",
+      "domain": "apnews.com",
+      "published": "2026-04-06",
+      "publishedAsGiven": "Apr 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Trump's Iran threats could be war crimes, experts say",
+      "url": "https://www.usatoday.com/story/news/world/2026/04/06/trump-iran-threats-war-crimes/89483491007/",
+      "domain": "usatoday.com",
+      "published": "2026-04-06",
+      "publishedAsGiven": "Apr 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "If US bombs Iranian infrastructure, could it be a war crime? ' ...",
+      "url": "https://www.csmonitor.com/USA/Military/2026/0406/trump-rescue-iran-bomb-deadline",
+      "domain": "csmonitor.com",
+      "published": "2026-04-06",
+      "publishedAsGiven": "Apr 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "A Threat Isn't a War Crime",
+      "url": "https://www.wsj.com/opinion/a-threat-isnt-a-war-crime-c7a50dcf",
+      "domain": "wsj.com",
+      "published": "2026-04-15",
+      "publishedAsGiven": "Apr 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Power Infrastructure Can Be Lawfully Targeted in Certain ...",
+      "url": "https://www.wsj.com/livecoverage/iran-us-israel-war-updates-2026/card/power-infrastructure-can-be-lawfully-targeted-in-certain-circumstances-military-experts-say-wVSOxc7KGyVZcClHdiWu",
+      "domain": "wsj.com",
+      "published": "2026-03-22",
+      "publishedAsGiven": "Mar 22, 2026",
+      "snippet": "Under the Law of Armed Conflict, if striking power infrastructure makes a concrete contribution to a military operation and the potential harm ..."
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "Explainer: Ukraine: When do attacks on civilian ...",
+      "url": "https://www.reuters.com/world/europe/ukraine-when-do-attacks-civilian-installations-amount-war-crimes-2023-08-03/",
+      "domain": "reuters.com",
+      "published": "2023-08-03",
+      "publishedAsGiven": "Aug 3, 2023",
+      "snippet": "Civilian power infrastructure has long been considered a valid military objective as long as it also supports an enemy army's activities ..."
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "Russian strikes on Ukraine's energy grid raise legal ...",
+      "url": "https://apnews.com/article/russia-ukraine-war-energy-attacks-war-crimes-1ccee964d8a0b539fe168402b32b4e87",
+      "domain": "apnews.com",
+      "published": "2026-02-04",
+      "publishedAsGiven": "Feb 4, 2026",
+      "snippet": "Ukraine has accused Russia of illegally targeting power infrastructure during the war to deny civilians light, heating and running water."
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "UN mission finds grounds to believe US committed war ...",
+      "url": "https://www.reuters.com/world/middle-east/un-mission-finds-grounds-believe-us-committed-war-crimes-iran-tehran-crimes-2026-09-17/",
+      "domain": "reuters.com",
+      "published": "2026-09-17",
+      "publishedAsGiven": "Sep 17, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 27,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 3,
+    "after-said": 13,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 3
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:12:40.400Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Is attacking Ukraine's power grid a war crime?",
+      "url": "https://www.bbc.co.uk/news/world-europe-63754808",
+      "domain": "bbc.co.uk",
+      "snippet": "Dec 1, 2022 — Western leaders say Russia's attacks on Ukrainian infrastructure are illegal, but what does the law say?",
+      "published": "2022-12-01",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "very high",
+        "name": "BBC",
+        "page": "https://mediabiasfactcheck.com/bbc/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "War Crimes: A Primer",
+      "url": "https://www.congress.gov/crs-product/LSB10709",
+      "domain": "congress.gov",
+      "snippet": "This Legal Sidebar addresses the sources and content of the law of war, also known as the law of armed conflict or international humanitarian ...",
+      "published": "2024-02-02",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Explainer: When are attacks on civilian infrastructure war ...",
+      "url": "https://www.reuters.com/world/europe/when-are-attacks-civilian-infrastructure-war-crimes-2022-12-16/",
+      "domain": "reuters.com",
+      "snippet": "Russia's attacks on Ukraine's civilian infrastructure, including energy facilities, have been described as possible war crimes by the office ...",
+      "published": "2022-12-16",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Power Infrastructure Can Be Lawfully Targeted in Certain ...",
+      "url": "https://www.wsj.com/livecoverage/iran-us-israel-war-updates-2026/card/power-infrastructure-can-be-lawfully-targeted-in-certain-circumstances-military-experts-say-wVSOxc7KGyVZcClHdiWu",
+      "domain": "wsj.com",
+      "snippet": "Under the Law of Armed Conflict, if striking power infrastructure makes a concrete contribution to a military operation and the potential harm ...",
+      "published": "2026-03-22",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Wall Street Journal",
+        "page": "https://mediabiasfactcheck.com/wall-street-journal/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Explainer: Ukraine: When do attacks on civilian ...",
+      "url": "https://www.reuters.com/world/europe/ukraine-when-do-attacks-civilian-installations-amount-war-crimes-2023-08-03/",
+      "domain": "reuters.com",
+      "snippet": "Civilian power infrastructure has long been considered a valid military objective as long as it also supports an enemy army's activities ...",
+      "published": "2023-08-03",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

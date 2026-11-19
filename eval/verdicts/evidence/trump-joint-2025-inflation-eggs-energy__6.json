@@ -1,0 +1,116 @@
+{
+  "case_id": "trump-joint-2025-inflation-eggs-energy#6",
+  "queries": {
+    "A": "and closed more than 100 power plants Trump",
+    "B": "number of US power plants retired 2021 to 2024 EIA generating capacity retirements"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 2,
+      "title": "50 US coal power plants shut under Trump",
+      "url": "https://www.solardaily.com/reports/50_US_coal_power_plants_shut_under_Trump_999.html",
+      "domain": "solardaily.com",
+      "published": "2019-05-09",
+      "snippet": "Fifty coal-fired power plants have shut in the United States since President Donald Trump came to office two years ago, an environmental organization said Thursday.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 4,
+      "title": "More coal-fired power plants have closed under Trump than in Obama's first term",
+      "url": "https://hartfordbusiness.com/article/more-coal-fired-power-plants-have-closed-under-trump-than-in-obamas-first-term/",
+      "domain": "hartfordbusiness.com",
+      "published": "2019-01-07",
+      "snippet": "More coal-fired power plants have closed under Trump than in Obama’s first term",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 5,
+      "title": "President Trump Can’t Stop U.S. Coal Plants from Retiring | Climate Change",
+      "url": "https://www.climatechange.ie/?p=263473",
+      "domain": "climatechange.ie",
+      "published": "2019-01-14",
+      "snippet": "More U.S. coal-fired power plants closed during President Trump’s first two years than during President Obama’s entire first term: 23,400 megawatts in 2017-2018 compared to 14,900 MW in 2009-2012, a Reuters analysis shows.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 6,
+      "title": "More coal mine shutdowns under Trump than Obama",
+      "url": "https://www.worldcoal.com/power/08012019/more-coal-power-plant-shutdowns-under-trump-than-obama/",
+      "domain": "worldcoal.com",
+      "published": "2019-01-08",
+      "snippet": "According to one source, more coal power plants have shut down during Trump’s first two years in office than in Obama’s entire first term.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 1,
+      "title": "Today in Energy - U.S. Energy Information Administration (EIA)",
+      "url": "https://www.eia.gov/TODAYinENERGY/index.php?tg=+retirements",
+      "domain": "eia.gov",
+      "published": null,
+      "snippet": "Nuclear and coal will account for majority of U.S. generating capacity retirements in 2021",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "U.S. coal-fired generating capacity retired in 2025 was the least in 15 years - U.S. Energy Information Administration (EIA)",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67427",
+      "domain": "eia.gov",
+      "published": null,
+      "snippet": "Annual retirements of capacity at coal-fired power plants have decreased since 2022 when operators retired 13.7 GW of capacity, or about 6.5% of the coal fleet operating at the end of 2021. In 2025, only four coal-fired power plants retired generating units, representing 2.6 GW of capacity, or 1.5% of year-end 2024 capacity:",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 6,
+      "title": "Articles Tagged with: byron -- ANS / Nuclear Newswire",
+      "url": "https://ans.org/news/tag-byron/step-1611695016",
+      "domain": "ans.org",
+      "published": null,
+      "snippet": "In total, it appears that 30 plants (nuclear, coal, petroleum, and others) will be retired in 2021. Five nuclear reactors are included in the closure list— Indian Point-3 , Byron (two units at the plant), and Dresden (two units at the plant) . Those three plants produce 5.1 GW of power, accounting for more than half of the total capacity expected to be retired.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 7,
+      "title": "EIA Sees Significant Decrease in Generation Capacity Retirements in 2024 | American Public Power Association",
+      "url": "https://www.publicpower.org/node/23255",
+      "domain": "publicpower.org",
+      "published": "2024-02-24",
+      "snippet": "Mystic Generating Station, a six-unit, 1,413-MW combined-cycle facility in Massachusetts, will account for 60% of the natural gas-fired capacity retirements in 2024. One of the nation’s oldest power plants, Mystic Generating Station has been providing power in the Boston area since the 1940s. The other five petroleum- and natural gas-fired units at Mystic have already retired, so with these last unit retirements the entire plant is scheduled to shut down when its cost of service agreement expires in May.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://guardian.ng/?p=921076",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "A",
+      "url": "https://aicourses.fortune.com/2019/01/07/coal-plants-closing/",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "B",
+      "url": "https://www.eia.gov/TodayinEnergy/detail.php?id=67427",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://www.eia.gov/todayinEnergy/detail.php?id=67427",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://www.eia.gov/tODAyinenergy/detail.php?id=67427",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    }
+  ]
+}

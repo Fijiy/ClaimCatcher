@@ -1,0 +1,91 @@
+{
+  "case_id": "cbs-2024-vance-cbp-one-mic-cut#1",
+  "queries": {
+    "A": "There's an application called the CBP One app where you can go on as an illegal migrant, apply for asylum or apply for parole and be granted legal status at the wave of a Kamala Harris open border wand. That is the facilitation of illegal immigration. Vance",
+    "B": "CBP One app asylum appointments humanitarian parole legal status how it works"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 1,
+      "title": "Biden Admin Releases 96% of Inadmissible Aliens Who Use Its 'CBP One' App - The Daily Signal",
+      "url": "https://www.dailysignal.com/2023/10/24/document-shows-biden-administration-released-into-u-s-96-inadmissible-aliens-used-cbp-one-app/",
+      "domain": "dailysignal.com",
+      "published": "2023-10-24",
+      "snippet": "Lora Ries, director of The Heritage Foundation's Border Security and Immigration Center, pointed out that use of the mobile app allows illegal aliens to be “paroled into the U.S., where they may or may not apply for asylum, but they can get work authorization and remain for two years.” (The Daily Signal is Heritage's news outlet.)",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 2,
+      "title": "Could U.S. app help control border chaos?",
+      "url": "https://dallasnews.com/opinion/editorials/2023/01/16/could-us-app-help-control-border-chaos",
+      "domain": "dallasnews.com",
+      "published": "2023-01-16",
+      "snippet": "Seeking asylum in the United States? There is an app for that. The federal government is encouraging asylum seekers to use CBP One on their smartphones to safely apply from Mexico, before reaching the border.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 3,
+      "title": "CBP One: An Overview - American Immigration Council",
+      "url": "https://www.americanimmigrationcouncil.org/fact-sheet/cbp-one-overview/",
+      "domain": "americanimmigrationcouncil.org",
+      "published": "2021-12-09",
+      "snippet": "In May 2023, as restrictions under Title 42 expired, DHS published a regulation called the Circumvention of Lawful Pathways establishing new protocols to process asylum seekers at southwestern border ports of entry. This regulation made people who traveled through a third country but failed to seek asylum or other protections in those countries, ineligible for asylum in the United States. This restriction, however, did not apply to those who made appointments for processing at ports of entry through CBP One, essentially requiring the use of the app to seek asylum at the southwest border.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 4,
+      "title": "cbp one an overview 0325",
+      "url": "https://www.americanimmigrationcouncil.org/wp-content/uploads/2025/04/cbp_one_an_overview_0325.pdf",
+      "domain": "americanimmigrationcouncil.org",
+      "published": "2025-03-24",
+      "snippet": "This function was first available to Ukrainians with approved authorization to travel to the United States, who could use CBP One to enter their information prior to arrival at designated ports of entry to seek parole pursuant to the Uniting for Ukraine process.12 In May 2023, as restrictions under Title 42 expired, DHS published a regulation called the Circumvention of Lawful Pathways establishing new protocols to process asylum seekers at southwestern border ports of entry.13 This regulation made people who traveled through a third country but failed to seek asylum or other protections in",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "ENG CBP%20One%20Parole%20Update%20%26%20FAQ March2026",
+      "url": "https://welcome.rescue.org/sites/default/files/2026-04/ENG_CBP%20One%20Parole%20Update%20%26%20FAQ_March2026.pdf",
+      "domain": "welcome.rescue.org",
+      "published": "2026-04-10",
+      "snippet": "Does this mean I can stay in the country for now? If your parole was terminated solely because of the mass CBP One termination emails, the court’s order blocks DHS from relying on those notices. You should not leave the U.S. or “self-deport” based on those messages alone. You should speak to an immigration attorney or accredited representative as soon as possible to better understand your options. Does this give me permanent status or asylum? No. This ruling does not grant permanent legal status, asylum, or any other long term immigration benefit or pathway to permanent status.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 6,
+      "title": "Migrants who entered the U.S. via CBP One app should leave 'immediately,' DHS says",
+      "url": "https://www.kjzz.org/npr-top-stories/2025-04-08/migrants-who-entered-the-u-s-via-cbp-one-app-should-leave-immediately-dhs-says",
+      "domain": "kjzz.org",
+      "published": "2025-04-08",
+      "snippet": "Starting in January of 2023, the CBP One allowed migrants to schedule appointments at legal ports of entry instead of crossing the border illegally to seek asylum. It was a central part of the Biden administration's strategy to relieve pressure at the U.S.-Mexico border by creating temporary legal pathways under an authority known as humanitarian parole.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "B",
+      "url": "https://www.americanimmigrationcouncil.org/research/cbp-one-overview",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://www.americanimmigrationcouncil.org/fact-sheet/cbp-one-overview/",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://www.americanimmigrationcouncil.org/?p=33555",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    },
+    {
+      "q": "B",
+      "url": "https://natlawreview.com/node/298082/printable/print",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    }
+  ]
+}

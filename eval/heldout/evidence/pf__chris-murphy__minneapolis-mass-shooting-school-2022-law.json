@@ -1,0 +1,386 @@
+{
+  "frozenAt": "2026-10-27T03:06:57.164Z",
+  "refilteredAt": "2026-10-27T03:33:30.360Z",
+  "id": "pf/chris-murphy/minneapolis-mass-shooting-school-2022-law",
+  "said": "2025-08-27",
+  "queries": {
+    "fact": "Following the passage of a 2022 gun safety law, mass shootings began to drop.",
+    "claim": "Following the passage of a 2022 gun safety law, mass shootings began to drop. Chris Murphy"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1922.0282910000533,
+      "results": 7
+    },
+    {
+      "query": "claim",
+      "ms": 1337.3292500000098,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 124.71687499999825,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "State gun-control laws surge after mass shootings, data ...",
+      "url": "https://www.washingtonpost.com/politics/2022/06/14/state-gun-control-buffalo-uvalde-legislation/",
+      "domain": "washingtonpost.com",
+      "published": "2022-06-14",
+      "publishedAsGiven": "Jun 14, 2022",
+      "snippet": "Jun 14, 2022 — While Congress has not passed new gun -control restrictions in the wake of public mass shootings in recent years, hundreds of measures have ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Remarks on the Bipartisan Safer Communities Act",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202200603/html/DCPD-202200603.htm",
+      "domain": "govinfo.gov",
+      "published": "2022-07-11",
+      "publishedAsGiven": "Jul 11, 2022",
+      "snippet": "Jul 11, 2022 — can also stop more mass shootings . In that 10 years, it was law , mass shootings went down. When the law expired in 2004 and those weapons were ..."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "The House and Senate both passed a new bipartisan gun ...",
+      "url": "https://www.facebook.com/TheRawStory/posts/the-house-and-senate-both-passed-a-new-bipartisan-gun-safety-law-and-while-it-wa/10160317387137235/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "The Gun Safety Laws That Took Effect on January 1 - The Trace",
+      "url": "https://www.thetrace.org/newsletter/new-gun-safety-laws-minnesota-colorado/",
+      "domain": "thetrace.org",
+      "published": "2024-01-03",
+      "publishedAsGiven": "Jan 3, 2024",
+      "snippet": "Jan 3, 2024 — Preliminary data indicates that both gun deaths and gun injuries dropped last year , and homicides may have declined by a record amount."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Biden celebration of new gun law clouded by latest shooting",
+      "url": "https://www.kgw.com/article/news/nation-world/biden-new-gun-law/507-3a539891-b4fc-47f7-a908-4cc042a8cb29",
+      "domain": "kgw.com",
+      "published": "2022-07-11",
+      "publishedAsGiven": "Jul 11, 2022",
+      "snippet": "Jul 11, 2022 — The new law is the the most impactful firearms-violence measure Congress has approved since enacting a now-expired assault weapons ban in 1993. Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "These are the gun control laws passed in 2022 | National",
+      "url": "https://www.kdrv.com/news/national/these-are-the-gun-control-laws-passed-in-2022/article_797005eb-1334-5872-b952-724ee95397d7.html",
+      "domain": "kdrv.com",
+      "published": "2022-07-30",
+      "publishedAsGiven": "Jul 30, 2022",
+      "snippet": "Jul 30, 2022 — President Joe Biden in June signed into law the first major gun safety legislation passed in decades. The measure failed to ban any weapons, but ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Congressional Record Vol. 172, No. 95 (House",
+      "url": "https://www.congress.gov/congressional-record/volume-172/issue-95/house-section/article/H3837-2",
+      "domain": "congress.gov",
+      "published": "2026-06-04",
+      "publishedAsGiven": "Jun 4, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Sen. Chris Murphy says mass shootings decreased as a ...",
+      "url": "https://politifact.com/factchecks/2025/aug/28/chris-murphy/minneapolis-mass-shooting-school-2022-law/",
+      "domain": "politifact.com",
+      "published": "2025-08-28",
+      "publishedAsGiven": "Aug 28, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact check: Did mass shootings go down after 2022 gun law?",
+      "url": "https://www.wral.com/archive/22137508/",
+      "domain": "wral.com",
+      "published": "2025-08-29",
+      "publishedAsGiven": "Aug 29, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "The Bipartisan Safer Communities Act, 1 Year Later",
+      "url": "https://www.americanprogress.org/article/the-bipartisan-safer-communities-act-1-year-later/",
+      "domain": "americanprogress.org",
+      "published": "2023-08-10",
+      "publishedAsGiven": "Aug 10, 2023",
+      "snippet": "Chris Murphy, and the gun safety majorities in the House and Senate should be applauded for providing states with this landmark funding to ..."
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "U.S. Sen. Chris Murphy, D-Conn. said: \"When we finally ...",
+      "url": "https://www.facebook.com/houstonchronicle/posts/us-sen-chris-murphy-d-conn-said-when-we-finally-passed-a-gun-safety-bill-in-2022/1201313658679437/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Gun Violence",
+      "url": "https://www.murphy.senate.gov/issues/gun-violence",
+      "domain": "murphy.senate.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Bipartisan Safer Communities Act",
+      "url": "https://en.wikipedia.org/wiki/Bipartisan_Safer_Communities_Act",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Senator Chris Murphy: “In the last 400 years, the two moments ...",
+      "url": "https://www.facebook.com/camanpour/posts/senator-chris-murphy-in-the-last-400-years-the-two-moments-in-which-american-vio/10164205249310370/",
+      "domain": "facebook.com",
+      "published": "2020-10-27",
+      "publishedAsGiven": "6 years ago",
+      "snippet": "Senator Chris Murphy: “In the last 400 years, the two moments in which American violence has declined at the most spectacular rates has been ..."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "2022 State Victories for Gun Safety",
+      "url": "https://www.everytown.org/2022-state-victories-gun-safety/",
+      "domain": "everytown.org",
+      "published": "2022-08-31",
+      "publishedAsGiven": "Aug 31, 2022",
+      "snippet": "Throughout the 2022 session, state lawmakers and governors enacted at least 51 gun safety laws and blocked 95% of the gun lobby's agenda."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Sen. Chris Murphy seeks 'common ground' on new gun laws in ...",
+      "url": "https://www.youtube.com/watch?v=zwmue1M1ea4",
+      "domain": "youtube.com",
+      "published": "2022-10-27",
+      "publishedAsGiven": "4 years ago",
+      "snippet": "Sen. Chris Murphy seeks 'common ground' on new gun laws in wake of Texas ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "THE BIPARTISAN SAFER COMMUNITIES ACT",
+      "url": "https://levin.house.gov/download/bipartisan-safer-communities-act-fact-sheet",
+      "domain": "levin.house.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Biden signs gun safety bill into law, takes swipe at ...",
+      "url": "https://www.reuters.com/world/us/biden-signs-bipartisan-gun-safety-bill-into-law-2022-06-25/",
+      "domain": "reuters.com",
+      "published": "2022-06-27",
+      "publishedAsGiven": "Jun 27, 2022",
+      "snippet": "The new law blocks gun sales to those convicted of abusing unmarried intimate partners and cracks down on gun sales to purchasers convicted of ..."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Mass shootings lead to widening divide on state gun policies",
+      "url": "https://apnews.com/article/politics-shootings-texas-colorado-045c6a88439907da9895af0ceb0e9404",
+      "domain": "apnews.com",
+      "published": "2023-01-28",
+      "publishedAsGiven": "Jan 28, 2023",
+      "snippet": "As mass shootings are again drawing public attention, states across the U.S. seem to be deepening their political divide on gun policies."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Why Biden pushes an assault weapons ban despite the ...",
+      "url": "https://www.reuters.com/world/us/why-biden-pushes-an-assault-weapons-ban-despite-political-odds-2023-01-27/",
+      "domain": "reuters.com",
+      "published": "2023-01-27",
+      "publishedAsGiven": "Jan 27, 2023",
+      "snippet": "gun massacres sank 37 percent and gun massacre deaths dropped 43 percent during the 10-year period of the assault rifle ban, compared to the ..."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "Bipartisan Gun Bill Advances in Senate",
+      "url": "https://www.wsj.com/politics/policy/gun-control-talks-held-up-by-abortion-provision-11655827268",
+      "domain": "wsj.com",
+      "published": "2022-06-22",
+      "publishedAsGiven": "Jun 22, 2022",
+      "snippet": "The Democratic-led House passed a package of gun-control measures earlier this month but the legislation had no path forward in the Senate."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "Senate passes historic bipartisan gun deal, gives Biden ...",
+      "url": "https://www.usatoday.com/story/news/politics/2022/06/23/senate-passes-gun-deal/7702792001/",
+      "domain": "usatoday.com",
+      "published": "2022-06-24",
+      "publishedAsGiven": "Jun 24, 2022",
+      "snippet": "The vote came hours after the U.S. Supreme Court struck down a New York law, making it easier for Americans to carry handguns."
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "US is trying to stop mass shootings. How about other gun ...",
+      "url": "https://www.csmonitor.com/USA/Justice/2022/0810/US-is-trying-to-stop-mass-shootings.-How-about-other-gun-crimes",
+      "domain": "csmonitor.com",
+      "published": "2022-08-10",
+      "publishedAsGiven": "Aug 10, 2022",
+      "snippet": "For the first time in 30 years, Congress passed bipartisan gun legislation after the tragic school shooting in Uvalde, Texas."
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Breakthrough: 10 GOP senators agree to deal for gun ...",
+      "url": "https://www.csmonitor.com/USA/Politics/2022/0612/Breakthrough-10-GOP-senators-agree-to-deal-for-gun-legislation",
+      "domain": "csmonitor.com",
+      "published": "2022-06-12",
+      "publishedAsGiven": "Jun 12, 2022",
+      "snippet": "In response to mass shootings, 10 Republicans joined Democrats in the U.S. Senate in a breakthrough deal on modest gun curbs, steps to improve ..."
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "What underlies US inertia on mass shootings? It may be ...",
+      "url": "https://www.csmonitor.com/World/2022/0707/What-underlies-US-inertia-on-mass-shootings-It-may-be-lack-of-trust",
+      "domain": "csmonitor.com",
+      "published": "2022-07-19",
+      "publishedAsGiven": "Jul 19, 2022",
+      "snippet": "The new U.S. gun control law has been hailed as a significant step forward to lower the temperature – mostly because it's at least a step. “We ..."
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "New gun laws rolling out in multiple states on Jan. 1, 2025",
+      "url": "https://www.usatoday.com/story/news/politics/2024/12/31/new-gun-laws-2025/76801497007/",
+      "domain": "usatoday.com",
+      "published": "2024-12-31",
+      "publishedAsGiven": "Dec 31, 2024",
+      "snippet": "By and large, the state laws related to gun safety taking effect in 2025 enforce gun safety, according to the gun violence prevention ..."
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "Senate Passes Bipartisan Gun Bill Funding Red-Flag Laws ...",
+      "url": "https://www.wsj.com/politics/policy/bipartisan-gun-bill-set-to-advance-past-senate-filibuster-hurdle-11655996527",
+      "domain": "wsj.com",
+      "published": "2022-06-24",
+      "publishedAsGiven": "Jun 24, 2022",
+      "snippet": "The negotiations started the day after a mass shooting at an elementary school in Uvalde, Texas, which itself followed a deadly mass ..."
+    }
+  ],
+  "returned": 27,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 2,
+    "after-said": 1,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 4
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:06:51.796Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "State gun-control laws surge after mass shootings, data ...",
+      "url": "https://www.washingtonpost.com/politics/2022/06/14/state-gun-control-buffalo-uvalde-legislation/",
+      "domain": "washingtonpost.com",
+      "snippet": "Jun 14, 2022 — While Congress has not passed new gun -control restrictions in the wake of public mass shootings in recent years, hundreds of measures have ... Read more",
+      "published": "2022-06-14",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "Washington Post",
+        "page": "https://mediabiasfactcheck.com/washington-post/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "The Bipartisan Safer Communities Act, 1 Year Later",
+      "url": "https://www.americanprogress.org/article/the-bipartisan-safer-communities-act-1-year-later/",
+      "domain": "americanprogress.org",
+      "snippet": "Chris Murphy, and the gun safety majorities in the House and Senate should be applauded for providing states with this landmark funding to ...",
+      "published": "2023-08-10",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "L",
+        "reliability": "high",
+        "name": "Center for American Progress",
+        "page": "https://mediabiasfactcheck.com/center-for-american-progress/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Biden signs gun safety bill into law, takes swipe at ...",
+      "url": "https://www.reuters.com/world/us/biden-signs-bipartisan-gun-safety-bill-into-law-2022-06-25/",
+      "domain": "reuters.com",
+      "snippet": "The new law blocks gun sales to those convicted of abusing unmarried intimate partners and cracks down on gun sales to purchasers convicted of ...",
+      "published": "2022-06-27",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "Remarks on the Bipartisan Safer Communities Act",
+      "url": "https://www.govinfo.gov/content/pkg/DCPD-202200603/html/DCPD-202200603.htm",
+      "domain": "govinfo.gov",
+      "snippet": "Jul 11, 2022 — can also stop more mass shootings . In that 10 years, it was law , mass shootings went down. When the law expired in 2004 and those weapons were ...",
+      "published": "2022-07-11",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Mass shootings lead to widening divide on state gun policies",
+      "url": "https://apnews.com/article/politics-shootings-texas-colorado-045c6a88439907da9895af0ceb0e9404",
+      "domain": "apnews.com",
+      "snippet": "As mass shootings are again drawing public attention, states across the U.S. seem to be deepening their political divide on gun policies.",
+      "published": "2023-01-28",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Associated Press",
+        "page": "https://mediabiasfactcheck.com/associated-press/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

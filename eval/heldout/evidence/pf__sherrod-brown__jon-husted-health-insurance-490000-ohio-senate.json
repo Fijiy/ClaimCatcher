@@ -1,0 +1,263 @@
+{
+  "frozenAt": "2026-10-27T03:23:53.786Z",
+  "refilteredAt": "2026-10-27T03:37:43.440Z",
+  "id": "pf/sherrod-brown/jon-husted-health-insurance-490000-ohio-senate",
+  "said": "2026-09-18",
+  "queries": {
+    "fact": "Sen. Jon Husted voted to kick 490,000 Ohioans off their healthcare.",
+    "claim": "Sen. Jon Husted voted to kick 490,000 Ohioans off their healthcare. Sherrod Brown"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1333.0265000001527,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 3161.9520419999026,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Jon Husted voted against lowering health care costs 9 ...",
+      "url": "https://www.facebook.com/sherrod/posts/jon-husted-voted-against-lowering-health-care-costs-9-times-putting-his-health-i/1666917438124228/",
+      "domain": "facebook.com",
+      "published": "2026-10-27",
+      "publishedAsGiven": "2 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Are 490000 Ohioans losing healthcare because of Husted?",
+      "url": "https://politifact.com/factchecks/2026/oct/09/sherrod-brown/jon-husted-health-insurance-490000-ohio-senate/",
+      "domain": "politifact.com",
+      "published": "2026-10-09",
+      "publishedAsGiven": "Oct 9, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "When Jon Husted cast the deciding vote to cut Medicaid for half ...",
+      "url": "https://www.facebook.com/sherrod/posts/when-jon-husted-cast-the-deciding-vote-to-cut-medicaid-for-half-a-million-ohioan/1663028171846488/",
+      "domain": "facebook.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Ohio Senator Jon Husted Lies (Again) About Medicaid Cuts",
+      "url": "https://democrats.org/ohio-senator-jon-husted-lies-again-about-medicaid-cuts/",
+      "domain": "democrats.org",
+      "published": "2025-09-22",
+      "publishedAsGiven": "Sep 22, 2025",
+      "snippet": "Nearly 490,000 Ohioans will lose their health insurance after Senator Husted voted to slash Medicaid and spike insurance costs for Ohioans"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Jon Husted voted to kick 490,00 Ohioans off their health care ...",
+      "url": "https://www.instagram.com/reel/DdfEzHBzZHK/",
+      "domain": "instagram.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Jon Husted voted to kick 490,00 Ohioans off their health care ...",
+      "url": "https://www.facebook.com/sherrod/videos/jon-husted-voted-to-kick-49000-ohioans-off-their-health-care-so-he-could-give-ta/1574639461071774/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "ICYMI: Husted Caught Lying About Impact of His Medicaid ...",
+      "url": "https://ohiodems.org/icymi-husted-caught-lying-about-impact-of-his-medicaid-cuts-on-ohio/",
+      "domain": "ohiodems.org",
+      "published": "2025-09-22",
+      "publishedAsGiven": "Sep 22, 2025",
+      "snippet": "Senator Husted voted for cuts to healthcare funding including Medicaid that will cause 490,000 Ohioans to lose their health care coverage,"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Husted Lies and Claims “Nobody is Going to Lose Their ...",
+      "url": "https://www.dscc.org/article/quick-clip-husted-lies-and-claims-nobody-is-going-to-lose-their-medicaid-coverage-despite-his-vote-to-strip-health-care-from-490000-ohioans-fox-8/",
+      "domain": "dscc.org",
+      "published": "2025-09-22",
+      "publishedAsGiven": "Sep 22, 2025",
+      "snippet": "His vote for the toxic GOP plan will cause 490,000 Ohioans to lose health care and puts eleven rural hospitals at risk of closure, according to ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Jon Husted isn't looking out for you in Washington. ...",
+      "url": "https://www.facebook.com/sherrod/posts/jon-husted-isnt-looking-out-for-you-in-washingtonhusted-voted-to-cut-ohioans-hea/1591202602362379/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "snippet": "Jon Husted has voted again and again to increase Ohioans' health care costs. Jon Husted's Anti-ACA Record: Voted against extending the ACA tax ..."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "PolitiFact",
+      "url": "https://www.facebook.com/politifact/posts/rallying-in-cleveland-for-democratic-candidates-barack-obama-said-jon-husted-vot/1592013972959700/",
+      "domain": "facebook.com",
+      "published": "2026-10-25",
+      "publishedAsGiven": "2 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Are 490000 Ohioans losing healthcare because of Husted?",
+      "url": "https://politifact.com/factchecks/2026/oct/09/sherrod-brown/jon-husted-health-insurance-490000-ohio-senate/",
+      "domain": "politifact.com",
+      "published": "2026-10-09",
+      "publishedAsGiven": "Oct 9, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Jon Husted voted against lowering health care costs 9 ...",
+      "url": "https://www.facebook.com/sherrod/posts/jon-husted-voted-against-lowering-health-care-costs-9-times-putting-his-health-i/1666917438124228/",
+      "domain": "facebook.com",
+      "published": "2026-10-27",
+      "publishedAsGiven": "2 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Jon Husted voted to kick 490,00 Ohioans off their health care ...",
+      "url": "https://www.facebook.com/sherrod/posts/jon-husted-voted-to-kick-49000-ohioans-off-their-health-care-so-he-could-give-ta/1632158434933462/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "When Jon Husted cast the deciding vote to cut Medicaid for half ...",
+      "url": "https://www.facebook.com/sherrod/posts/when-jon-husted-cast-the-deciding-vote-to-cut-medicaid-for-half-a-million-ohioan/1663028171846488/",
+      "domain": "facebook.com",
+      "published": "2026-10-23",
+      "publishedAsGiven": "4 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Jon Husted voted to kick 490,00 Ohioans off their health care ...",
+      "url": "https://www.instagram.com/reel/DdfEzHBzZHK/",
+      "domain": "instagram.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Jon Husted Blocks Efforts to Crack Down on Insurance ...",
+      "url": "https://www.sherrodbrown.com/2026/06/09/jon-husted-blocks-efforts-to-crack-down-on-insurance-companies-denying-ohioans-health-care/",
+      "domain": "sherrodbrown.com",
+      "published": "2026-06-09",
+      "publishedAsGiven": "Jun 9, 2026",
+      "snippet": "In the Senate, Husted has voted nine times to increase health care premiums on Ohio families — all to help pay for the largest tax cut for ..."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Jon Husted isn't looking out for you in Washington. ...",
+      "url": "https://www.facebook.com/sherrod/posts/jon-husted-isnt-looking-out-for-you-in-washingtonhusted-voted-to-cut-ohioans-hea/1591202602362379/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "snippet": "Jon Husted has voted again and again to increase Ohioans' health care costs. Jon Husted's Anti-ACA Record: Voted against extending the ACA tax ..."
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Fact check: Accusations by both Husted and Brown in Ohio ...",
+      "url": "https://local12.com/news/local/fact-check-accusations-by-both-jon-husted-sherrod-brown-senate-campaign-ads-campaigns-advertisement-television-online-social-media-senators-government-congress-claims-inflation-costs-prices-groceries-immigration-war-health-care",
+      "domain": "local12.com",
+      "published": "2026-09-23",
+      "publishedAsGiven": "Sep 23, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Jon Husted voted to kick 490,00 Ohioans off their health care.",
+      "url": "https://www.youtube.com/shorts/EtFEwciuvKA",
+      "domain": "youtube.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Husted vs. Brown ads flood Ohio airwaves. Is any of it true?",
+      "url": "https://www.dispatch.com/story/news/politics/elections/2026/10/20/ohio-senate-race-husted-brown-political-ads-fact-check/92249881007/",
+      "domain": "dispatch.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "7 days ago",
+      "dropped": "fact-check-words"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 3,
+    "after-said": 4,
+    "maybe-after-said": 5,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:23:49.290Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "ICYMI: Husted Caught Lying About Impact of His Medicaid ...",
+      "url": "https://ohiodems.org/icymi-husted-caught-lying-about-impact-of-his-medicaid-cuts-on-ohio/",
+      "domain": "ohiodems.org",
+      "snippet": "Senator Husted voted for cuts to healthcare funding including Medicaid that will cause 490,000 Ohioans to lose their health care coverage,",
+      "published": "2025-09-22",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "Jon Husted Blocks Efforts to Crack Down on Insurance ...",
+      "url": "https://www.sherrodbrown.com/2026/06/09/jon-husted-blocks-efforts-to-crack-down-on-insurance-companies-denying-ohioans-health-care/",
+      "domain": "sherrodbrown.com",
+      "snippet": "In the Senate, Husted has voted nine times to increase health care premiums on Ohio families — all to help pay for the largest tax cut for ...",
+      "published": "2026-06-09",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    }
+  ]
+}

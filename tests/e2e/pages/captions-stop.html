@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Fixture: captions that stop</title>
+  </head>
+  <body>
+    <h1>Inaugural address (fixture)</h1>
+    <!-- Speech whose captions cover only its first words, like a live
+         stream whose captioner drops out: the on-device transcript takes
+         over for the rest. -->
+    <video id="video" src="/media/speech.wav" controls width="320">
+      <track kind="captions" src="/captions-stop.vtt" srclang="en" label="English" />
+    </video>
+  </body>
+</html>

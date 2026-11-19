@@ -1,0 +1,106 @@
+{
+  "case_id": "booker-senate-floor-2025-consumer-confidence#2",
+  "queries": {
+    "A": "the consumer confidence in this country has gone way down Booker",
+    "B": "Conference Board consumer confidence index March 2025"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 3,
+      "title": "Consumer Confidence Takes a Dive",
+      "url": "https://www.builderonline.com/?p=47258",
+      "domain": "builderonline.com",
+      "published": "2007-08-28",
+      "snippet": "Lynn Franco, director of The Conference Board Consumer Research Center, said, “A softening in business conditions and labor market conditions has curbed consumers’ confidence this month. In addition, the volatility in financial markets and continued sub-prime housing woes may have played a role in dampening consumers’ spirits. But, despite less favorable conditions and in spite of all the recent turmoil, consumers still remain confident.And, current Index levels suggest further economic growth in the months ahead.”",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 4,
+      "title": "Consumer Confidence Plunges to All-Time Low",
+      "url": "https://www.bondbuyer.com/news/consumer-confidence-plunges-to-all-time-low",
+      "domain": "bondbuyer.com",
+      "published": "2008-10-29",
+      "snippet": "“The impact of the financial crisis over the last several weeks has clearly taken a toll on consumers’ confidence,” said Lynn Franco, director of the Conference Board’s consumer research center. “The decline in the index (minus-23.4 points) is the third largest in the history of the series, and the lowest reading on record. In assessing current conditions, consumers rated the labor market and business conditions much less favorably, suggesting that the fourth quarter is off to a weaker start than the third quarter.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 5,
+      "title": "Consumer confidence at lowest point in nearly a decade",
+      "url": "https://cutimes.com/2002/11/05/consumer-confidence-at-lowest-point-in-nearly-a-decade",
+      "domain": "cutimes.com",
+      "published": "2002-11-05",
+      "snippet": "Consumer confidence has been steadily dropping for four consecutive months. In September it was 93.7. According to The Conference Board survey, respondents rating current business conditions as \"bad\" increased to 27.6% from 23.8% in September. Those rating current conditions as \"good\" decreased to 15.6% from 18.5%. In addition, consumers reporting jobs are hard to get rose to 27.3% from 25.4% in September, while those claiming jobs were abundant dropped to 14.8% from 15.9% in September. Consumers' expectations for the next six months also fell in October's survey.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 7,
+      "title": "U.S. Consumer Confidence Plummets",
+      "url": "https://www.treasuryandrisk.com/amp/2026/01/27/us-consumer-confidence-plummets/",
+      "domain": "treasuryandrisk.com",
+      "published": "2026-01-27",
+      "snippet": "U.S. consumer confidence has declined to the lowest level in more than a decade, on more pessimistic views of the economy and labor market. The Conference Board's January gauge decreased to 84.5, from an upwardly revised 94.2 last month, data out today show. The figure is the lowest since May 2014 and falls short of all estimates in a Bloomberg survey of economists.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 1,
+      "title": "Fed Prime Rate Conference Board CONSUMER CONFIDENCE INDEX MARCH 2025",
+      "url": "https://fedprimerate.com/docs/Conference-Board/Fed-Prime-Rate---Conference-Board---CONSUMER---CONFIDENCE---INDEX---MARCH---2025.pdf",
+      "domain": "fedprimerate.com",
+      "published": "2025-03-25",
+      "snippet": "Source: March 2025 Consumer Confidence Survey® The Conference Board The Conference Board publishes the Consumer Confidence Index® at 10 a.m. ET on the last Tuesday of every month. Subscription information and the technical notes to this series are available on The Conference Board website: https://www.conference-board.org/data/consumerdata.cfm. About The Conference Board The Conference Board is the member-driven think tank that delivers Trusted Insights for What’s Ahead®. Founded in 1916, we are a non-partisan, not-for-profit entity holding 501 (c) (3) tax-exempt status in the United States.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "Consumer Confidence Index (CCI) for March 2025",
+      "url": "https://economy.fedprimerate.com/2025/03/USA--Soft--Data--Consumer--Confidence--Index--CCI---MARCH---2025.html?m=1",
+      "domain": "economy.fedprimerate.com",
+      "published": null,
+      "snippet": "\"...' Consumer confidence declined for a fourth consecutive month in March, falling below the relatively narrow range that had prevailed since 2022,' said Stephanie Guichard , Senior Economist, Global Indicators at The Conference Board. 'Of the Index’s five components, only consumers’ assessment of present labor market conditions improved, albeit slightly. Views of current business conditions weakened to close to neutral.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "Consumer Confidence sank in March",
+      "url": "https://hbsdealer.com/consumer-confidence-sank-march",
+      "domain": "hbsdealer.com",
+      "published": "2025-03-25",
+      "snippet": "The Conference Board Consumer Confidence Index fell by 7.2 points in March to 92.9. Meanwhile, the Expectations Index—based on consumers' short-term outlook for income, business and labor market conditions—dropped 9.6 points to 65.2, the lowest level in 12 years and well below the threshold of 80 that usually signals a recession ahead . The cutoff date for preliminary results was March 19, 2025 .",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 4,
+      "title": "US Consumer Confidence tumbled again in March",
+      "url": "https://www.conference-board.org/topics/consumer-confidence/press/CCI-Mar-2025",
+      "domain": "conference-board.org",
+      "published": "2025-03-25",
+      "snippet": "The Conference Board Consumer Confidence Index® fell by 7.2 points in March to 92.9 (1985=100). The Present Situation Index —based on consumers’ assessment of current business and labor market conditions—decreased 3.6 points to 134.5. The Expectations Index —based on consumers’ short-term outlook for income, business, and labor market conditions—dropped 9.6 points to 65.2, the lowest level in 12 years and well below the threshold of 80 that usually signals a recession ahead. The cutoff date for preliminary results was March 19, 2025.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://www.politifact.com/factchecks/2025/apr/03/cory-booker/has-consumer-confidence-fallen-as-cory-booker-said",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "A",
+      "url": "https://api.politifact.com/factchecks/2025/apr/03/cory-booker/has-consumer-confidence-fallen-as-cory-booker-said/",
+      "reason": "answer_url: URL (or its redirect target / API mirror) is in answer_urls"
+    },
+    {
+      "q": "A",
+      "url": "https://www.cutimes.com/amp/2002/11/05/consumer-confidence-at-lowest-point-in-nearly-a-decade/",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "frozenAt": "2026-10-27T03:12:24.843Z",
+  "refilteredAt": "2026-10-27T03:34:50.152Z",
+  "id": "pf/mark-kelly/reregister-vote-elections-save-america-act",
+  "said": "2026-03-17",
+  "queries": {
+    "fact": "The SAVE America Act requires everyone to re-register to vote in person and your driver’s license, REAL ID, or military ID aren’t even good enough.",
+    "claim": "The SAVE America Act requires everyone to re-register to vote in person and your driver’s license, REAL ID, or military ID aren’t even good enough. Mark Kelly"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1843.221790999989,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2856.070833000005,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 169.43491699997685,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Q&A on the SAVE America Act",
+      "url": "https://www.factcheck.org/2026/03/qa-on-the-save-america-act/",
+      "domain": "factcheck.org",
+      "published": "2026-03-18",
+      "publishedAsGiven": "Mar 18, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Six Things to Know About the SAVE America Act",
+      "url": "https://bipartisanpolicy.org/article/five-things-to-know-about-the-save-act/",
+      "domain": "bipartisanpolicy.org",
+      "published": "2026-07-17",
+      "publishedAsGiven": "Jul 17, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "The SAVE Act: What every American Voter Needs to Know",
+      "url": "https://www.vote.org/save-act/",
+      "domain": "vote.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Safeguard American Voter Eligibility Act (“SAVE Act”) (HR ...",
+      "url": "https://democrats-cha.house.gov/sites/evo-subsites/democrats-cha.house.gov/files/evo-media-document/SAVE%20Act%20One%20Pager.pdf",
+      "domain": "democrats-cha.house.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "SAVE America Act wouldn't make everyone reregister to ...",
+      "url": "https://politifact.com/factchecks/2026/mar/24/mark-kelly/reregister-vote-elections-save-america-act/",
+      "domain": "politifact.com",
+      "published": "2026-03-24",
+      "publishedAsGiven": "Mar 24, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "The “SAVE America Act” goes far beyond requiring a photo ...",
+      "url": "https://www.facebook.com/RepAmiBera/videos/the-save-america-act-goes-far-beyond-requiring-a-photo-id-to-vote-it-is-a-delibe/901328119426993/",
+      "domain": "facebook.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "snippet": "It is a deliberate effort to disenfranchise millions of Americans from the ballot box. I am voting NO. Read more about my opposition to this ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "States Already Enacting Harmful SAVE Act Policies ...",
+      "url": "https://www.brennancenter.org/our-work/research-reports/states-already-enacting-harmful-save-act-policies-requiring-proof",
+      "domain": "brennancenter.org",
+      "published": "2026-04-23",
+      "publishedAsGiven": "Apr 23, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Not all driver's licenses usable for voter registration under ...",
+      "url": "https://www.nbcwashington.com/news/national-international/drivers-licenses-voter-registration-save-act/4082334/",
+      "domain": "nbcwashington.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "Mar 27, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "The SAVE Act: Overview and Facts",
+      "url": "https://www.americanprogress.org/article/the-save-act-overview-and-facts/",
+      "domain": "americanprogress.org",
+      "published": "2025-01-31",
+      "publishedAsGiven": "Jan 31, 2025",
+      "snippet": "The legislation would invert the responsibility to verify a person's eligibility and citizenship status from election officials and the ..."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "The Safeguard American Voter Eligibility (SAVE) Act is a ...",
+      "url": "https://www.lwv.org/blog/safeguard-american-voter-eligibility-save-act-trick",
+      "domain": "lwv.org",
+      "published": "2025-03-25",
+      "publishedAsGiven": "Mar 25, 2025",
+      "snippet": "HR 22, the Safeguard American Voter Eligibility (SAVE) Act, will require that every eligible voter provide documentary proof of citizenship ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "SAVE America Act wouldn't make everyone reregister to ...",
+      "url": "https://politifact.com/factchecks/2026/mar/24/mark-kelly/reregister-vote-elections-save-america-act/",
+      "domain": "politifact.com",
+      "published": "2026-03-24",
+      "publishedAsGiven": "Mar 24, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "H.R.7296 - 119th Congress (2025-2026): SAVE America Act",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/7296",
+      "domain": "congress.gov",
+      "published": "2026-01-30",
+      "publishedAsGiven": "Jan 30, 2026",
+      "snippet": "This bill requires individuals to provide documentary proof of U.S. citizenship when registering to vote, and requires photo identification to ..."
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Mark Kelly Warns SAVE America Act Could Disenfranchise ...",
+      "url": "https://www.yahoo.com/news/articles/mark-kelly-warns-save-america-110105480.html",
+      "domain": "yahoo.com",
+      "published": "2026-03-19",
+      "publishedAsGiven": "Mar 19, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "The “SAVE America Act” goes far beyond requiring a photo ...",
+      "url": "https://www.facebook.com/RepAmiBera/videos/the-save-america-act-goes-far-beyond-requiring-a-photo-id-to-vote-it-is-a-delibe/901328119426993/",
+      "domain": "facebook.com",
+      "published": "2026-02-27",
+      "publishedAsGiven": "8 months ago",
+      "snippet": "There are two requirements. First, evidence of citizenship to register to vote in federal elections. Second, photo ID when voting to assure that ..."
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "The SAVE Act Is About Creating Barriers to Voting",
+      "url": "https://www.youtube.com/shorts/_v28XIiklFg",
+      "domain": "youtube.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "The SAVE Act isn't about securing elections or stopping ...",
+      "url": "https://www.facebook.com/CaptMarkKelly/posts/the-save-act-isnt-about-securing-elections-or-stopping-fraudtrump-has-made-it-cl/1470822944412634/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Fact Check: Would SAVE America Act require people to ...",
+      "url": "https://news.meaww.com/fact-check-would-save-america-act-require-people-to-reregister-to-vote",
+      "domain": "news.meaww.com",
+      "published": "2026-03-26",
+      "publishedAsGiven": "Mar 26, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Kelly votes for SAVE America Act to strengthen America's ...",
+      "url": "http://kelly.house.gov/media/press-releases/kelly-votes-save-america-act-strengthen-americas-elections",
+      "domain": "kelly.house.gov",
+      "published": "2026-02-11",
+      "publishedAsGiven": "Feb 11, 2026",
+      "snippet": "\"The SAVE Act ensures only American citizens are allowed to vote in American elections. The legislation also includes critical voter ID requires ..."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "SAVE Act Did Not Pass: Voter Registration Remains ...",
+      "url": "https://www.facebook.com/BrennanCenter/videos/the-save-act-did-not-pass-and-in-most-cases-people-can-register-to-vote-in-the-s/1035252892859930/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Text - H.R.22 - 119th Congress (2025-2026): SAVE Act",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/22/text",
+      "domain": "congress.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Only some driver's licenses usable under SAVE America Act",
+      "url": "https://apnews.com/article/fact-check-save-act-identification-register-vote-d11d41b59f943bb72bcdca2d781293b7",
+      "domain": "apnews.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "Mar 27, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "The SAVE America Act Backfire",
+      "url": "https://www.wsj.com/opinion/donald-trump-save-america-act-elections-voting-7cc3fe5b",
+      "domain": "wsj.com",
+      "published": "2026-07-17",
+      "publishedAsGiven": "Jul 17, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Why the SAVE America Act . . . Won't",
+      "url": "https://www.wsj.com/opinion/save-america-act-voter-id-donald-trump-senate-filibuster-a2331419",
+      "domain": "wsj.com",
+      "published": "2026-03-17",
+      "publishedAsGiven": "Mar 17, 2026",
+      "snippet": "President Trump says the legislation is a salvation from mass voter fraud. Sen. Chuck Schumer says it's an effort at mass voter suppression, “ ..."
+    },
+    {
+      "query": "balance",
+      "rank": 4,
+      "title": "The Senate Debate on the SAVE America Act and ...",
+      "url": "https://www.wsj.com/podcasts/opinion-potomac-watch/the-senate-debate-on-the-save-america-act-and-a-talking-filibuster/52bd574d-3dd1-40d6-a117-aa60fe074881",
+      "domain": "wsj.com",
+      "published": "2026-03-13",
+      "publishedAsGiven": "Mar 13, 2026",
+      "snippet": "Donald Trump presses to pass the SAVE America Act, which would require proof of citizenship to register to vote, meaning many driver's ..."
+    },
+    {
+      "query": "balance",
+      "rank": 5,
+      "title": "What is the SAVE Act? Why are married women concerned ...",
+      "url": "https://www.usatoday.com/story/news/politics/2025/04/11/what-is-save-act-2025/83042307007/",
+      "domain": "usatoday.com",
+      "published": "2025-04-13",
+      "publishedAsGiven": "Apr 13, 2025",
+      "snippet": "The GOP-led House of Representatives has passed a voting bill that opponents have said could disenfranchise millions of voters, ..."
+    },
+    {
+      "query": "balance",
+      "rank": 6,
+      "title": "What is the SAVE Act? Voter ID law passes House",
+      "url": "https://www.usatoday.com/story/news/politics/2026/02/12/what-is-the-save-act-voter-id-rules/88642716007/",
+      "domain": "usatoday.com",
+      "published": "2026-02-13",
+      "publishedAsGiven": "Feb 13, 2026",
+      "snippet": "The legislation would require people provide proof of citizenship when registering to vote in federal elections. Here's what that could look ..."
+    },
+    {
+      "query": "balance",
+      "rank": 7,
+      "title": "Will SAVE Act voting requirements impact married women? ...",
+      "url": "https://www.usatoday.com/story/news/politics/2026/02/12/save-act-voting-requirements-house-married-women-elections/88641110007/",
+      "domain": "usatoday.com",
+      "published": "2026-02-12",
+      "publishedAsGiven": "Feb 12, 2026",
+      "snippet": "The SAVE Act would require proof of citizenship and stricter ID rules for voting, despite non‑citizens already being barred from ..."
+    },
+    {
+      "query": "balance",
+      "rank": 8,
+      "title": "What's in the SAVE America Act? Will Senate vote to pass ...",
+      "url": "https://www.usatoday.com/story/news/2026/03/10/is-save-act-dead-will-senate-vote-pass-save-america-act-trump-pushes-voting-bill/89087118007/",
+      "domain": "usatoday.com",
+      "published": "2026-03-10",
+      "publishedAsGiven": "Mar 10, 2026",
+      "snippet": "The SAVE America Act bill includes requirements for voter ID and proof of citizenship to register to vote, but Trump is demanding additional ..."
+    },
+    {
+      "query": "balance",
+      "rank": 9,
+      "title": "SAVE Act concerns married women. What Missouri voters ...",
+      "url": "https://www.usatoday.com/story/news/local/missouri/2025/04/11/save-act-concerns-married-women-voting-missouri/83052694007/",
+      "domain": "usatoday.com",
+      "published": "2025-04-11",
+      "publishedAsGiven": "Apr 11, 2025",
+      "snippet": "The U.S. House passed the SAVE Act, which requires proof of citizenship beyond a driver's license for voter registration. Critics argue the bill ..."
+    },
+    {
+      "query": "balance",
+      "rank": 10,
+      "title": "If the SAVE Act passes, Tennessee residents would need ...",
+      "url": "https://www.usatoday.com/story/news/politics/elections/2026/03/19/save-act-passes-tennessee-documents-needed-passport/89208439007/",
+      "domain": "usatoday.com",
+      "published": "2026-03-19",
+      "publishedAsGiven": "Mar 19, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 30,
+  "dropped": {
+    "fact-checker": 4,
+    "fact-check-words": 1,
+    "after-said": 7,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 3
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:12:18.818Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "The SAVE Act: Overview and Facts",
+      "url": "https://www.americanprogress.org/article/the-save-act-overview-and-facts/",
+      "domain": "americanprogress.org",
+      "snippet": "The legislation would invert the responsibility to verify a person's eligibility and citizenship status from election officials and the ...",
+      "published": "2025-01-31",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "L",
+        "reliability": "high",
+        "name": "Center for American Progress",
+        "page": "https://mediabiasfactcheck.com/center-for-american-progress/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "H.R.7296 - 119th Congress (2025-2026): SAVE America Act",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/7296",
+      "domain": "congress.gov",
+      "snippet": "This bill requires individuals to provide documentary proof of U.S. citizenship when registering to vote, and requires photo identification to ...",
+      "published": "2026-01-30",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Why the SAVE America Act . . . Won't",
+      "url": "https://www.wsj.com/opinion/save-america-act-voter-id-donald-trump-senate-filibuster-a2331419",
+      "domain": "wsj.com",
+      "snippet": "President Trump says the legislation is a salvation from mass voter fraud. Sen. Chuck Schumer says it's an effort at mass voter suppression, “ ...",
+      "published": "2026-03-17",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Wall Street Journal",
+        "page": "https://mediabiasfactcheck.com/wall-street-journal/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "The Senate Debate on the SAVE America Act and ...",
+      "url": "https://www.wsj.com/podcasts/opinion-potomac-watch/the-senate-debate-on-the-save-america-act-and-a-talking-filibuster/52bd574d-3dd1-40d6-a117-aa60fe074881",
+      "domain": "wsj.com",
+      "snippet": "Donald Trump presses to pass the SAVE America Act, which would require proof of citizenship to register to vote, meaning many driver's ...",
+      "published": "2026-03-13",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Wall Street Journal",
+        "page": "https://mediabiasfactcheck.com/wall-street-journal/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "What is the SAVE Act? Why are married women concerned ...",
+      "url": "https://www.usatoday.com/story/news/politics/2025/04/11/what-is-save-act-2025/83042307007/",
+      "domain": "usatoday.com",
+      "snippet": "The GOP-led House of Representatives has passed a voting bill that opponents have said could disenfranchise millions of voters, ...",
+      "published": "2025-04-13",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "high",
+        "name": "USA Today",
+        "page": "https://mediabiasfactcheck.com/usa-today-2/"
+      },
+      "weight": "full",
+      "n": 5
+    }
+  ]
+}

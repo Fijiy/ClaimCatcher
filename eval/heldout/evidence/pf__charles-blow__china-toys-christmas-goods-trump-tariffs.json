@@ -1,0 +1,312 @@
+{
+  "frozenAt": "2026-10-27T03:03:16.956Z",
+  "refilteredAt": "2026-10-27T03:32:39.909Z",
+  "id": "pf/charles-blow/china-toys-christmas-goods-trump-tariffs",
+  "said": "2025-05-05",
+  "queries": {
+    "fact": "China makes 80% of all toys and 90% of all Christmas goods sold in the U.S.",
+    "claim": "China makes 80% of all toys and 90% of all Christmas goods sold in the U.S. Charles Blow"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1668.016374999992,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2718.369125000012,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 275.6452910000007,
+      "results": 3
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "What percentage of US toys and Christmas goods are ...",
+      "url": "https://www.aljazeera.com/news/2025/5/11/what-percentage-of-us-toys-and-christmas-goods-are-imported-from-china",
+      "domain": "aljazeera.com",
+      "published": "2025-05-11",
+      "publishedAsGiven": "May 11, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Are most toys and Christmas goods sold in the U.S. ...",
+      "url": "https://politifact.com/factchecks/2025/may/09/charles-blow/china-toys-christmas-goods-trump-tariffs/",
+      "domain": "politifact.com",
+      "published": "2025-05-09",
+      "publishedAsGiven": "May 9, 2025",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "It's estimated that around 80 percent of toys in the U.S. are ...",
+      "url": "https://www.facebook.com/WBTVNews3/posts/its-estimated-that-around-80-percent-of-toys-in-the-us-are-manufactured-in-china/1311769930979506/",
+      "domain": "facebook.com",
+      "published": "2025-12-27",
+      "publishedAsGiven": "10 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Are most toys and Christmas goods sold in the U.S. ...",
+      "url": "https://www.statesman.com/story/news/politics/politifact/2025/05/12/around-80-of-u-s-toys-and-christmas-goods-are-manufactured-in-china/83158743007/",
+      "domain": "statesman.com",
+      "published": "2025-05-12",
+      "publishedAsGiven": "May 12, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "As Christmas rush looms, how do China-made toys find ...",
+      "url": "https://www.bbc.com/news/articles/c5djvyde0y1jo",
+      "domain": "bbc.com",
+      "published": "2026-10-14",
+      "publishedAsGiven": "Oct 14, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "US toy prices rise as tariffs push up costs ahead of Christmas",
+      "url": "https://www.youtube.com/watch?v=uH6vFWG2eu4",
+      "domain": "youtube.com",
+      "published": "2025-12-27",
+      "publishedAsGiven": "10 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Retailers Fear Toy Shortages at Christmas as Tariffs ...",
+      "url": "https://www.nytimes.com/2025/04/29/business/trump-tariffs-christmas-china.html",
+      "domain": "nytimes.com",
+      "published": "2025-04-30",
+      "publishedAsGiven": "Apr 30, 2025",
+      "snippet": "Factories in China produce nearly 80 percent of all toys and 90 percent of Christmas goods sold in America. The production of toys ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "The Toy Association Hails 'Historic Win' in $30B U.S.-China ...",
+      "url": "https://toybook.com/30-for-30-toy-tariff-update/",
+      "domain": "toybook.com",
+      "published": "2026-09-30",
+      "publishedAsGiven": "Sep 30, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "President Trump's China tariffs are threatening Christmas. ...",
+      "url": "https://www.facebook.com/nytimes/posts/president-trumps-china-tariffs-are-threatening-christmas-toy-makers-childrens-sh/1072327368083059/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "The U.S. toy industry is going to be one of the hardest hit amid ...",
+      "url": "https://www.facebook.com/ABCNewsLive/posts/the-us-toy-industry-is-going-to-be-one-of-the-hardest-hit-amid-pres-trumps-sweep/1069707515013376/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Are most toys and Christmas goods sold in the U.S. ... - PolitiFact",
+      "url": "https://politifact.com/factchecks/2025/may/09/charles-blow/china-toys-christmas-goods-trump-tariffs/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Are most toys and Christmas goods sold in the U.S. ...",
+      "url": "https://www.statesman.com/story/news/politics/politifact/2025/05/12/around-80-of-u-s-toys-and-christmas-goods-are-manufactured-in-china/83158743007/",
+      "domain": "statesman.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "What percentage of US toys and Christmas goods are imported ...",
+      "url": "https://www.aljazeera.com/news/2025/5/11/what-percentage-of-us-toys-and-christmas-goods-are-imported-from-china",
+      "domain": "aljazeera.com",
+      "published": null,
+      "dropped": "after-said-link-date"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Austin American-Statesman on X: \"Data supports Charles ...",
+      "url": "https://x.com/statesman/status/1921951052976296123",
+      "domain": "x.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Charles Blow – Are most toys and Christmas goods sold in the ...",
+      "url": "https://wnymedia.net/2025/05/12/charles-blow-are-most-toys-and-christmas-goods-sold-in-the-u-s-manufactured-in-china-data-supports-that/",
+      "domain": "wnymedia.net",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Retailers Fear Toy Shortages at Christmas as Tariffs Freeze ...",
+      "url": "https://www.nytimes.com/2025/04/29/business/trump-tariffs-christmas-china.html",
+      "domain": "nytimes.com",
+      "published": null,
+      "snippet": "Factories in China produce nearly 80 percent of all toys and 90 percent of Christmas goods sold in America. The production of toys ... Missing: Charles | Show results with:"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Poltifact Texas - Austin American-Statesman",
+      "url": "https://www.statesman.com/news/politics/politifact/",
+      "domain": "statesman.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "President Trump's China tariffs are threatening Christmas. Toy ...",
+      "url": "https://www.facebook.com/nytimes/posts/president-trumps-china-tariffs-are-threatening-christmas-toy-makers-childrens-sh/1072327368083059/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "U.S. toy makers breathe sigh of relief after tariff reprieve - CGTN",
+      "url": "https://news.cgtn.com/news/2025-05-16/U-S-toy-makers-breathe-sigh-of-relief-after-tariff-reprieve-1DpSbpm1ioM/p.html",
+      "domain": "news.cgtn.com",
+      "published": null,
+      "dropped": "after-said-link-date"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "145% tariffs on China are clobbering the toy industry - ABC12",
+      "url": "https://www.abc12.com/news/business/145-tariffs-on-china-are-clobbering-the-toy-industry/article_a50cebac-1120-57d3-bf90-23dc9d8c81e1.html",
+      "domain": "abc12.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Retailers begin fearing about impact Trump's tariffs will ...",
+      "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/3397731/retailers-fear-impact-trump-tariffs-christmas/?srsltid=AYCX9vIgq26pqsxzWIYmZfUQmThXZ86_1U6d9V1SvUgtdavYtaxB0opj",
+      "domain": "washingtonexaminer.com",
+      "published": "2025-05-01",
+      "publishedAsGiven": "May 1, 2025",
+      "snippet": "Chinese factories produce 80% of all toys sold in the U.S., and they produce 90% of all Christmas goods sold in the U.S."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Seeing Trump 2.0 tariffs coming, America's toymakers gird ...",
+      "url": "https://www.reuters.com/business/retail-consumer/seeing-trump-20-tariffs-coming-americas-toymakers-gird-ruckus-2024-12-18/",
+      "domain": "reuters.com",
+      "published": "2024-12-18",
+      "publishedAsGiven": "Dec 18, 2024",
+      "snippet": "El Segundo, California-based toy giant will get less than 40% of its goods from China - compared to the industry average of over 80%. Kids2 is ..."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Trump scores first big trade deal. What comes next? Here's ...",
+      "url": "https://www.usatoday.com/story/news/politics/2025/05/08/trump-trade-deal-uk-whats-next-china-mexico-canada/83496170007/",
+      "domain": "usatoday.com",
+      "published": "2025-05-08",
+      "publishedAsGiven": "May 8, 2025",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 23,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 4,
+    "after-said": 6,
+    "maybe-after-said": 2,
+    "after-said-link-date": 2,
+    "undated": 3
+  },
+  "linkDatedKept": 1,
+  "searchedAt": "2026-10-27T03:03:11.393Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Retailers Fear Toy Shortages at Christmas as Tariffs ...",
+      "url": "https://www.nytimes.com/2025/04/29/business/trump-tariffs-christmas-china.html",
+      "domain": "nytimes.com",
+      "snippet": "Factories in China produce nearly 80 percent of all toys and 90 percent of Christmas goods sold in America. The production of toys ...",
+      "published": "2025-04-30",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "New York Times",
+        "page": "https://mediabiasfactcheck.com/new-york-times/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Retailers begin fearing about impact Trump's tariffs will ...",
+      "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/3397731/retailers-fear-impact-trump-tariffs-christmas/?srsltid=AYCX9vIgq26pqsxzWIYmZfUQmThXZ86_1U6d9V1SvUgtdavYtaxB0opj",
+      "domain": "washingtonexaminer.com",
+      "snippet": "Chinese factories produce 80% of all toys sold in the U.S., and they produce 90% of all Christmas goods sold in the U.S.",
+      "published": "2025-05-01",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Washington Examiner",
+        "page": "https://mediabiasfactcheck.com/washington-examiner/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Seeing Trump 2.0 tariffs coming, America's toymakers gird ...",
+      "url": "https://www.reuters.com/business/retail-consumer/seeing-trump-20-tariffs-coming-americas-toymakers-gird-ruckus-2024-12-18/",
+      "domain": "reuters.com",
+      "snippet": "El Segundo, California-based toy giant will get less than 40% of its goods from China - compared to the industry average of over 80%. Kids2 is ...",
+      "published": "2024-12-18",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "C",
+        "reliability": "very high",
+        "name": "Reuters",
+        "page": "https://mediabiasfactcheck.com/reuters/"
+      },
+      "weight": "full",
+      "n": 3
+    }
+  ]
+}

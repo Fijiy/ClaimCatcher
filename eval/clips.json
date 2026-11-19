@@ -1,0 +1,1703 @@
+[
+  {
+    "id": "cnn-2024-biden-opening-economy",
+    "title": "Biden's first answer on the economy: 'what Mr. Trump left me', insulin price",
+    "speakers": [
+      {
+        "name": "Joe Biden",
+        "party": "D",
+        "role": "President, Democratic presumptive nominee"
+      },
+      {
+        "name": "Jake Tapper",
+        "party": "none",
+        "role": "CNN moderator (question tail possible at the start only)"
+      }
+    ],
+    "event": "CNN Presidential Debate, Atlanta",
+    "date": "2024-06-27",
+    "kind": "debate",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=-v-8wJkmwBY",
+      "platform": "YouTube",
+      "uploader": "CNN (channel UCupvZG-5ko_eiXAupbDfxWw), uploaded 2024-06-28",
+      "official_uploader": true,
+      "start_s": 200.2,
+      "end_s": 313.4,
+      "timestamps_verified": "asr"
+    },
+    "terms": {
+      "copyright": "copyrighted (Cable News Network / Warner Bros. Discovery)",
+      "terms_summary": "YouTube Terms of Service (effective 2023-12-15): users may not access, reproduce, download, distribute, display or otherwise use any Content except as expressly authorized by the Service (i.e., streaming/embedded playback) or with written permission; may not access the Service by automated means (robots, scrapers) except public search engines per robots.txt or with YouTube's prior written permission.",
+      "terms_url": "https://www.youtube.com/t/terms",
+      "eval_use_note": "Harness plays the video in a browser tab via YouTube's normal player; no media is downloaded or redistributed. Caption JSON was fetched once with yt-dlp only to locate timestamps. If the harness drives playback automatically (headless/scripted), that arguably falls under the 'automated means' restriction; keep it to normal, attended playback or seek permission. Reference transcript text is quoted from the network's own published transcript for internal evaluation only; do not republish."
+    },
+    "captions": {
+      "available": true,
+      "kind": "human",
+      "how_checked": "yt-dlp --list-subs on 2026-10-25: 'Available subtitles' lists en-uYU-mmqFLq8 'English - CC1' and en-JkeT_87f4cc 'English - DTVCC1' (broadcast closed captions). The 'automatic captions' entries are only translations of those CC tracks; there is no separate YouTube ASR track. CC1 is live real-time stenography, ALL CAPS, with many errors (e.g. 'HOMEWORK THE GREATEST ECONOMY', 'BLACK BEAR BLACK UNEMPLOYMENT') and lags the audio by a few seconds, so it was not used as the reference."
+    },
+    "reference_transcript": {
+      "text": "BIDEN: [unclear: We | (nothing)] got to take a look at what I was left when I became president, what Mr. Trump left me. We had an economy that was in free fall. The pandemic was so badly handled. Many people were dying. All he said was, it's not that serious. Just inject a little bleach into your arm. You'll be all right. The economy collapsed. There were no jobs. Unemployment rate rose to 15%. It was terrible. And so what we had to do was try to put things back together again. that's exactly what we began to do. We created 15,000 new jobs. We brought out [unclear: the | a] position where we have 800,000 new manufacturing jobs. But there's more to be done. There's more to be done. Working class people are still in trouble. I come from Scranton, [unclear: Pennsylvania. I come of | I'm from] a household where the kitchen [unclear: table, if the | tables and] things weren't able to be met during the month, it was a problem. Price of eggs, the price of gas, the price of housing, the price of a whole range of things. That's why I'm working so hard to make sure I deal with those problems. And we're going to make sure that we reduce the price of housing. We're going to make sure we build 2 million new units. We're going to make sure we cap rents so corporate greed can't take over. The combination, of what I was left with and corporate greed is the reason why we're in this problem right now. In addition to that, we're in a situation where, if you take a look at all that was done in his administration, he didn't do much at all. By the time he left, things were in chaos, literally chaos. And so we put things back together. We created, I said, those jobs. We made sure we had a situation where we now brought down the price of prescription drugs, which is a major issue for many people. to $15 for an insulin shot as opposed to $400. No senior has to pay more than $200 for any drug, all the drugs they can include beginning next year. And the situation is making, and we're going to make that available to everybody, to all Americans. So we're working to bring down the price [unclear: (nothing) | of] around the kitchen table, and that's what we're going to get done.",
+      "source_url": "https://www.cnn.com/2024/06/27/politics/read-biden-trump-debate-rush-transcript/index.html",
+      "source_kind": "machine consensus (Whisper large-v3 + Parakeet TDT 0.6B v2; ties broken by: network transcript (CNN 'rush transcript'))",
+      "fidelity": "machine consensus",
+      "needs_listening_check": false
+    },
+    "claims": [
+      {
+        "text": "All he said was, it's not that serious. Just inject a little bleach in your arm. It'd be all right.",
+        "approx_s": 211.3,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Not rated for this debate by PolitiFact or FactCheck.org (FactCheck.org's 2024-06-28 debate piece does not cover it). Trump in April 2020 mused about injecting disinfectant; he did not say 'bleach in your arm'."
+      },
+      {
+        "text": "Unemployment rate rose to 15 percent.",
+        "approx_s": 219.1,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated. BLS U-3 peaked at 14.8% (April 2020), so approximately right."
+      },
+      {
+        "text": "We created 15,000 new jobs.",
+        "approx_s": 228.0,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated. Apparent slip for ~15 million jobs; literally wrong as spoken."
+      },
+      {
+        "text": "We brought on – in a position where we have 800,000 new manufacturing jobs.",
+        "approx_s": 230.4,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated in the debate roundups checked."
+      },
+      {
+        "text": "We brought down the price of prescription drugs ... to $15 for – for an insulin shot, as opposed to $400.",
+        "approx_s": 286.5,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "Half True",
+            "url": "https://www.politifact.com/article/2024/jun/28/2024-presidential-debate-fact-check-biden-trump/",
+            "date": "2024-06-28"
+          }
+        ],
+        "mapped_label": "Misleading",
+        "mapping_basis": "firm",
+        "mapping_note": "PolitiFact debate roundup (with KFF Health News contributors): the $35 Medicare insulin cap is real, 'But he flubbed the number during the debate, saying it was lowered to $15.' Related standalone check: https://www.politifact.com/factchecks/2024/apr/02/joe-biden/biden-is-right-about-35-insulin-cap-but-exaggerate/"
+      },
+      {
+        "text": "No senior has to pay more than $200 for any drug – all the drugs they (inaudible) beginning next year.",
+        "approx_s": 297.4,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated. The Inflation Reduction Act's 2025 Part D out-of-pocket cap is $2,000 a year, not $200."
+      }
+    ],
+    "notes": "Single speaker (Biden), his first answer of the debate. Timestamps come from the live CC1 captions, which lag the audio; on the ABC upload the same kind of captions lagged 3-6.5 s, and the window was shifted ~5 s earlier to allow for that. Confirm by listening: the tail of Tapper's question ('...than they were under President Trump?') may be audible in the first 1-2 s, and Tapper's 'Thank you. President Trump?' may begin at the very end. Biden's delivery is hoarse and halting, which makes this a hard WER case. The CNN rush transcript marks '(ph)' and '(inaudible)'. The adjacent clip cnn-2024-trump-greatest-economy starts where this one ends (windows overlap by ~2 s). Transcript pass (2026-10-25): reference rebuilt by machine consensus, no human listening; 382 words agreed by both models, 10 conflicts settled by the published text, 5 left [unclear]. Times from the models' word timings.",
+    "group": "debates"
+  },
+  {
+    "id": "cnn-2024-trump-greatest-economy",
+    "title": "Trump rebuttal: 'greatest economy in the history of our country', 'only jobs he created are for illegal immigrants'",
+    "speakers": [
+      {
+        "name": "Donald Trump",
+        "party": "R",
+        "role": "Former president, Republican presumptive nominee"
+      },
+      {
+        "name": "Jake Tapper",
+        "party": "none",
+        "role": "CNN moderator"
+      }
+    ],
+    "event": "CNN Presidential Debate, Atlanta",
+    "date": "2024-06-27",
+    "kind": "debate",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=-v-8wJkmwBY",
+      "platform": "YouTube",
+      "uploader": "CNN (channel UCupvZG-5ko_eiXAupbDfxWw), uploaded 2024-06-28",
+      "official_uploader": true,
+      "start_s": 313.4,
+      "end_s": 375.2,
+      "timestamps_verified": "asr"
+    },
+    "terms": {
+      "copyright": "copyrighted (Cable News Network / Warner Bros. Discovery)",
+      "terms_summary": "YouTube Terms of Service (effective 2023-12-15): users may not access, reproduce, download, distribute, display or otherwise use any Content except as expressly authorized by the Service (i.e., streaming/embedded playback) or with written permission; may not access the Service by automated means (robots, scrapers) except public search engines per robots.txt or with YouTube's prior written permission.",
+      "terms_url": "https://www.youtube.com/t/terms",
+      "eval_use_note": "Harness plays the video in a browser tab via YouTube's normal player; no media is downloaded or redistributed. Caption JSON was fetched once with yt-dlp only to locate timestamps. If the harness drives playback automatically (headless/scripted), that arguably falls under the 'automated means' restriction; keep it to normal, attended playback or seek permission. Reference transcript text is quoted from the network's own published transcript for internal evaluation only; do not republish."
+    },
+    "captions": {
+      "available": true,
+      "kind": "human",
+      "how_checked": "yt-dlp --list-subs on 2026-10-25: 'Available subtitles' lists en-uYU-mmqFLq8 'English - CC1' and en-JkeT_87f4cc 'English - DTVCC1' (broadcast closed captions). The 'automatic captions' entries are only translations of those CC tracks; there is no separate YouTube ASR track. CC1 is live real-time stenography, ALL CAPS, with many errors (e.g. 'HOMEWORK THE GREATEST ECONOMY', 'BLACK BEAR BLACK UNEMPLOYMENT') and lags the audio by a few seconds, so it was not used as the reference."
+    },
+    "reference_transcript": {
+      "text": "TAPPER: Thank you. President Trump?\nTRUMP: [unclear: We have | We're] the greatest economy in the history of our country. We have never done so well. Every Everybody was amazed by it. Other countries were copying us. We got hit with COVID. And when we did, we spent the money necessary so we wouldn't end up in a Great Depression, the likes of which we had in 1929. By the time we finished, so we did a great job. We got a lot of credit for the economy, a lot of credit for the military, and no wars, and so many other things. Everything was rocking good. But the thing we never got the credit for, and we should have, is getting us out of that COVID mess. He created mandates that was a disaster for our country. But other than that, we had [unclear: (nothing) | we had We had] given them back a a country where the stock market actually was higher than pre-COVID, and nobody thought that was even possible. The only jobs he created are for illegal immigrants and bounce back jobs, [unclear: the | a] bounce back from the COVID. He has not done a good job. He's done a poor job, and inflation's killing our country. It is absolutely killing us.",
+      "source_url": "https://www.cnn.com/2024/06/27/politics/read-biden-trump-debate-rush-transcript/index.html",
+      "source_kind": "machine consensus (Whisper large-v3 + Parakeet TDT 0.6B v2; ties broken by: network transcript (CNN 'rush transcript'))",
+      "fidelity": "machine consensus",
+      "needs_listening_check": false
+    },
+    "claims": [
+      {
+        "text": "We had the greatest economy in the history of our country.",
+        "approx_s": 315.4,
+        "ratings": [
+          {
+            "org": "FactCheck.org",
+            "rating": "no rating — narrative",
+            "url": "https://www.factcheck.org/2024/06/factchecking-the-biden-trump-debate/",
+            "date": "2024-06-28"
+          }
+        ],
+        "mapped_label": "False",
+        "mapping_basis": "judgment",
+        "mapping_note": "FactCheck.org: Trump 'falsely said that prior to the pandemic, the U.S. had \"the greatest economy in the history of our country.\" ... it's not true, at least not by the objective measure typically used to gauge the health of the economy' (real GDP growth peaked at ~3% in 2018)."
+      },
+      {
+        "text": "We had given them back a – a country where the stock market actually was higher than pre-COVID.",
+        "approx_s": 354.3,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated. Major indexes in January 2021 were above their February 2020 peaks, so broadly accurate."
+      },
+      {
+        "text": "The only jobs he created are for illegal immigrants and bounceback jobs; they're bounced back from the COVID.",
+        "approx_s": 363.1,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "False",
+            "url": "https://www.politifact.com/article/2024/jun/28/2024-presidential-debate-fact-check-biden-trump/",
+            "date": "2024-06-28"
+          },
+          {
+            "org": "FactCheck.org",
+            "rating": "no rating — narrative",
+            "url": "https://www.factcheck.org/2024/06/factchecking-the-biden-trump-debate/",
+            "date": "2024-06-28"
+          }
+        ],
+        "mapped_label": "False",
+        "mapping_basis": "firm",
+        "mapping_note": "PolitiFact debate roundup rated it False (earlier standalone check: https://www.politifact.com/factchecks/2024/mar/12/donald-trump/fact-checking-donald-trumps-dubious-claim-about-jo/). FactCheck.org: 'there is no evidence that only \"illegal immigrants\" have seen employment gains'; employment was above its pre-pandemic level."
+      }
+    ],
+    "notes": "Mostly one speaker (Trump), with moderator Tapper handing over at the start. Timing comes from the live CC1 captions (they lag the audio by ~3-6 s); confirm by listening. Tapper's 'Thank you. President Biden?' may be audible right at the end. 'No wars' and 'spent the money ... so we wouldn't end up in a Great Depression' are left out as vague or counterfactual. Directly follows clip cnn-2024-biden-opening-economy. Transcript pass (2026-10-25): reference rebuilt by machine consensus, no human listening; 196 words agreed by both models, 5 conflicts settled by the published text, 3 left [unclear]. Times from the models' word timings.",
+    "group": "debates"
+  },
+  {
+    "id": "abc-2024-trump-springfield-pets",
+    "title": "Trump's Springfield 'eating the dogs' claim and David Muir's live fact-check",
+    "speakers": [
+      {
+        "name": "Donald Trump",
+        "party": "R",
+        "role": "Former president, Republican nominee"
+      },
+      {
+        "name": "David Muir",
+        "party": "none",
+        "role": "ABC News moderator"
+      }
+    ],
+    "event": "ABC News Presidential Debate, Philadelphia",
+    "date": "2024-09-10",
+    "kind": "debate",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=4dOgWZsDB6Q",
+      "platform": "YouTube",
+      "uploader": "ABC News (channel UCBi2mrWuNuyYy4gbM6fU18Q), uploaded 2024-09-11",
+      "official_uploader": true,
+      "start_s": 1753.7,
+      "end_s": 1848.5,
+      "timestamps_verified": "asr"
+    },
+    "terms": {
+      "copyright": "copyrighted (ABC News / The Walt Disney Company)",
+      "terms_summary": "YouTube Terms of Service (effective 2023-12-15): users may not access, reproduce, download, distribute, display or otherwise use any Content except as expressly authorized by the Service (i.e., streaming/embedded playback) or with written permission; may not access the Service by automated means (robots, scrapers) except public search engines per robots.txt or with YouTube's prior written permission.",
+      "terms_url": "https://www.youtube.com/t/terms",
+      "eval_use_note": "Harness plays the video in a browser tab via YouTube's normal player; no media is downloaded or redistributed. Caption JSON was fetched once with yt-dlp only to locate timestamps. If the harness drives playback automatically (headless/scripted), that arguably falls under the 'automated means' restriction; keep it to normal, attended playback or seek permission. Reference transcript text is quoted from the network's own published transcript for internal evaluation only; do not republish."
+    },
+    "captions": {
+      "available": true,
+      "kind": "human",
+      "how_checked": "yt-dlp --list-subs on 2026-10-25: 'Available subtitles' lists en-uYU-mmqFLq8 'English - CC1' and en-JkeT_87f4cc 'English - DTVCC1' (broadcast closed captions). 'Available automatic captions' also includes en-orig (YouTube ASR). CC1 is live broadcast captioning, ALL CAPS, and runs about 3-6.5 s behind the ASR/audio (measured at 5 anchor phrases)."
+    },
+    "reference_transcript": {
+      "text": "TRUMP: just to go into another subject. What they have done to our country by allowing these millions and millions of people to come into our country and look at what's happening to the towns all over the United States. And a lot of towns don't want to talk Not going to be Aurora or Springfield. A lot of towns don't want to talk about it because they're so embarrassed by it. In Springfield, they're eating the dogs, the people that came in. They're eating the cats. They're eating the pets of the people that live there. And this is what's happening in our country. And it's a shame. As far as rallies are concerned, as far as the reason they go is they like what I say. They want to bring our country back. They want to make America great again. It's a very simple phrase: make America great again. She's destroying this country. And if she becomes president, this country doesn't have a chance of success. Not only success, we'll end up being Venezuela on steroids.\nDAVID MUIR: I just want to clarify here. You bring up Springfield, Ohio, and ABC News did reach out to the city manager there. He told us there have been no credible reports of specific claims of pets being harmed, injured, or abused by individuals within the immigrant community.\nTRUMP: Well, I've seen people on television.\nDAVID MUIR: Let me just say here, [unclear: this is | (nothing)]\nTRUMP: the people on television say my dog was taken and used for food. So maybe he said that, and maybe that's a good thing to say for a city manager.\nDAVID MUIR: I'm not taking this from television.\nTRUMP: [unclear: (nothing) | But] The people on television [unclear: say my | are saying their] dog was eaten by the people that went there.\nDAVID MUIR: Again, the Springfield city Manager says there's no evidence of that. Vice President Harris, I'll let you respond to the rest of what you've heard.",
+      "source_url": "https://abcnews.go.com/Politics/harris-trump-presidential-debate-transcript/story?id=113560542",
+      "source_kind": "machine consensus (Whisper large-v3 + Parakeet TDT 0.6B v2; ties broken by: network transcript (ABC News))",
+      "fidelity": "machine consensus",
+      "needs_listening_check": false
+    },
+    "claims": [
+      {
+        "text": "What they have done to our country by allowing these millions and millions of people to come into our country.",
+        "approx_s": 1756.0,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Too vague to rate as said here. PolitiFact rated a different line from the same debate (~900 s, 'millions and millions of people ... pouring into our country monthly ... 21 million') False; that rating does not cover this sentence."
+      },
+      {
+        "text": "In Springfield, they're eating the dogs. The people that came in. They're eating the cats. They're eating -- they're eating the pets of the people that live there.",
+        "approx_s": 1772.8,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "Pants on Fire",
+            "url": "https://www.politifact.com/factchecks/2024/sep/11/donald-trump/trump-repeats-baseless-claims-that-haitian-immigra/",
+            "date": "2024-09-11"
+          },
+          {
+            "org": "FactCheck.org",
+            "rating": "no rating — narrative",
+            "url": "https://www.factcheck.org/2024/09/factchecking-the-harris-trump-debate/",
+            "date": "2024-09-11"
+          }
+        ],
+        "mapped_label": "False",
+        "mapping_basis": "firm",
+        "mapping_note": "PolitiFact (Jeff Cercone): Pants on Fire; 'The claim appears to stem from an unverified secondhand Facebook post.' FactCheck.org: 'a debunked rumor'; 'City police have said that there's no evidence to support the claims.'"
+      },
+      {
+        "text": "The people on television say my dog was taken and used for food.",
+        "approx_s": 1828.4,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated. It's a claim about what people said on TV, not about pets being eaten; it only restates the debunked rumor."
+      }
+    ],
+    "notes": "Includes crosstalk: Muir fact-checks Trump live and they talk over each other from about 1826 to 1843 s, so this is a good speaker-attribution test. Muir's statement (city manager: no credible reports) is the moderator's, not a candidate claim. 'Venezuela on steroids' is a prediction. Timestamps come from YouTube's ASR (en-orig) track, which follows the audio. The CC1 track runs ~5 s later. Harris's laughter/reaction may be audible off-mic. Transcript pass (2026-10-25): reference rebuilt by machine consensus, no human listening; 302 words agreed by both models, 6 conflicts settled by the published text, 3 left [unclear]. Times from the models' word timings.",
+    "group": "debates"
+  },
+  {
+    "id": "abc-2024-harris-afghanistan-camp-david",
+    "title": "Harris on Afghanistan: 'not one member ... in a combat zone', Trump 'invited the Taliban to Camp David'",
+    "speakers": [
+      {
+        "name": "Kamala Harris",
+        "party": "D",
+        "role": "Vice President, Democratic nominee"
+      }
+    ],
+    "event": "ABC News Presidential Debate, Philadelphia",
+    "date": "2024-09-10",
+    "kind": "debate",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=4dOgWZsDB6Q",
+      "platform": "YouTube",
+      "uploader": "ABC News (channel UCBi2mrWuNuyYy4gbM6fU18Q), uploaded 2024-09-11",
+      "official_uploader": true,
+      "start_s": 4358.7,
+      "end_s": 4462.9,
+      "timestamps_verified": "asr"
+    },
+    "terms": {
+      "copyright": "copyrighted (ABC News / The Walt Disney Company)",
+      "terms_summary": "YouTube Terms of Service (effective 2023-12-15): users may not access, reproduce, download, distribute, display or otherwise use any Content except as expressly authorized by the Service (i.e., streaming/embedded playback) or with written permission; may not access the Service by automated means (robots, scrapers) except public search engines per robots.txt or with YouTube's prior written permission.",
+      "terms_url": "https://www.youtube.com/t/terms",
+      "eval_use_note": "Harness plays the video in a browser tab via YouTube's normal player; no media is downloaded or redistributed. Caption JSON was fetched once with yt-dlp only to locate timestamps. If the harness drives playback automatically (headless/scripted), that arguably falls under the 'automated means' restriction; keep it to normal, attended playback or seek permission. Reference transcript text is quoted from the network's own published transcript for internal evaluation only; do not republish."
+    },
+    "captions": {
+      "available": true,
+      "kind": "human",
+      "how_checked": "yt-dlp --list-subs on 2026-10-25: 'Available subtitles' lists en-uYU-mmqFLq8 'English - CC1' and en-JkeT_87f4cc 'English - DTVCC1' (broadcast closed captions). 'Available automatic captions' also includes en-orig (YouTube ASR). CC1 is live broadcast captioning, ALL CAPS, and runs about 3-6.5 s behind the ASR/audio (measured at 5 anchor phrases)."
+    },
+    "reference_transcript": {
+      "text": "HARRIS: Well, I will tell you, I agreed with President Biden's decision to pull out of Afghanistan. Four presidents said they would, and Joe Biden did. And as a result, America's taxpayers are not paying the $300 million a day we were paying for that endless war. And as of today, there is not one member of the United States military who is in active duty in a combat zone in any war zone around the world, the first time this century. But let's understand how we got to where we are. Donald Trump, when he was president, negotiated one of the weakest deals you can imagine. He calls himself a dealmaker Even his national security adviser said it was a weak, terrible deal. And here's how it went down: he bypassed the Afghan government. He negotiated directly with a terrorist organization called the Taliban. The negotiation involved the Taliban getting 5,000 terrorists, Taliban terrorists, released. And get this, no, get this. And the president at the time invited the Taliban to Camp David, a place of storied significance for us as Americans, a place where we honor the importance of American diplomacy, where we invite and receive respected world leaders. And this former president, as president, invited them to Camp David, because he does not again appreciate the role and responsibility of the President of the United States to be Commander-in-Chief with a level of respect.",
+      "source_url": "https://abcnews.go.com/Politics/harris-trump-presidential-debate-transcript/story?id=113560542",
+      "source_kind": "machine consensus (Whisper large-v3 + Parakeet TDT 0.6B v2; ties broken by: network transcript (ABC News))",
+      "fidelity": "machine consensus",
+      "needs_listening_check": false
+    },
+    "claims": [
+      {
+        "text": "Four presidents said they would, and Joe Biden did.",
+        "approx_s": 4364.3,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated."
+      },
+      {
+        "text": "America's taxpayers are not paying the $300 million a day we were paying for that endless war.",
+        "approx_s": 4369.6,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated in PolitiFact/FactCheck.org debate pieces (likely from the Brown University Costs of War estimate, averaged over 20 years)."
+      },
+      {
+        "text": "As of today, there is not one member of the United States military who is in active duty in a combat zone in any war zone around the world, the first time this century.",
+        "approx_s": 4376.3,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "Mostly False",
+            "url": "https://www.politifact.com/factchecks/2024/sep/11/kamala-harris/why-harris-debate-remarks-about-us-military-in-com/",
+            "date": "2024-09-11"
+          }
+        ],
+        "mapped_label": "False",
+        "mapping_basis": "judgment",
+        "mapping_note": "Mostly False mapped to False: the literal fact is wrong, not just the impression. PolitiFact (Sara Swann): 'The Defense Department confirmed the U.S. military is not engaged in a war. But Harris' statement ignores critical facts. There are thousands of U.S. military service members stationed in areas that are considered combat zones.'"
+      },
+      {
+        "text": "Even his national security adviser said it was a weak, terrible deal.",
+        "approx_s": 4399.8,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated."
+      },
+      {
+        "text": "He bypassed the Afghan government. He negotiated directly with a terrorist organization called the Taliban.",
+        "approx_s": 4406.2,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated; the Doha talks did exclude the Afghan government."
+      },
+      {
+        "text": "The negotiation involved the Taliban getting 5,000 terrorists, Taliban terrorists released.",
+        "approx_s": 4412.3,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "PolitiFact's roundup gives no rating but notes the deal 'called for the release of up to 5,000 Taliban prisoners held by the Afghan government' and that the releases happened."
+      },
+      {
+        "text": "The president at the time invited the Taliban to Camp David.",
+        "approx_s": 4422.9,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "True",
+            "url": "https://www.politifact.com/article/2024/sep/11/2024-presidential-debate-fact-check-harris-trump/",
+            "date": "2024-09-11"
+          }
+        ],
+        "mapped_label": "True",
+        "mapping_basis": "firm",
+        "mapping_note": "PolitiFact debate roundup: 'Trump invited the Taliban to meet at Camp David before canceling the meeting' (planned Sept. 2019 meeting)."
+      }
+    ],
+    "notes": "One speaker (Harris). Muir's Afghanistan question ends just before 4358 s; Muir's 'Vice President Harris, thank you' comes at ~4479 s, after the window. Timestamps come from YouTube's ASR (en-orig) track. The window ends at 'with a level of respect' (~4462 s), and the rest of her answer (~4462-4478 s) is cut. A good mixed-verdict clip: one True and one Mostly False (mapped False) claim in the same answer. Transcript pass (2026-10-25): reference rebuilt by machine consensus, no human listening; 234 words agreed by both models, 5 conflicts settled by the published text, 0 left [unclear]. Times from the models' word timings.",
+    "group": "debates"
+  },
+  {
+    "id": "cbs-2024-walz-iran-tbi-headaches",
+    "title": "Walz on Iran: Trump exited nuclear deal; called troops' brain injuries 'headaches'",
+    "speakers": [
+      {
+        "name": "Tim Walz",
+        "party": "D",
+        "role": "Governor of Minnesota, Democratic VP nominee"
+      },
+      {
+        "name": "Margaret Brennan",
+        "party": "none",
+        "role": "CBS News moderator"
+      }
+    ],
+    "event": "CBS News Vice Presidential Debate, New York",
+    "date": "2024-10-01",
+    "kind": "debate",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=jEphfGpJjc8",
+      "platform": "YouTube",
+      "uploader": "CBS News (channel UC8p1vwvWtl6T73JiExfWs1g), uploaded 2024-10-02",
+      "official_uploader": true,
+      "start_s": 459.8,
+      "end_s": 527.4,
+      "timestamps_verified": "asr"
+    },
+    "terms": {
+      "copyright": "copyrighted (CBS News / Paramount)",
+      "terms_summary": "YouTube Terms of Service (effective 2023-12-15): users may not access, reproduce, download, distribute, display or otherwise use any Content except as expressly authorized by the Service (i.e., streaming/embedded playback) or with written permission; may not access the Service by automated means (robots, scrapers) except public search engines per robots.txt or with YouTube's prior written permission.",
+      "terms_url": "https://www.youtube.com/t/terms",
+      "eval_use_note": "Harness plays the video in a browser tab via YouTube's normal player; no media is downloaded or redistributed. Caption JSON was fetched once with yt-dlp only to locate timestamps. If the harness drives playback automatically (headless/scripted), that arguably falls under the 'automated means' restriction; keep it to normal, attended playback or seek permission. Reference transcript text is quoted from the network's own published transcript for internal evaluation only; do not republish."
+    },
+    "captions": {
+      "available": true,
+      "kind": "auto",
+      "how_checked": "yt-dlp --list-subs on 2026-10-25: no 'Available subtitles' section; only 'Available automatic captions' (en-orig, en). CBS's other full upload (VAGZGQg31hs, 2.5 h with pre/post coverage) is also auto-only."
+    },
+    "reference_transcript": {
+      "text": "MB: Thank you, Senator. Governor Walz, do you care to respond to any of the allegations?\nTW: Well, look, Donald Trump was in office. We'll sometimes hear a revisionist history, but when Donald Trump was in office, it was Donald Trump who we had a coalition of nations that had boxed Iran's nuclear program in, the inability to advance it. Donald Trump pulled that program and put nothing else in its place. So Iran is closer to a nuclear weapon than they were before because of Donald Trump's fickle leadership. And when Iran shot down an American aircraft in international airspace, Donald Trump tweeted because that's the standard diplomacy of Donald Trump. And when Iranian missiles did fall near U.S. troops and they received traumatic brain injuries, Donald Trump wrote it off as headaches. Look, our allies understand that Donald Trump is fickle. He will go to whoever has the most flattery or where it makes sense to him. Steady leadership, like you witnessed today, like you witnessed in April. Both Iranian attacks were repelled. Our coalition is strong, and we need the steady leadership that Kamala Harris is providing.",
+      "source_url": "https://www.cbsnews.com/news/full-vp-debate-transcript-walz-vance-2024/",
+      "source_kind": "machine consensus (Whisper large-v3 + Parakeet TDT 0.6B v2; ties broken by: network transcript (CBS News))",
+      "fidelity": "machine consensus",
+      "needs_listening_check": false
+    },
+    "claims": [
+      {
+        "text": "We had a coalition of nations that had boxed Iran's nuclear program in in the inability to advance it. Donald Trump pulled that program and put nothing else in its place.",
+        "approx_s": 472.0,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated by PolitiFact/FactCheck.org. Brennan says right after the window that 'President Trump did exit that deal' (JCPOA, May 2018)."
+      },
+      {
+        "text": "So Iran is closer to a nuclear weapon than they were before because of Donald Trump's fickle leadership.",
+        "approx_s": 483.2,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated. Iran is closer to a weapon than before (a factual premise), but 'because of' Trump is a causal judgment."
+      },
+      {
+        "text": "When Iran shot down an American aircraft in international airspace, Donald Trump tweeted.",
+        "approx_s": 488.4,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated (refers to the June 2019 Global Hawk drone shootdown)."
+      },
+      {
+        "text": "When Iranian missiles did fall near U.S. troops and they received traumatic brain injuries, Donald Trump wrote it off as headaches.",
+        "approx_s": 497.4,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "True",
+            "url": "https://www.politifact.com/article/2024/oct/02/vp-debate-fact-check-walz-vance-2024/",
+            "date": "2024-10-02"
+          }
+        ],
+        "mapped_label": "True",
+        "mapping_basis": "firm",
+        "mapping_note": "PolitiFact VP-debate roundup: refers to the Jan. 8, 2020 attack on U.S. troops in Iraq, after which 100+ were diagnosed with TBI; 'Trump has repeatedly called the injuries \"headaches.\"'"
+      },
+      {
+        "text": "Both Iranian attacks were repelled.",
+        "approx_s": 520.0,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated (April 2024 and Oct. 1, 2024 attacks on Israel)."
+      }
+    ],
+    "notes": "Brennan's handover at the start, then Walz alone. Timestamps come from YouTube ASR (en-orig), the only caption track. The video has no human captions, so the reference is CBS's published transcript, which has small oddities ('in in the inability'). The window ends as Brennan starts 'Senator Vance, ...', so her first word or two may be audible. Transcript pass (2026-10-25): reference rebuilt by machine consensus, no human listening; 186 words agreed by both models, 3 conflicts settled by the published text, 0 left [unclear]. Times from the models' word timings.",
+    "group": "debates"
+  },
+  {
+    "id": "cbs-2024-vance-cbp-one-mic-cut",
+    "title": "Vance objects to fact-check on Springfield Haitians' legal status; CBP One claim; mics cut",
+    "speakers": [
+      {
+        "name": "JD Vance",
+        "party": "R",
+        "role": "U.S. Senator (Ohio), Republican VP nominee"
+      },
+      {
+        "name": "Tim Walz",
+        "party": "D",
+        "role": "Governor of Minnesota, Democratic VP nominee"
+      },
+      {
+        "name": "Margaret Brennan",
+        "party": "none",
+        "role": "CBS News moderator"
+      },
+      {
+        "name": "Norah O'Donnell",
+        "party": "none",
+        "role": "CBS News moderator"
+      }
+    ],
+    "event": "CBS News Vice Presidential Debate, New York",
+    "date": "2024-10-01",
+    "kind": "debate",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=jEphfGpJjc8",
+      "platform": "YouTube",
+      "uploader": "CBS News (channel UC8p1vwvWtl6T73JiExfWs1g), uploaded 2024-10-02",
+      "official_uploader": true,
+      "start_s": 1647.2,
+      "end_s": 1718.0,
+      "timestamps_verified": "asr"
+    },
+    "terms": {
+      "copyright": "copyrighted (CBS News / Paramount)",
+      "terms_summary": "YouTube Terms of Service (effective 2023-12-15): users may not access, reproduce, download, distribute, display or otherwise use any Content except as expressly authorized by the Service (i.e., streaming/embedded playback) or with written permission; may not access the Service by automated means (robots, scrapers) except public search engines per robots.txt or with YouTube's prior written permission.",
+      "terms_url": "https://www.youtube.com/t/terms",
+      "eval_use_note": "Harness plays the video in a browser tab via YouTube's normal player; no media is downloaded or redistributed. Caption JSON was fetched once with yt-dlp only to locate timestamps. If the harness drives playback automatically (headless/scripted), that arguably falls under the 'automated means' restriction; keep it to normal, attended playback or seek permission. Reference transcript text is quoted from the network's own published transcript for internal evaluation only; do not republish."
+    },
+    "captions": {
+      "available": true,
+      "kind": "auto",
+      "how_checked": "yt-dlp --list-subs on 2026-10-25: no 'Available subtitles' section; only 'Available automatic captions' (en-orig, en). CBS's other full upload (VAGZGQg31hs, 2.5 h with pre/post coverage) is also auto-only."
+    },
+    "reference_transcript": {
+      "text": "MB: Thank you, Governor. And just to clarify for our viewers, Springfield, Ohio does have a large number of Haitian migrants who have legal status, temporary protected status. Norah?\nJDV: Well, Margaret,\nMB: thank you, Senator. We have so much to get to.\nJDV: Margaret, I think it's important because\nNO: we're going to turn out of the economy. Thank you.\nJDV: Margaret, the rules were that you guys weren't going to fact-check. And since you're fact-checking me, I think it's important to say what's actually going on. So there's an application called the CBP One app, where you can go on as an illegal migrant, apply for asylum or apply for parole, and be granted legal status at the wave of a Kamala Harris open border wand. That is not a person coming in, applying for a green card, and waiting for 10 years.\nMB: Thank you, Senator.\nJDV: That is the facilitation of illegal immigration, Margaret, by our own leadership. And Kamala Harris opened up that pathway.\nMB: Thank you, Senator, for describing the legal process. We have so much to get to, Senator.\nTW: Those laws have been [unclear: on the books | in the book] since 1990.\nMB: [unclear: We have so much. | (nothing)] Thank you, gentlemen. We want to have\nJDV: The CBP One app has not been on the books since 1990. It's something that Kamala Harris created, Margaret.\nMB: Gentlemen, the audience can't hear you because your mics are cut. We have so much we want to get to. Thank you for explaining the legal process. Norah?",
+      "source_url": "https://www.cbsnews.com/news/full-vp-debate-transcript-walz-vance-2024/",
+      "source_kind": "machine consensus (Whisper large-v3 + Parakeet TDT 0.6B v2; ties broken by: network transcript (CBS News))",
+      "fidelity": "machine consensus",
+      "needs_listening_check": false
+    },
+    "claims": [
+      {
+        "text": "The rules were that you guys weren't going to fact check.",
+        "approx_s": 1665.3,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated. The on-air rules (ASR ~116-133 s of this video) said the moderators' primary role is to 'facilitate the debate between the candidates, enforce the rules and provide the candidates with the opportunity to fact check claims made by each other', and that CBS could mute mics. Moderators fact-checking was not explicitly ruled out on air."
+      },
+      {
+        "text": "There's an application called the CBP One app where you can go on as an illegal migrant, apply for asylum or apply for parole and be granted legal status at the wave of a Kamala Harris open border wand. ... That is the facilitation of illegal immigration.",
+        "approx_s": 1671.9,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "Mostly False",
+            "url": "https://www.politifact.com/article/2024/oct/02/vp-debate-fact-check-walz-vance-2024/",
+            "date": "2024-10-02"
+          }
+        ],
+        "mapped_label": "Misleading",
+        "mapping_basis": "judgment",
+        "mapping_note": "Mostly False mapped to Misleading because the literal mechanism is roughly right (people do use the app and can go on to seek asylum or parole) but the impression is wrong. PolitiFact: 'The app is a scheduling tool, not an application for asylum or parole; a lengthy process follows'; users aren't 'illegal' migrants since they haven't crossed illegally. A related False rating (https://www.politifact.com/factchecks/2024/oct/03/jd-vance/immigration-experts-say-jd-vance-is-wrong-haitians/, 2024-10-03) is for Vance calling Springfield's TPS/parole Haitians 'illegal immigrants' (~1563 s, before this window). That article quotes this CBP One line too, but its rating is for the earlier sentence, so it is not attached here."
+      },
+      {
+        "text": "Those laws have been in the book since 1990.",
+        "approx_s": 1699.2,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated. TPS was created by the Immigration Act of 1990, so it's accurate as a defense of TPS. Walz says it (voice comparison and picture; see notes); spoken 'on the books' per Whisper, 'in the book' per CBS."
+      },
+      {
+        "text": "The CBP app has not been on the books since 1990. It's something that Kamala Harris created, Margaret.",
+        "approx_s": 1703.5,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Not separately rated. PolitiFact's CBP One entry says CBP launched the app in 2020 under Trump and Biden expanded its use, which contradicts 'Kamala Harris created'. Vance says it, not Walz as CBS's transcript has it (voice comparison; see notes)."
+      }
+    ],
+    "notes": "Heavy crosstalk among four voices (Vance, Walz, Brennan, O'Donnell). This is the one moment CBS muted the candidates' mics. Brennan says 'the audience can't hear you because your mics are cut' at ~1708 s, so some candidate speech near the end may be faint or missing from the broadcast audio. The ASR track still caught most of it. The CBS transcript's speaker labels for the last two candidate lines look wrong (see claims), which makes this a strong speaker-attribution test. Brennan's own line (Springfield Haitians have legal status / TPS) is a moderator fact-check, not a candidate claim. Timestamps come from YouTube ASR (en-orig), the only track. Transcript pass (2026-10-25): reference rebuilt by machine consensus, no human listening; 195 words agreed by both models, 5 conflicts settled by the published text, 2 left [unclear]. Times from the models' word timings. Speakers settled without listening: an ECAPA speaker-embedding comparison (SpeechBrain spkrec-ecapa-voxceleb) against clean stretches of each voice puts 'The CBP One app has not been on the books since 1990. It's something that Kamala Harris created, Margaret.' (1704.4-1708.9 s) with Vance (cosine +0.62 vs Walz +0.10) and 'Those laws have been on the books since 1990' (1699.2-1701.1 s) with Walz (+0.50 vs Vance +0.11); 'That is the facilitation of illegal immigration...' is Vance (+0.78). The picture agrees: Walz is on camera talking at ~1699 s, then the shot cuts to the moderators. So CBS's transcript swaps those two lines. In the crosstalk each model caught a different voice, so this clip's labels and overlaps were assembled by hand from both models and the CBS text.",
+    "group": "debates"
+  },
+  {
+    "id": "biden-sotu-2024-economy",
+    "title": "Biden 2024 State of the Union: jobs, unemployment, manufacturing, inflation run",
+    "speakers": [
+      {
+        "name": "Joe Biden",
+        "party": "D",
+        "role": "President of the United States"
+      }
+    ],
+    "event": "State of the Union address to a joint session of Congress",
+    "date": "2024-03-07",
+    "kind": "address",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=nFVUPAEF-sw",
+      "platform": "YouTube",
+      "uploader": "The Biden White House (archived official White House channel)",
+      "official_uploader": true,
+      "start_s": 3219.9,
+      "end_s": 3297.8,
+      "timestamps_verified": "asr"
+    },
+    "terms": {
+      "copyright": "public domain (17 USC 105)",
+      "terms_summary": "YouTube Terms of Service: viewing/embedding via YouTube's player is permitted; downloading or redistributing is not, except where YouTube provides a download feature. The underlying footage is U.S. government work (Senate/House/White House recording) and is public domain, but access through YouTube is still bound by YouTube's ToS.",
+      "terms_url": "https://www.youtube.com/t/terms",
+      "eval_use_note": "Play in a browser tab through the YouTube player only; do not download. Footage is a U.S. government work."
+    },
+    "captions": {
+      "available": true,
+      "kind": "human",
+      "how_checked": "yt-dlp --list-subs on 2026-10-25: uploaded subtitle track en-US listed under 'Available subtitles' (plus auto en-orig). Human track has punctuation and '(Applause)' cues and follows the prepared text more closely than the delivered speech in places."
+    },
+    "reference_transcript": {
+      "text": "[unclear: Folks, | (nothing)] my inherited economy is on the brink. Now our economy is literally the envy of the world. 15 million new jobs in just three years. A record, a record. Unemployment at 50-year lows. A record 16 million Americans are starting small businesses, and each one is a literal act of hope. With historic job growth and small business growth for black and Hispanics and Asian Americans, 800,000 new manufacturing jobs in America and counting. Where is it written we can't be the manufacturing capital of the world? We are, we will. More people have health insurance today. More people have health insurance today than ever before. The racial wealth gap is as small as it's been in 20 years. Wages keep going up. Inflation keeps coming down. Inflation has dropped from 9% to 3%, the lowest in the world and tending lower. The landing is and will be soft.",
+      "source_url": "https://www.youtube.com/watch?v=nFVUPAEF-sw (uploader's en-US subtitle track)",
+      "source_kind": "machine consensus (Whisper large-v3 + Parakeet TDT 0.6B v2; ties broken by: human captions from official uploader)",
+      "fidelity": "machine consensus",
+      "needs_listening_check": false
+    },
+    "claims": [
+      {
+        "text": "I inherited an economy that was on the brink.",
+        "approx_s": 3222.8,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Characterization; not rated in the PolitiFact or FactCheck.org SOTU write-ups checked."
+      },
+      {
+        "text": "15 million new jobs in just three years – a record!",
+        "approx_s": 3228.4,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "no rating — narrative",
+            "url": "https://www.politifact.com/article/2024/mar/08/fact-checking-joe-biden-on-inflation-the-deficit-a/",
+            "date": "2024-03-08"
+          },
+          {
+            "org": "FactCheck.org",
+            "rating": "no rating — narrative",
+            "url": "https://www.factcheck.org/2024/03/factchecking-bidens-state-of-the-union/",
+            "date": "2024-03-08"
+          }
+        ],
+        "mapped_label": "True",
+        "mapping_basis": "judgment",
+        "mapping_note": "PolitiFact: \"Rounded, he's correct; it's about 14.8 million.\" FactCheck.org: \"He's right on the new jobs — to a point\" (a record for any president's first three years in BLS data back to 1939, though the percentage growth was lower than some predecessors')."
+      },
+      {
+        "text": "Unemployment at 50-year lows.",
+        "approx_s": 3235.9,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "no rating — narrative",
+            "url": "https://www.politifact.com/article/2024/mar/08/fact-checking-joe-biden-on-inflation-the-deficit-a/",
+            "date": "2024-03-08"
+          }
+        ],
+        "mapped_label": "True",
+        "mapping_basis": "judgment",
+        "mapping_note": "PolitiFact: \"It was at 50-year lows in 2023 but has climbed marginally since then.\" Mapped True because the fact-checker treats it as essentially accurate; it is a borderline case, since the rate was 3.7% at the time of the speech."
+      },
+      {
+        "text": "A record 16 million Americans are starting small businesses",
+        "approx_s": 3244.0,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Not addressed in the PolitiFact or FactCheck.org SOTU pieces checked (the figure refers to new business applications)."
+      },
+      {
+        "text": "800,000 new manufacturing jobs in America and counting.",
+        "approx_s": 3256.4,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "Mostly True (rating of a similar earlier Biden statement)",
+            "url": "https://www.politifact.com/factchecks/2023/dec/13/joe-biden/fact-checking-joe-biden-on-manufacturing-jobs/",
+            "date": "2023-12-13"
+          }
+        ],
+        "mapped_label": "True",
+        "mapping_basis": "judgment",
+        "mapping_note": "PolitiFact's SOTU article: \"We rated a similar Biden statement Mostly True.\" The rating is for the December 2023 version of the claim, not this exact sentence."
+      },
+      {
+        "text": "More people have health insurance today than ever before.",
+        "approx_s": 3272.3,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Not rated in the pieces checked."
+      },
+      {
+        "text": "The racial wealth gap is the smallest it’s been in 20 years.",
+        "approx_s": 3276.2,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "no rating — narrative",
+            "url": "https://www.politifact.com/article/2024/mar/08/fact-checking-joe-biden-on-inflation-the-deficit-a/",
+            "date": "2024-03-08"
+          }
+        ],
+        "mapped_label": "Misleading",
+        "mapping_basis": "judgment",
+        "mapping_note": "PolitiFact: \"This is accurate by one measure\" but \"not by another.\""
+      },
+      {
+        "text": "Wages keep going up and inflation keeps coming down!",
+        "approx_s": 3280.2,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "no rating — narrative",
+            "url": "https://www.politifact.com/article/2024/mar/08/fact-checking-joe-biden-on-inflation-the-deficit-a/",
+            "date": "2024-03-08"
+          },
+          {
+            "org": "FactCheck.org",
+            "rating": "no rating — narrative",
+            "url": "https://www.factcheck.org/2024/03/factchecking-bidens-state-of-the-union/",
+            "date": "2024-03-08"
+          }
+        ],
+        "mapped_label": "True",
+        "mapping_basis": "judgment",
+        "mapping_note": "The two checkers lean different ways. PolitiFact: \"for the past year-plus, wages have outpaced inflation.\" FactCheck.org: \"But over the entirety of Biden's presidency, wages are down when adjusted for inflation.\" Mapped True because the present-tense trend claim is accurate. Treat a Misleading verdict here as defensible, not as a hard error."
+      },
+      {
+        "text": "Inflation has dropped from 9 percent to 3 percent – the lowest in the world!",
+        "approx_s": 3283.3,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "no rating — narrative",
+            "url": "https://www.politifact.com/article/2024/mar/08/fact-checking-joe-biden-on-inflation-the-deficit-a/",
+            "date": "2024-03-08"
+          },
+          {
+            "org": "FactCheck.org",
+            "rating": "no rating — narrative",
+            "url": "https://www.factcheck.org/2024/03/factchecking-bidens-state-of-the-union/",
+            "date": "2024-03-08"
+          }
+        ],
+        "mapped_label": "Misleading",
+        "mapping_basis": "judgment",
+        "mapping_note": "The 9%-to-3% figure is accurate, but PolitiFact says \"The U.S. has lower inflation than most advanced industrialized nations, but it does not rank No. 1 internationally\". FactCheck.org: \"the current U.S. inflation rate is not the lowest of any country.\""
+      }
+    ],
+    "notes": "There is applause after 'trending lower'. The human caption track appears to follow the prepared text in places. Auto captions hear 'literally the envy of the world', 'a literal act of hope', a repeated 'More people have health insurance today', 'is as small as it's been', 'Where is it written' and 'tending lower'. A listening pass should correct the reference before WER is scored. Window times were cross-checked against word-level auto-caption times (e.g. 'lowest' at 3286.0 s in both tracks). Transcript pass (2026-10-25): reference rebuilt by machine consensus, no human listening; 147 words agreed by both models, 4 conflicts settled by the published text, 1 left [unclear]. Times from the models' word timings.",
+    "group": "floor"
+  },
+  {
+    "id": "trump-joint-2025-social-security-ages",
+    "title": "Trump 2025 joint address: GAO fraud estimate and Social Security 'people aged 100 to 160' lists",
+    "speakers": [
+      {
+        "name": "Donald Trump",
+        "party": "R",
+        "role": "President of the United States"
+      },
+      {
+        "name": "Unidentified Members of Congress (heckling)",
+        "party": "unknown (from the Democratic side per press reports; not verified)",
+        "role": "Members shouting 'No!', 'False!', 'Not true!'"
+      }
+    ],
+    "event": "Address to a joint session of Congress",
+    "date": "2025-03-04",
+    "kind": "address",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=XkFKNkAEzQ8",
+      "platform": "YouTube",
+      "uploader": "The White House",
+      "official_uploader": true,
+      "start_s": 2768.9,
+      "end_s": 2873.6,
+      "timestamps_verified": "asr"
+    },
+    "terms": {
+      "copyright": "public domain (17 USC 105)",
+      "terms_summary": "YouTube Terms of Service: viewing/embedding via YouTube's player is permitted; downloading or redistributing is not, except where YouTube provides a download feature. The underlying footage is U.S. government work (Senate/House/White House recording) and is public domain, but access through YouTube is still bound by YouTube's ToS.",
+      "terms_url": "https://www.youtube.com/t/terms",
+      "eval_use_note": "Play in a browser tab through the YouTube player only; do not download."
+    },
+    "captions": {
+      "available": true,
+      "kind": "human",
+      "how_checked": "yt-dlp --list-subs on 2026-10-25: uploaded subtitle track en-US under 'Available subtitles' (with speaker labels 'Speaker 1/2', 'The President'), plus auto en-orig."
+    },
+    "reference_transcript": {
+      "text": "[unclear: The | (nothing)] Government Accountability Office, a federal government office, has estimated annual fraud of over $500 billion in our nation, and we are working very hard to stop it. We're going to. We're also identifying shocking levels of incompetence and probable fraud in the Social Security program for our seniors, and that our seniors and people that we love rely on. Believe it or not, government databases list 4.7 million Social Security members from people aged 100 to 109 years old. It lists 3.6 million people from ages 110 to 119. I don't know any of them. I know some people that are rather elderly, but not quite that elderly. 3.47 million people from ages 120 to 129. 3.9 million people from ages 130 to 139. 3.5 million people from ages 140 to 149. And money is being paid to many of them. And we're searching right now. In fact, Pam, good luck. Good luck. You're going to find it. But a lot of money is paid out to people because it just keeps getting paid and paid and nobody does. And it really hurts Social Security and hurts our country.",
+      "source_url": "https://www.youtube.com/watch?v=XkFKNkAEzQ8 (uploader's en-US subtitle track)",
+      "source_kind": "machine consensus (Whisper large-v3 + Parakeet TDT 0.6B v2; ties broken by: human captions from official uploader)",
+      "fidelity": "machine consensus",
+      "needs_listening_check": false
+    },
+    "claims": [
+      {
+        "text": "The government's accountability office ... has estimated annual fraud of over $500 billion in our nation",
+        "approx_s": 2769.2,
+        "ratings": [
+          {
+            "org": "FactCheck.org",
+            "rating": "no rating — narrative",
+            "url": "https://www.factcheck.org/2025/03/factchecking-trumps-address-to-congress-2/",
+            "date": "2025-03-05"
+          }
+        ],
+        "mapped_label": "Misleading",
+        "mapping_basis": "judgment",
+        "mapping_note": "FactCheck.org: \"Trump went on to cite a Government Accountability Office report that estimated annual fraud losses to the government of between $233 billion and $521 billion.\" 'Over $500 billion' takes only the top of that range. PolitiFact's March 5 article gives the same $233B to $521B range as background. Neither checker calls the claim itself false, so the mapping is a judgment call."
+      },
+      {
+        "text": "government databases list 4.7 million social security members from people aged 100 to 109 years old ... 3.6 million ... 110 to 119 ... 3.47 million ... 120 to 129, 3.9 million ... 130 to 139",
+        "approx_s": 2797.4,
+        "ratings": [
+          {
+            "org": "FactCheck.org",
+            "rating": "no rating — narrative",
+            "url": "https://www.factcheck.org/2025/03/factchecking-trumps-address-to-congress-2/",
+            "date": "2025-03-05"
+          },
+          {
+            "org": "PolitiFact",
+            "rating": "no rating — narrative (context for the False item below)",
+            "url": "https://www.politifact.com/article/2025/mar/05/Trump-address-congress-fact-check-speech/",
+            "date": "2025-03-05"
+          }
+        ],
+        "mapped_label": "Misleading",
+        "mapping_basis": "judgment",
+        "mapping_note": "FactCheck.org confirms that Musk's spreadsheet showed \"the Social Security database categorizes nearly 21 million people over the age of 99 as alive\". These are records with no death date, not beneficiaries. PolitiFact: such records \"are not necessarily receiving benefits.\" The counts roughly reflect the records, but framing them as 'members' and probable fraud gives a wrong impression."
+      },
+      {
+        "text": "3.5 million people from ages 140 to 149 ... and money is being paid to many of them",
+        "approx_s": 2843.1,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "False",
+            "url": "https://www.politifact.com/article/2025/mar/05/Trump-address-congress-fact-check-speech/",
+            "date": "2025-03-05"
+          },
+          {
+            "org": "FactCheck.org",
+            "rating": "no rating — narrative",
+            "url": "https://www.factcheck.org/2025/03/factchecking-trumps-address-to-congress-2/",
+            "date": "2025-03-05"
+          }
+        ],
+        "mapped_label": "False",
+        "mapping_basis": "firm",
+        "mapping_note": "PolitiFact rated it False: about 89,000 people aged 99 and older receive payments. FactCheck.org: Trump \"misleadingly claimed that 'money is being paid to many of' the centenarians\". The number of dead recipients still being paid is \"likely in the thousands, not the millions.\""
+      },
+      {
+        "text": "a lot of money is paid out to people because it just keeps getting paid and paid",
+        "approx_s": 2863.0,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Vague restatement of the previous claim; not rated separately."
+      }
+    ],
+    "notes": "There is crosstalk: members heckle ('No!', 'It's false. False!', 'Not true!') three times, and the human captions label them Speaker 1/Speaker 2. Expect transcription and diarization noise. The clip ends just before '1.3 million people from ages 150 to 159' (2873.3 s), so the 150+ ages fall outside the window. Window times were cross-checked against word-level auto-caption times. PolitiFact's ratings appear in a live-article roundup, not in separate fact-check pages. Transcript pass (2026-10-25): reference rebuilt by machine consensus, no human listening; 182 words agreed by both models, 7 conflicts settled by the published text, 1 left [unclear]. Times from the models' word timings.",
+    "group": "floor"
+  },
+  {
+    "id": "trump-joint-2025-inflation-eggs-energy",
+    "title": "Trump 2025 joint address: 'economic catastrophe', worst inflation in 48 years, egg prices, energy",
+    "speakers": [
+      {
+        "name": "Donald Trump",
+        "party": "R",
+        "role": "President of the United States"
+      }
+    ],
+    "event": "Address to a joint session of Congress",
+    "date": "2025-03-04",
+    "kind": "address",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=XkFKNkAEzQ8",
+      "platform": "YouTube",
+      "uploader": "The White House",
+      "official_uploader": true,
+      "start_s": 2257.0,
+      "end_s": 2368.8,
+      "timestamps_verified": "asr"
+    },
+    "terms": {
+      "copyright": "public domain (17 USC 105)",
+      "terms_summary": "YouTube Terms of Service: viewing/embedding via YouTube's player is permitted; downloading or redistributing is not, except where YouTube provides a download feature. The underlying footage is U.S. government work (Senate/House/White House recording) and is public domain, but access through YouTube is still bound by YouTube's ToS.",
+      "terms_url": "https://www.youtube.com/t/terms",
+      "eval_use_note": "Play in a browser tab through the YouTube player only; do not download."
+    },
+    "captions": {
+      "available": true,
+      "kind": "human",
+      "how_checked": "yt-dlp --list-subs on 2026-10-25: uploaded subtitle track en-US under 'Available subtitles', plus auto en-orig."
+    },
+    "reference_transcript": {
+      "text": "Among my very highest priorities is to rescue our economy and get dramatic and immediate relief to working families. As you know, we inherited from the last administration an economic catastrophe and an inflation nightmare. Their policies drove up energy prices, pushed up grocery costs, and drove the necessities of life out of reach for millions and millions of Americans. They've never had anything like it. We suffered the worst inflation in 48 years, but perhaps even in the history of our country, they're not sure. As president, I'm fighting every day to reverse this damage and make America affordable again. Joe Biden especially let the price of eggs get out of control. The egg price is out of control, and we're working hard to get it back down. Secretary, do a good job on that. You inherited a total mess from the previous administration. Do a good job. A major focus of our fight to defeat inflation is rapidly reducing the cost of energy. The previous administration cut the number of new oil and gas leases by 95%, slowed pipeline construction to a halt, and closed more than 100 power plants. We are opening up many of those power plants right now.",
+      "source_url": "https://www.youtube.com/watch?v=XkFKNkAEzQ8 (uploader's en-US subtitle track)",
+      "source_kind": "machine consensus (Whisper large-v3 + Parakeet TDT 0.6B v2; ties broken by: human captions from official uploader)",
+      "fidelity": "machine consensus",
+      "needs_listening_check": false
+    },
+    "claims": [
+      {
+        "text": "we inherited from the last administration an economic catastrophe and an inflation nightmare",
+        "approx_s": 2266.6,
+        "ratings": [
+          {
+            "org": "FactCheck.org",
+            "rating": "no rating — narrative",
+            "url": "https://www.factcheck.org/2025/03/factchecking-trumps-address-to-congress-2/",
+            "date": "2025-03-05"
+          }
+        ],
+        "mapped_label": "Misleading",
+        "mapping_basis": "judgment",
+        "mapping_note": "FactCheck.org: Trump \"exaggerated\" here, adding \"Economic growth was strong, and inflation had fallen significantly.\""
+      },
+      {
+        "text": "Their policies drove up energy prices, pushed up grocery costs",
+        "approx_s": 2276.0,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Causal claim; not rated separately."
+      },
+      {
+        "text": "We suffered the worst inflation in 48 years, but perhaps even in the history of our country",
+        "approx_s": 2289.0,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "Mostly False",
+            "url": "https://www.politifact.com/article/2025/mar/05/Trump-address-congress-fact-check-speech/",
+            "date": "2025-03-05"
+          },
+          {
+            "org": "FactCheck.org",
+            "rating": "no rating — narrative",
+            "url": "https://www.factcheck.org/2025/03/factchecking-trumps-address-to-congress-2/",
+            "date": "2025-03-05"
+          }
+        ],
+        "mapped_label": "False",
+        "mapping_basis": "judgment",
+        "mapping_note": "Mostly False mapped to False because neither figure holds. The 2022 peak was \"the largest 12-month change since the period ending November 1981\" (BLS, quoted by FactCheck.org), about 41 years, not 48. PolitiFact: \"Trump is incorrect that it's the highest in U.S. history\" (1946 topped 18%)."
+      },
+      {
+        "text": "Joe Biden especially let the price of eggs get out of control",
+        "approx_s": 2317.3,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "Half True",
+            "url": "https://www.politifact.com/article/2025/mar/05/Trump-address-congress-fact-check-speech/",
+            "date": "2025-03-05"
+          }
+        ],
+        "mapped_label": "Misleading",
+        "mapping_basis": "firm",
+        "mapping_note": "PolitiFact: \"The price of eggs has risen dramatically, but this omits that the price hikes occurred during an outbreak of bird flu.\""
+      },
+      {
+        "text": "The previous administration cut the number of new oil and gas leases by 95%",
+        "approx_s": 2351.6,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Not addressed by PolitiFact or FactCheck.org in their address write-ups."
+      },
+      {
+        "text": "slowed pipeline construction to a halt",
+        "approx_s": 2358.2,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Not rated."
+      },
+      {
+        "text": "and closed more than 100 power plants",
+        "approx_s": 2360.8,
+        "ratings": [
+          {
+            "org": "FactCheck.org",
+            "rating": "no rating — narrative",
+            "url": "https://www.factcheck.org/2025/03/factchecking-trumps-address-to-congress-2/",
+            "date": "2025-03-05"
+          }
+        ],
+        "mapped_label": "Misleading",
+        "mapping_basis": "judgment",
+        "mapping_note": "FactCheck.org calls it misleading: \"The number of electric power plants went up by 2,187\" from 2020 to 2023, while coal and petroleum plants decreased."
+      }
+    ],
+    "notes": "There is a gap of about 14 s (applause) between 'affordable again' (about 2303 s) and 'Joe Biden especially' (2317 s). The address to the Secretary ('Secretary, do a good job') is unscripted. Window times were cross-checked against word-level auto-caption times ('we suffered' at 2289.0 s in both tracks). Transcript pass (2026-10-25): reference rebuilt by machine consensus, no human listening; 203 words agreed by both models, 4 conflicts settled by the published text, 0 left [unclear]. Times from the models' word timings.",
+    "group": "floor"
+  },
+  {
+    "id": "booker-senate-floor-2025-consumer-confidence",
+    "title": "Booker's 25-hour Senate floor speech: 'consumer confidence ... has gone way down'",
+    "speakers": [
+      {
+        "name": "Cory Booker",
+        "party": "D",
+        "role": "U.S. Senator (NJ)"
+      }
+    ],
+    "event": "Senate floor speech (record 25-hour speech, colloquy with Sen. Ron Wyden)",
+    "date": "2025-04-01",
+    "kind": "floor",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=v2utlMxAwtE",
+      "platform": "YouTube",
+      "uploader": "Senator Cory Booker (official Senate office channel)",
+      "official_uploader": true,
+      "start_s": 52809.2,
+      "end_s": 52919.9,
+      "timestamps_verified": "asr"
+    },
+    "terms": {
+      "copyright": "public domain (17 USC 105); Senate Recording Studio floor feed",
+      "terms_summary": "YouTube Terms of Service: viewing/embedding via YouTube's player is permitted; downloading or redistributing is not, except where YouTube provides a download feature. The underlying footage is U.S. government work (Senate/House/White House recording) and is public domain, but access through YouTube is still bound by YouTube's ToS.",
+      "terms_url": "https://www.youtube.com/t/terms",
+      "eval_use_note": "Play in a browser tab through the YouTube player only; do not download. The same footage is on senate.gov floor video (public domain)."
+    },
+    "captions": {
+      "available": true,
+      "kind": "auto",
+      "how_checked": "yt-dlp --list-subs on 2026-10-25: only 'Available automatic captions' (en-orig/en); 'Available subtitles' is empty. The 'Part One' upload xOjiJ9FzR0g is also auto-only. The senate.gov ISVP player page is a bitmovin player; its archive caption support could not be confirmed (senate.gov returned 403 to scripted requests)."
+    },
+    "reference_transcript": {
+      "text": "I think we're going to see about the tariffs tomorrow and see how far the president will go, but we do know whatever it is, it's going to affect prices that are going to continue to go up for Americans, as inflation has continued to go up for Americans. As the stock [unclear: markets continue | market has continued] to go down, as people, [unclear: 40 people, those | for people's] 401ks have lost so much money. The uncertainty I'm hearing from businesses in New Jersey, the chaos that they feel about the economy, the consumer confidence in this country has gone way down. If you ask the question, are you better off than you were 71 days ago? Not many Americans would say that they're better off. Their costs are higher, their groceries are higher. They're soon to see everything from car prices to food go higher. Their retirement security is under attack. Their health care is under attack. They are losing their Department of Education. They're less safe from infectious diseases abroad. There are so many things that we have to talk to and try to stop. And you're [unclear: (nothing) | you're] our leader on the Finance Committee, and you know that the tax thing they're trying to run through this now, [unclear: (nothing) | I] I'm trying to get my head wrapped around these [unclear: wacky | anti] parliamentary things that even the podcasts I listen to in the morning to inform me say they even spoke about this years and years ago, but they said, oh, this is too crazy. We can't do this. To try to tell the American people somehow that the trillions of dollars of tax cuts that we're going to give disproportionately to the wealthiest people of all, oh, there's nothing to see here that has a zero impact on the budget so we can do it through reconciliation. That is the biggest, hocus, -pocus manufactured, artifice that I've ever seen to obscure the truth in America that",
+      "source_url": "https://www.govinfo.gov/content/pkg/CREC-2025-03-31/html/CREC-2025-03-31-pt2-PgS1961.htm (Congressional Record, Vol. 171 No. 57, legislative day of March 31, 2025, p. S2020)",
+      "source_kind": "machine consensus (Whisper large-v3 + Parakeet TDT 0.6B v2; ties broken by: Congressional Record)",
+      "fidelity": "machine consensus",
+      "needs_listening_check": false
+    },
+    "claims": [
+      {
+        "text": "prices that are going to continue to go up for Americans as inflation has continued to go up for Americans",
+        "approx_s": 52816.8,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Not rated. The first half is a prediction; the premise 'inflation has continued to go up' is checkable (CPI was 3.0% in Jan 2025 and 2.8% in Feb 2025)."
+      },
+      {
+        "text": "As the stock market has continued to go down as people's 401ks have lost so much money",
+        "approx_s": 52824.3,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Not rated."
+      },
+      {
+        "text": "the consumer confidence in this country has gone way down",
+        "approx_s": 52836.2,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "True",
+            "url": "https://www.politifact.com/factchecks/2025/apr/03/cory-booker/has-consumer-confidence-fallen-as-cory-booker-said/",
+            "date": "2025-04-03"
+          }
+        ],
+        "mapped_label": "True",
+        "mapping_basis": "firm",
+        "mapping_note": "PolitiFact: the Conference Board index fell 17% since November 2024 and the Michigan index fell nearly 13% since December 2024. \"We rate the statement True.\""
+      },
+      {
+        "text": "Their costs are higher. Their groceries are higher.",
+        "approx_s": 52848.1,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Mentioned in the PolitiFact article but not rated."
+      },
+      {
+        "text": "the trillions of dollars of tax cuts that we're going to give disproportionately to the wealthiest people",
+        "approx_s": 52897.5,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Not rated in this speech. The bill was still pending, so this is partly a prediction."
+      },
+      {
+        "text": "that has a zero impact on the budget so we can do it through reconciliation",
+        "approx_s": 52905.2,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Booker's description of the GOP 'current-policy baseline' argument; not rated."
+      }
+    ],
+    "notes": "Booker is addressing Sen. Wyden during a colloquy (Booker kept the floor while yielding for questions), but only Booker speaks in the window. He calls Wyden 'chairman of the finance committee'; Wyden was ranking member. The Congressional Record text is edited (e.g. 'This inflation has continued' for spoken 'as inflation has continued', 'hocus-pocus'), so a listening check is needed before WER. Timestamps are on the 25h08m single-file upload (published 2025-04-07) and come from word-level auto-caption times. PolitiFact dates the remark April 1. The CR prints it under the legislative day of March 31 (Senate in continuous session). Transcript pass (2026-10-25): reference rebuilt by machine consensus, no human listening; 305 words agreed by both models, 7 conflicts settled by the published text, 5 left [unclear]. Times from the models' word timings.",
+    "group": "floor"
+  },
+  {
+    "id": "johnson-speaker-acceptance-2023-prices-debt",
+    "title": "Speaker Mike Johnson's House floor acceptance speech: border, prices up 17%, debt +$20 million during speech",
+    "speakers": [
+      {
+        "name": "Mike Johnson",
+        "party": "R",
+        "role": "Speaker of the House (newly elected), Rep. LA-4"
+      }
+    ],
+    "event": "House floor, address after election as Speaker",
+    "date": "2023-10-25",
+    "kind": "floor",
+    "video": {
+      "url": "https://live.house.gov/?date=2023-10-25",
+      "platform": "House Clerk HouseLive (live.house.gov, bitmovin player; HLS/DASH archive 2023-10-25T11-54-52)",
+      "uploader": "Office of the Clerk, U.S. House of Representatives",
+      "official_uploader": true,
+      "start_s": 9621.3,
+      "end_s": 9729.7,
+      "timestamps_verified": "asr"
+    },
+    "terms": {
+      "copyright": "public domain (17 USC 105)",
+      "terms_summary": "HouseLive broadcast metadata states: 'Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.' No separate click-through terms were found on live.house.gov.",
+      "terms_url": "https://live.house.gov/",
+      "eval_use_note": "Play in the HouseLive player in a browser tab; do not download. The House Clerk's YouTube channel (@USHouseClerk) only goes back to Nov 2024, so this date is not on YouTube from an official uploader."
+    },
+    "captions": {
+      "available": true,
+      "kind": "human",
+      "how_checked": "On 2026-10-25, the HouseLive broadcast-events API (liveproxy-azapp-prod-eastus2-003.azurewebsites.net/broadcastevents/20231025) listed a WebVTT captions.vtt asset that the player loads as a subtitle track. These are real-time broadcast closed captions (stenographer, all caps, unreviewed; live.house.gov labels its transcript 'Text compiled from unreviewed Closed Captions'), with errors such as 'GRATEDDEST' and 'UNBEEIVEL'."
+    },
+    "reference_transcript": {
+      "text": "We have a catastrophe at our southern border. The Senate and the White House can no longer ignore the problem. From Texas to New York, wave after wave of illegal migrants are stressing our communities to their breaking points. We know that our streets are being flooded with fentanyl, and all of our communities, children, and even adults are dying from it. The status quo is unacceptable. Inaction is unacceptable, and we must come together and address the broken border. We have to do it. The skyrocketing cost of living is unsustainable, and Americans should not have to worry about how they're going to feed their family every week because they can't afford their groceries anymore. Everybody in this room should think about this. Here's the stats: prices have increased over 17% in the last two years. Credit card interest rates are at the highest level in nearly three decades, and mortgage rates are now at a peak we haven't seen since 2001. We have to bring relief to the American people by reining in federal spending and bringing down inflation. The greatest threat to our national security is our nation's [unclear: debts. | debt.] And while we've been sitting in this room, that's right, that debt has crossed almost $33.6 trillion. And the time that it's going to take me to deliver this speech will go up another $20 million in debt. It's unsustainable. We have to get the country back on track.",
+      "source_url": "https://www.govinfo.gov/content/pkg/CREC-2023-10-25/html/CREC-2023-10-25-pt1-PgH5048.htm (Congressional Record, Vol. 169, Oct 25, 2023, 'Election of Speaker')",
+      "source_kind": "machine consensus (Whisper large-v3 + Parakeet TDT 0.6B v2; ties broken by: Congressional Record)",
+      "fidelity": "machine consensus",
+      "needs_listening_check": false
+    },
+    "claims": [
+      {
+        "text": "We know that our streets are being flooded with fentanyl, and in all of our communities, children and even adults are dying from it.",
+        "approx_s": 9633.8,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Not rated."
+      },
+      {
+        "text": "Prices have increased over 17 percent in the last 2 years",
+        "approx_s": 9678.6,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "Half True",
+            "url": "https://politifact.com/factchecks/2023/oct/26/mike-johnson/have-prices-increased-by-over-17-in-two-years/",
+            "date": "2023-10-26"
+          }
+        ],
+        "mapped_label": "Misleading",
+        "mapping_basis": "firm",
+        "mapping_note": "Prices rose about 12% over two years; 17% is measured from January 2021. \"The statement is partially accurate but leaves out important details, so we rate it Half True.\""
+      },
+      {
+        "text": "credit card interest rates are at the highest level in nearly three decades",
+        "approx_s": 9682.2,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Not rated. The live captions render this as 'CREDIT CARD RATES ARE AT THE HIGHEST LEVELS'."
+      },
+      {
+        "text": "mortgage rates are now at a peak we haven't seen since 2001",
+        "approx_s": 9686.2,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Not rated."
+      },
+      {
+        "text": "the debt has crossed to almost $33.6 trillion",
+        "approx_s": 9716.3,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Not rated."
+      },
+      {
+        "text": "In the time that it is going to take me to deliver this speech, it will go up another $20 million in debt.",
+        "approx_s": 9720.5,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "Mostly True",
+            "url": "https://politifact.com/factchecks/2023/oct/26/mike-johnson/fact-checking-new-house-speaker-mike-johnson-on-th/",
+            "date": "2023-10-26"
+          }
+        ],
+        "mapped_label": "True",
+        "mapping_basis": "firm",
+        "mapping_note": "PolitiFact: \"Johnson is right that the debt goes up by a lot every 20 minutes\"; on averages he \"understated the amount by a factor of four.\""
+      }
+    ],
+    "notes": "Timestamps are approximate. They are taken from the HouseLive captions.vtt cue times ('WE HAVE A CATASTROPHE' cue at 9423.6 s, '17% LAST TWO YEARS' at 9484.2 s, '$20 MILLION' at about 9525 s), widened by about 3-5 s at the start for typical live-caption lag. The VTT carries 'NOTE CAPTIONS TIME OFFSET: 00:03:21.244' and the manifest URL has '#t=191.244'. I could not confirm whether the player's time display matches VTT time exactly, so check start/end by listening. The reference is the Congressional Record (edited): the spoken version differs (captions show 'EVERYONE IN THIS ROOM -- HERE'S THE STATS', 'THAT'S RIGHT --' interjection). Applause probable. No official YouTube upload was found (Speaker channel searched). Transcript pass (2026-10-25): reference rebuilt by machine consensus, no human listening; 237 words agreed by both models, 6 conflicts settled by the published text, 1 left [unclear]. Times from the models' word timings. Time base changed: start_s/end_s/approx_s are now seconds on the HLS/DASH manifest timeline (houseliveprod .../2023-10-25T11-54-52_Download/manifest.m3u8), found by transcribing it. The passage sits ~201 s later than the old captions.vtt-based times, matching the VTT's 'CAPTIONS TIME OFFSET: 00:03:21.244'. Whether the HouseLive player's clock shows manifest time (it opens the manifest at #t=191.244) is still unchecked.",
+    "group": "floor"
+  },
+  {
+    "id": "murray-senate-floor-2025-tax-cuts-debt",
+    "title": "Sen. Patty Murray on the Senate floor: Republican tax cuts the 'single biggest driver' of the debt",
+    "speakers": [
+      {
+        "name": "Patty Murray",
+        "party": "D",
+        "role": "U.S. Senator (WA), Vice Chair, Senate Appropriations Committee"
+      }
+    ],
+    "event": "Senate floor debate on the Republican FY2025 budget resolution",
+    "date": "2025-02-20",
+    "kind": "floor",
+    "video": {
+      "url": "https://www.youtube.com/watch?v=SMY-HbEAwo0",
+      "platform": "YouTube",
+      "uploader": "Senator Patty Murray (official Senate office channel)",
+      "official_uploader": true,
+      "start_s": 1848.7,
+      "end_s": 1964.5,
+      "timestamps_verified": "asr"
+    },
+    "terms": {
+      "copyright": "public domain (17 USC 105); Senate Recording Studio floor feed",
+      "terms_summary": "YouTube Terms of Service: viewing/embedding via YouTube's player is permitted; downloading or redistributing is not, except where YouTube provides a download feature. The underlying footage is U.S. government work (Senate/House/White House recording) and is public domain, but access through YouTube is still bound by YouTube's ToS.",
+      "terms_url": "https://www.youtube.com/t/terms",
+      "eval_use_note": "Play in a browser tab through the YouTube player only; do not download."
+    },
+    "captions": {
+      "available": true,
+      "kind": "human",
+      "how_checked": "yt-dlp --list-subs on 2026-10-25: 'Available subtitles' lists 'en-uYU-mmqFLq8 English - CC1', which is the Senate broadcast's embedded CEA-608 real-time captions (all caps, live stenography with errors such as 'REPUBLICANS CLEAR HIM ON', 'PROGRAMS FLAMES COUNT ON'). Auto en-orig also present."
+    },
+    "reference_transcript": {
+      "text": "Let's be very clear. Republicans' budget resolution doesn't just accept, it actually doubles down on what Trump and Musk are doing. And it's not about balancing the budget. We all know that. because they don't plan to reverse one of the biggest drivers of the debt, Republican tax cuts. Despite all the bogeymen that Republicans like to point to as driving the national debt, the reality is that the single biggest driver of our national debt since 2001 has been Republican tax cuts. The Trump and Bush tax cuts have cost our nation over $10 trillion and counting. And you'll never guess what our colleagues on the other side of the aisle are focused on right now. Nothing to lower the cost of eggs. It's actually more Republican tax cuts. And no, they will not be paid for. And yes, they will blow up the national debt. While Elon Musk hacks and chops his way through the government in the name of meager savings and Republicans are cheering him on, they're all hoping that we will ignore the elephant they brought into the room. Even as this budget is a roadmap for painful cuts to programs families count on each and every day, also they can give billionaires more tax cuts. Republicans are going down this partisan path because they know Democrats are not going to join them in throwing Medicaid, nutrition assistance, and [unclear: veterans' benefits into the woodchopper | food tax cuts.] so they can throw more tax cuts at billionaires and the biggest corporations. Make no mistake, this budget resolution is the Doge resolution as it assumes the staggering amount of $1 trillion in unspecified cuts in 2025 alone and $9 trillion over 10 years.",
+      "source_url": "https://www.govinfo.gov/content/pkg/CREC-2025-02-20/html/CREC-2025-02-20-pt1-PgS1075-2.htm (Congressional Record, Feb 20, 2025, Senate, Legislative Session)",
+      "source_kind": "machine consensus (Whisper large-v3 + Parakeet TDT 0.6B v2; ties broken by: Congressional Record)",
+      "fidelity": "machine consensus",
+      "needs_listening_check": false
+    },
+    "claims": [
+      {
+        "text": "the reality is that the single biggest driver of our national debt since 2001 has been Republican tax cuts",
+        "approx_s": 1870.8,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "Half True",
+            "url": "https://www.politifact.com/factchecks/2025/feb/25/patty-murray/are-republican-tax-cuts-the-single-biggest-driver/",
+            "date": "2025-02-25"
+          }
+        ],
+        "mapped_label": "Misleading",
+        "mapping_basis": "firm",
+        "mapping_note": "CRFB found tax cuts were the biggest of four categories (a plurality, not a majority). PolitiFact adds that \"several of these tax cut bills also had Democratic buy-in from Congress or the president\" (Murray voted for two of five) and concludes \"We rate the statement Half True.\""
+      },
+      {
+        "text": "The Trump and Bush tax cuts have cost our nation over $10 trillion and counting",
+        "approx_s": 1882.2,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Not rated. For context, the PolitiFact article cites CRFB's $8.4 trillion for all tax cuts since 2001, but it does not evaluate this figure."
+      },
+      {
+        "text": "no, they will not be paid for, and, yes, they will blow up the national debt",
+        "approx_s": 1899.4,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Prediction; not checkable at the time."
+      },
+      {
+        "text": "this budget resolution ... assumes a staggering amount of $1 trillion in unspecified cuts in 2025 alone and $9 trillion over 10 years",
+        "approx_s": 1949.9,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Not rated."
+      }
+    ],
+    "notes": "Murray is the only speaker. The CR is edited ('bogeymen' for spoken 'bogeyman'; the auto captions catch a stumble, 'the singlest biggest single biggest driver'). Plan a listening check before WER. Window times come from word-level auto-caption times ('Let's' at 1849.0 s; 'years' at 1963.4 s). The CC1 human track lags audio by about 3-4 s (CC1 cue for 'single biggest driver' at 1879.0 s vs auto word time 1875.6 s). Murray repeated the claim in later statements. Transcript pass (2026-10-25): reference rebuilt by machine consensus, no human listening; 272 words agreed by both models, 12 conflicts settled by the published text, 1 left [unclear]. Times from the models' word timings.",
+    "group": "floor"
+  },
+  {
+    "id": "uk-pmqs-2025-09-03-badenoch-unemployment",
+    "title": "PMQs 3 Sep 2025: Starmer on G7 growth/jobs, Badenoch says unemployment up 'every single month'",
+    "speakers": [
+      {
+        "name": "Keir Starmer",
+        "party": "Lab",
+        "role": "Prime Minister (government)"
+      },
+      {
+        "name": "Kemi Badenoch",
+        "party": "Con",
+        "role": "Leader of the Opposition"
+      }
+    ],
+    "event": "Prime Minister's Questions, House of Commons",
+    "date": "2025-09-03",
+    "kind": "parliament",
+    "video": {
+      "url": "https://parliamentlive.tv/event/index/cbb76530-42fd-4af1-99b2-d7fad24c0046?in=12:06:16",
+      "platform": "parliamentlive.tv (Red Bee Media HLS player)",
+      "uploader": "UK Parliament (Parliamentary Recording Unit)",
+      "official_uploader": true,
+      "start_s": 1955.6,
+      "end_s": 2020.0,
+      "timestamps_verified": "asr"
+    },
+    "terms": {
+      "copyright": "Parliamentary copyright (House of Commons); Hansard text under Open Parliament Licence v3.0",
+      "terms_summary": "parliamentlive.tv recordings are Parliamentary copyright, all rights reserved; UK Parliament download/sharing terms bar altering the recording, satire/ridicule, advertising/entertainment use, implying endorsement, and party-political/election use without Members' permission. Hansard (reference transcript) is reusable under the Open Parliament Licence with attribution.",
+      "terms_url": "https://www.parliament.uk/site-information/copyright-parliament/pru-licence-agreements/downloading--sharing-terms--conditions/",
+      "eval_use_note": "Harness only plays the stream in the parliamentlive.tv page; nothing downloaded or redistributed. Terms page itself returned 403 to our fetcher on 2026-10-25; terms summarised from search-indexed copies (webtest.parliament.uk mirror), so re-confirm before publication. Internal non-satirical evaluation use appears compatible; whether AI processing is addressed was not confirmed."
+    },
+    "captions": {
+      "available": true,
+      "kind": "human",
+      "how_checked": "2026-10-25: Red Bee exposure API play call for asset cbb76530-42fd-4af1-99b2-d7fad24c0046_0D62A9b -> HLS master has EXT-X-MEDIA TYPE=SUBTITLES (English, WebVTT 'textstream', DEFAULT=YES); fetched WebVTT segments 338-372. These are live broadcast subtitles (respeaker/stenographer style, ~2-4 s lag, paraphrases e.g. 'unemployed and gone has up every month'), toggled by a CC button in the player; player wrapper HTML carries class 'player-no-subtitles' until toggled."
+    },
+    "reference_transcript": {
+      "text": "THE PRIME MINISTER: [unclear: Mr. | (nothing)] Speaker, she [unclear: can't | cannot] resist. She comes straight back to talk the country down at every opportunity. She does not welcome the highest growth in the G7. She could have got up and welcomed that, but no. What about the 380,000 jobs [unclear: we've | we have] created? She could welcome that, but no. What about the three trade deals [unclear: we've | we have] got? Not only does she not welcome them, she opposes them. And of course, she has not welcomed the Norway deal, the biggest deal for shipbuilding in a very, very long time. She should stop talking down the country and get behind the renewal this government are delivering.\nMRS BADENOCH: Mr. Speaker, he is dragging down the country. He is dragging it down. How can he stand there and say that he is creating jobs? Unemployment has gone up every single month under this Labour government. [unclear: And | (nothing)] if he does not know why borrowing costs are going up, another reason is that the markets can see that he is too weak to control spending. Now, we are reading that he wants to have another go at welfare costing. What makes him think that they will vote for it this time?",
+      "source_url": "https://hansard.parliament.uk/commons/2025-09-03/debates/467F5972-7DC6-4150-A8B6-C56C1852B4BA/Engagements",
+      "source_kind": "machine consensus (Whisper large-v3 + Parakeet TDT 0.6B v2; ties broken by: UK Hansard (Official Report), retrieved via hansard-api.parliament.uk/debates/debate/467F5972-7DC6-4150-A8B6-C56C1852B4BA.json)",
+      "fidelity": "machine consensus",
+      "needs_listening_check": false
+    },
+    "claims": [
+      {
+        "text": "She does not welcome the highest growth in the G7.",
+        "approx_s": 1962.6,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated in this window. Refers to Q2 2025 GDP (+0.3%); Full Fact has checked other G7-growth claims but none for this sentence was found."
+      },
+      {
+        "text": "What about the 380,000 jobs that we have created?",
+        "approx_s": 1969.6,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated; no fact-check found."
+      },
+      {
+        "text": "What about the three trade deals that we have?",
+        "approx_s": 1974.6,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated (US, India, EU agreements). Live subtitles render it 'the trade deals we have got'."
+      },
+      {
+        "text": "the Norway deal—the biggest deal for shipbuilding in a very, very long time",
+        "approx_s": 1981.6,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated; Starmer earlier in the session called it a GBP 10bn contract, the biggest defence deal Norway has ever placed."
+      },
+      {
+        "text": "Unemployment has gone up in every single month under this Labour Government.",
+        "approx_s": 1999.6,
+        "ratings": [
+          {
+            "org": "Full Fact",
+            "rating": "Incorrect (no rating scale; narrative verdict)",
+            "url": "https://fullfact.org/economy/kemi-badenoch-unemployment-under-labour/",
+            "date": "2025-09-05"
+          }
+        ],
+        "mapped_label": "False",
+        "mapping_basis": "judgment",
+        "mapping_note": "Full Fact: 'Incorrect.' The number unemployed and the rate 'have both risen since Labour came into government, but they haven't gone up in every single month.' Full Fact links this exact moment at parliamentlive ?in=12:07:03. Also listed in Full Fact's 'MPs who have not corrected the record' tracker."
+      }
+    ],
+    "notes": "Two speakers with heckling. start_s/end_s are seconds from the recording start (PublishedStartTime 2025-09-03T10:33:54Z = 11:33:54 BST; HLS PROGRAM-DATE-TIME matches). The player seeks by wall-clock via ?in=HH:MM:SS (BST): window = 12:06:16-12:07:30 BST. Timestamps come from the live-subtitle cues, which lag speech by ~2-4 s, so a listening check is needed for exact boundaries. Hansard is 'substantially verbatim': it drops repetitions and tidies wording (e.g. spoken 'every single month' vs Hansard 'in every single month'; Full Fact quotes it without 'in'), so expect some WER from the reference itself. Hansard timecodes for these contributions are unreliable (item 12 is stamped 12:04:49). Transcript pass (2026-10-25): reference rebuilt by machine consensus, no human listening; 180 words agreed by both models, 9 conflicts settled by the published text, 5 left [unclear]. Times from the models' word timings. Hansard rewrites Starmer's opening ('The right hon. Lady cannot resist it' vs spoken 'Mr. Speaker, she can't resist'); the window starts after the Speaker's call 'Prime Minister'.",
+    "group": "uncaptioned"
+  },
+  {
+    "id": "uk-pmqs-2026-03-04-starmer-defence-270bn",
+    "title": "PMQs 4 Mar 2026: Starmer says Labour is delivering 'biggest boost to defence spending since the Cold War, £270 billion'",
+    "speakers": [
+      {
+        "name": "Keir Starmer",
+        "party": "Lab",
+        "role": "Prime Minister (government)"
+      }
+    ],
+    "event": "Prime Minister's Questions, House of Commons",
+    "date": "2026-03-04",
+    "kind": "parliament",
+    "video": {
+      "url": "https://parliamentlive.tv/event/index/b7e196e8-eb22-4a03-8e70-af51862c4523?in=12:11:05",
+      "platform": "parliamentlive.tv (Red Bee Media HLS player)",
+      "uploader": "UK Parliament (Parliamentary Recording Unit)",
+      "official_uploader": true,
+      "start_s": 2221.4,
+      "end_s": 2277.9,
+      "timestamps_verified": "asr"
+    },
+    "terms": {
+      "copyright": "Parliamentary copyright (House of Commons); Hansard text under Open Parliament Licence v3.0",
+      "terms_summary": "parliamentlive.tv recordings are Parliamentary copyright, all rights reserved; UK Parliament download/sharing terms bar altering the recording, satire/ridicule, advertising/entertainment use, implying endorsement, and party-political/election use without Members' permission. Hansard (reference transcript) is reusable under the Open Parliament Licence with attribution.",
+      "terms_url": "https://www.parliament.uk/site-information/copyright-parliament/pru-licence-agreements/downloading--sharing-terms--conditions/",
+      "eval_use_note": "Harness only plays the stream in the parliamentlive.tv page; nothing downloaded or redistributed. Terms page itself returned 403 to our fetcher on 2026-10-25; terms summarised from search-indexed copies (webtest.parliament.uk mirror), so re-confirm before publication. Internal non-satirical evaluation use appears compatible; whether AI processing is addressed was not confirmed."
+    },
+    "captions": {
+      "available": true,
+      "kind": "human",
+      "how_checked": "2026-10-25: Red Bee exposure API play call for asset b7e196e8-eb22-4a03-8e70-af51862c4523_0D62A9b -> HLS master has EXT-X-MEDIA TYPE=SUBTITLES (English WebVTT); fetched WebVTT segments 35-41 (segments here are ~60 s). Kind is the broadcaster's live subtitle feed; whether human-respoken or machine-generated is not stated (quality looks closer to verbatim than the 2025 feed), so treat 'human' as unconfirmed."
+    },
+    "reference_transcript": {
+      "text": "THE PRIME MINISTER: Not only did they cut the defence budget, they missed army recruitment targets every year for 14 years. They left morale in our armed forces at an all-time low, and our forces hollowed out. That's the words of Ben Wallace, the former Defence Secretary. Labour, by contrast, is delivering the biggest boost to defence spending since the Cold War. £270 billion over this parliament. And we're doing that because we're focused on what matters. And she's right. The war is, of course, happening now. We have to focus on that. Across the country, people are worried about those that are trapped in the region. And Mr. Speaker, that is why we're taking action. And I can update the House. I can update the House that yesterday more than a [unclear: thousand British | year ago, the Prime Minister was in the House. He was in the] nationals arrived back in the UK on commercial flights from the UAE. A further eight flights are due to leave the UAE to the UK today.",
+      "source_url": "https://hansard.parliament.uk/commons/2026-03-04/debates/13322AC4-D224-4407-B737-2FEB75AD5866/Engagements",
+      "source_kind": "machine consensus (Whisper large-v3 + Parakeet TDT 0.6B v2; ties broken by: UK Hansard (Official Report), retrieved via hansard-api.parliament.uk/debates/debate/13322AC4-D224-4407-B737-2FEB75AD5866.json)",
+      "fidelity": "machine consensus",
+      "needs_listening_check": false
+    },
+    "claims": [
+      {
+        "text": "Not only did they cut the defence budget",
+        "approx_s": 2221.7,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated in this window."
+      },
+      {
+        "text": "they missed Army recruitment targets every year for 14 years",
+        "approx_s": 2223.7,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated."
+      },
+      {
+        "text": "They left morale in our armed forces at an all-time low, and our forces “hallowed out”, in the words of Ben Wallace",
+        "approx_s": 2228.4,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated; the checkable part is the attribution of 'hollowed out' to Ben Wallace."
+      },
+      {
+        "text": "Labour, by contrast, is delivering the biggest boost to defence spending since the cold war—£270 billion over this Parliament",
+        "approx_s": 2237.7,
+        "ratings": [
+          {
+            "org": "Full Fact",
+            "rating": "This isn't clear and needs context (narrative verdict)",
+            "url": "https://fullfact.org/politics/defence-spending-increase-pmqs",
+            "date": "2026-03-13"
+          }
+        ],
+        "mapped_label": "Misleading",
+        "mapping_basis": "judgment",
+        "mapping_note": "Full Fact: 'This £270 billion figure is the Ministry of Defence's total projected spend between 2025/26 and 2028/29, not how much spending will increase by.' Spending is rising (Full Fact rates Badenoch's 'isn't spending more' Incorrect), but presenting the total as the 'boost' gives a wrong impression. Full Fact links this moment at ?in=12:11:33."
+      },
+      {
+        "text": "yesterday more than 1,000 British nationals arrived back in the UK on commercial flights from the UAE",
+        "approx_s": 2264.8,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated."
+      }
+    ],
+    "notes": "Single speaker, with heckling just before the clip (the Speaker rebukes Chris Philp at ~2200-2206 s; the clip starts after 'Prime Minister.'). start_s/end_s are seconds from the recording start (PublishedStartTime 2026-03-04T11:34:19Z; GMT, so wall-clock is the same). Window = 12:11:05-12:12:02 on the ?in= wall clock. Boundaries come from subtitle cues; needs a listening check. Hansard tidies wording (subtitles have 'They missed army recruitment targets year for 14 years', 'to the UK today'). The same session has Badenoch's rated claims ('he isn't' spending more, Incorrect; '£2.6 billion' cut, potentially misleading) at ~2318-2342 s if a second window is wanted. Transcript pass (2026-10-25): reference rebuilt by machine consensus, no human listening; 154 words agreed by both models, 3 conflicts settled by the published text, 1 left [unclear]. Times from the models' word timings.",
+    "group": "uncaptioned"
+  },
+  {
+    "id": "us-khanna-tiktok-2025-02-20-telehealth",
+    "title": "Rep. Ro Khanna TikTok: 'Trump administration just announced Medicare will stop covering telehealth starting April 1'",
+    "speakers": [
+      {
+        "name": "Ro Khanna",
+        "party": "D",
+        "role": "U.S. Representative (CA-17)"
+      }
+    ],
+    "event": "Self-posted TikTok video",
+    "date": "2025-02-20",
+    "kind": "other",
+    "video": {
+      "url": "https://www.tiktok.com/@reprokhanna/video/7473600871306136874",
+      "platform": "TikTok",
+      "uploader": "@reprokhanna (Rep. Ro Khanna)",
+      "official_uploader": true,
+      "start_s": 0.0,
+      "end_s": 31.0,
+      "timestamps_verified": "asr"
+    },
+    "terms": {
+      "copyright": "uncertain: possibly public domain (17 USC 105) if made by House staff as official work; otherwise copyrighted by the creator. TikTok holds a licence under its ToS",
+      "terms_summary": "TikTok ToS: users keep ownership and grant TikTok a licence; other users may only view/share through the platform's features; no scraping or automated collection, and no copying or redistribution of content outside the service.",
+      "terms_url": "https://www.tiktok.com/legal/page/us/terms-of-service/en",
+      "eval_use_note": "Play in the TikTok web player in the browser tab only; don't download. Harness automation of tiktok.com may count as automated access under the ToS, so review before scaled runs."
+    },
+    "captions": {
+      "available": false,
+      "kind": "none",
+      "how_checked": "yt-dlp --skip-download -J (run plain and with --impersonate chrome) on 2026-10-25: 'subtitles' is {} and there is no 'automatic_captions' key. Note: the TikTok app can show viewer-side auto-captions that the web metadata doesn't expose, and burned-in on-screen text wasn't checked. Frames checked 2026-10-25: the picture carries burned-in captions of the speech (see notes); still no caption track."
+    },
+    "reference_transcript": {
+      "text": "Breaking news. The Trump administration just announced that Medicare will stop covering telehealth starting April 1st. This is going to be devastating for so many seniors who are homebound or don't live close to a doctor's office. Look, you don't have to be the congressman from Silicon Valley to know that doctors and nurses should be able to use telehealth if they think that will make their patients' life better. We need to stand up to these Medicare cuts.",
+      "source_url": "https://politifact.com/factchecks/2025/mar/18/ro-khanna/congressman-blames-trump-team-for-ending-telehealt/",
+      "source_kind": "machine consensus (Whisper large-v3 + Parakeet TDT 0.6B v2; ties broken by: fact-check article quote (PolitiFact); no full transcript published)",
+      "fidelity": "machine consensus",
+      "needs_listening_check": false
+    },
+    "claims": [
+      {
+        "text": "The Trump administration just announced that Medicare will stop covering telehealth starting April 1.",
+        "approx_s": 0.9,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "Half True",
+            "url": "https://politifact.com/factchecks/2025/mar/18/ro-khanna/congressman-blames-trump-team-for-ending-telehealt/",
+            "date": "2025-03-18"
+          }
+        ],
+        "mapped_label": "Misleading",
+        "mapping_basis": "firm",
+        "mapping_note": "PolitiFact: 'partially accurate, because the Trump administration announced the March 31 sunset' but 'lacks key context that the expiration date was set by Congress, not the Trump administration.' Later facts: Congress then extended telehealth coverage through September; judge as of 2025-02-20."
+      },
+      {
+        "text": "these Medicare cuts",
+        "approx_s": 29.4,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Embedded premise that the telehealth lapse is a 'Medicare cut' by the administration; not separately rated."
+      }
+    ],
+    "notes": "Whole 31 s video is the clip. Only about two sentences of the spoken text are known, both from PolitiFact (the '...' between them is PolitiFact's own cut), so WER can only be computed after someone listens and transcribes the clip. The claim's position (~0-6 s) is inferred from PolitiFact saying the video opens with 'Breaking news'. Burned-in captions may be on screen; not checked. Hashtags in the post: #breakingnews #healthcare #elonmusk. Transcript pass (2026-10-25): reference rebuilt by machine consensus, no human listening; 78 words agreed by both models, 1 conflicts settled by the published text, 0 left [unclear]. Times from the models' word timings. On-screen text: burned-in word-by-word captions of the speech throughout (small white text); a red banner 'Breaking: Trump announced he's ending Medicare coverage of telehealth.' and a second red banner 'This is devastating news for many seniors who cannot travel to their doctor.' from ~8 s to the end; and at ~2-7 s a screenshot of a provider notice: 'Medicare will no longer cover telehealth services as of April 1, 2025. As of 4/1/25, Medicare will stop covering most telehealth services (phone and video visits). If you have Medicare coverage and have a telehealth appointment scheduled after April 1, we may call you to switch it to an in-person appointment. Questions? Call your provider's office.' None of it is a caption track the extension can read.",
+    "group": "uncaptioned"
+  },
+  {
+    "id": "us-vance-peachtree-city-2025-08-21-biggest-tax-cut",
+    "title": "VP JD Vance, Peachtree City GA: 'the biggest tax cut for families that this country has ever seen'",
+    "speakers": [
+      {
+        "name": "JD Vance",
+        "party": "R",
+        "role": "Vice President"
+      }
+    ],
+    "event": "Vice President's remarks at ALTA Refrigeration Inc., Peachtree City, Georgia",
+    "date": "2025-08-21",
+    "kind": "address",
+    "video": {
+      "url": "https://x.com/RSBNetwork/status/1958600690353475771",
+      "platform": "X (native video)",
+      "uploader": "@RSBNetwork (Right Side Broadcasting Network)",
+      "official_uploader": false,
+      "start_s": 433.5,
+      "end_s": 461.0,
+      "timestamps_verified": "asr"
+    },
+    "terms": {
+      "copyright": "speech by the VP in his official capacity is public domain (17 USC 105); RSBN's recording/stream is likely copyrighted by RSBN",
+      "terms_summary": "X ToS: users keep their rights and license X to distribute; viewing through X's services is allowed; crawling/scraping without X's prior written consent is prohibited.",
+      "terms_url": "https://x.com/en/tos",
+      "eval_use_note": "Play in the x.com tab only; don't download. Official alternative: @VP's live-broadcast replay https://x.com/VP/status/1958589365724070141 (-> x.com/i/broadcasts/1MnxnPRdaPoGO), also caption-free, but its ~276 s of extra length (probably pre-roll) leaves the claim's offset too uncertain for a <=120 s window."
+    },
+    "captions": {
+      "available": false,
+      "kind": "none",
+      "how_checked": "yt-dlp --skip-download -J on 2026-10-25: 'subtitles' is {} and there is no 'automatic_captions' key, for both the RSBN video and the @VP broadcast. Sub-agent also fetched the RSBN HLS master (video.twimg.com/amplify_video/1958599730876854272/pl/...m3u8): only AUDIO EXT-X-MEDIA entries, no SUBTITLES. Same method does detect 'en' subtitle tracks on other (2026) X videos."
+    },
+    "reference_transcript": {
+      "text": "[unclear: That's | (nothing)] why we increased the child tax credit in the working families tax cut. That's why we eliminated taxes on overtime and on tips. And that's why we had the biggest tax cut for families that this country has ever seen because we believe that you ought to keep more of your hard-earned money. And we believe that if you're busting your rear end every single day, the government ought to make it easier for you and not harder for you. And that's why we fought for that legislation. [unclear: (nothing) | Now,]",
+      "source_url": "https://politifact.com/factchecks/2025/aug/22/jd-vance/big-beautiful-bill-biggest-tax-cut-history/",
+      "source_kind": "machine consensus (Whisper large-v3 + Parakeet TDT 0.6B v2; ties broken by: fact-check article quote (PolitiFact). No official transcript: whitehouse.gov and the American Presidency Project have only the advisory/pool reports.)",
+      "fidelity": "machine consensus",
+      "needs_listening_check": false
+    },
+    "claims": [
+      {
+        "text": "That's why we increased the child tax credit in the working families tax cut. That's why we eliminated taxes on overtime and on tips.",
+        "approx_s": 433.8,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Unrated. Wording comes from YouTube auto-captions, used only to locate the passage (not as the reference). Checkable premise about the 2025 law's provisions."
+      },
+      {
+        "text": "And that's why we had the biggest tax cut for families that this country has ever seen.",
+        "approx_s": 442.4,
+        "ratings": [
+          {
+            "org": "PolitiFact",
+            "rating": "Mostly False",
+            "url": "https://politifact.com/factchecks/2025/aug/22/jd-vance/big-beautiful-bill-biggest-tax-cut-history/",
+            "date": "2025-08-22"
+          }
+        ],
+        "mapped_label": "False",
+        "mapping_basis": "judgment",
+        "mapping_note": "The literal superlative is not accurate: as a share of GDP the 2025 law ranks 'third among tax cut laws since 1980', or ties for sixth counting only new cuts, behind Reagan 1981 and Obama 2012. That isn't the 'literal fact nearly right' case, so Mostly False maps to False. (PolitiFact corrected the article on 2025-08-26.)"
+      }
+    ],
+    "notes": "Timestamps are unverified on the X copy. In the White House YouTube upload (https://www.youtube.com/watch?v=QAUKXYlw-NI, 2041 s) the passage runs about 449-486 s according to auto-caption cues. The RSBN X video is 2058 s, 17 s longer, so the passage should fall around 449-503 s; the 440-540 s window allows for that but must be confirmed by listening and then tightened. Single speaker at a factory event; crowd applause likely. The YouTube copy itself has auto-captions, so don't use it for this group. Transcript pass (2026-10-25): reference rebuilt by machine consensus, no human listening; 89 words agreed by both models, 0 conflicts settled by the published text, 2 left [unclear]. Times from the models' word timings. On-screen text: RSBN 'LIVE PEACHTREE CITY, GA' tag, '2:05 PM ET' clock and a news ticker about unrelated stories (trilateral talks with Russia and Ukraine; Missouri AG Andrew Bailey joining FBI leadership); no captions of the speech. The passage runs ~433.8-461 s on this X video ('That's why we increased the child tax credit...' to '...that's why we fought for that legislation', then applause and a new topic), earlier than the 440-540 s guess.",
+    "group": "uncaptioned"
+  },
+  {
+    "id": "us-warner-x-2025-07-21-russia-interference",
+    "title": "Sen. Mark Warner X video: 'No one ever claimed Russia altered votes'",
+    "speakers": [
+      {
+        "name": "Mark Warner",
+        "party": "D",
+        "role": "U.S. Senator (VA), Vice Chairman, Senate Intelligence Committee"
+      }
+    ],
+    "event": "Self-posted X video responding to DNI Tulsi Gabbard",
+    "date": "2025-07-21",
+    "kind": "other",
+    "video": {
+      "url": "https://x.com/MarkWarner/status/1947370490969854447",
+      "platform": "X (native video)",
+      "uploader": "@MarkWarner",
+      "official_uploader": true,
+      "start_s": 0.0,
+      "end_s": 53.0,
+      "timestamps_verified": "asr"
+    },
+    "terms": {
+      "copyright": "uncertain: possibly public domain (17 USC 105) if made by Senate staff as official work; may instead be campaign-produced and copyrighted",
+      "terms_summary": "X ToS: users keep their rights and license X to distribute; viewing through X's services is allowed; crawling/scraping without X's prior written consent is prohibited.",
+      "terms_url": "https://x.com/en/tos",
+      "eval_use_note": "Play in the x.com tab only; don't download."
+    },
+    "captions": {
+      "available": false,
+      "kind": "none",
+      "how_checked": "yt-dlp --skip-download -J on 2026-10-25 (media id 1947370398317715456): 'subtitles' is {} and there is no 'automatic_captions' key. Burned-in on-screen text not checked. Frames checked 2026-10-25: the picture carries burned-in captions of the speech (see notes); still no caption track."
+    },
+    "reference_transcript": {
+      "text": "[unclear: Over | (nothing)] the weekend, DNI Gabbard, who anybody who's followed these know how I feel about, was again trying to maybe divert from Epstein, trying to rehash the 2016 Russia investigation, where no one ever claimed Russia altered votes, but everyone claimed that Russia tried to interfere on Trump's behalf. Well documented, well-vetted, the Senate intelligence, bipartisan, [unclear: (nothing) | the] unanimous report, the Mueller report, and now Gabbard in her next effort of trying to politicize is actually threatening legal action against former employees of the intelligence community and others. I mean, is there not anyone going to stand up against this politicization? The country needs an independent intelligence community that speaks truth to power, not that makes up fables to try to please Donald Trump.",
+      "source_url": "https://www.factcheck.org/2025/07/gabbards-misleading-coup-claim/",
+      "source_kind": "machine consensus (Whisper large-v3 + Parakeet TDT 0.6B v2; ties broken by: fact-check article quote (FactCheck.org); no full transcript published)",
+      "fidelity": "machine consensus",
+      "needs_listening_check": false
+    },
+    "claims": [
+      {
+        "text": "No one ever claimed Russia altered votes, but everyone claims that Russia tried to interfere on Trump's behalf.",
+        "approx_s": 13.0,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "Not rated: FactCheck.org quotes Warner as context in a check of Gabbard ('Gabbard's Misleading \"Coup\" Claim') and doesn't evaluate his statement. Its cited evidence (Mueller report; 2020 bipartisan SSCI report) supports the interference point. 'everyone claims' is loose wording."
+      },
+      {
+        "text": "[interference was] well documented and well vetted by the Intelligence Community, a bipartisan Senate Intelligence Committee and the Mueller report",
+        "approx_s": 21.1,
+        "ratings": [],
+        "mapped_label": null,
+        "mapping_basis": null,
+        "mapping_note": "From FactCheck.org's paraphrase only; exact spoken wording unknown. Unrated."
+      }
+    ],
+    "notes": "EXCEPTION TO BRIEF: this clip has no professionally rated claim (FactCheck.org only quotes Warner). It's included on the coordinator's instruction as the only verified uncaptioned Democratic talking-head option left after the Pritzker clip was excluded (posted by @cspan). Use it for transcript-WER and filter-recall only, not for verdict scoring. Whole 53 s video is the clip; the quote's position is unknown. Only one sentence is verbatim-known. Transcript pass (2026-10-25): reference rebuilt by machine consensus, no human listening; 121 words agreed by both models, 0 conflicts settled by the published text, 2 left [unclear]. Times from the models' word timings. On-screen text: burned-in word-by-word captions in white capitals on a blue box (e.g. 'DNI GABBARD', 'WHERE NO ONE EVER', 'WELL-VETTED,'), which settled the models' 'D and I' vs 'DNI'. Not a caption track the extension can read.",
+    "group": "uncaptioned"
+  }
+]

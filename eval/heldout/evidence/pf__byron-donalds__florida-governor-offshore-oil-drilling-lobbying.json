@@ -1,0 +1,270 @@
+{
+  "frozenAt": "2026-10-27T03:25:36.095Z",
+  "refilteredAt": "2026-10-27T03:38:06.227Z",
+  "id": "pf/byron-donalds/florida-governor-offshore-oil-drilling-lobbying",
+  "said": "2026-09-28",
+  "queries": {
+    "fact": "Just months after the 2010 Deepwater Horizon oil spill, David Jolly was in Washington, pressuring Congress to expand drilling off the Florida coast, over $5 million in billings.",
+    "claim": "Just months after the 2010 Deepwater Horizon oil spill, David Jolly was in Washington, pressuring Congress to expand drilling off the Florida coast, over $5 million in billings. Byron Donalds"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2438.8502919999883,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 3044.214083999861,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Deepwater Horizon – BP Gulf of America Oil Spill",
+      "url": "https://www.epa.gov/enforcement/deepwater-horizon-bp-gulf-america-oil-spill",
+      "domain": "epa.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Deepwater Horizon Oil Disaster - Tampa - Kathy Castor",
+      "url": "https://castor.house.gov/homepage/oildisaster.htm",
+      "domain": "castor.house.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Byron Donalds overstates David Jolly's offshore drilling ...",
+      "url": "https://www.wlrn.org/light/government-politics/2026-10-02/byron-donalds-overstates-david-jollys-offshore-drilling-lobbying-ignores-anti-drilling-record",
+      "domain": "wlrn.org",
+      "published": "2026-10-02",
+      "publishedAsGiven": "Oct 2, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Deepwater Horizon Oil Spill - Smithsonian Ocean Portal",
+      "url": "https://ocean.si.edu/conservation/pollution/gulf-oil-spill",
+      "domain": "ocean.si.edu",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "What happened during the Deepwater Horizon oil spill?",
+      "url": "https://oceanservice.noaa.gov/education/tutorial-coastal/oil-spills/os04-sub-01.html",
+      "domain": "oceanservice.noaa.gov",
+      "published": "2026-09-23",
+      "publishedAsGiven": "Sep 23, 2026",
+      "snippet": "The largest marine oil spill in U.S. history, the Deepwater Horizon oil spill, started on April 20, 2010. An estimated 60,000 barrels of oil ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "BP Deepwater Horizon Spill 2010: 11 Dead, 134M Gallons Oil ...",
+      "url": "https://www.facebook.com/Earthjustice/videos/15-years-after-the-bp-deepwater-horizon-oil-spill-coastal-communities-and-ecosys/545725241561486/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "snippet": "15 years after the BP Deepwater Horizon oil spill, coastal communities and ecosystems are still recovering—and the oil industry is still ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "May 27, 2010 - A Hearing on \"Combating the BP Oil Spill\"",
+      "url": "https://www.youtube.com/watch?v=TZAFxn09CPg",
+      "domain": "youtube.com",
+      "published": "2011-10-27",
+      "publishedAsGiven": "15 years ago",
+      "snippet": "The Subcommittee on Energy and Environment will hold a hearing entitled \"Combating the BP Oil Spill\" on Thursday, May 27, 2010, ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "National Commission on the BP Deepwater Horizon Oil Spill",
+      "url": "https://www.govinfo.gov/content/pkg/GPO-OILCOMMISSION/pdf/GPO-OILCOMMISSION.pdf",
+      "domain": "govinfo.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "The “Florida Paid the Price” ad, checked claim by claim.",
+      "url": "https://davidjolly.com/fact-check/florida-paid-the-price/",
+      "domain": "davidjolly.com",
+      "published": "2026-09-28",
+      "publishedAsGiven": "Sep 28, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "BP Deepwater Horizon Oil Spill",
+      "url": "https://stpp.fordschool.umich.edu/tap-case-study-library/bp-deepwater-horizon-oil-spill",
+      "domain": "stpp.fordschool.umich.edu",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Byron Donalds overstates David Jolly's offshore drilling ...",
+      "url": "https://www.wlrn.org/light/government-politics/2026-10-02/byron-donalds-overstates-david-jollys-offshore-drilling-lobbying-ignores-anti-drilling-record",
+      "domain": "wlrn.org",
+      "published": "2026-10-02",
+      "publishedAsGiven": "Oct 2, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "The “Florida Paid the Price” ad, checked claim by claim.",
+      "url": "https://davidjolly.com/fact-check/florida-paid-the-price/",
+      "domain": "davidjolly.com",
+      "published": "2026-09-28",
+      "publishedAsGiven": "Sep 28, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "In a new ad, GOP gubernatorial nominee U.S. Rep. Byron ...",
+      "url": "https://www.instagram.com/p/DeAFrwCDCP7/",
+      "domain": "instagram.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Byron Donalds overstates David Jolly's offshore drilling ...",
+      "url": "https://politifact.com/factchecks/2026/oct/01/byron-donalds/florida-governor-offshore-oil-drilling-lobbying/",
+      "domain": "politifact.com",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Deepwater Horizon devastated the Gulf. Months later, ...",
+      "url": "https://www.instagram.com/reel/Dd1RJzXSquc/?hl=en",
+      "domain": "instagram.com",
+      "published": "2026-09-29",
+      "publishedAsGiven": "4 weeks ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Byron Donalds says David Jolly lobbied for offshore drilling ...",
+      "url": "https://floridapolitics.com/archives/822088-byron-donalds-says-david-jolly-lobbied-for-offshore-drilling-jolly-says-its-a-lie/",
+      "domain": "floridapolitics.com",
+      "published": "2026-09-28",
+      "publishedAsGiven": "Sep 28, 2026",
+      "snippet": "Byron Donalds' campaign is accusing David Jolly of lobbying to expand Gulf drilling less than a year after the Deepwater Horizon spill."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Donalds' ad on Jolly drilling lobbying lacks context",
+      "url": "https://www.facebook.com/politifact/posts/an-ad-by-fl-gop-gubernatorial-nominee-rep-byron-donalds-attacks-democratic-oppon/1572948911532873/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "New Byron Donalds Ad Accuses David Jolly of Lobbying ...",
+      "url": "https://floridianpress.com/2026/09/new-byron-donalds-ad-accuses-david-jolly-of-lobbying-for-oil-drilling/",
+      "domain": "floridianpress.com",
+      "published": "2026-09-28",
+      "publishedAsGiven": "Sep 28, 2026",
+      "snippet": "\"Just months after the spill, Jolly was in Washington pressuring Congress to expand drilling off the Florida coast.\" In 2014, Jolly claimed ..."
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Did David Jolly lobby to expand offshore drilling after the ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-david-jolly-lobby-to-expand-offshore-drilling-after-the-deepwater-horizon-spill/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-10-05",
+      "publishedAsGiven": "Oct 5, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "\"Deepwater Horizon devastated the Gulf. Months later, ...",
+      "url": "https://x.com/ByronDonalds/status/2104560313165037618",
+      "domain": "x.com",
+      "published": "2026-09-29",
+      "publishedAsGiven": "4 weeks ago",
+      "dropped": "maybe-after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 4,
+    "after-said": 3,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 5
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:25:30.612Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "What happened during the Deepwater Horizon oil spill?",
+      "url": "https://oceanservice.noaa.gov/education/tutorial-coastal/oil-spills/os04-sub-01.html",
+      "domain": "oceanservice.noaa.gov",
+      "snippet": "The largest marine oil spill in U.S. history, the Deepwater Horizon oil spill, started on April 20, 2010. An estimated 60,000 barrels of oil ...",
+      "published": "2026-09-23",
+      "rating": {
+        "kind": "primary"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Byron Donalds says David Jolly lobbied for offshore drilling ...",
+      "url": "https://floridapolitics.com/archives/822088-byron-donalds-says-david-jolly-lobbied-for-offshore-drilling-jolly-says-its-a-lie/",
+      "domain": "floridapolitics.com",
+      "snippet": "Byron Donalds' campaign is accusing David Jolly of lobbying to expand Gulf drilling less than a year after the Deepwater Horizon spill.",
+      "published": "2026-09-28",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    },
+    {
+      "title": "New Byron Donalds Ad Accuses David Jolly of Lobbying ...",
+      "url": "https://floridianpress.com/2026/09/new-byron-donalds-ad-accuses-david-jolly-of-lobbying-for-oil-drilling/",
+      "domain": "floridianpress.com",
+      "snippet": "\"Just months after the spill, Jolly was in Washington pressuring Congress to expand drilling off the Florida coast.\" In 2014, Jolly claimed ...",
+      "published": "2026-09-28",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 3
+    }
+  ]
+}

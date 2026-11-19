@@ -1,0 +1,237 @@
+{
+  "frozenAt": "2026-10-27T03:27:04.757Z",
+  "refilteredAt": "2026-10-27T03:38:32.165Z",
+  "id": "pf/james-talarico/ken-paxton-puppy-abusers-vote-texas-research",
+  "said": "2026-10-06",
+  "queries": {
+    "fact": "Texas Republican Senate candidate Ken Paxton voted to protect puppy abusers.",
+    "claim": "Texas Republican Senate candidate Ken Paxton voted to protect puppy abusers. James Talarico"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1242.3361659999937,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 2138.8430409999564,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Talarico claims Paxton voted 'to protect puppy abusers'",
+      "url": "https://www.houstonchronicle.com/politics/texas/politifact/article/fact-check-paxton-puppies-22480700.php",
+      "domain": "houstonchronicle.com",
+      "published": "2026-10-19",
+      "publishedAsGiven": "8 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "The facts behind Talarico's 'Scanduel' ad saying Texas AG ...",
+      "url": "https://politifact.com/factchecks/2026/oct/12/james-talarico/ken-paxton-puppy-abusers-vote-texas-research/",
+      "domain": "politifact.com",
+      "published": "2026-10-12",
+      "publishedAsGiven": "Oct 12, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Fact Check: Did Ken Paxton vote “to protect puppy abusers”?",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-ken-paxton-vote-to-protect-puppy-abusers/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "A new ad from Democrat James Talarico in Texas' U.S. ...",
+      "url": "https://www.facebook.com/politifact/posts/a-new-ad-from-democrat-james-talarico-in-texas-us-senate-race-invites-viewers-to/1579931597501271/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "On a recent MS NOW appearance, Democratic US Senate ...",
+      "url": "https://www.instagram.com/reel/DcUQMzvDMEW/",
+      "domain": "instagram.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "snippet": "Paxton also voted against a bipartisan bill in the Texas House that forces animal abusers to pay for the care of the animals they harm — a law ..."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "PolitiFact",
+      "url": "https://politifact.com/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "James Talarico Slams Ken Paxton Over Lab That Killed ...",
+      "url": "https://www.facebook.com/teamtalaricohq/videos/early-voting-is-open-texas-go-to-the-link-in-bio-to-find-your-polling-place/918903754486648/",
+      "domain": "facebook.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "“Ken Paxton voting to protect puppy abusers.” As a state ...",
+      "url": "https://www.instagram.com/p/DeZ-yRhoJ53/",
+      "domain": "instagram.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Post",
+      "url": "https://x.com/PolitiFact/status/2110019741989339618",
+      "domain": "x.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Talarico CLOBBERS Paxton Over Dog Abuse As TX GOP ...",
+      "url": "https://www.facebook.com/TheYoungTurks/posts/talarico-clobbers-paxton-over-dog-abuse-as-tx-gop-problems-grow/1398105259138958/?locale=zh_CN",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "snippet": "... abusing 400 puppies and voted against a bill targeting animal abusers. Talarico said he wished Paxton protected puppies the way he \"protects ..."
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Republican Senate candidate Ken Paxton rallies in Texas ...",
+      "url": "https://www.youtube.com/watch?v=2tyO6xv-rVA",
+      "domain": "youtube.com",
+      "published": "2026-10-27",
+      "publishedAsGiven": "2 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Talarico claims Paxton voted 'to protect puppy abusers'",
+      "url": "https://www.houstonchronicle.com/politics/texas/politifact/article/fact-check-paxton-puppies-22480700.php",
+      "domain": "houstonchronicle.com",
+      "published": "2026-10-19",
+      "publishedAsGiven": "8 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "A new ad from Democrat James Talarico in Texas' U.S. ...",
+      "url": "https://www.facebook.com/politifact/posts/a-new-ad-from-democrat-james-talarico-in-texas-us-senate-race-invites-viewers-to/1579931597501271/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "James Talarico has Democrats hoping for a potential ...",
+      "url": "https://www.facebook.com/cnnpolitics/videos/james-talarico-has-democrats-hoping-for-a-potential-texas-senate-seat-pickup-in-/28643741478622770/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Texas' 2026 Senate race: What to know about Ken Paxton ...",
+      "url": "https://www.livenowfox.com/news/texas-2026-senate-race-what-know-about-james-talarico-vs-ken-paxton",
+      "domain": "livenowfox.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "On a recent MS NOW appearance, Democratic US Senate ...",
+      "url": "https://www.instagram.com/reel/DcUQMzvDMEW/",
+      "domain": "instagram.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "snippet": "Democratic US Senate candidate James Talarico says newly reported ties between Ken Paxton's office and a lab accused of abusing puppies, plus ..."
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Trump's pick Ken Paxton brings baggage to Senate race in ...",
+      "url": "https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms",
+      "domain": "theguardian.com",
+      "published": "2026-10-18",
+      "publishedAsGiven": "Oct 18, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "The facts behind Talarico's 'Scanduel' ad saying Texas AG ...",
+      "url": "https://politifact.com/factchecks/2026/oct/12/james-talarico/ken-paxton-puppy-abusers-vote-texas-research/",
+      "domain": "politifact.com",
+      "published": "2026-10-12",
+      "publishedAsGiven": "Oct 12, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "James Talarico: Ken Paxton “won't fight for the little guy ...",
+      "url": "https://www.facebook.com/DSCC/videos/james-talarico-ken-paxton-wont-fight-for-the-little-guy-even-when-the-little-guy/1053678587453508/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "snippet": "Texas State Representative James Talarico criticizes Attorney General Ken Paxton's record on animal rights during an MSNBC interview. Talarico ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Libertarian Texas Senate candidate says he's not taking ...",
+      "url": "https://www.yahoo.com/news/politics/articles/libertarian-texas-senate-candidate-says-164102749.html",
+      "domain": "yahoo.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "1 day ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 6,
+    "after-said": 6,
+    "maybe-after-said": 1,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:27:01.376Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

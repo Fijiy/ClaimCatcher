@@ -1,0 +1,101 @@
+{
+  "case_id": "trump-joint-2025-inflation-eggs-energy#2",
+  "queries": {
+    "A": "We suffered the worst inflation in 48 years, but perhaps even in the history of our country Trump",
+    "B": "highest US CPI inflation rate since 1981 June 2022 and historical peak inflation years"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 1,
+      "title": "Opinion | It’s been a year, and we’re still not great. - Kansas State Collegian",
+      "url": "https://kstatecollegian.com/2026/01/21/opinion-its-been-a-year-and-were-still-not-great/",
+      "domain": "kstatecollegian.com",
+      "published": "2026-01-22",
+      "snippet": "In his address to the nation on Dec. 17, 2025, Trump claimed, “When I took office, inflation was the worst in 48 years, and some would say, in the history of our country.”",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 3,
+      "title": "Setting the Record Straight on Inflation",
+      "url": "https://stephenroach.substack.com/p/setting-the-record-straight-on-inflation",
+      "domain": "stephenroach.substack.com",
+      "published": "2025-12-05",
+      "snippet": "During a December 2 cabinet meeting, President Trump made a number of false claims . As an economist, the one I took greatest exception to was his utterly absurd statement that, “ I inherited the worst inflation in history. They say it’s the worst inflation in 48 years, I say ever.” He has said that so many times in the past, without any corrections from his so-called professional team of economic advisors, it is time to set the record straight.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 4,
+      "title": "Fact check: Trump repeats numerous false claims in prime-time address",
+      "url": "https://www.yahoo.com/news/articles/fact-check-trump-repeats-numerous-032357948.html",
+      "domain": "yahoo.com",
+      "published": "2025-12-18",
+      "snippet": "Inflation under Biden: Trump repeated his false claim that \"when I took office, inflation was the worst in 48 years, and some would say in the history of our country.\"",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 5,
+      "title": "Trump's PR Nightmare Speech",
+      "url": "https://www.odwyerpr.com/story/public/24055/2025-12-18/trumps-pr-nightmare-speech.html",
+      "domain": "odwyerpr.com",
+      "published": null,
+      "snippet": "“When I took office, inflation was the worst in 48 years, and some would say in the history of our country,” began Trump. That’s nonsense.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 1,
+      "title": "2022 Inflation Hit a 41 Year Record | Committee for a Responsible Federal Budget",
+      "url": "https://www.crfb.org/node/19057/",
+      "domain": "crfb.org",
+      "published": "2023-03-03",
+      "snippet": "Even incorporating these adjustments, inflation spiked in the first half of 2022 with lower month-to-month increases in the second half. On a year-over-year basis, the peak in June reached 8.9 percent for the CPI and 7.0 percent for the PCE, both the highest since 1981. But even if inflation is falling, it remains elevated. January’s 0.5 percent monthly CPI inflation and 0.6 percent monthly PCE inflation suggest it could remain well above target in 2023.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "Did inflation in the United States reach its highest-ever value in the 2020s?",
+      "url": "https://gigafact.org/fact-briefs/did-inflation-in-the-united-states-reach-its-highest-ever-value-in-the-2020s",
+      "domain": "gigafact.org",
+      "published": "2024-09-24",
+      "snippet": "The 12-month inflation rate was 9.0% in June of 2022. This was the highest rate since November 1981. Inflation exceeded 9.0% each month between January 1974 and July 1975, and between January 1979 and November 1981.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 4,
+      "title": "U.S. Inflation Reaches a New 40-Year High",
+      "url": "https://www.realpage.com/analytics/u-s-inflation-reaches-new-40-year-high/",
+      "domain": "realpage.com",
+      "published": "2022-07-13",
+      "snippet": "The Consumer Price Index (CPI) for All Urban Consumers, a measure of price changes commonly referred to as the inflation rate, increased 9.1% on an annual basis in June 2022, according to the Bureau of Labor Statistics. That was the biggest year-over-year jump in prices since November 1981 and was up from the 8.6% annual increase in May. Inflation has remained at 40-year highs for eight consecutive months, the biggest price surges since the 1981-1982 time period, when the country was in a severe economic recession.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 5,
+      "title": "US consumer prices surge to new 40-year high of 9.1%",
+      "url": "https://briefly.co.za/business-economy/131991-us-consumer-prices-surge-40-year-high-91/",
+      "domain": "briefly.co.za",
+      "published": "2022-07-13",
+      "snippet": "US inflation surged to a fresh peak of 9.1 percent in June, further squeezing American families and heaping pressure on President Joe Biden , whose ratings have taken a battering from the relentless rise in prices.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://tagteam.harvard.edu/hub_feeds/2087/feed_items/17131014/content",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "B",
+      "url": "https://www.crfb.org/blogs/2022-inflation-hit-41-year-record",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    }
+  ]
+}

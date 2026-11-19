@@ -1,0 +1,237 @@
+{
+  "frozenAt": "2026-10-27T03:26:55.374Z",
+  "refilteredAt": "2026-10-27T03:38:29.663Z",
+  "id": "pf/ashley-moody/moodys-fl-diner-ad-mischaracterizes-nixons-position-on-obbba-as-support-for-4-trillion-tax-hike",
+  "said": "2026-10-06",
+  "queries": {
+    "fact": "Florida U.S. Senate candidate Angie Nixon backed a $4 trillion tax hike on everyone in this diner, including a server and older adults.",
+    "claim": "Florida U.S. Senate candidate Angie Nixon backed a $4 trillion tax hike on everyone in this diner, including a server and older adults. Ashley Moody"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1005.1184999998659,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1532.5392499999143,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "PolitiFact FL: Moody's FL diner ad mischaracterizes Nixon's ...",
+      "url": "https://www.wlrn.org/government-politics/2026-10-21/politifact-fl-moodys-fl-diner-ad-mischaracterizes-nixons-position-on-obbba-as-support-for-4-trillion-tax-hike",
+      "domain": "wlrn.org",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Moody's FL diner ad mischaracterizes Nixon's position on ...",
+      "url": "https://politifact.com/factchecks/2026/oct/20/ashley-moody/moodys-fl-diner-ad-mischaracterizes-nixons-position-on-obbba-as-support-for-4-trillion-tax-hike/",
+      "domain": "politifact.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Moody's ad mischaracterizes Nixon's position on One Big ...",
+      "url": "https://www.tampabay.com/news/florida-politics/elections/2026/10/26/moody-nixon-politifact-ad-big-beautiful-bill-taxes/",
+      "domain": "tampabay.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "10 hours ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "U.S. Sen. Ashley Moody, R-Fla., said Democrat Angie ...",
+      "url": "https://www.facebook.com/politifact/posts/us-sen-ashley-moody-r-fla-said-democrat-angie-nixon-backed-a-4-trillion-tax-hike/1588006930027071/",
+      "domain": "facebook.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "PolitiFact's Post",
+      "url": "https://www.linkedin.com/posts/politifact_moodys-fl-diner-ad-mischaracterizes-nixon-activity-7518773950408077312-64p-",
+      "domain": "linkedin.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Florida",
+      "url": "https://politifact.com/florida/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "I'm proud to have delivered the largest tax cuts in American ...",
+      "url": "https://www.instagram.com/reel/DeZkE_6PRPz/",
+      "domain": "instagram.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "U.S. Sen. Ashley Moody, R-Fla., said Democrat Angie ...",
+      "url": "https://www.threads.com/@politifact/post/Deu0sRHiStf/u-s-sen-ashley-moody-r-fla-said-democrat-angie-nixon-backed-a-trillion-tax-hike/",
+      "domain": "threads.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Ashley Moody's Diner Ad Says She 'Voted to Stop Taxing Tips ...",
+      "url": "https://magareportcards.com/blog/moody-diner-ad-tax-hike-politifact/",
+      "domain": "magareportcards.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Post",
+      "url": "https://x.com/PolitiFact/status/2112681274414362707",
+      "domain": "x.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "PolitiFact FL: Moody's FL diner ad mischaracterizes Nixon's ...",
+      "url": "https://www.wlrn.org/government-politics/2026-10-21/politifact-fl-moodys-fl-diner-ad-mischaracterizes-nixons-position-on-obbba-as-support-for-4-trillion-tax-hike",
+      "domain": "wlrn.org",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Moody's FL diner ad mischaracterizes Nixon's position on ...",
+      "url": "https://politifact.com/factchecks/2026/oct/20/ashley-moody/moodys-fl-diner-ad-mischaracterizes-nixons-position-on-obbba-as-support-for-4-trillion-tax-hike/",
+      "domain": "politifact.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Moody's ad mischaracterizes Nixon's position on One Big ...",
+      "url": "https://www.tampabay.com/news/florida-politics/elections/2026/10/26/moody-nixon-politifact-ad-big-beautiful-bill-taxes/",
+      "domain": "tampabay.com",
+      "published": "2026-10-26",
+      "publishedAsGiven": "10 hours ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "U.S. Sen. Ashley Moody, R-Fla., said Democrat Angie ...",
+      "url": "https://www.facebook.com/politifact/posts/us-sen-ashley-moody-r-fla-said-democrat-angie-nixon-backed-a-4-trillion-tax-hike/1588006930027071/",
+      "domain": "facebook.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "PolitiFact's Post",
+      "url": "https://www.linkedin.com/posts/politifact_moodys-fl-diner-ad-mischaracterizes-nixon-activity-7518773950408077312-64p-",
+      "domain": "linkedin.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "I'm proud to have delivered the largest tax cuts in American ...",
+      "url": "https://www.instagram.com/reel/DeZkE_6PRPz/",
+      "domain": "instagram.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Ashley Moody's Diner Ad Says She 'Voted to Stop Taxing Tips ...",
+      "url": "https://www.magareportcards.com/blog/moody-diner-ad-tax-hike-politifact/",
+      "domain": "magareportcards.com",
+      "published": "2026-10-22",
+      "publishedAsGiven": "5 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Rep. Angie Nixon Blasts Sen. Ashley Moody After News ...",
+      "url": "https://angienixon.com/angie-nixon-blasts-sen-ashley-moody/",
+      "domain": "angienixon.com",
+      "published": "2026-10-19",
+      "publishedAsGiven": "8 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "U.S. Sen. Ashley Moody, R-Fla., said Democrat Angie ...",
+      "url": "https://www.threads.com/@politifact/post/Deu0sRHiStf/u-s-sen-ashley-moody-r-fla-said-democrat-angie-nixon-backed-a-trillion-tax-hike/",
+      "domain": "threads.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "no more taxes on tips or social security! | Ashley Moody",
+      "url": "https://www.facebook.com/AshleyMoodyFL/videos/im-proud-to-have-delivered-the-largest-tax-cuts-in-american-history-no-more-taxe/984509563920353/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "maybe-after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 13,
+    "after-said": 1,
+    "maybe-after-said": 3,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:26:52.837Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

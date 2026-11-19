@@ -1,0 +1,336 @@
+{
+  "frozenAt": "2026-10-27T03:20:02.575Z",
+  "refilteredAt": "2026-10-27T03:36:44.295Z",
+  "id": "pf/byron-donalds/us-measles-illegal-immigration-mmr-vaccine-fl",
+  "said": "2026-08-23",
+  "queries": {
+    "fact": "Rampant illegal immigration during the Biden administration is the cause of a measles outbreak in certain parts of the country.",
+    "claim": "Rampant illegal immigration during the Biden administration is the cause of a measles outbreak in certain parts of the country. Byron Donalds"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1893.1896249998827,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1378.98758299998,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 171.68037499999627,
+      "results": 3
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Fact-check: Did illegal immigration cause US measles ...",
+      "url": "https://www.wral.com/news/state/fact-check-illegal-immigration-us-measles-outbreak-august-31/",
+      "domain": "wral.com",
+      "published": "2026-08-31",
+      "publishedAsGiven": "Aug 31, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Rising Measles Cases Driven by Falling Vaccination, Not ...",
+      "url": "https://www.factcheck.org/2026/09/rising-measles-cases-driven-by-falling-vaccination-not-illegal-immigration/",
+      "domain": "factcheck.org",
+      "published": "2026-09-01",
+      "publishedAsGiven": "Sep 1, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "No evidence linking illegal immigration to measles ...",
+      "url": "https://politifact.com/factchecks/2026/aug/27/byron-donalds/us-measles-illegal-immigration-mmr-vaccine-fl/",
+      "domain": "politifact.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "Aug 27, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "What Is Causing the 2026 US Measles Outbreak? ...",
+      "url": "https://www.infectioncontroltoday.com/view/what-is-causing-2026-us-measles-outbreak-vaccination-rates-travel-immigration-examined",
+      "domain": "infectioncontroltoday.com",
+      "published": "2026-09-15",
+      "publishedAsGiven": "Sep 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Florida's Rep. Byron Donalds said U.S. measles outbreaks ...",
+      "url": "https://www.facebook.com/politifact/videos/floridas-rep-byron-donalds-said-us-measles-outbreaks-were-caused-by-rampant-ille/1569898121555066/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Did illegal immigration during the Biden administration ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-illegal-immigration-during-the-biden-administration-cause-u-s-measles-outbreaks/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-09-01",
+      "publishedAsGiven": "Sep 1, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "No evidence linking illegal immigration to measles outbreak",
+      "url": "https://www.facebook.com/wmtwtv/posts/there-is-no-evidence-linking-illegal-immigration-to-the-recent-measles-outbreak-/1589032576605876/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Florida's Rep. Byron Donalds said U.S. measles outbreaks ...",
+      "url": "https://www.facebook.com/politifact/posts/floridas-rep-byron-donalds-said-us-measles-outbreaks-were-caused-by-rampant-ille/1532535762240855/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Rising Measles Cases Driven by Falling Vaccination, Not ...",
+      "url": "https://x.com/factcheckdotorg/article/2094907843292103067",
+      "domain": "x.com",
+      "published": "2026-09-01",
+      "publishedAsGiven": "Sep 1, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "No evidence linking illegal immigration to measles ...",
+      "url": "https://www.tampabay.com/news/florida-politics/2026/09/08/byron-donalds-immigration-measles-outbreak-politifact-fact-check/",
+      "domain": "tampabay.com",
+      "published": "2026-09-08",
+      "publishedAsGiven": "Sep 8, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Byron Donalds Archives",
+      "url": "https://www.factcheck.org/person/byron-donalds/",
+      "domain": "factcheck.org",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "No evidence linking illegal immigration to measles outbreak",
+      "url": "https://www.wbaltv.com/article/no-evidence-illegal-immigration-measles-outbreak/73557879",
+      "domain": "wbaltv.com",
+      "published": "2026-08-28",
+      "publishedAsGiven": "Aug 28, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Pediatrician say Donalds wrong on measles and immigrants",
+      "url": "https://www.floridatoday.com/story/news/politics/2026/09/18/pediatrician-say-donalds-wrong-on-measles-and-immigrants/91614847007/",
+      "domain": "floridatoday.com",
+      "published": "2026-09-18",
+      "publishedAsGiven": "Sep 18, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Florida's Rep. Byron Donalds said U.S. measles outbreaks ...",
+      "url": "https://www.facebook.com/politifact/videos/floridas-rep-byron-donalds-said-us-measles-outbreaks-were-caused-by-rampant-ille/1569898121555066/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "What Is Causing the 2026 US Measles Outbreak? ...",
+      "url": "https://www.infectioncontroltoday.com/view/what-is-causing-2026-us-measles-outbreak-vaccination-rates-travel-immigration-examined",
+      "domain": "infectioncontroltoday.com",
+      "published": "2026-09-15",
+      "publishedAsGiven": "Sep 15, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Is illegal immigration driving the recent measles outbreak ...",
+      "url": "https://www.facebook.com/kcci8/posts/is-illegal-immigration-driving-the-recent-measles-outbreak-as-florida-gubernator/1524759773024915/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Rising Measles Cases Driven by Falling Vaccination, Not ...",
+      "url": "https://x.com/factcheckdotorg/article/2094907843292103067",
+      "domain": "x.com",
+      "published": "2026-09-01",
+      "publishedAsGiven": "Sep 1, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "No evidence linking illegal immigration to measles ...",
+      "url": "https://www.tampabay.com/news/florida-politics/2026/09/08/byron-donalds-immigration-measles-outbreak-politifact-fact-check/",
+      "domain": "tampabay.com",
+      "published": "2026-09-08",
+      "publishedAsGiven": "Sep 8, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Rep. Byron Donalds, a Republican from Florida who is ...",
+      "url": "https://www.instagram.com/p/DcydDuijkft/",
+      "domain": "instagram.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Transcript: Rep. Byron Donalds on \"Face the Nation with ...",
+      "url": "https://www.cbsnews.com/news/byron-donalds-florida-governor-candidate-face-the-nation-transcript-08-23-2026/",
+      "domain": "cbsnews.com",
+      "published": "2026-08-23",
+      "publishedAsGiven": "Aug 23, 2026",
+      "snippet": "... measles outbreak in certain parts of the country is because of rampant illegal immigration into the United States from the previous ..."
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Byron Donalds: Measles Outbreaks Caused By Illegal ...",
+      "url": "https://www.realclearpolitics.com/video/2026/08/23/byron_donalds_measles_outbreaks_caused_by_illegal_immigration_not_less_vaccination.html",
+      "domain": "realclearpolitics.com",
+      "published": "2026-08-23",
+      "publishedAsGiven": "Aug 23, 2026",
+      "snippet": "... measles outbreak in certain parts of the country is because of rampant illegal immigration into the United States from the previous ..."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "Untitled",
+      "url": "https://www.washingtonexaminer.com/feed-issue/?issue=january-5-2021&srsltid=AYCX9vIL1v-dfJs6vbbgcqWmJzEsIYsi9m6mRbsLuRc30rTaqbUYBhhL",
+      "domain": "washingtonexaminer.com",
+      "published": "2020-12-23",
+      "publishedAsGiven": "Dec 23, 2020",
+      "snippet": "Some large and apparently increasing number apparently share Trump's view that heavy and often illegal low-skill immigration has held down ..."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "THE CASE FOR A CONSERVATIVE COUNTERCULTURE ...",
+      "url": "https://www.nationalreview.com/wp-content/uploads/2014/06/20140707-1.pdf",
+      "domain": "nationalreview.com",
+      "published": null,
+      "snippet": "All illegal aliens caught at the border must be detained, ... ing a measles outbreak in new York City and ... sade on the part of his son's administration."
+    }
+  ],
+  "returned": 23,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 9,
+    "after-said": 7,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 1,
+  "searchedAt": "2026-10-27T03:19:57.621Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Transcript: Rep. Byron Donalds on \"Face the Nation with ...",
+      "url": "https://www.cbsnews.com/news/byron-donalds-florida-governor-candidate-face-the-nation-transcript-08-23-2026/",
+      "domain": "cbsnews.com",
+      "snippet": "... measles outbreak in certain parts of the country is because of rampant illegal immigration into the United States from the previous ...",
+      "published": "2026-08-23",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "CBS News",
+        "page": "https://mediabiasfactcheck.com/cbs-news/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Byron Donalds: Measles Outbreaks Caused By Illegal ...",
+      "url": "https://www.realclearpolitics.com/video/2026/08/23/byron_donalds_measles_outbreaks_caused_by_illegal_immigration_not_less_vaccination.html",
+      "domain": "realclearpolitics.com",
+      "snippet": "... measles outbreak in certain parts of the country is because of rampant illegal immigration into the United States from the previous ...",
+      "published": "2026-08-23",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Real Clear Politics",
+        "page": "https://mediabiasfactcheck.com/real-clear-politics/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Untitled",
+      "url": "https://www.washingtonexaminer.com/feed-issue/?issue=january-5-2021&srsltid=AYCX9vIL1v-dfJs6vbbgcqWmJzEsIYsi9m6mRbsLuRc30rTaqbUYBhhL",
+      "domain": "washingtonexaminer.com",
+      "snippet": "Some large and apparently increasing number apparently share Trump's view that heavy and often illegal low-skill immigration has held down ...",
+      "published": "2020-12-23",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Washington Examiner",
+        "page": "https://mediabiasfactcheck.com/washington-examiner/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "THE CASE FOR A CONSERVATIVE COUNTERCULTURE ...",
+      "url": "https://www.nationalreview.com/wp-content/uploads/2014/06/20140707-1.pdf",
+      "domain": "nationalreview.com",
+      "snippet": "All illegal aliens caught at the border must be detained, ... ing a measles outbreak in new York City and ... sade on the part of his son's administration.",
+      "published": null,
+      "rating": {
+        "kind": "mbfc",
+        "bias": "R",
+        "reliability": "high",
+        "name": "National Review",
+        "page": "https://mediabiasfactcheck.com/national-review/"
+      },
+      "weight": "full",
+      "n": 4
+    }
+  ]
+}

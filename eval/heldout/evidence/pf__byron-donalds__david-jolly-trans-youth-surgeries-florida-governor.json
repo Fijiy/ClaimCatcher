@@ -1,0 +1,236 @@
+{
+  "frozenAt": "2026-10-27T03:18:55.153Z",
+  "refilteredAt": "2026-10-27T03:36:28.450Z",
+  "id": "pf/byron-donalds/david-jolly-trans-youth-surgeries-florida-governor",
+  "said": "2026-08-08",
+  "queries": {
+    "fact": "Florida Democratic gubernatorial candidate David Jolly said he supports gender-changing surgeries on kids.",
+    "claim": "Florida Democratic gubernatorial candidate David Jolly said he supports gender-changing surgeries on kids. Byron Donalds"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1994.3210419999668,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1379.6927079999587,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Byron Donalds' ad deceptively edited David Jolly clip on ...",
+      "url": "https://www.wlrn.org/light/government-politics/2026-08-24/byron-donalds-ad-deceptively-edited-david-jolly-clip-on-gender-affirming-care",
+      "domain": "wlrn.org",
+      "published": "2026-08-24",
+      "publishedAsGiven": "Aug 24, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Byron Donalds' ad deceptively edited David Jolly clip on ...",
+      "url": "https://politifact.com/factchecks/2026/aug/19/byron-donalds/david-jolly-trans-youth-surgeries-florida-governor/",
+      "domain": "politifact.com",
+      "published": "2026-08-19",
+      "publishedAsGiven": "Aug 19, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Fact Check: Where Donalds, Jolly stand on transgender ...",
+      "url": "https://www.miamiherald.com/news/politics-government/article317376303.html",
+      "domain": "miamiherald.com",
+      "published": "2026-09-25",
+      "publishedAsGiven": "Sep 25, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Fact-checking Donalds, Jolly comments at South Florida event",
+      "url": "https://www.facebook.com/tampabaycom/posts/fact-checking-donalds-jolly-comments-at-south-florida-event-link-in-comments-%EF%B8%8F/1538638668307836/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Donalds unloads on gender-affirming surgeries for youths",
+      "url": "https://www.youtube.com/watch?v=4IF51taXRFM",
+      "domain": "youtube.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Byron Donalds attacks David Jolly's support for trans youth",
+      "url": "https://www.advocate.com/politics/election/byron-donalds-david-jolly-transgender",
+      "domain": "advocate.com",
+      "published": "2026-08-17",
+      "publishedAsGiven": "Aug 17, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Did David Jolly say he supports gender-changing ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-david-jolly-say-he-supports-gender-changing-surgeries-on-children/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-08-23",
+      "publishedAsGiven": "Aug 23, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "An ad supporting U.S. Rep. Byron Donalds in Florida's ...",
+      "url": "https://www.facebook.com/politifact/posts/an-ad-supporting-us-rep-byron-donalds-in-floridas-governor-race-says-his-democra/1525633472931084/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Why Republicans are focusing on transgender issues in ...",
+      "url": "https://www.pbs.org/newshour/politics/why-republicans-are-focusing-on-transgender-issues-in-competitive-2026-campaigns",
+      "domain": "pbs.org",
+      "published": "2026-08-30",
+      "publishedAsGiven": "Aug 30, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Ahead of U.S. Rep. Byron Donalds' win in Florida's ...",
+      "url": "https://www.instagram.com/p/DcQ3-3wFtbv/",
+      "domain": "instagram.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Byron Donalds' ad deceptively edited David Jolly clip on ...",
+      "url": "https://www.wlrn.org/government-politics/2026-08-24/byron-donalds-ad-deceptively-edited-david-jolly-clip-on-gender-affirming-care",
+      "domain": "wlrn.org",
+      "published": "2026-08-24",
+      "publishedAsGiven": "Aug 24, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Byron Donalds says he won't back down on 'cultural ...",
+      "url": "https://floridaphoenix.com/2026/08/10/byron-donalds-says-he-wont-back-down-on-cultural-differences-with-david-jolly/",
+      "domain": "floridaphoenix.com",
+      "published": "2026-08-10",
+      "publishedAsGiven": "Aug 10, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Donalds unloads on gender-affirming surgeries for youths",
+      "url": "https://www.youtube.com/watch?v=4IF51taXRFM",
+      "domain": "youtube.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Fact Check: Where Donalds, Jolly stand on transgender ...",
+      "url": "https://www.miamiherald.com/news/politics-government/article317376303.html",
+      "domain": "miamiherald.com",
+      "published": "2026-09-25",
+      "publishedAsGiven": "Sep 25, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "An ad supporting U.S. Rep. Byron Donalds in Florida's ...",
+      "url": "https://www.facebook.com/politifact/posts/an-ad-supporting-us-rep-byron-donalds-in-floridas-governor-race-says-his-democra/1525633472931084/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "David Jolly could be first Florida Democrat elected ...",
+      "url": "https://lufkindailynews.com/news_reuters/national/david-jolly-could-be-first-florida-democrat-elected-governor-since-1994/article_d19800e6-b19a-531a-b39d-da16c71f97a6.html",
+      "domain": "lufkindailynews.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "Oct 6, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Byron Donalds says he won't back down on cultural ...",
+      "url": "https://news.wfsu.org/state-news/2026-08-11/byron-donalds-says-he-wont-back-down-on-cultural-differences-with-david-jolly",
+      "domain": "news.wfsu.org",
+      "published": "2026-08-11",
+      "publishedAsGiven": "Aug 11, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Children",
+      "url": "https://politifact.com/children/",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Why Republicans are focusing on transgender issues in ...",
+      "url": "https://www.pbs.org/newshour/politics/why-republicans-are-focusing-on-transgender-issues-in-competitive-2026-campaigns",
+      "domain": "pbs.org",
+      "published": "2026-08-30",
+      "publishedAsGiven": "Aug 30, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "'Evil! It Is Evil!': Byron Donalds Lights Into David Jolly Over ...",
+      "url": "https://www.youtube.com/watch?v=wlWKrWjmxEM",
+      "domain": "youtube.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 6,
+    "after-said": 10,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 0
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:18:51.778Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

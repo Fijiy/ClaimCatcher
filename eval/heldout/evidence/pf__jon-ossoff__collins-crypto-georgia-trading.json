@@ -1,0 +1,329 @@
+{
+  "frozenAt": "2026-10-27T03:19:29.130Z",
+  "refilteredAt": "2026-10-27T03:36:36.504Z",
+  "id": "pf/jon-ossoff/collins-crypto-georgia-trading",
+  "said": "2026-08-16",
+  "queries": {
+    "fact": "U.S. Rep. Mike Collins is literally one of the most active crypto traders in the entire Congress, House or Senate.",
+    "claim": "U.S. Rep. Mike Collins is literally one of the most active crypto traders in the entire Congress, House or Senate. Jon Ossoff"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2094.931542000035,
+      "results": 8
+    },
+    {
+      "query": "claim",
+      "ms": 2902.25320799998,
+      "results": 10
+    },
+    {
+      "query": "balance",
+      "ms": 242.00245900001028,
+      "results": 3
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Is Mike Collins one of Congress' most active crypto traders?",
+      "url": "https://politifact.com/factchecks/2026/sep/02/jon-ossoff/collins-crypto-georgia-trading/",
+      "domain": "politifact.com",
+      "published": "2026-09-02",
+      "publishedAsGiven": "Sep 2, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Is Mike Collins one of the most active cryptocurrency ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-is-mike-collins-one-of-the-most-active-cryptocurrency-traders-in-congress/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-09-07",
+      "publishedAsGiven": "Sep 7, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Congress' Most Prolific Crypto Trader Is a Georgia Trucking ...",
+      "url": "https://finance.yahoo.com/news/congress-most-prolific-crypto-trader-171943638.html",
+      "domain": "finance.yahoo.com",
+      "published": "2024-12-04",
+      "publishedAsGiven": "Dec 4, 2024",
+      "snippet": "Dec 4, 2024 — Mike Collins, a first-term Republican in the U.S. House of Representatives , may not have a high profile on crypto policy, but he has a very ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "U.S. Sen. Jon Ossoff said his opponent in Georgia's Senate ...",
+      "url": "https://www.facebook.com/politifact/posts/us-sen-jon-ossoff-said-his-opponent-in-georgias-senate-race-us-rep-mike-collins-/1537419158419182/",
+      "domain": "facebook.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "How Georgia GOP's Mike Collins Got Rich On Suspiciously ...",
+      "url": "https://www.nationalmemo.com/mike-collins-crypto-2677293113",
+      "domain": "nationalmemo.com",
+      "published": "2026-07-30",
+      "publishedAsGiven": "Jul 30, 2026",
+      "snippet": "Jul 30, 2026 — Collins, who is now a GOP candidate for the U.S. Senate, has made up to $745,000 in crypto transactions since first entering office in 2023."
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "GOP U.S. Senate Nominee Mike Collins Faces Scrutiny ...",
+      "url": "https://georgiademocrat.org/gop-u-s-senate-nominee-mike-collins-faces-scrutiny-over-cryptocurrency-corruption/",
+      "domain": "georgiademocrat.org",
+      "published": "2026-07-09",
+      "publishedAsGiven": "Jul 9, 2026",
+      "snippet": "Jul 9, 2026 — Mike Collins endorsed a ban on congressional stock trading while he was actively buying and selling cryptocurrency. When a voter confronted ... Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "House Ethics Committee Opens Investigation Into Rep. ...",
+      "url": "https://www.quiverquant.com/news/House+Ethics+Committee+Opens+Investigation+Into+Rep.+Mike+Collins",
+      "domain": "quiverquant.com",
+      "published": "2025-11-21",
+      "publishedAsGiven": "Nov 21, 2025",
+      "snippet": "Nov 21, 2025 — Collins is one of Congress's most prolific crypto traders , with dozens of transactions disclosed across digital assets throughout the year. Read more"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Congress Loves Crypto. So Why Do So Few Members Buy It?",
+      "url": "https://theintercept.com/2025/01/08/congress-crypto-profit-ted-cruz-mike-collins/",
+      "domain": "theintercept.com",
+      "published": "2025-01-08",
+      "publishedAsGiven": "Jan 8, 2025",
+      "snippet": "Jan 8, 2025 — Only four members of Congress , including Collins , reported buying or selling cryptocurrencies over the past two years, according to a review of ... Read more"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Is Mike Collins one of Congress' most active crypto traders?",
+      "url": "https://politifact.com/factchecks/2026/sep/02/jon-ossoff/collins-crypto-georgia-trading/",
+      "domain": "politifact.com",
+      "published": "2026-09-02",
+      "publishedAsGiven": "Sep 2, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Is Mike Collins one of the most active cryptocurrency ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-is-mike-collins-one-of-the-most-active-cryptocurrency-traders-in-congress/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-09-07",
+      "publishedAsGiven": "Sep 7, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Jon Ossoff Rips Into Mike Collins Over Illicit Crypto Trades",
+      "url": "https://www.youtube.com/watch?v=_58atwYHyh0",
+      "domain": "youtube.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "U.S. Sen. Jon Ossoff said his opponent in Georgia's Senate ...",
+      "url": "https://www.facebook.com/politifact/posts/us-sen-jon-ossoff-said-his-opponent-in-georgias-senate-race-us-rep-mike-collins-/1537419158419182/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Fact-checks (209)",
+      "url": "https://politifact.com/search/factcheck/?q=trading",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "PolitiFact",
+      "url": "https://x.com/PolitiFact/status/2095256451304329237",
+      "domain": "x.com",
+      "published": "2026-09-02",
+      "publishedAsGiven": "Sep 2, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Ossoff, Collins are millionaires but handle their money very ...",
+      "url": "https://www.ajc.com/politics/2026/08/ossoff-collins-are-millionaires-but-handle-their-money-very-differently/",
+      "domain": "ajc.com",
+      "published": "2026-08-24",
+      "publishedAsGiven": "Aug 24, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Jon Ossoff and Mike Collins Clash in Georgia U.S. Senate ...",
+      "url": "https://www.facebook.com/WJCLNews/videos/jon-ossoff-mike-collins-trade-sharp-attacks-in-second-georgia-us-senate-debate-h/1474782574553847/",
+      "domain": "facebook.com",
+      "published": "2026-10-20",
+      "publishedAsGiven": "1 week ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Latest Fact-Checks On Mike Collins",
+      "url": "https://politifact.com/factchecks/list/?speaker=mike-collins&ruling=true",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Text - H.R.3633 - 119th Congress (2025-2026): Digital ...",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/3633/text",
+      "domain": "congress.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "balance",
+      "rank": 1,
+      "title": "Untitled",
+      "url": "https://www.washingtonexaminer.com/feed-issue/?issue=may-14-2025&srsltid=AYCX9vLmx0WPJzB5yXbQDZYhy2d0w8vMSMZpZWvMdfywx6ua_MFRxDCF",
+      "domain": "washingtonexaminer.com",
+      "published": "2025-05-14",
+      "publishedAsGiven": "May 14, 2025",
+      "snippet": "Former President Joe Biden and many congressional Democrats hatched their own court-packing scheme to thwart the current Republican-appointed ..."
+    },
+    {
+      "query": "balance",
+      "rank": 2,
+      "title": "how to destroy paradise",
+      "url": "https://www.nationalreview.com/wp-content/uploads/2014/03/20140407-1.pdf",
+      "domain": "nationalreview.com",
+      "published": "2014-04-07",
+      "publishedAsGiven": "Apr 7, 2014",
+      "snippet": "He shot to fame with The Selling of the President 1968, his exposé of Richard Nixon's media operation. The book was hilarious, a delight—and an ..."
+    },
+    {
+      "query": "balance",
+      "rank": 3,
+      "title": "Twitter",
+      "url": "https://www.realclearpolitics.com/twitter/",
+      "domain": "realclearpolitics.com",
+      "published": null,
+      "dropped": "undated"
+    }
+  ],
+  "returned": 21,
+  "dropped": {
+    "fact-checker": 4,
+    "fact-check-words": 5,
+    "after-said": 2,
+    "maybe-after-said": 1,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:19:22.796Z",
+  "balanced": true,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "How Georgia GOP's Mike Collins Got Rich On Suspiciously ...",
+      "url": "https://www.nationalmemo.com/mike-collins-crypto-2677293113",
+      "domain": "nationalmemo.com",
+      "snippet": "Jul 30, 2026 — Collins, who is now a GOP candidate for the U.S. Senate, has made up to $745,000 in crypto transactions since first entering office in 2023.",
+      "published": "2026-07-30",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "L",
+        "reliability": "high",
+        "name": "The National Memo",
+        "page": "https://mediabiasfactcheck.com/the-national-memo/"
+      },
+      "weight": "full",
+      "n": 1
+    },
+    {
+      "title": "Untitled",
+      "url": "https://www.washingtonexaminer.com/feed-issue/?issue=may-14-2025&srsltid=AYCX9vLmx0WPJzB5yXbQDZYhy2d0w8vMSMZpZWvMdfywx6ua_MFRxDCF",
+      "domain": "washingtonexaminer.com",
+      "snippet": "Former President Joe Biden and many congressional Democrats hatched their own court-packing scheme to thwart the current Republican-appointed ...",
+      "published": "2025-05-14",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "RC",
+        "reliability": "high",
+        "name": "Washington Examiner",
+        "page": "https://mediabiasfactcheck.com/washington-examiner/"
+      },
+      "weight": "full",
+      "n": 2
+    },
+    {
+      "title": "Congress Loves Crypto. So Why Do So Few Members Buy It?",
+      "url": "https://theintercept.com/2025/01/08/congress-crypto-profit-ted-cruz-mike-collins/",
+      "domain": "theintercept.com",
+      "snippet": "Jan 8, 2025 — Only four members of Congress , including Collins , reported buying or selling cryptocurrencies over the past two years, according to a review of ... Read more",
+      "published": "2025-01-08",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "high",
+        "name": "The Intercept",
+        "page": "https://mediabiasfactcheck.com/the-intercept/"
+      },
+      "weight": "full",
+      "n": 3
+    },
+    {
+      "title": "how to destroy paradise",
+      "url": "https://www.nationalreview.com/wp-content/uploads/2014/03/20140407-1.pdf",
+      "domain": "nationalreview.com",
+      "snippet": "He shot to fame with The Selling of the President 1968, his exposé of Richard Nixon's media operation. The book was hilarious, a delight—and an ...",
+      "published": "2014-04-07",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "R",
+        "reliability": "high",
+        "name": "National Review",
+        "page": "https://mediabiasfactcheck.com/national-review/"
+      },
+      "weight": "full",
+      "n": 4
+    },
+    {
+      "title": "Congress' Most Prolific Crypto Trader Is a Georgia Trucking ...",
+      "url": "https://finance.yahoo.com/news/congress-most-prolific-crypto-trader-171943638.html",
+      "domain": "finance.yahoo.com",
+      "snippet": "Dec 4, 2024 — Mike Collins, a first-term Republican in the U.S. House of Representatives , may not have a high profile on crypto policy, but he has a very ... Read more",
+      "published": "2024-12-04",
+      "rating": {
+        "kind": "mbfc",
+        "bias": "LC",
+        "reliability": "mixed",
+        "name": "Yahoo News",
+        "page": "https://mediabiasfactcheck.com/yahoo-news/"
+      },
+      "weight": "reduced",
+      "n": 5
+    }
+  ]
+}

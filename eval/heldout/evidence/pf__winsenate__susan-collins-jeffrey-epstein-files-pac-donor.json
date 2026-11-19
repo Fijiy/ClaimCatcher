@@ -1,0 +1,249 @@
+{
+  "frozenAt": "2026-10-27T03:25:12.584Z",
+  "refilteredAt": "2026-10-27T03:38:01.223Z",
+  "id": "pf/winsenate/susan-collins-jeffrey-epstein-files-pac-donor",
+  "said": "2026-09-24",
+  "queries": {
+    "fact": "Sen. Susan Collins voted to cover up the Epstein files and Jeffrey Epstein’s business partner funneled $3 million to a Collins super PAC.",
+    "claim": "Sen. Susan Collins voted to cover up the Epstein files and Jeffrey Epstein’s business partner funneled $3 million to a Collins super PAC. WinSenate"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1762.4381250001024,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1783.3112909998745,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Democratic Ads Misleadingly Connect Susan Collins to ...",
+      "url": "https://www.factcheck.org/2026/10/democratic-ads-misleadingly-connect-susan-collins-to-epstein/",
+      "domain": "factcheck.org",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Epstein attack ad on Susan Collins oversells its biggest ...",
+      "url": "https://themainemonitor.org/epstein-ad-collins-oversells-claims/",
+      "domain": "themainemonitor.org",
+      "published": "2026-09-28",
+      "publishedAsGiven": "Sep 28, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "An ad accuses Sen. Susan Collins of opposing the release ...",
+      "url": "https://www.facebook.com/wmtwtv/posts/an-ad-accuses-sen-susan-collins-of-opposing-the-release-of-files-related-to-jeff/1619288446913622/",
+      "domain": "facebook.com",
+      "published": "2026-09-29",
+      "publishedAsGiven": "4 weeks ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Fact-check of ad's claim that Sen. Collins 'voted to cover up ...",
+      "url": "https://www.wmtw.com/article/susan-collins-esptein-files-pac-donor-fact-check/73928375",
+      "domain": "wmtw.com",
+      "published": "2026-09-28",
+      "publishedAsGiven": "Sep 28, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Maine Sen. Susan Collins didn't vote to 'cover up' Epstein ...",
+      "url": "https://www.facebook.com/politifact/videos/maine-sen-susan-collins-didnt-vote-to-cover-up-epstein-files/953202651182556/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "A Jeffrey Epstein attack on Susan Collins oversells its ...",
+      "url": "https://www.bangordailynews.com/2026/09/26/politics/elections/jeffrey-epstein-attack-ad-susan-collins-oversells-biggest-claims-joam40zk0w/",
+      "domain": "bangordailynews.com",
+      "published": "2026-09-26",
+      "publishedAsGiven": "Sep 26, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "Fact-check of ad's claim that Sen. Susan Collins 'voted to ...",
+      "url": "https://www.youtube.com/watch?v=OH8bwcGdF18",
+      "domain": "youtube.com",
+      "published": "2026-09-29",
+      "publishedAsGiven": "4 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "New Ad Claims Sen. Susan Collins Protected Epstein ...",
+      "url": "https://www.facebook.com/CourierNewsroom/videos/a-new-ad-is-putting-a-spotlight-on-susan-collins-epstein-connections-claiming-on/27767944029546472/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Susan Collins “Blasted Over Epstein Donors” [The Daily ...",
+      "url": "https://mainedems.org/icymi-susan-collins-blasted-over-epstein-donors-the-daily-beast/",
+      "domain": "mainedems.org",
+      "published": "2026-08-31",
+      "publishedAsGiven": "Aug 31, 2026",
+      "snippet": "Republican Sen. Susan Collins has accepted millions in campaign cash from wealthy donors and powerful figures linked to Jeffrey Epstein—an ..."
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Susan M Collins – U.S. Congress – Summary",
+      "url": "https://www.opensecrets.org/profiles/susan-m-collins?mpid=1116679",
+      "domain": "opensecrets.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Epstein attack ad on Susan Collins oversells its biggest ...",
+      "url": "https://themainemonitor.org/epstein-ad-collins-oversells-claims/",
+      "domain": "themainemonitor.org",
+      "published": "2026-09-28",
+      "publishedAsGiven": "Sep 28, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Democratic Ads Misleadingly Connect Susan Collins to ...",
+      "url": "https://www.factcheck.org/2026/10/democratic-ads-misleadingly-connect-susan-collins-to-epstein/",
+      "domain": "factcheck.org",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Fact-check of ad's claim that Sen. Collins 'voted to cover up ...",
+      "url": "https://www.wmtw.com/article/susan-collins-esptein-files-pac-donor-fact-check/73928375",
+      "domain": "wmtw.com",
+      "published": "2026-09-28",
+      "publishedAsGiven": "Sep 28, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Fact-check of ad's claim that Sen. Susan Collins 'voted to ...",
+      "url": "https://www.youtube.com/watch?v=OH8bwcGdF18",
+      "domain": "youtube.com",
+      "published": "2026-09-29",
+      "publishedAsGiven": "4 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Susan Collins",
+      "url": "https://www.facebook.com/collins4senator/posts/another-fake-attack-politifact-rated-the-outrageous-claims-in-this-ad-as-false-m/1637621237727313/",
+      "domain": "facebook.com",
+      "published": "2026-09-29",
+      "publishedAsGiven": "4 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Fact-checks (128)",
+      "url": "https://politifact.com/search/factcheck/?page=1&q=epstein",
+      "domain": "politifact.com",
+      "published": null,
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "A Jeffrey Epstein attack on Susan Collins oversells its ...",
+      "url": "https://www.bangordailynews.com/2026/09/26/politics/elections/jeffrey-epstein-attack-ad-susan-collins-oversells-biggest-claims-joam40zk0w/",
+      "domain": "bangordailynews.com",
+      "published": "2026-09-26",
+      "publishedAsGiven": "Sep 26, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Maine Sen. Susan Collins didn't vote to 'cover up' Epstein ...",
+      "url": "https://www.facebook.com/politifact/videos/maine-sen-susan-collins-didnt-vote-to-cover-up-epstein-files/953202651182556/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Susan Collins “Blasted Over Epstein Donors” [The Daily ...",
+      "url": "https://mainedems.org/icymi-susan-collins-blasted-over-epstein-donors-the-daily-beast/",
+      "domain": "mainedems.org",
+      "published": "2026-08-31",
+      "publishedAsGiven": "Aug 31, 2026",
+      "snippet": "Republican Sen. Susan Collins has accepted millions in campaign cash from wealthy donors and powerful figures linked to Jeffrey Epstein—an ..."
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Senator Susan Collins urges supporters to counter 'lies' ...",
+      "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/sen-collins-claims-ad-links-her-to-epstein-crimes-calls-it-outrageous/97-719bc532-c7e3-4c34-ae8d-6799859be926",
+      "domain": "newscentermaine.com",
+      "published": "2026-09-25",
+      "publishedAsGiven": "Sep 25, 2026",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 3,
+    "fact-check-words": 7,
+    "after-said": 5,
+    "maybe-after-said": 2,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:25:09.038Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Susan Collins “Blasted Over Epstein Donors” [The Daily ...",
+      "url": "https://mainedems.org/icymi-susan-collins-blasted-over-epstein-donors-the-daily-beast/",
+      "domain": "mainedems.org",
+      "snippet": "Republican Sen. Susan Collins has accepted millions in campaign cash from wealthy donors and powerful figures linked to Jeffrey Epstein—an ...",
+      "published": "2026-08-31",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

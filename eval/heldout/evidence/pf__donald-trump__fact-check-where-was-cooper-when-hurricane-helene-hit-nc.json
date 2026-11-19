@@ -1,0 +1,225 @@
+{
+  "frozenAt": "2026-10-27T03:24:20.736Z",
+  "refilteredAt": "2026-10-27T03:37:48.445Z",
+  "id": "pf/donald-trump/fact-check-where-was-cooper-when-hurricane-helene-hit-nc",
+  "said": "2026-09-21",
+  "queries": {
+    "fact": "Roy Cooper was in New York speaking at a New York Times ‘Climate Forward’ event when Hurricane Helene slammed into North Carolina.",
+    "claim": "Roy Cooper was in New York speaking at a New York Times ‘Climate Forward’ event when Hurricane Helene slammed into North Carolina. Donald Trump"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 2292.0284170000814,
+      "results": 9
+    },
+    {
+      "query": "claim",
+      "ms": 2227.577166999923,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "Fact-check: Was Cooper really absent when Helene struck?",
+      "url": "https://www.wfae.org/politics/2026-10-07/fact-check-was-cooper-really-absent-when-helene-struck",
+      "domain": "wfae.org",
+      "published": "2026-10-07",
+      "publishedAsGiven": "Oct 7, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "Roy Cooper was nowhere to be found as Hurricane ...",
+      "url": "https://www.facebook.com/whatleyfornc/posts/roy-cooper-was-nowhere-to-be-found-as-hurricane-helene-barreled-into-north-carol/2304270557027535/",
+      "domain": "facebook.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Republicans claim Cooper was in New York when Helene ...",
+      "url": "https://www.wral.com/news/state/fact-check-cooper-helene-new-york-north-carolina-october-2/",
+      "domain": "wral.com",
+      "published": "2026-10-02",
+      "publishedAsGiven": "Oct 2, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Gov. Roy Cooper Provides Emergency Update Briefing On ...",
+      "url": "https://www.youtube.com/watch?v=BT1hgaT90XA",
+      "domain": "youtube.com",
+      "published": "2024-10-27",
+      "publishedAsGiven": "2 years ago",
+      "snippet": "Gov. Roy Cooper (D-NC) held a press briefing to provide an emergency update on Hurricane Helene. Fuel your success with Forbes."
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Roy Cooper's response to Hurricane Helene failed Western ...",
+      "url": "https://www.facebook.com/ncgop/videos/roy-coopers-response-to-hurricane-helene-failed-western-north-carolina-when-deva/976550128838435/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Roy Cooper Issues Statement Marking the Two-Year ...",
+      "url": "https://roycooper.com/roy-cooper-issues-statement-marking-the-two-year-anniversary-of-hurricane-helene-hitting-western-north-carolina/",
+      "domain": "roycooper.com",
+      "published": "2026-09-25",
+      "publishedAsGiven": "Sep 25, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "LIVE: North Carolina Governor Roy Cooper Gives Update after ...",
+      "url": "https://www.youtube.com/watch?v=H8y5fczPPhU",
+      "domain": "youtube.com",
+      "published": "2024-10-27",
+      "publishedAsGiven": "2 years ago",
+      "snippet": "North Carolina Governor Roy Cooper holds a news conference with Emergency Management officials at 12:30 p.m. ET on Sept. 29."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "What Can States Do to Fight Climate Change?",
+      "url": "https://www.nytimes.com/events/climateforward2024/sessions/what-can-states-do-to-fight-climate-change",
+      "domain": "nytimes.com",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Disaster Recovery | Roy Cooper",
+      "url": "https://www.govroycooper.org/accomplishments/disaster-recovery",
+      "domain": "govroycooper.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Republicans claim Cooper was in New York when Helene ...",
+      "url": "https://www.wral.com/news/state/fact-check-cooper-helene-new-york-north-carolina-october-2/",
+      "domain": "wral.com",
+      "published": "2026-10-02",
+      "publishedAsGiven": "Oct 2, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "Fact-check: Was Cooper really absent when Helene struck?",
+      "url": "https://www.wfae.org/text/politics/2026-10-07/fact-check-was-cooper-really-absent-when-helene-struck",
+      "domain": "wfae.org",
+      "published": "2026-10-07",
+      "publishedAsGiven": "Oct 7, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Fact-check: Where was Cooper when Hurricane Helene hit ...",
+      "url": "https://politifact.com/factchecks/2026/oct/05/donald-trump/fact-check-where-was-cooper-when-hurricane-helene-hit-nc/",
+      "domain": "politifact.com",
+      "published": "2026-10-05",
+      "publishedAsGiven": "Oct 5, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Fact-check: Cooper wasn't in NY during Hurricane Helene",
+      "url": "https://us.headtopics.com/news/fact-check-cooper-wasn-t-in-ny-during-hurricane-helene-88481725",
+      "domain": "us.headtopics.com",
+      "published": null,
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Was Roy Cooper in New York when Hurricane Helene ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-was-roy-cooper-in-new-york-when-hurricane-helene-slammed-north-carolina/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-10-07",
+      "publishedAsGiven": "Oct 7, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Where was Roy Cooper during Hurricane Helene? At a ...",
+      "url": "https://www.facebook.com/ncgop/posts/where-was-roy-cooper-during-hurricane-helene-at-a-climate-change-gala-in-nyc-he-/1667674188053455/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Roy Cooper's response to Hurricane Helene failed Western ...",
+      "url": "https://www.facebook.com/ncgop/posts/roy-coopers-response-to-hurricane-helene-failed-western-north-carolina-when-deva/1666527368168137/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "Michael Whatley",
+      "url": "https://x.com/WhatleyNC/status/2104974987564396744",
+      "domain": "x.com",
+      "published": "2026-10-06",
+      "publishedAsGiven": "3 weeks ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "“[Roy Cooper] wasn't even in North Carolina as that storm was ...",
+      "url": "https://www.facebook.com/NEWSMAX/posts/roy-cooper-wasnt-even-in-north-carolina-as-that-storm-was-barreling-up-the-gulf-/1707850014720927/",
+      "domain": "facebook.com",
+      "published": "2026-10-21",
+      "publishedAsGiven": "6 days ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "As Hurricane Helene approached North Carolina in ...",
+      "url": "https://www.facebook.com/ncgop/posts/as-hurricane-helene-approached-north-carolina-in-september-2024-where-was-roy-co/1659095728911301/",
+      "domain": "facebook.com",
+      "published": "2026-09-29",
+      "publishedAsGiven": "4 weeks ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 19,
+  "dropped": {
+    "fact-checker": 1,
+    "fact-check-words": 6,
+    "after-said": 8,
+    "maybe-after-said": 0,
+    "after-said-link-date": 0,
+    "undated": 2
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:24:09.681Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": []
+}

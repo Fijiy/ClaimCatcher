@@ -1,0 +1,262 @@
+{
+  "frozenAt": "2026-10-27T03:25:03.026Z",
+  "refilteredAt": "2026-10-27T03:37:58.720Z",
+  "id": "pf/mike-rogers/abdul-el-sayed-temple-israel-condemn",
+  "said": "2026-09-24",
+  "queries": {
+    "fact": "Abdul El-Sayed could not condemn the terrorist who tried to attack and kill 140 Jewish children right here in Michigan.",
+    "claim": "Abdul El-Sayed could not condemn the terrorist who tried to attack and kill 140 Jewish children right here in Michigan. Mike Rogers"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1342.5558329999913,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1123.7301670000888,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "El-Sayed condemned Michigan synagogue attack. Critics ...",
+      "url": "https://politifact.com/factchecks/2026/oct/01/mike-rogers/abdul-el-sayed-temple-israel-condemn/",
+      "domain": "politifact.com",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "VIDEO: Abdul El-Sayed Reflects on Temple Israel Attack",
+      "url": "https://abdulforsenate.com/2026/03/video-abdul-el-sayed-reflects-on-temple-israel-attack/",
+      "domain": "abdulforsenate.com",
+      "published": "2026-03-13",
+      "publishedAsGiven": "Mar 13, 2026",
+      "snippet": "Abdul first issued a statement yesterday in solidarity with Michigan's Jewish ... We can and must condemn the attack on Temple Israel, and ..."
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "When a terrorist drove a vehicle filled with explosives into a ...",
+      "url": "https://www.facebook.com/MikeRogersForMI/posts/when-a-terrorist-drove-a-vehicle-filled-with-explosives-into-a-synagogue-here-in/1582250173311180/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "snippet": "When a terrorist drove a vehicle filled with explosives into a synagogue here in Michigan with the intent to murder hundreds of children, Abdul ..."
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Michigan Rep. Abdul El-Sayed's response to Temple Israel ...",
+      "url": "https://www.facebook.com/groups/michigandemocraticprogressives/posts/28952158891116579/",
+      "domain": "facebook.com",
+      "published": "2026-10-27",
+      "publishedAsGiven": "3 hours ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "Did Abdul El-Sayed fail to condemn the Michigan ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-abdul-el-sayed-fail-to-condemn-the-michigan-synagogue-attacker/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-10-02",
+      "publishedAsGiven": "Oct 2, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "Reflecting on the attack at Temple Israel. | Abdul El-Sayed",
+      "url": "https://www.facebook.com/DrAbdulElSayed/videos/reflecting-on-the-attack-at-temple-israel/25724530520576125/",
+      "domain": "facebook.com",
+      "published": "2026-03-27",
+      "publishedAsGiven": "7 months ago",
+      "snippet": "This post reports on the aftermath of a terrorist attack on the Temple Israel synagogue in West Bloomfield, Michigan. The attack was carried out ..."
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "El-Sayed: Statement on synagogue attack was a 'risk'",
+      "url": "https://punchbowl.news/article/campaigns/el-sayed-statement/",
+      "domain": "punchbowl.news",
+      "published": "2026-03-24",
+      "publishedAsGiven": "Mar 24, 2026",
+      "snippet": "One day after Ayman Ghazali's thwarted terrorist attack at a West Bloomfield, Mich., synagogue March 12, El-Sayed released a four-minute video ..."
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "MIKE ROGERS ON HANNITY: TELL US WHO YOU ARE, ...",
+      "url": "https://rogersforsenate.com/news/mike-rogers-on-hannity-tell-us-who-you-are-abdul",
+      "domain": "rogersforsenate.com",
+      "published": "2026-09-25",
+      "publishedAsGiven": "Sep 25, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "Lack of 'moral outrage' over Islamophobia is helping ...",
+      "url": "https://michiganadvance.com/2026/10/16/lack-of-moral-outrage-over-islamophobia-is-helping-normalize-religious-hate-advocates-say/",
+      "domain": "michiganadvance.com",
+      "published": "2026-10-16",
+      "publishedAsGiven": "Oct 16, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "MikeRogersForMI CALLS OUT Abdul El-Sayed: “He could ...",
+      "url": "https://x.com/NRSC/status/2103467901298839744",
+      "domain": "x.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "El-Sayed condemned Michigan synagogue attack. Critics ...",
+      "url": "https://politifact.com/factchecks/2026/oct/01/mike-rogers/abdul-el-sayed-temple-israel-condemn/",
+      "domain": "politifact.com",
+      "published": "2026-10-01",
+      "publishedAsGiven": "Oct 1, 2026",
+      "dropped": "fact-checker"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "When a terrorist drove a vehicle filled with explosives into a ...",
+      "url": "https://www.facebook.com/MikeRogersForMI/posts/when-a-terrorist-drove-a-vehicle-filled-with-explosives-into-a-synagogue-here-in/1582250173311180/",
+      "domain": "facebook.com",
+      "published": "2026-08-27",
+      "publishedAsGiven": "2 months ago",
+      "snippet": "When a terrorist drove a vehicle filled with explosives into a synagogue here in Michigan ... Is Abdul El-Sayed's Stance on Terrorism a Liability?"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Fact-checking the Senate debate of El-Sayed and Rogers ...",
+      "url": "https://www.newsnationnow.com/politics/fact-checking-el-sayed-rogers-debate/",
+      "domain": "newsnationnow.com",
+      "published": "2026-10-08",
+      "publishedAsGiven": "Oct 8, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Mike Rogers UNLOADS On Abdul El-Sayed | WORLD NEWS",
+      "url": "https://www.youtube.com/watch?v=SsHQB161jzY",
+      "domain": "youtube.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Did Abdul El-Sayed fail to condemn the Michigan ...",
+      "url": "https://mediabiasfactcheck.com/fact-check-did-abdul-el-sayed-fail-to-condemn-the-michigan-synagogue-attacker/",
+      "domain": "mediabiasfactcheck.com",
+      "published": "2026-10-02",
+      "publishedAsGiven": "Oct 2, 2026",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Mike Rogers Attacks El-Sayed at GOP Convention in ...",
+      "url": "https://www.facebook.com/CSPAN/videos/us-senate-candidate-mike-rogers-r-mi-on-thursday-attacked-his-democratic-opponen/1720009389113332/",
+      "domain": "facebook.com",
+      "published": "2026-09-27",
+      "publishedAsGiven": "1 month ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "MIKE ROGERS ON HANNITY: TELL US WHO YOU ARE, ...",
+      "url": "https://rogersforsenate.com/news/mike-rogers-on-hannity-tell-us-who-you-are-abdul",
+      "domain": "rogersforsenate.com",
+      "published": "2026-09-25",
+      "publishedAsGiven": "Sep 25, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "El-Sayed dodges Rogers' attacks on terrorism ties during ...",
+      "url": "https://jewishinsider.com/2026/10/el-sayed-rogers-michigan-debate-terrorism-ties/",
+      "domain": "jewishinsider.com",
+      "published": "2026-10-09",
+      "publishedAsGiven": "Oct 9, 2026",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "Abdul El-Sayed",
+      "url": "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
+      "domain": "en.wikipedia.org",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Dr. Abdul El-Sayed regrets comments on Michigan ...",
+      "url": "https://www.facebook.com/KristenWelkerNBC/posts/i-went-to-michigan-this-week-to-interview-dr-abdul-el-sayed-and-he-told-me-he-re/10246783879156345/",
+      "domain": "facebook.com",
+      "published": "2026-10-13",
+      "publishedAsGiven": "2 weeks ago",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 2,
+    "fact-check-words": 3,
+    "after-said": 6,
+    "maybe-after-said": 3,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:24:59.274Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "VIDEO: Abdul El-Sayed Reflects on Temple Israel Attack",
+      "url": "https://abdulforsenate.com/2026/03/video-abdul-el-sayed-reflects-on-temple-israel-attack/",
+      "domain": "abdulforsenate.com",
+      "snippet": "Abdul first issued a statement yesterday in solidarity with Michigan's Jewish ... We can and must condemn the attack on Temple Israel, and ...",
+      "published": "2026-03-13",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    },
+    {
+      "title": "El-Sayed: Statement on synagogue attack was a 'risk'",
+      "url": "https://punchbowl.news/article/campaigns/el-sayed-statement/",
+      "domain": "punchbowl.news",
+      "snippet": "One day after Ayman Ghazali's thwarted terrorist attack at a West Bloomfield, Mich., synagogue March 12, El-Sayed released a four-minute video ...",
+      "published": "2026-03-24",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 2
+    }
+  ]
+}

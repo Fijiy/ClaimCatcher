@@ -1,0 +1,250 @@
+{
+  "frozenAt": "2026-10-27T03:07:32.543Z",
+  "refilteredAt": "2026-10-27T03:33:38.270Z",
+  "id": "pf/dan-koh/congress-gets-paid-during-a-government-shutdown-bu",
+  "said": "2025-09-29",
+  "queries": {
+    "fact": "If the government shuts down, members of Congress still get paid. The janitors never get paid.",
+    "claim": "If the government shuts down, members of Congress still get paid. The janitors never get paid. Dan Koh"
+  },
+  "requests": [
+    {
+      "query": "fact",
+      "ms": 1911.5531249999767,
+      "results": 10
+    },
+    {
+      "query": "claim",
+      "ms": 1890.82150000002,
+      "results": 10
+    }
+  ],
+  "results": [
+    {
+      "query": "fact",
+      "rank": 1,
+      "title": "The members of Congress who got paid during the ...",
+      "url": "http://hernandez.house.gov/media/in-the-news/members-congress-who-got-paid-during-government-shutdown",
+      "domain": "hernandez.house.gov",
+      "published": "2025-11-13",
+      "publishedAsGiven": "Nov 13, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 2,
+      "title": "'Congress members get paid, janitors don't' in US shutdown",
+      "url": "https://www.aljazeera.com/news/2025/10/1/congress-members-get-paid-janitors-dont-in-us-shutdown-fact-check",
+      "domain": "aljazeera.com",
+      "published": "2025-10-01",
+      "publishedAsGiven": "Oct 1, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "fact",
+      "rank": 3,
+      "title": "Does Congress get paid during a government shutdown?",
+      "url": "https://www.cbsnews.com/news/government-shutdown-2025-does-congress-get-paid/",
+      "domain": "cbsnews.com",
+      "published": "2025-10-31",
+      "publishedAsGiven": "Oct 31, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 4,
+      "title": "Do members of Congress get paid during a government ...",
+      "url": "https://www.youtube.com/watch?v=wpbSoWfPdTs",
+      "domain": "youtube.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 5,
+      "title": "President, Congress still paid during government shutdown ...",
+      "url": "https://www.nbcnews.com/politics/congress/members-congress-still-get-paid-government-shutdown-rcna234676",
+      "domain": "nbcnews.com",
+      "published": "2025-09-30",
+      "publishedAsGiven": "Sep 30, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 6,
+      "title": "If the government shuts down, Members of Congress keep ...",
+      "url": "https://www.facebook.com/danarriggkoh/videos/if-the-government-shuts-down-members-of-congress-keep-getting-paidjanitors-get-s/789832480684724/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 7,
+      "title": "H.R.3538 - 118th Congress (2023-2024): No Pay for ...",
+      "url": "https://www.congress.gov/bill/118th-congress/house-bill/3538",
+      "domain": "congress.gov",
+      "published": null,
+      "dropped": "undated"
+    },
+    {
+      "query": "fact",
+      "rank": 8,
+      "title": "Why do politicians and judges get paid during a ...",
+      "url": "https://constitutioncenter.org/blog/why-do-politicians-and-judges-get-paid-during-a-government-shutdown",
+      "domain": "constitutioncenter.org",
+      "published": "2018-01-19",
+      "publishedAsGiven": "Jan 19, 2018",
+      "snippet": "But members of Congress will still get paychecks, under two parts of the Constitution. Article I, Section 6, says that congress members ..."
+    },
+    {
+      "query": "fact",
+      "rank": 9,
+      "title": "No Member of Congress should be paid while hardworking ...",
+      "url": "https://www.facebook.com/RepGoodlander/videos/no-member-of-congress-should-be-paid-while-hardworking-federal-public-servants-a/955737520158554/",
+      "domain": "facebook.com",
+      "published": "2026-04-27",
+      "publishedAsGiven": "6 months ago",
+      "dropped": "after-said"
+    },
+    {
+      "query": "fact",
+      "rank": 10,
+      "title": "Husted backs bill to prohibit member pay during ...",
+      "url": "https://www.husted.senate.gov/news/press-releases/husted-backs-bill-to-prohibit-member-pay-during-government-shutdown/",
+      "domain": "husted.senate.gov",
+      "published": "2025-10-02",
+      "publishedAsGiven": "Oct 2, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 1,
+      "title": "Congress gets paid during a government shutdown. What ...",
+      "url": "https://www.poynter.org/fact-checking/2025/government-shutdown-who-gets-paid/",
+      "domain": "poynter.org",
+      "published": "2025-10-01",
+      "publishedAsGiven": "Oct 1, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 2,
+      "title": "If the government shuts down, Members of Congress keep ...",
+      "url": "https://www.facebook.com/danarriggkoh/videos/if-the-government-shuts-down-members-of-congress-keep-getting-paidjanitors-get-s/789832480684724/",
+      "domain": "facebook.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 3,
+      "title": "Poynter",
+      "url": "https://x.com/Poynter/status/1973399506961019286",
+      "domain": "x.com",
+      "published": "2025-10-27",
+      "publishedAsGiven": "1 year ago",
+      "dropped": "maybe-after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 4,
+      "title": "Do Congress members get paid, and janitors don't in US ...",
+      "url": "https://www.wionews.com/world/do-congress-members-get-paid-and-janitors-don-t-in-us-govt-shutdown-wion-fact-checks-1759337689803",
+      "domain": "wionews.com",
+      "published": "2025-10-01",
+      "publishedAsGiven": "Oct 1, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 5,
+      "title": "Fact check: US 2025 government shutdown talking points",
+      "url": "https://www.aljazeera.com/news/2025/10/2/fact-check-us-2025-government-shutdown-talking-points",
+      "domain": "aljazeera.com",
+      "published": "2025-10-02",
+      "publishedAsGiven": "Oct 2, 2025",
+      "dropped": "fact-check-words"
+    },
+    {
+      "query": "claim",
+      "rank": 6,
+      "title": "Why Congress still gets paid during a government shutdown",
+      "url": "https://www.wcnc.com/article/news/nation-world/why-congress-gets-paid-government-shutdown/507-0539d575-b702-4977-bbbd-186c1c1aca7f",
+      "domain": "wcnc.com",
+      "published": "2025-10-01",
+      "publishedAsGiven": "Oct 1, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 7,
+      "title": "Who gets back pay and who doesn't after a government ...",
+      "url": "https://www.cbsnews.com/news/government-shutdown-contract-worker-back-pay/",
+      "domain": "cbsnews.com",
+      "published": "2025-10-03",
+      "publishedAsGiven": "Oct 3, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 8,
+      "title": "The members of Congress who got paid during the ...",
+      "url": "http://hernandez.house.gov/media/in-the-news/members-congress-who-got-paid-during-government-shutdown",
+      "domain": "hernandez.house.gov",
+      "published": "2025-11-13",
+      "publishedAsGiven": "Nov 13, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 9,
+      "title": "President, Congress still paid during government shutdown ...",
+      "url": "https://www.nbcnews.com/politics/congress/members-congress-still-get-paid-government-shutdown-rcna234676",
+      "domain": "nbcnews.com",
+      "published": "2025-09-30",
+      "publishedAsGiven": "Sep 30, 2025",
+      "dropped": "after-said"
+    },
+    {
+      "query": "claim",
+      "rank": 10,
+      "title": "Congress gets paid during a government shutdown. What ...",
+      "url": "https://au.headtopics.com/news/congress-gets-paid-during-a-government-shutdown-what-about-73740903",
+      "domain": "au.headtopics.com",
+      "published": "2025-10-01",
+      "publishedAsGiven": "Oct 1, 2025",
+      "dropped": "after-said"
+    }
+  ],
+  "returned": 20,
+  "dropped": {
+    "fact-checker": 0,
+    "fact-check-words": 4,
+    "after-said": 10,
+    "maybe-after-said": 4,
+    "after-said-link-date": 0,
+    "undated": 1
+  },
+  "linkDatedKept": 0,
+  "searchedAt": "2026-10-27T03:07:28.740Z",
+  "balanced": false,
+  "failed": false,
+  "evidence": [
+    {
+      "title": "Why do politicians and judges get paid during a ...",
+      "url": "https://constitutioncenter.org/blog/why-do-politicians-and-judges-get-paid-during-a-government-shutdown",
+      "domain": "constitutioncenter.org",
+      "snippet": "But members of Congress will still get paychecks, under two parts of the Constitution. Article I, Section 6, says that congress members ...",
+      "published": "2018-01-19",
+      "rating": {
+        "kind": "unrated"
+      },
+      "weight": "reduced",
+      "n": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "claims": 151,
+  "requests": 342,
+  "failedRequests": 0,
+  "claimsWithAFailedSearch": 0,
+  "returned": 3218,
+  "dropped": {
+    "fact-checker": 309,
+    "fact-check-words": 470,
+    "after-said": 986,
+    "maybe-after-said": 290,
+    "after-said-link-date": 11,
+    "undated": 450
+  },
+  "keptDatedOnlyByLink": 14,
+  "balancingSearches": 40,
+  "evidenceGiven": 377,
+  "claimsWithFive": 44,
+  "claimsWithNone": 34
+}

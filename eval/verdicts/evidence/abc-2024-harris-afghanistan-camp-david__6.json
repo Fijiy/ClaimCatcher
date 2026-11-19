@@ -1,0 +1,116 @@
+{
+  "case_id": "abc-2024-harris-afghanistan-camp-david#6",
+  "queries": {
+    "A": "The president at the time invited the Taliban to Camp David. Harris",
+    "B": "Taliban leaders Camp David meeting September 2019 invitation canceled"
+  },
+  "results": [
+    {
+      "q": "A",
+      "rank": 9,
+      "title": "Afghan peace talks: How a summit plan came together and soon fell apart",
+      "url": "https://gulfnews.com/world/americas/afghan-peace-talks-how-a-summit-plan-came-together-and-soon-fell-apart-1.66309484",
+      "domain": "gulfnews.com",
+      "published": "2019-09-09",
+      "snippet": "But little was made of that at the time. The endgame of the talks seemed near, if not the timetable. Only then came Trump’s tweets on Saturday night disclosing that he had invited the Taliban and Gani to Camp David — but called it off, citing the bombing.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "A",
+      "rank": 10,
+      "title": "Trump’s Taliban invite is one of the most shameful moments of his presidency",
+      "url": "https://www.deseret.com/opinion/2019/9/11/20859314/trumps-taliban-invite-is-one-of-the-most-shameful-moments-of-his-presidency-camp-david/",
+      "domain": "deseret.com",
+      "published": "2019-09-11",
+      "snippet": "WASHINGTON — Imagine if, back in 2011, President Barack Obama had not only withdrawn all U.S. forces from Iraq, facilitating the rise of the Islamic State, but also invited Islamic State leaders to Camp David to sign an agreement cementing his withdrawal plan. Obama’s decision to pull out American troops was catastrophic, but even he was not dumb enough to seek a photo op with terrorists. Yet this is precisely what President Trump tried to do when he initially invited the Taliban to Camp David for a meeting this past weekend.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 2,
+      "title": "Cancelled Camp David Taliban Talks Were Bad Idea to Start With, Say US Politicians",
+      "url": "https://www.globalsecurity.org/military/library/news/2019/09/mil-190909-voa02.htm",
+      "domain": "globalsecurity.org",
+      "published": null,
+      "snippet": "But with Trump's cancellation of the Camp David meetings, the fate of the tentative peace agreement that had been reached between the U.S. and the Taliban is in question. The Taliban said it had agreed to hold intra-Afghan talks with the Ghani government on September 23.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 3,
+      "title": "CNN.com - Transcripts",
+      "url": "https://transcripts.cnn.com/show/ath/date/2019-09-09/segment/01",
+      "domain": "transcripts.cnn.com",
+      "published": null,
+      "snippet": "I'm Kate. Thank you so much for joining me. President Trump planned it and now President Trump says he canceled it when it comes to the gathering that the president had hoped for bringing Afghanistan's leaders and the leaders of the Taliban to Camp David. Now we have learned two of the president's closest advisers, including Vice President Mike Pence, objected to the whole thing. Both Pence and national security adviser, John Bolton, disagreed in holding talks with the Taliban at Camp David just days before the anniversary of the September 11th attacks but President Trump overruled them.",
+      "snippet_source": "fetch"
+    },
+    {
+      "q": "B",
+      "rank": 4,
+      "title": "Trump calls off secret meeting with Taliban, Afghan leaders",
+      "url": "https://cfjctoday.com/?p=779453",
+      "domain": "cfjctoday.com",
+      "published": "2019-09-08",
+      "snippet": "WASHINGTON — President Donald Trump said Saturday he cancelled a secret weekend meeting at Camp David with Taliban and Afghanistan leaders after a bombing this week in Kabul that killed 11 people, including an American soldier, and has called off peace negotiations with the insurgent group.",
+      "snippet_source": "fetch"
+    }
+  ],
+  "dropped": [
+    {
+      "q": "A",
+      "url": "https://www.pbs.org/newshour/politics/watch-harris-slams-trump-for-taliban-negotiations",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.pbs.org/newshour/amp/politics/watch-harris-slams-trump-for-taliban-negotiations",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://kgw.com/article/news/verify/donald-trump/did-donald-trump-invite-taliban-camp-david-fact-check/536-994b65c2-0ae5-4f67-aa65-8e6179805423",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "A",
+      "url": "https://atlantablackstar.com/2024/09/11/kamala-harris-nearly-explodes-on-donald-trump-during-presidential-debate/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://www.sakshipost.com/news/harris-trump-clash-afghanistan-331211",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://amu.tv/122942/",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://amu.tv/?p=122942",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "A",
+      "url": "https://theprogressivecafe.substack.com/p/a-quick-connection-between-the-debate",
+      "reason": "post_hoc: post-event coverage of this specific utterance (fact-check, recap or article quoting/rating it)"
+    },
+    {
+      "q": "B",
+      "url": "https://www.nuovaresistenza.org/?p=775744",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "B",
+      "url": "https://english.ahram.org.eg/News/346351.aspx",
+      "reason": "unfetchable: no snippet from search tool and page text could not be retrieved by fetch"
+    },
+    {
+      "q": "B",
+      "url": "https://cfjctoday.com/2019/09/07/trump-calls-off-secret-meeting-with-taliban-afghan-leaders/",
+      "reason": "duplicate: same URL (after normalisation / redirect) as an already-kept result"
+    }
+  ]
+}
